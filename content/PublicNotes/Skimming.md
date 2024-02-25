@@ -1,0 +1,10 @@
+- what? reading/hearing faster when the content is probably not useful
+- how?
+	- Videos
+		- [[Predicting]] the content reading the index, the title, description etc
+		- more playback speed
+	- Reading
+		- [[Predicting]] the content reading the index, the title, description etc
+			- [take pauses to free recall & try to predict where the text is going](https://youtu.be/f1k4eXELEIE?t=772)
+		- Go fast reading or Skip parts
+			- [grouping words](https://youtu.be/f1k4eXELEIE?t=547)

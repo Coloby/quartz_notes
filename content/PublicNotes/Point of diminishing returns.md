@@ -1,0 +1,7 @@
+- What?
+	- it's a threshold
+		- before it
+			- productivity may arise until it's peak, the threshold
+		- after it
+			- productivity falls down
+- Take breaks if needed

@@ -1,0 +1,10 @@
+- what?
+	- Incourages curiosity and asking questions to reach conclusions
+	- Similarities
+		- The [[Socratic method]] is the same thing but with a scope that prioritize conversation
+- when to use it?
+	- Because of it's nature that's not a consistent method thus I advice following [[Bloom's principles]] and use this as a supplement.
+- how?
+	- Predict what you're gonna study, e.g. in a chapter. 
+		- Similar to [[Prestudy]]
+	- W mentors - Ask to check hypothesis and stuff you sintetized togheter

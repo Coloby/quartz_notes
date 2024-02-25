@@ -1,0 +1,7 @@
+- [What](https://www.youtube.com/watch?v=tkkey3ADfCI&t=191s)
+	- Categorizing info in an intuitive and logic way to then promoting a flow of info thus better retrieval. 
+	- Max 3/4 chunks of the same group
+		- Intuitive
+			- so that the connections, categories and info seems obvious enough to be easily remembered
+		- logic
+			- so that info is greatly evaluated and analyzed making logical sense in it's context, where it is put, and how it's understood in a deeper way

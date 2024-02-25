@@ -1,0 +1,151 @@
+[[Cone of learning]]
+- Discovery
+	- Great people that do intresting 
+		- [[Articles]] - accademic resources, mostly for articles
+			- [jstor](https://www.jstor.org/) idk why I can't find the text
+			- 
+			- ![[Pasted image 20230709120640.png]]
+			- + lateral.io
+			- [sighthub](https://sighthub.ai/)
+		- Blogs
+		- Essay writings
+	- [obituaries](https://www.nytimes.com/international/section/obituaries)
+
+- Sources to learn sorted by "objective" quality
+	- [[Pragmatism]] testing
+		- Usually it should not be the first method you use
+			- [[Mentor]]s may guide you preventing you to make useles mistakes but still makes you train on the field after doing so
+		- only worth it when preparation has been needed 
+			- When is it needed and not?
+				- when there might be mistakes that are crucial and should be prevented
+				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
+			- so that if you make an error the lesson you'll learn will be really valuable
+	- facts vs opinions - empirical data (higher/lower level)
+		- take care of [[Biases and Fallacies]] w [[Critical thinking]] and you'll find something really close to the truth
+	- Your mind - never underestimate youself
+		- Past knowledge - should be processed and updated to the new one
+		- Present - thinking about it extensively
+	- people - [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
+		- Why macking the wheel alone when someone else already done it?
+		- Advisors didn't make what you want to make, mentors did instead
+	- reading - often useless without [[Higher level learning]]
+	- AI - pretend it's your free of charge mentor
+	- Quick research online - where the most valuable content can be found
+		- Usually on Certain channels/videos on yt
+		- e.g. - if searching pixelart, bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
+- focus list - sorted by quality
+	- urgent 
+	- taccuino
+	- [[Notes]]
+	-
+	- open browser tabs (not always so good)
+	- mentors - [[Steal like an artist - book]]
+		- bookmarks/e
+		- courses - [udemy](https://www.udemy.com/home/my-courses/learning/)
+		- books
+		- [[Learning resources]]
+	-
+	- Shallow work
+		- p1
+		- Notes/Contextual
+		- go to the intrested note and search if there is "discovery" section
+		- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
+		- order & go trough browser saved tabs
+		- p2
+		- p3
+		-
+		- Almost useless
+			- watch saved tabs into the chrome extension
+			- Inspiration in coding bookmarks (sick)
+			-
+			- read articles
+			- [[Learning resources]]
+			-
+			- Other
+				- todoist
+				- Make daily extra todos
+				- 1h meditate
+			-
+			- check obsidian tags
+			- look orphans/notes to connect 
+- online sources
+	- google
+		- trends
+		- scholar
+		- yt
+		- google
+	- Podcasts
+	- [[Courses]]
+-
+- Archived
+	- have time list - sorted by quality
+		- urgent 
+		- taccuino
+		- [[Notes]] 
+		-
+		- book
+		- go to e bookmarks
+		- [[Learning resources]]
+		- p1
+		-
+		- Shallow work
+			- Contextual
+			- go to the intrested note and search if there is "discovery" section
+			- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
+			- p2
+			- p3
+			-
+			- Almost useless
+				- watch saved tabs into the chrome extension
+				- Inspiration in coding bookmarks (sick)
+				-
+				- read articles
+				- [[Learning resources]]
+				-
+				- Other
+					- todoist
+					- Make daily extra todos
+					- 1h meditate
+				-
+				- check obsidian tags
+				- look orphans/notes to connect
+	- old
+	- sorted by personal process
+		- people - mentor & [[Relationships]]
+		- AI
+		- Past knowledge
+		- Quick research online - where the most valuable content can be found
+			- Usually on Certain channels/videos on yt
+			- e.g. 
+				- if searching pixelart bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
+		
+		- reading
+		- empirical data (higher/lower level)
+		- testing
+		- Learn because bored list - sorted by quality
+		- mentor and [[Relationships]]
+		- urgent / taccuino
+		- intentionally doing research preferring AI
+		
+		- testing
+		- p1
+		- search empirical data (higher/lower level)
+		- reading
+		
+		- p2
+		- Inspiration in coding bookmarks (sick)
+		- go to e bookmarks
+		- p3
+		
+		- watch saved tabs into the chrome extension
+		- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
+		
+		- read articles
+		- [[Learning resources]]
+		- check obsidian tags
+		- look orphans/notes to connect
+		
+		- Other
+			- Make daily extra todos
+			- todoist
+			- 1h meditate

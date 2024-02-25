@@ -1,0 +1,21 @@
+[fonte](https://www.youtube.com/watch?v=dUUwFE7cGXc)
+- In depth
+	- Reward - doing what you do everyday
+		- if not then why are you not doing the best thing for yourself already instead of... coping?
+			- are the alternatives that fulfilling and purposeful or just "sexy"?
+		- We confuse being rewarded for the "hustle" with wanting to rest
+			- never let the reward be unhealthy, [bad habits are self harm](https://youtu.be/bsZq4OpnKZw?t=7385)
+	- Rest - to get more brain points
+		- how? 
+			- [[Energy gainer habits]] & [[Interleaving]]
+			- Make the shallow work rest time
+		- why? - [[Point of diminishing returns]]
+- 2
+	- don't drain it
+		- dopamine prevention
+			- if not receptors will fuck up and you'll start thinking about how life is boring *compared to* something that is less purposeful but funnier in much more limited timelapse
+		- control over our mind regardless of
+			- useless decisions - you can use a schedule
+			- unneded relationships
+			- bad thoughts
+	- Do MIT based on current brain points

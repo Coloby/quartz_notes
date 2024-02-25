@@ -1,0 +1,31 @@
+- what? the single and best task that makes the most differnece now & future
+- why? [[80-20 pareto principle]]
+- how? Trough *systems* w [[Pragmatism]] & [[Predicting]]
+	- validate trough [[Introspection]]
+		- be 100% sure that this's the only thing you need to do
+		- WHEN is an important metric in life goals
+		- It was never about doing more but doing less
+	- filter
+		- [[Bottle framework]] - applies to anything not only habits
+		- [[80-20 pareto principle]]
+		- [[Brain points - Rest & Reward]]
+	- be lazy
+		- [[Find the best laziest alternative]]
+		- [[Never be a fly]]
+	- [[Posticipate selectively]]
+
+- The only valid excuse - there's something better to do
+- Why you should
+	- if not your're an uncontrolled empty monkey brain and deserve to be alone - xD
+- Excuses
+	- No motivation now - I work better when I want to work
+		- Drive is usually never enough to accomplish goals but discipline may ignite it even when we feel like "It's not the right time of the day"
+		- It's true but even w that you would like to work much less that is needed for you to get what you want so discipline is needed anyway
+	- hard day Yesterday/Today, I can't take it
+		- means that you didn't do the MIT before doing the shallow work and now you'll need more discipline to get in track in the same day
+	- Need more rest
+		- if you've logically selected your rest type and period it's most likely that you're scared of starting again rather that you didn't rest properly
+		- if the "more rest" means shallow rest then that's a good indication that you're just scared
+
+- [fonte](https://youtu.be/7ZTsqm1ilp0?t=4341) - Hamza
+	- Your competitors are not doing it because they can't handle it [fonte](https://youtu.be/dUUwFE7cGXc?t=3955) 

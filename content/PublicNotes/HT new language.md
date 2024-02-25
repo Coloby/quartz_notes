@@ -1,0 +1,4 @@
+- Immersion based
+- [Study words that you would use frequently](https://youtu.be/ZFyPMRzPNTE?t=545)
+	- 100 most used words in the language
+- Pretend to have conversations on subjectively important topics and find the different pathways it may take and choose which one to study

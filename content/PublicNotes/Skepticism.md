@@ -1,0 +1,3 @@
+- what? [[Inquiry learning]] focussed on going against your own aurgument
+- how?
+	- emergency plans for worst 3 scenarios

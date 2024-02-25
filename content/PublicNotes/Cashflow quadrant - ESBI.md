@@ -1,0 +1,72 @@
+- [source](https://youtu.be/bC1ScfCny38?t=23) & [[Rich dad poor dad]]
+- Discovery
+	- E
+		- [why should you change job every year if you are an employee](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
+- Evaluations
+	- analysis & what sorted by Freedom evaluation ASC
+		- E - get a job 
+			- the one where you got the least freedom on
+				- when you work
+				- where you work
+				- what you work on
+				- why you work
+				- income
+			- kind of get stability
+		- S - has a job
+			- free - where
+			- non free - why - idk the real intent of the client nor stop him after
+			- hard to gain
+				- when, stability & what - more income more freedom on those
+					- meno difficile del B perchè 
+						- se vai sotto ci vai solo tu invece che un'intera azienda
+				- what - if client want changes you can't say no
+					- apart when you pick the contract yourself and client doesn't need stuff you wouldn't like
+				- income - you can use persuasion, marketing etc
+				- stability
+		- B - has a system
+			- free - why - what
+			- hard to gain
+				- stability
+				- when
+				- income
+				- where
+		- I - has money
+			- free - what, when, where, why, stability
+			- hard to gain
+				- income
+	- evaluation sorted by general value ASC
+		- E 
+			- experience u get
+				- steal the way they train you in a 9/5 and implement it yourself
+				- teamwork
+				- possibly leadership
+				- design, sales
+			- compared to others long term
+				- usually the hardest way to get financial freedom
+				- while gaining financial freedom you'll have the least freedom 
+			- may be needed to get in-place experience
+		- S
+			- evaluated to the others in long term
+				- all problems are fixable
+				- while gaining financial freedom you'll have less freedom than if you had choose "B" || "I"
+		- B - even though it's very hard the outcome may be essential to go to "I"
+			- being a business owner let you understand how to evaluate them when investing
+		- I - best scenario
+	- Taxes
+		- ![[Pasted image 20230903054131.png]]
+- My strategy
+	- what I know for sure
+		- I hate being in "E"
+		- I need "I" for passive income
+	- principles
+		- "Truths"
+			- you can't go to I and B before having *money* or *knowledge*. 
+			- If you go directly to I before B you'll have some problems
+				- you would probably come from S at this point and paying mentors while being in S would mean less quality mentors because you can invest only so much and not many money to make errors. 
+					- You know that you would need a buffering of money and time and you won't have with S
+					- B you would get many advanced practical skills that you'll need to take into account when being and I don't think that mentors can really learn you everything
+			- skipping E may be suitable for self learning individuals
+		- Find a way to get the initial spike of value brought by initial money + sustained paid learning
+		- try the whole ESBI to get holistic experience
+		- you don't know the future but try to predict as much as possible to don't get fkd
+
