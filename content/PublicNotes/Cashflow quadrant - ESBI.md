@@ -1,3 +1,4 @@
+#sharable
 - [source](https://youtu.be/bC1ScfCny38?t=23) & [[Rich dad poor dad]]
 - Discovery
 	- E

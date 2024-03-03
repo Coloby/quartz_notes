@@ -14,25 +14,46 @@
 - Sources to learn sorted by "objective" quality
 	- [[Pragmatism]] testing
 		- Usually it should not be the first method you use
-			- [[Mentor]]s may guide you preventing you to make useles mistakes but still makes you train on the field after doing so
-		- only worth it when preparation has been needed 
-			- When is it needed and not?
-				- when there might be mistakes that are crucial and should be prevented
+			- [[Mentor]]s may guide you preventing you to make useles mistakes, but still makes you train on the field after doing so
+		- only worth it when...
+			- preparation has been needed and made
+				- there might be mistakes that are destructive and should be prevented
 				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
-			- so that if you make an error the lesson you'll learn will be really valuable
+			- if you fail, the lesson you'll learn will be *really* valuable
 	- facts vs opinions - empirical data (higher/lower level)
 		- take care of [[Biases and Fallacies]] w [[Critical thinking]] and you'll find something really close to the truth
 	- Your mind - never underestimate youself
-		- Past knowledge - should be processed and updated to the new one
-		- Present - thinking about it extensively
-	- people - [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
-		- Why macking the wheel alone when someone else already done it?
-		- Advisors didn't make what you want to make, mentors did instead
-	- reading - often useless without [[Higher level learning]]
+		- Past knowledge - process&update to the new one - *regularely*
+		- Present situation/life - as a chess board w [[Predicting]]
+			- Resources
+			- Risks
+	- Relationships - People
+		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
+			- Why macking the wheel alone when someone else already done it?
+			- Advisors didn't make what you want to make, mentors did instead, they have experience
+			- it's like tutoring but long-term, more holistic and personal
+		- Tutoring - highly specific for skill/offer dev
+		- Coaching - holistic & focussed on broad goal obtaining
+			- Only if mentorship is off radar & already know skill/offer
+		- Community&Masterminds - great support for any situation
+			- networking serendipity
+			- 
+			- your own - start ASAP, make it a mastermind ASAP
+				- then you can make it public/general for traffic
+			- private - more specific & quality people than public
+			- public - to prepare/validate yourself for private ones
+		-
+		- My evaluation 
+			- Mentor - best choice bcs it has the best of both worlds
+			- Tutoring - problems specifically with the offer or skill
+			- Coaching - only after having the offer or the skill
+			- Community -  needed/useful in any scenario
+	- reading - often useless without [[Higher level learning]] & action
 	- AI - pretend it's your free of charge mentor
-	- Quick research online - where the most valuable content can be found
+	- Quick search online - valuable content can be found
 		- Usually on Certain channels/videos on yt
 		- e.g. - if searching pixelart, bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
+	- Courses - cost effective non-specific structured learning
 - focus list - sorted by quality
 	- urgent 
 	- taccuino
@@ -49,7 +70,7 @@
 		- p1
 		- Notes/Contextual
 		- go to the intrested note and search if there is "discovery" section
-		- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
+		- [kill rss feed](https://www.inoreader.com) and saved
 		- order & go trough browser saved tabs
 		- p2
 		- p3
