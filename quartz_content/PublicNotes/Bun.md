@@ -1,0 +1,16 @@
+- what - it nails perf on every single thing he is compared to competition
+	- 08/Nov/2023
+		- js runtime
+		- bundler
+		- node.js alternative
+			- Includes default
+				- HMR
+				- hashing
+				- simpler file system library
+		- package manager
+		- testing library
+- why
+	- Why use it? - faster than pnpm, lol, not for macos though
+	- Why not to use it?
+		- it's made w zig lang so the main maintainance it's from it's creator whose a SEO too...
+- how? Commands - like pnpm ones

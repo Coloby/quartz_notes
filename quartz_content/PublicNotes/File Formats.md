@@ -1,0 +1,36 @@
+- Immagine
+	- [[SVG]] - Scalable Vector Graphics.
+		- Doesn't lose quality if bigger or smaller (because it's made with math, not pixels)
+	- JPG
+		- used for photography
+		- compresses info into smaller file sizes without degrading image quality–at least to the naked eye.
+	- PNG
+		- Best quality but big file size
+	- PDF
+		- pros
+			- best format to print - scaling don't decay the quality
+			- preserve formatting in different devices
+			- Platform independence
+		- cons
+			- meant just to read: they cannot be easily edited or modified
+			- secuirty concerns
+				- can be used to deliver malicious code or malware through embedded scripts or attachments
+			- file size expecially with images
+			- Accessibility concerns
+				- ensuring compatibility with screen readers and other assistive technologies may require additional steps and considerations during the document creation process.
+			- Conversion limitations
+				-  If you need to convert a PDF back to an editable format, such as a Word document, the conversion process may not always be perfect, and some formatting or content may be lost or altered.
+			- not the best for image quality
+- Video
+	- MOV vs MP4
+		- MOV generally has better quality due to the fact that they have not been compressed as heavily. Purely judging based on file quality, MOV is often better, but not always. 
+		- MP4 is more widely used, and it is also usually more efficient when it comes to file size.
+	- WMV - Windows Media Video
+		- WMV is great because you can use it for many purposes because of its relatively small size. However, this file doesn’t measure up to other video formats to retain image quality after compression which may [corrupt](https://repairit.wondershare.com/video-repair/repair-wmv-video.html).
+	- AVI
+		- It is compatible with different file formats and several web browsers. There’s a guarantee of high-quality videos from this file format. Microsoft developed this video format, and it can hold both audio and video data.
+- Audio
+- Other
+	- DOC - word
+	- DOCX -
+	- XLS

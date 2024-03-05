@@ -1,11 +1,13 @@
 - what?
-	- Create an overview of the main keypoints of an entire subject evaluating it w different ones at the same time and giving *importancy* 
+	- Create an overview of the main keypoints of an entire subject evaluating it w different ones, and giving *importancy* 
 - [how](https://www.youtube.com/watch?v=eZWP-eA-lCg)?
-	- [skip details](https://youtu.be/tkkey3ADfCI?t=911) 
-	- holistic studying:
+	- [skip details](https://youtu.be/tkkey3ADfCI?t=911)
+	- holistic studying
 		- cramming: researching something from different sources
 		- [[Interleaving]]
 	- make it relevant - why is this important?
+	- start from knowledge you relate/know most
+		- to get the first bunch of dots fast
 - why?
 	- to build a structure by which building less familiar information from
 	- the more an information seems important the more we'll remember it

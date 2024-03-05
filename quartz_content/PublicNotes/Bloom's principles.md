@@ -5,7 +5,7 @@
 		- Predict - w [[Holistic thiking]]
 		- Aurgument - trough fallacies & inconsistency to destroy [[HT Aurgument]]
 		- [[Creativity]] - think with the unknown
-		- Evaluate - if it is, why is more important & how compared to other info?
+		- Evaluate - if it is, why is more important & how compared to other info? [e.g](https://youtu.be/Mvxbl7Iwep4?t=1164)
 	3. Analyze "CRED" - understanding on a-steroids
 		- [[Chunking]]
 		- Relate

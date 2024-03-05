@@ -1,0 +1,5 @@
+- what? divided in internal/drive and external
+	- External source
+		- mostly a force that comes and goes easily because dependant on external factors
+	- Drive
+		- like motivation but the source it's internal (identity) thus it's more consistent

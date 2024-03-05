@@ -15,19 +15,17 @@
 				- why is this interesting?
 				- are the actors related to influencing?
 		- reading
-			- scontate per me
-				- non mettere le note in una nota con il nome del libro
-					- [[Bloom's principles]] spiega, nella solo taxonomy, che dovremmo preferire l'extended abstract cioè non concentrarci solo all'argomento del libro ma integrarlo a nostre conoscenze già esistenti
-				- non leggere il libro in modo lineare
-					- Prima fai il [[Prestudy]], poi dopo averti fatto una prima struttura mentale comincia a leggere da dove vuoi saltando tutte le parti saltabili perchè il libro è inutile se letto ma non utilizzato.
-				- il libro è uno strumento e quando lo leggiamo dalla A alla Z in quest'ordine, è probabile che ci siamo fatti strumentare dal libro stesso
+			- Solo taxonomy - prefer extended abstract
+				- integrate new knowledge into old knoledge
+				- don't just write into the note of the book itself
+			- don't read in a linear way - [[Prestudy]]
+				- Book are tools, we use them, not the opposite
 		- taking notes
 			- Only after higher level learning
 			- [Don't offload too quickly](https://youtu.be/Mvxbl7Iwep4?t=156)
-				- Take notes only to put unwanted burden away like details but not if your working memory is capable of retaining it while using [[Higher level learning]] and cognitive load to preocess it futher
+				- Note unwanted burden away like details, but not if your working memory is capable of retaining it while using [[Higher level learning]] and cognitive load to preocess it futher
 			- [type or write, but do it relationally,](https://youtu.be/Mvxbl7Iwep4?t=429) [not lineary](https://youtu.be/NF9rwQxsD1w?t=2170)
-			- [great if you can manipulate the flow](https://youtu.be/Mvxbl7Iwep4?t=1212)
-		- [[HT new language]]	
+		- [[HT new language]]
 	 1. Mentality - AFA
 		- Approach - [[Learning methods]]
 		- Filter - [[HT research]]

@@ -1,0 +1,11 @@
+- Variables
+	- [[Intrigue]] can be a multiplier for anything
+	-
+	- [[Motivation]]
+		- [[Passion]]
+		- [[Mastery]]
+	- [[Discipline]]
+	- [[Willpower]]
+- HT get gas in depth
+	- [[Be like a kid]]
+	- [[Passion-Career choice]]

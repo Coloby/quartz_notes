@@ -1,0 +1,15 @@
+- [fonte](https://youtu.be/-U7D4Fw67Zs?t=384)
+- Differences with time management:
+	- pros
+		- creates a framework based on results rather than time
+			- You feel bad when you don't achieve a goal and not because you didn't spent x time on the task
+		- you train your brain to think before doing your next task
+		- no need to create a table to predict something that human nature can't really predict, time
+	- cons
+		- you may have problems prioritizing, missing important tasks because you're too focussed on other ones
+		- you lose the benefith of respecting a deadline
+- takeoff
+	- don't use just one but rather go for a balanced approach that suits your needs and use the strenghts of each method
+		- e.g.
+			- do most work in morning like 3h and 
+			- then put time limit to when you should be forced to continue the rest of the work like 2h

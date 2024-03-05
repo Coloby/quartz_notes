@@ -3,5 +3,5 @@
 		- before it
 			- productivity may arise until it's peak, the threshold
 		- after it
-			- productivity falls down
+			- productivity rises, but it's so little that you may consider abandoning the task. You're not growing as fast anymore
 - Take breaks if needed

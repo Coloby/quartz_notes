@@ -1,0 +1,24 @@
+- Manifest 3 vs 2
+	- used to define metadata about the extension, permissions, scripts, css etc
+	- can be in the chrome store but v2 not
+		- v2 is gonna be deprecated and chronium based browsers will follow (brave...)
+	- you can do less stuff in general than v2
+	- considered a regression by many
+		- [fakes to be privacy and security oriented because of a conflict of interest](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+		- enables privacy oriented extensions to be less capable instead of enhancing review process for anti-privacy extensions
+		- excuses poposed
+			- better privacy and security trough lowering capabilities
+			- better performance
+- In case you suffer from memory loss :D
+	- If you choose to add the popup 
+		- what? when you click extension ico a little window appear
+		-
+		- background script or service worker
+			- let code run in the background and everything you write there will act like if it's in the popup and NOT in the webpage
+		- content script
+			- it's connected to the current webpage so if you do a querySelector the results should be expected
+		- *some commands/APIs works only in certain types of scripts*
+			- bkgr or content
+			- so beware to check if that API should be used there or there
+			- you need to communicate between different types of scripts with different methods to solve this
+				- ![[Pasted image 20230819031031.png]]

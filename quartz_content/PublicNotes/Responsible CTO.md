@@ -1,0 +1,1 @@
+- Be responsible on which tech you choose to adapt, expecially when [bleeding edge](https://youtu.be/uEx9sZvTwuI?t=261)

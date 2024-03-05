@@ -1,0 +1,27 @@
+- Discovery
+	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
+
+- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686)
+	- dynamo db is only for the OGs
+	- free tier but card required - planetscale
+	- no free tier - railway
+	- nothing required + foss - supabase
+	- lessons learned
+		- [how to choose the type of the DB](https://youtu.be/cC6HFd1zcbo?t=1533)
+			- Try to mentally start w K/V first then if you need more stuff just go with relational
+			- ![[Pasted image 20231112004950.png]]
+		- don't use 
+			- bleeding edge stuff - do you want to risk on your data?
+			- mongo db
+				- without a clear motivation because you most likely need a relational DB because most data problems are relational
+			- firestore, ever
+- Reliability
+	- reccomended from theo
+		- cockroachdb
+		- planetscale
+	- never pick up bleeding edge [without expecting anomalies](https://youtu.be/naccOKRKzHE)
+- no
+	- BSL license
+		- Redis
+		- mongoDB
+- [[IndexedDB]]

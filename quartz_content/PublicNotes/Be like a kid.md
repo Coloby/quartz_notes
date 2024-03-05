@@ -1,0 +1,10 @@
+- How?
+	- Kill assumptions - [a box is never just a box](https://youtu.be/CrGpipgcfi4?t=416)
+	- [If something works in a way why not swap it?](https://youtu.be/KPlJcD-o-4Q?t=7546)
+		- think about books that read us
+- Grow [[Intrigue]]
+	- do you things for the sake of doing them, like when you play a videogame, no one pushes you to do it but you do it anyway because you're intrigued
+- Use it as a problem solving skill
+	- Play more & for it's own sake
+		- mentioned in cpt 7 of [[Essentialism book]]
+		- It welcomes curiosity, experimentation and ultimately creativity to solve a problem

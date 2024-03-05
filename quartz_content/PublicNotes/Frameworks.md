@@ -1,0 +1,11 @@
+- Defaults
+	- [[React]]
+	- [[React Native]]
+	- [[Electron]]
+	- [[NextJS]]
+
+- [[MDX]]
+- [[Astro]]
+- [[Preact]]
+- qwik - [why still not ready?](https://youtu.be/b03xHADd0ms?t=369)
+- htmx - let's not write js ok? expecially for ajax requests

@@ -1,0 +1,40 @@
+- what? [Brief explanation](https://youtu.be/rRxuVOutmFQ)
+	- rendering strats supported natively
+		- CSR
+		- SSG
+		- SSR
+		- PPR
+- why? 
+	- conclusions
+		- n1 reason to use astro is PPR & performance w Partial Hydration but Next.js 14 introduced PPR as experimental so eventually we'll have it too + partial hydration it's double edge sword 
+		- even though animations & support for md it's great those are the only 2 reasons I may use astro
+		- other than for smaller projects, I would not use this + you still need to learn it while next.js can do the same stuff (apart from PPR) even if w a different dx experience
+		- next.js seem to have a future, not sure about astro + still has small community
+	- n
+		- Doesn't have as much features/community/third-party-pkgs as next.js
+			- it mostly have feats you can find on next.js anyway
+				- image optimization
+				- SSG
+			- it's new so small ecosystem
+		- React is still not fully supported
+			- you can't use 
+				- React hooks
+		- Not suited for webapps and large scale applications
+			- still too young & not tested
+			- state management can be a tricky dx bcs of the Partial Hydration
+	- Partial Hydration it's a double edge sword but core of astro phylosophy
+		- compatibility with pkgs that expect a fully hydrated env may give unexpected results
+		- you can disable it in a per component basis but there is no option to disable it entirely
+	- y
+		- you may still go with client side only hydration (experimental 01/Jan/2024)
+			- even though Partial Hydration it's still the focus
+			- `<Counter client:only />`
+			- when this will be out of *experimental* phase we'll be able to fully use react feats and not having as many problems when passing state among components
+		- stuff that next.js can't replicate *as easily*
+			- animating
+			- use of md files by default
+				- 04/Mar/2024 now it doesn't seem so hard with next.js 14
+				- Great for static data - like simple blogs - [aurgumentation](https://youtu.be/BoeZqPaYw9s?t=23)
+		- ui framework agnostic
+			- you may use vue, preact, angular in the same codebase
+

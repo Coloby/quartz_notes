@@ -1,0 +1,43 @@
+#tier1 
+### If you're not growing you're dying
+- prerequisite: [[Introspection]] 
+- how?	
+	- [[HT focus]]
+	- [[Higher level learning]]
+	- [[Critical thinking]]
+	-
+	- Multipliers
+		- what - ideas that help you gain better results in any field
+			- like [[Atlas]], every note on [[Zettelkasten]] and the 4 pillars of life
+		- how?
+			- to find them
+				- Use [[Introspection]]
+					- What would help me best to obtain what I want in life?
+						- asking how to gain your what
+				- [[HT research]] conflicting and new ideas
+				- [[Relationships]] to get feedback, validation and data
+
+- Archive
+	- already synthetized
+		- Tools
+			- [[Second brain]] with [[Zettelkasten]] if needed
+			- [[App - software - tools]]
+		- techniques
+			- personally invented
+				- use clock to remember habits or anything you usually forget
+				- use sticky notes on desktop to remember you of to-dos
+				- Archivio - Ho cambiato idea
+					- prenditi tante responsabilità così non sprechi tempo - va contro [[Bottle framework]] quindi sconsiglio
+			- essential classics - I remember because I do them periodically
+				- [[Habits]] and [[Rituals]]
+				- [[Routines and TimeTables]]
+				- Periodic revisions
+				- Exploring and learning
+			- Usefull ones I use
+				- Speed listening
+				- 2m rule - do it if it takes less than 2m
+			- less usefull
+				- Eisenward matrix - task choiches
+					- img
+						- ![[Pasted image 20230619021509.png]]
+				- time blocking

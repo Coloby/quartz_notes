@@ -1,0 +1,26 @@
+- SFX
+	- sound effects - can be digital or physical 
+	- special effects - made physically like on set explosions
+- FX - digital effects (no live action only 3D)
+	- Compositing - the step where you apply all FX
+		- to merge all elements and make it look like they belong togheter, expecially CGI and real world footage, but not limited to it
+		- [wow e.g.](https://www.youtube.com/watch?v=cNybMh45ytE) !!!!!!!!
+	- CGI - Computer Generated Imaginery - visual elements made digitally
+		- what? mostly used for real world elems like thanos face
+	- motion graphic design
+		- what?
+			- counts only If the animation it's short. If not then you are animating
+			- creation and manipulation of visual elements to convey a sense of motion and dynamic content
+			- may be 2d, 3d or mixed
+		- e.g. animating
+			- logos
+			- intros
+			- moving illustrations
+			- creating visual effects for various media
+	- animating
+		- what? like motion graphic design but counts only for long ones
+	-
+	- color correction
+	- lighting
+
+[[NPM packages]]
