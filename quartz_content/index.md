@@ -1,23 +1,26 @@
 ---
 title: Welcome to my digital garden!
+Description: There you can find my .md notes :)
 ---
 
-- My personal website: https://edondigital.netlify.app
+- My personal website: https://edondigital.vercel.app
 	- no soul-less portfolio, and here you can find most stuff about me
-
+- This website is open source: https://github.com/Coloby/quartz_notes
+	- you can also download my notes there
+-
 - What is this?
-	- Sharing my digital notes on the internet is a practice called digital gardening. That's what I'm doing with this website.
+	- Sharing your digital notes on the internet is a practice called digital gardening. That's what I'm doing with this website.
 - Why?
 	- Serendipity and many other stuff I still need to write in this section
-	- Please contact me on Twitter or wherever you like to have a chat.
+	- Please [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever you like to have a chat.
 - Disclaimers - These notes are made for me first. 
 	- That's why you might not understand them, they're not really for the public but are still shared.
-	- I'm bilingual so if you find Italian stuff, too bad for you.
 	- Don't take everything I write as truth. I know that I write pretty crazy stuff, just don't believe them without thinking first
-
+	- I'm bilingual so if you find Italian stuff, too bad for you.
+-
 - Helpful notes to make sense of my vault
 	- fonte = source
-		- I'm mentioning the source of a particular topic
+		- I'm mentioning the source of a particular topic. 
 	- discovery
 		- you'll find this list on top of files. Its items are useful resources to go deeper into the note's topic
 	- archived
@@ -27,7 +30,7 @@ title: Welcome to my digital garden!
 		- just fold the lists and here you go, you have "headings"
 	- why do you have only a public folder?
 		- I'm lazy, I organize notes through connections, not folders.
-
+-
 - Most important notes - That's how I mentally think about my entire knowledge
 	- more info
 		- These are higher-level notes. It means that they are really important to me and are likely connected to many other notes.
@@ -42,4 +45,6 @@ title: Welcome to my digital garden!
 			- [[HT focus]]
 			- [[Critical thinking]]
 	- Freedom
-		- [[Money]]
+		- [[Codes]]
+		- [[design]]
+		- [[CS - Computer Science]]
