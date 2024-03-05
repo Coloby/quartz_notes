@@ -1,18 +1,21 @@
-# Quartz v4
+## Overview
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+### what is this?
+My digital garden, or the notes that I want to share with the internet.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+To do it, I'm using [Quartz V4](https://github.com/jackyzha0/quartz), a static-site generator. The default configuration works like a charm, especially if you already like obsidian.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+The tool is from [jackyzha0](https://github.com/jackyzha0) but the modifications and notes are from [Ed](https://edondigital.vercel.app/about), the creator of this repo.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### why?
 
-## Sponsors
+It was only 20 minutes of setup, and it's SO COOL. 
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I'm too lazy to list the hundreds of benefits, just watch [this video](https://www.youtube.com/watch?v=TDqsr3MNTTc) to get an idea.
+
+---
+
+### Links about quartz
+- [Documentation](https://quartz.jzhao.xyz/)
+- [Official Discord Community](https://discord.gg/cRFFHYye7t)
+- [Digital garden of the creator (Jacky Zhao)](https://jzhao.xyz/)
