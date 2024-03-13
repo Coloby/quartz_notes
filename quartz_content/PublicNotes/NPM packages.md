@@ -34,12 +34,15 @@
 - UI
 	- [tremor](https://github.com/tremorlabs/tremor) for dashboards
 - FX
-	- [[Tree.js]]
 	- particles.js
-	- babylon.js (more fore game dev) [npm](https://www.npmjs.com/package/@babylonjs/core)
-	- [motion](https://github.com/framer/motion) (framer motion) [npm](https://www.npmjs.com/package/framer-motion) -> 2M
-		- alternative would be [gsap](https://github.com/greensock/GSAP) but uh [npm](https://www.npmjs.com/package/gsap) -> 380k
-	- [anime.js](https://www.npmjs.com/package/animejs) 46k  [npm](https://www.npmjs.com/package/animejs) -> 144k
+	- 3D stuff
+		- Rendering
+			- [[Three.js]]
+			- babylon.js (more fore game dev) [npm](https://www.npmjs.com/package/@babylonjs/core)
+		- Animation
+			- [motion](https://github.com/framer/motion) (framer motion) [npm](https://www.npmjs.com/package/framer-motion) -> 2M - only react
+			- [gsap](https://github.com/greensock/GSAP) [npm](https://www.npmjs.com/package/gsap) -> 380k - framework agnostic
+			- [anime.js](https://www.npmjs.com/package/animejs) 46k  [npm](https://www.npmjs.com/package/animejs) -> 144k
 - features
 	- [Swiper](https://www.npmjs.com/package/swiper)
 	- [echarts](https://github.com/apache/echarts) [examples](https://echarts.apache.org/examples/en/index.html#chart-type-line)

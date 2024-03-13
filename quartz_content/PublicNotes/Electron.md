@@ -1,3 +1,4 @@
+https://youtu.be/pC7Ac8pfxYM?t=80
 - Why?
 	- multi platform on windows, mac and linux <3
 - Basic commands

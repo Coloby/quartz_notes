@@ -1,5 +1,16 @@
 #tier2 
 - Discovery
+	- [Leonard da Vinci](https://www.youtube.com/watch?v=o0UqD4UxBTE)
+	- Polymath
+		combine ideas from different fields
+		combinatorial creativity
+		T shape thinking
+		debates, point of views, different people
+		https://youtu.be/ko0qUL5PAmY?t=982
+		
+		
+		one time specialists were going, then generalists needed for AI, then masterminds of mixed, then a new strategy went in
+	- 
 	- Risk Management to get constructive failure or solutions
 	- Force Field Analysis 
 		- Giving a score to desired outcome and restraints to then try to modify the scores to get a better prediction of the outcomes
