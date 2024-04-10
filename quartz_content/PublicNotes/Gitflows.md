@@ -1,0 +1,134 @@
+#### Flows
+- + staging - almost gitflow
+	- How? - [great explanation](https://youtu.be/hG_P6IRAjNQ?t=228)
+		- make feat branches from dev. 
+		- feat done - merge on dev doing small tests 
+		- dev done - merge on staging doing heavy tests
+		- staging done - merge on main, if everything works, merge main to dev
+	- when?
+		- stability is a concern & you need releases
+- Mixed Github&gitlab - maybe think about this more before testing
+	- How? - make feat branches from main 
+		- gitlab / if scared of downtime
+			- feat done
+				- make sure that dev is not behind main
+				- merge on dev doing small tests 
+			- dev done -  merge on main w heavy tests first
+				- if everything works, merge main to dev
+		- github / if not scared of downtime
+			- feat done -  merge on main w heavy tests first
+				- if everything works, merge main to dev
++ + dev - gitlab flow/Feature branching variant
+	- How? - make feat branches from dev. 
+		- feat done - merge on dev doing small tests 
+		- dev done -  merge on main, then if all is ok, merge main to dev
+	- when?
+		- you don't have as many tests to excuse the creation of staging branch
+- + feats - github flow/Feature branching 
+	- How? - pull requests to merge directly to main
+	- cons
+		- can't test 2 new features at the same time
+- only main - trunk based 
+	- How? - checkout main, push commits directly there
+		- no pull requests
+	- when?
+		- comfortable expecting & fixing bugs w downtime
+		- team is mature
+		- time to deployment should be low
+	- pros
+		- merge conflicts are faster [but smaller](https://youtu.be/oNmcX6Gozg0?t=122)
+		- +knowledge sharing, no problem w team changes
+	- cons
+		- features might need more time 
+			- instead of shipping unfinished stuff, use feature flags
+		- bugs migth be a problem [for the whole team](https://youtu.be/oNmcX6Gozg0?t=286),
+		- downtime is expected because of bugs
+			- canary releases (shipping only to 5% etc)
+				- if they continue to crash
+					- you can automate logging to disable the canary through feature flags etc
+				- if they don't
+					- increase percentage
+			- Tests
+				- GH actions
+				- integration > unit tests?
+				- even with QA if needed through pre-prod
+	- Imgs
+		- img1
+			- ![[Pasted image 20240410144129.png]]
+		- img2
+		- ![[Pasted image 20240410145144.png]]
+#### Other
+- Great resources
+	- vids
+		- devcody - [long similar to gitflow](https://www.youtube.com/watch?v=Dl-BdxNRUqs) - [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+- mine
+	- General info 
+		- every commit should follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+			- when you close an issue, e.g.:
+				- feat: connects to supabase database (#12)
+		- similar rules applies to branches. E.g.
+			- feat/log-in
+			- fix/crash-on-mobile
+		- E.g. repo that follows these conventions: [here](https://github.com/payloadcms/payload)
+	-
+	- branches
+		- dev - make&test features (unstable)
+			- if (feature is 1 commit only) directly commit to dev
+				- else branch out from dev
+			- if (feature is ready) merge to preview
+		- staging - test features (hopefully stable)
+			- if (feature is reviewed) merge to prod
+		- main - stable (hopefully)
+			- only reviewed merges from preview will be accepted
+				- apart from hotfixes etc
+	- "bad"
+		- How we apply changes from one branch to the other?
+		- classic merge when finished - squash for bad commits
+			- command e.g. 
+				- HEAD is on dev branch
+				- git merge analytics-feat
+			- always squash if...
+				- you prefer to create useless commits without following [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), or using git stash. E.g. 
+					- "centers div to the container"
+					- "changes font-family of paragraph under image"
+		- we don't use rebase unless... 
+		- you use it with the -i flag to squash stuff etc
+			- you made too many useless branches
+- Branches explanations
+	- feature
+		- to add significant features to the codebase
+			- Created from `develop`
+				- Merged to when completed:  `develop`
+	- release
+		- when preparing for a new release for final testing, bug fixes, and version preparation
+			- Created from `develop`
+				- Merged to when completed:  `master` and `develop`
+			- and a new `tag` is created to mark the release
+	- hotfix
+		- Created from `master`
+			- Merged to when completed:  `master` and `develop`
+		- create branch from main to hotfix
+		- merge to staging or directly on main
+		- merge main to dev
+
+- Archived - bad explanations
+	- - [models](https://youtu.be/Uszj_k0DGsg?t=931)
+		- Github flow - main branch and feat/bugfix branches
+		- GitFlow - main, dev and feat/bugfix branches
+		- ![[Pasted image 20230803155551.png]]
+	- [gitflows](https://youtu.be/LK_keDkB_Ss?t=36) - [better](https://youtu.be/gW6dFpTMk8s?t=350)
+		- master
+		- develop
+		- feature
+		- hotfix
+		- staging
+	- [github flow](https://youtu.be/LK_keDkB_Ss?t=202)
+		- master
+		- feature
+	- [gitlab flow](https://youtu.be/LK_keDkB_Ss?t=294)
+		- master
+		- feature
+		- feature
+		- production
+		- identycal to gitflow but
+			- instead of hotfix, [we cherry pick](https://youtu.be/LK_keDkB_Ss?t=407)

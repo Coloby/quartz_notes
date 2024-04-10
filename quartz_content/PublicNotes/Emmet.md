@@ -1,0 +1,7 @@
+- HTML
+    - h1.title
+    - div.container#myid
+    - li\*3
+- CSS
+    - P10 = padding 10
+    - M10 = margin 10

@@ -37,6 +37,11 @@
 					updateClicked({ stage3 : {...clicked.stage3, [clickedKey] : false}})
 - [[State management]] - [video](https://www.youtube.com/watch?v=5-1LM2NySR0)
 
+- Keys on .map - [srcIndian](https://youtu.be/xlPxnc5uUPQ)
+	- you can use index only if
+		- The items in your list do not have a unique id.
+		- The list is a static list and will not change.
+		- The list will never be reordered or filtered.
 - Which order react load files
 	- building tool
 		- babel, turbopack, webpack etc

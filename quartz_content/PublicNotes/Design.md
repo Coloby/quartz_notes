@@ -1,3 +1,6 @@
+https://vercel.com/geist/introduction
+blood has a nice color [when it's on top of stuff](https://www.youtube.com/watch?v=K3Qzzggn--s)
+
 - what? 
 	- *Therapist* that *remixes* w *standardized* iteration based on an identity to create and/or apply *visual systems*
 		- Words meaning
@@ -15,7 +18,6 @@
 	- [[App - software - tools]]
 		- [[Figma]]
 - [[code Styling]]
-
 
 
 

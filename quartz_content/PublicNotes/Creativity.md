@@ -6,6 +6,7 @@
 [[Discovery]]
 
 - Discovery
+	- mixing stuff - name of category? sub categories? other stuff??
 	- [brainstomring might not be good](https://youtu.be/IfESj3jTZ6Q?t=1068)
 	- Divergent thinking, [[Design thinking]] [[Brainstorming]] science don't really work & pcs can do them much better
 	

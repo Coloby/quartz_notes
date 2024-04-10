@@ -107,6 +107,11 @@
 - System administrator
 	- DevOps but focused and specialized on day to day maintainance rather than continous automation and collaboration
 - AI
+- [Mechatronics](https://www.youtube.com/watch?v=tgjgN-Up4DY)- How to be Michael Reeee
+	- Mechanical
+	- Electrical
+	- Computer
+	- Software
 
 - DB administrator
 - 3 DATA - [fonte](https://towardsdatascience.com/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41)

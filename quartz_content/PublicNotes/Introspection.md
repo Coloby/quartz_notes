@@ -48,7 +48,7 @@
 	-
 	- [[Inquiry learning]] - to discover yourself
 	- [[HT goals and to-dos]]
-	- [[Life maps]]
+	- [[Belief systems - Life maps]]
 	- 
 		- what? - systems to solve 4 pillars to get to our destinations 
 		- based on 

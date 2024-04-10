@@ -1,27 +1,102 @@
+## more on notion
+cold starts https://youtu.be/v-9AZKp-Ljo?t=197
+
+- Security - you can mix them
+	- RLS - Raw Level - Row based on anything
+	- CLS - Column-level
+	- Object-level - db objects (tables, views, procedures etc)
+	- Role-Based - like discord servers
+	- ABAC - Attribute-based access control - more control w policies
 - Discovery
 	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
 
-- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686)
-	- dynamo db is only for the OGs
-	- free tier but card required - planetscale
-	- no free tier - railway
-	- nothing required + foss - supabase
-	- lessons learned
-		- [how to choose the type of the DB](https://youtu.be/cC6HFd1zcbo?t=1533)
-			- Try to mentally start w K/V first then if you need more stuff just go with relational
-			- ![[Pasted image 20231112004950.png]]
-		- don't use 
-			- bleeding edge stuff - do you want to risk on your data?
-			- mongo db
-				- without a clear motivation because you most likely need a relational DB because most data problems are relational
-			- firestore, ever
-- Reliability
-	- reccomended from theo
-		- cockroachdb
-		- planetscale
-	- never pick up bleeding edge [without expecting anomalies](https://youtu.be/naccOKRKzHE)
-- no
-	- BSL license
-		- Redis
-		- mongoDB
-- [[IndexedDB]]
+- HT choose
+	- Sources
+		- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686) ends [here](https://youtu.be/cC6HFd1zcbo?t=895)
+	- [K/V > Document > Relational](https://youtu.be/cC6HFd1zcbo?t=1533)
+		- Try to mentally start w K/V first then if you need more stuff just go with relational
+		- ![[Pasted image 20231112004950.png]]
+	- don't use 
+		- bleeding edge stuff - do you want to risk on your data?
+		- mongo db
+			- without a clear motivation because you most likely need a relational DB because most data problems are relational
+		- firestore, ever
+	- Reliability
+		- never pick up bleeding edge [without expecting anomalies](https://youtu.be/naccOKRKzHE)
+- Main choices - sbt = suggested by theo
+	- My choices
+		- [[supabase]] - free plan
+		- railway - no free tier but 5$ scaling
+		- planetscale - no free tier, minimum 44$/m plan
+		-
+		- upstash - caching, integrates great w redis
+		- cockroach DB - sbt
+	- dynamo DB - end game of cloud hosting
+	- On browser
+		- localstorage
+		- [[IndexedDB]]
+	- no
+		- firebase
+		- BSL license
+			- Redis
+			- mongoDB
+	- sources
+		- dsjim
+- Ways to connect
+	- direct connection
+		- 
+	- Non-standard or default
+		- connection pooler
+			- what?
+				- there are a fixed number of connections open at any given time. 
+				- When a user requests a connection, the pool provides an available one from its pool of connections. 
+				- Once the user finishes with the connection, it's returned to the pool, becoming available for reuse by other users
+			- why?
+				- it's more perfomance heavy to open/close connections than to let maybe 4 open and never close them. Especially in scenarios where there's a high frequency of requests
+			- how?
+				- implemented through middleware
+			- tools
+				- (postgres) - pgbouncer and pgpool-II 
+		- APIs
+- Types - [src](https://www.youtube.com/watch?v=9mdadNspP_M)
+	- Relational
+		- data integrity
+			- consistent
+			- accurate
+			- not damaged/lost
+		- ACID properties for transactions
+		- bad
+			- more complexity to scale horizontally
+	- Document
+		- flexible - no schemas, simple by design
+			- different types of indexes
+			- supports 2 indexes
+		- great for OOP programming
+		- denormalized data
+		- suffer from - 
+			- duplication issues  
+			- stale data (non relational) - [src](https://youtu.be/9mdadNspP_M?t=776)
+			- concistency through documents - [src](https://youtu.be/9mdadNspP_M?t=831)
+	- Key value
+
+- Specific
+	- SQLite
+		- mostly offline but can be used online - doesn't need a server  
+		- lightweight, less feature, cheap, faster than most DBs like mySQL
+		- mostly used in embedded systems
+		- reliable - less code
+		- Backward compatible and easily extendable.
+		- recorevable db content
+		- officially max 140 terabytes (depends on embedded system)
+	- MySQL - Foss fast standard for medium to big stuff
+		- Stability Issues
+		- Poor performance on high loads (millions of records)
+		- no support for real-time data processing and analytics
+		- multi—threading
+		- Support embedded applications
+	- Postgre - Foss, less fast, better scaling, w more features
+		- Reliable - Highly stable & can handle a large data without crashing
+		- Flexibility - Supports a wide range of data types
+		- Complexity - configurable+, hard for new users to set up/maintain.
+	- Cockroach - foss distributed & resilient DB
+		- built for Kubernetes

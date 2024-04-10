@@ -1,7 +1,7 @@
 -   1
 	-   what
 		- Uses SSR by default throug app folder for Pre-rendering (server gives html & css loaded from JSX and client will only need to hydrate)
-		- API folder - [Maybe you don't need express or any backend :D](https://www.youtube.com/watch?v=2cB5Fh46Vi4)
+		- API folder
 	-   Setup
 		- `pnpx create-next-app@latest --typescript --eslint .` or `yarn create next-app .`
 		- you may disable telemetry if you want
@@ -10,6 +10,7 @@
 		- [js and CSS files are automatically minified](https://nextjs.org/learn/foundations/how-nextjs-works/minifying)
 		- [compiles CSS using PostCSS.](https://nextjs.org/docs/advanced-features/customizing-postcss-config)
 - Features
+	- Using it as Backend w [[API folder]] 
 	- [Rendering types in app folder](https://www.youtube.com/watch?v=gSSsZReIFRk)
 	- [Routing](https://youtu.be/f-6GAntaum4?t=271)
 		- generateStaticParams

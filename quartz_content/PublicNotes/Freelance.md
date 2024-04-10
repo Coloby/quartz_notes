@@ -1,7 +1,9 @@
 [[Get and go trough interviews]]
 [[Employement]]
 
-Target small business - they're more likely to reccommend you to their friends
+- 0 to 1000
+	- [Target small business](https://youtu.be/8BlD4yI52ag?t=149) - reccommend you to their friends
+	- [focus on reviews through volume](https://youtu.be/8BlD4yI52ag?t=229)
 - Posts
 	- Logo design
 		- ![[Pasted image 20230914190954.png]]

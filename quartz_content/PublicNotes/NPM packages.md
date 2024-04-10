@@ -48,6 +48,58 @@
 	- [echarts](https://github.com/apache/echarts) [examples](https://echarts.apache.org/examples/en/index.html#chart-type-line)
 	- [driver.js](https://driverjs.com/)
 	- [revealjs](https://github.com/hakimel/reveal.js)
+	- markmap
+		- it asks for 3rd-party-requests over the internet
+		- markmap-cli - less flexibility but simpler
+			- can also manage 3rd-party-requests
+		- render vs view
+			- render - SSR
+			- view - CSR 
+				- the only way to support markmap-toolbar
+		- markmap-toolbar
+			- "use client"
+			
+			  
+			
+			import { useEffect } from 'react';
+			
+			import { Toolbar } from 'markmap-toolbar';
+			
+			import { Markmap } from 'markmap-view'; // Import Markmap from markmap-view
+			
+			  
+			
+			const C_MarkmapToolbar = () => {
+			
+			  useEffect(() => {
+			
+			    const container = document.querySelector(".markmap-container")
+			
+			    const mm = Markmap.create(container);
+			
+			    const { el } = Toolbar.create(mm);
+			
+			    el.style.position = 'absolute';
+			
+			    el.style.bottom = '0.5rem';
+			
+			    el.style.right = '0.5rem';
+			
+			    container.appendChild(el)
+			
+			  }, []);
+			
+			  
+			
+			  return (<>
+			
+			  </>)
+			
+			}
+			
+			  
+			
+			export default C_MarkmapToolbar
 	- [react email](https://react.email/) -   e-mail crafter, not sender
 	- for next.js
 		- [next-sitemap](https://www.npmjs.com/package/next-sitemap)
