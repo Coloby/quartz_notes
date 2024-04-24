@@ -38,6 +38,11 @@
 			- ![[Pasted image 20240223164326.png]]
 	- You need to add sharp package when not deploying on vercel
 		- To get [this error](https://nextjs.org/docs/messages/sharp-missing-in-production), just build and start the project
+	- .env
+		- .env
+			- if you use .env on client-side 
+				- you need to replace the .env with a version prefixed by `NEXT_PUBLIC_`
+				- even if a version of an environment variable without the `NEXT_PUBLIC_` prefix doesn't exist, Next.js will still understand that it's what you're referring to when you use it in server-side code.
 	-
 	- Archived (still useful)
 		- Rendering types in pages folder

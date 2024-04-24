@@ -1,3 +1,8 @@
+- Criterias
+	- [Ease of use vs simplicity](https://youtu.be/QBGJZ3h3n4c?t=414)
+	- [backend&frontend](https://youtu.be/QBGJZ3h3n4c?t=1153)
+		- htmx goes from backend to a little frontend
+		- next.js goes from frontend to a little backend
 - Defaults
 	- [[React]]
 	- [[React Native]]

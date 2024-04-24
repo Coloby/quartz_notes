@@ -2,7 +2,7 @@
 - Vision - what, destination - where we want to get?	
 	- [[Visions]] - [[Vision boards]]
 	- [[Life milestones]]
-	- [[Life management style]]
+	- [[Life style (management)]]
 - Purpose - why, clarity - thought filters - motivations for all of this
 	- [[Values]]
 	- [[Principles]]
