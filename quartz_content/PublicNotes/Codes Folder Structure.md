@@ -1,0 +1,118 @@
+- principles
+	- if you don't feel lost but feel like the structure could be better, don't change it. Change it only when you feel like you have to
+	- if folder name would be the same of the component, just call the component index.tsx - [src](https://youtu.be/Mm6_DlO5vvs?t=569)
+- Folder organization strategies by project size - [src-webdev](https://youtu.be/UUga4-z7b6s?t=236) - [srcgithub](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md)
+	- small - (probably non production or small outcomes)
+		- personal least complex choice, highly subjective
+	- mid - based on route
+		- **problem w this strategy**
+			- if you use many components shared across different routes, the /src/components folder will be filled quickly
+		-2 main ways
+		- make folders under the routes
+			- app
+				- (1headerRoutes)
+					- (me)
+						- about
+							- page.jsx
+							- components
+							- utils
+							- constants
+							- common
+							- lib
+							- tests
+						- interests
+							- page.jsx
+							- components
+							- tests
+		- make folders named as routes & put stuff there - E.g
+			- assets
+				- route_specific
+					- header_routes
+						- (me)
+							- about
+							- interests
+							- now
+						- (resources)
+							- wonder-room
+						- blog
+						- contact
+						- root
+					- footer_routes
+			- content
+				- route_specific_mdx
+					- header_routes
+						- (me)
+							- about
+							- interests
+							- now
+						- (resources)
+							- wonder-room
+						- blog
+						- contact
+						- root
+					- footer_routes
+					- footer_routes
+	- large
+		- based on feature - [using index.js](https://youtu.be/UUga4-z7b6s?t=817) if you want
+		- Hybrid - based on feature + based on route
+- Folder meaning
+	- discovery - [validations](https://youtu.be/XEO3mFvrDx0?t=1286)
+	-
+	- Siblings
+		- lib - mostly essential internal dependen code
+			- Can also be same as vendor or both, depending on project
+			- Can also be third party libraries, but vendor is preferred, especialy if these dependencies are not esential
+			- Eg. per fare una facade per interagire con le librerie come axios
+			- Essential code eg. business logic, *core functionalities*, and code that orchestrates the use of other important libraries or frameworks
+		- vendor - mostly non-essential external dependen code
+			- external dependencies not developed by project mantainers || not essential to the project
+			- un po' come node_modules ma per PHP
+		-
+		- utils - funzioni utili come formatDate formatCurrency etc
+			- contains pure functions
+		- hooks - like utils but contains hooks
+		-
+		- [common](https://superuser.com/questions/190268/what-is-the-purpose-of-the-common-files-folder-in-program-files) - code shared across the codebase/software
+		- Shared - same as common unless differently stated
+	- Classics
+		- src "source"
+		- assets - static content
+			- like images, video, audio, media, svg, css, fonts etc.
+			- anything that don't change, and it's not js
+		- layouts - layout components
+		- constants - values that remains consistant
+			- configuration settings, API keys, and other fixed values
+		- components
+			- where you put UI primitives comps? in `UI primitives`?
+		- dist - "distribution"
+			- also named `public/` or `build/`. The files meant for production or public use are usually located here.
+			
+			- There may be a slight difference between these three:
+				-   `build/`: is a compiled version of your `src/` but not a production-ready.
+				-   `dist/`: is a production-ready compiled version of your code.
+				-   `public/`: usually used as the files runs on the browser. which it may be the server-side JS and also include some HTML and CSS.
+		- tests
+	- Other
+		- state - contains stuff like context, stores, etc (state mngmnt)
+		- services - logic that interacts with APIs
+			- like logging analytics
+		- data - JSON, big objects, anything that can resamble a DB
+	- Less common
+		- bin/ - files that get added to your PATH when installed
+			- usually contains executables or binaries
+
+ - Files
+	 - components.json
+		 - aliases
+			 - esclusively needed for shadcn CLI to put stuff in the right places, that's why they don't conflict with aliases in tsconfig
+- Other
+	-   `composer.json`: 
+		- defines libraries and dependencies for PHP packages, used by Composer.
+	-   `composer.lock`: 
+		- specific version lock for dependencies installed from `composer.json`, used by Composer.
+	-   `gulpfile.js`: 
+		- used to define functions and tasks to be run with Gulp.
+	-   `.travis.yml`: 
+		- config file for the [Travis CI](https://travis-ci.com/) environment
+
+

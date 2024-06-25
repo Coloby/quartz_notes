@@ -1,5 +1,7 @@
 ## more on notion
-cold starts https://youtu.be/v-9AZKp-Ljo?t=197
+- Discovery
+	cold starts https://youtu.be/v-9AZKp-Ljo?t=197
+	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
 
 - Security - you can mix them
 	- RLS - Raw Level - Row based on anything
@@ -7,8 +9,6 @@ cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 	- Object-level - db objects (tables, views, procedures etc)
 	- Role-Based - like discord servers
 	- ABAC - Attribute-based access control - more control w policies
-- Discovery
-	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
 
 - HT choose
 	- Sources
@@ -31,6 +31,7 @@ cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 		-
 		- upstash - caching, integrates great w redis
 		- cockroach DB - sbt
+		- turso
 	- dynamo DB - end game of cloud hosting
 	- On browser
 		- localstorage
@@ -98,5 +99,10 @@ cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 		- Reliable - Highly stable & can handle a large data without crashing
 		- Flexibility - Supports a wide range of data types
 		- Complexity - configurable+, hard for new users to set up/maintain.
-	- Cockroach - foss distributed & resilient DB
-		- built for Kubernetes
+	- Distributed & resilient DB
+		- What?
+			- Servers on the edge are not enough, we also need the DBs to be closer to users... so let's make 30 replicas distributed in the world
+		- foss
+			- CockroachDB
+				- built for Kubernetes
+			- Turso - uses sqLite

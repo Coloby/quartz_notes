@@ -1,6 +1,8 @@
 [[Get and go trough interviews]]
 [[Employement]]
+https://www.indiehackers.com/
 
+- Give option to select a template if he wants
 - 0 to 1000
 	- [Target small business](https://youtu.be/8BlD4yI52ag?t=149) - reccommend you to their friends
 	- [focus on reviews through volume](https://youtu.be/8BlD4yI52ag?t=229)
@@ -15,6 +17,11 @@
 			- [templates](https://codestitch.app/app)
 			- [repo template](https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-SASS)
 			- [one of his websites](https://www.mapleandyolk.com/)
+	- whys?
+		- adapting to existing code & tech - [src](https://youtu.be/vZikhVkdnSY)
+			- people don't want to lose their old paid work
+			- change is scary
+			- you're going to be probably less replacable, that's a problem
 - E or S tips from CodingPhase- [fonte](https://www.youtube.com/watch?v=UC9YeWscC2M)
 	- extra - [create real world stuff](https://youtu.be/xsmgxqKJdyg)
 	- choose or mix which one [[Tech Jobs (IT + Art)]]

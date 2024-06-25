@@ -2,13 +2,19 @@
 - Macro
 	- Base
 		[[OS]]
-		[[Networking - Hacking]]
-		[[Mobile]]
+		[[Cybersecurity]]
+		[[Mobile-Phones]]
 		[[Hardware]]
-		[[VM - Virtual Box]]
 	- Mid
 		[[Codes]]
 		[[Privacy]]
+		[[DevOps]]
+	- Brands
+		- apple
+			- make stuff harder to
+				- change & repair (software & hardware)
+					- settings too
+				- be compatible (pushing their own ecosystem)
 ---
 - 1
 	[[Tech Jobs (IT + Art)]]
@@ -19,6 +25,7 @@
 	[[Recupero dati by CMD]]
 	[[CS Strange tricks]]
 - Theory
+	[[Torrent]]
 	[[File Formats]]
 	[[Dimensioni digitali]]
 	[[CPU idle mining]]

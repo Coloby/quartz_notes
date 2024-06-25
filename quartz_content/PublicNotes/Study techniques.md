@@ -5,7 +5,6 @@
 	- [[Second brain]]
 - Techniques
 	- [[Interleaving]]
-	
 	- [[Skimming]]
 	- [[Prestudy]]
 - Logic frameworks

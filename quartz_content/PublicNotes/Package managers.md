@@ -1,0 +1,32 @@
+- nix - works on any system
+- Pacman - p = pacman        (arch)
+	- basic
+		- p -Syu         - update all pkgs
+		- p -S          - install 
+		- p -Ss         search any package with X in title/descr
+		- p -Rs         remove X package & its dependencies
+			- p -Rns      also removes configs??
+		- List pkgs
+			- p -Q           lists every pkg
+			- p -Qe        lists every actively installed pkg
+				- p -Qeq        same but deletes details like version
+			- p -Qn          installed from official arch repo
+			- p -Qm        installed from AUR
+			- p -Qdt        see useless pkgs
+			- p -Sc         removes old version pkgs
+	-  - 
+	- remove every useless pkg - [src](https://youtu.be/JR8SJfbacrw?t=187)
+- apt          (debian)
+	- Upgrading
+		- upgrade kernel
+			- sudo apt-get update
+			- sudo apt-get dist-upgrade
+		- download or check if FOSS drivers are downloaded for amd
+			- sudo apt-get install xserver-xorg-video-ati 
+			- sudo apt-get install xserver-xorg-video-amdgpu
+		- 
+			- lspci -nnk | grep -i -EA3 "3d|display|vga"+
+		- drivers
+			- installation command
+			- sudo apt-get update
+			- amdgpu-install	

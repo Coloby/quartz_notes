@@ -1,4 +1,5 @@
 [[Holding beliefs without evidence]]
+[[Skepticism]]
 
 - Soundness
 	- truth: the premises are considered truth

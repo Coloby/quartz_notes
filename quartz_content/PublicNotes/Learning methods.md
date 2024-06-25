@@ -194,4 +194,4 @@
 		- Other
 			- Make daily extra todos
 			- todoist
-			- 1h meditate
+			- 1h meditate 

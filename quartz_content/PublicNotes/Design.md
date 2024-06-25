@@ -1,7 +1,14 @@
-https://vercel.com/geist/introduction
-blood has a nice color [when it's on top of stuff](https://www.youtube.com/watch?v=K3Qzzggn--s)
-
+- Discovery
+	- https://vercel.com/geist/introduction
+	blood has a nice color [when it's on top of stuff](https://www.youtube.com/watch?v=K3Qzzggn--s)
+	operating system on unreal engine
+	[great forest map](https://youtu.be/_dblQjK1mbk?t=20)
 - what? 
+	- Design in 4 words - IPPI
+		- Problem solving
+		- Inspiration
+		- Rules
+		- Iteration
 	- *Therapist* that *remixes* w *standardized* iteration based on an identity to create and/or apply *visual systems*
 		- Words meaning
 			- *Therapist* - eradicate the root problem trough communication

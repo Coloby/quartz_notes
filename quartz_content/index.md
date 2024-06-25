@@ -5,13 +5,14 @@ description: There you can find my .md notes :)
 
 ## Overview
 - What is this?
-  - Sharing your digital notes on the internet is a practice called [digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc). That's what I'm doing with this website. 
-  - I'll update this website every 3 weeks. Last update: 24/Apr/2024
+  - Sharing your digital notes on the internet is a practice called [digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc). That's what I'm doing with this website 
+  - I'll update this website every 3 weeks
+  - Last update: 25/Jun/2024
 - Why?
   - Serendipity and many other stuff I'm too lazy to write here
   - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about this & more
 - Disclaimers - These notes are made for me first, not for the public, but still shared
-  - Don't take everything I write as truth.
+  - Don't take everything I write as truth
   - Most images don't work for now :P
   - If you find Italian stuff, too bad for you. 90% Of these notes are english anyway
 - Important links

@@ -27,7 +27,7 @@
 		5. Develop a better offer (like ROI) and **funnel**
 	- How?
 		- Prerequisites
-			- [[Learning in Public]] getting ready 4 [[One-person biz model]]
+			- [[Learning-Building in Public]] getting ready 4 [[One-person biz model]]
 				- document your process & publicize it trough videos blogs etc 
 			- choose 
 			- The offer (product/service)
@@ -61,7 +61,7 @@
 	- why it doesn't?
 		- Critics - [vid](https://www.youtube.com/watch?v=Dmifdio65kI) - you need to learn what you delegate to...
 			- make and refine system around it 
-				- [[Project organization strategies]]
+				- [[Project management]]
 			- sell it better 
 			- validate work and employees w quality standards
 			- set expectations 

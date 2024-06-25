@@ -15,13 +15,14 @@
 		- [fonte](https://youtu.be/B9XGUpQZY38?t=450)
 - Why? - to grow in any field or to upgrade a process
 - How?
-	1. *Observe* trough SOC framework: 
-		1. Situation - identify problems to overcome and it's causes
-		2. Outcomes - why and how?
-		3. Contex - limitations and resources avability.
-	2. *[[Predicting]] Solutions and tests* to get valuable feedback trough KPIs
-	3. *Evaluate feedback* changing solutions & tests to find a solution
-		- outcomes can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion
+	1. *Observe* trough POC framework: 
+		1. Problem - identify what root problems to overcome
+			- we don't go to school to finish school, we do it to get a job, we get it because we need money, need money because I need stuff from other people, because I need/want stuff, because of my identity
+		2. Outcomes - why and how is happening? how can I change it?
+		3. Contex - Can/Can't? - limitations, resources, & enviroment
+	2. *[[Predicting]] Solutions and tests* to get great feedback trough KPIs
+	3. *Evaluate feedback* changing solutions & tests
+		- can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion
 - E.g.
 	- [[Law of actraction]]
 	- Believing in something just because makes you strongher or it's practical - [fonte](https://youtu.be/S93jMOqF-oE?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)

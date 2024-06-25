@@ -24,7 +24,7 @@
 		- dev done -  merge on main, then if all is ok, merge main to dev
 	- when?
 		- you don't have as many tests to excuse the creation of staging branch
-- + feats - github flow/Feature branching 
+- + feats - github flow/Feature branching - [[githubflow.excalidraw]]
 	- How? - pull requests to merge directly to main
 	- cons
 		- can't test 2 new features at the same time

@@ -8,6 +8,18 @@
 		- [[Git-hub]]
 	- Steps explanation
 		- planning
+			- Unix phylosophy
+				- a filter (input, gives output to other softw)
+					- expect it to collaborate with other software
+				- simple
+					- few lines of code
+					- not? mantainability goes down
+						- security
+						- bugs
+				- modular
+				- extensible
+				- Do 1 thing and do it well
+				- save stuff in a text file
 			- Observe using [[Pragmatism]]
 			- if you want to be innovative: [[First principle thinking]]
 			- otherwise you may go for analogy and look at the work of other people
@@ -17,6 +29,16 @@
 		- deployment - make it usable and distribute it
 	- [[Responsible CTO]]
 	- [[Pre-work-start]]
+	- Great Overviews
+		- [[Gitflows]] - devcody - [long similar to gitflow](https://www.youtube.com/watch?v=Dl-BdxNRUqs) - [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+		- [[DevOps]] - [workflow overview](https://youtu.be/4It0D0Nw00c)
+		- [[Architecture-Infra codes]]
+		- [Mindmap of features](https://miro.com/app/board/uXjVMiRMzrc=/) 
+			- ![[Pasted image 20240624022347.png]]
+			- ![[Pasted image 20240624022409.png]]
+			- ![[Pasted image 20240624022426.png]]
+			- ![[Pasted image 20240624022459.png]]
+			- ![[Pasted image 20240624022508.png]]
 #### Steps
 - precedence changes on needs
 	- [[Specific code project template]]
@@ -54,6 +76,7 @@
 	- [[Hosting]]
 	- [[Code law regulations to follow]]
 	- [[Last code checks]]
+	- [[DevOps]]/infra
 - Maintainance
 	- [[Git-hub]]
 
