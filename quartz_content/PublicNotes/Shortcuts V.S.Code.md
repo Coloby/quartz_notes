@@ -1,6 +1,9 @@
 [[Emmet]]
 - ctrl+shift+\\       jump to mathcing bracket
 - ctrl+alt+
+	- generally
+		- when terminal focussed you can use it to move/focus/kill terminals
+		- used to triggher extensions like for toggling files/classes
 	- d   select all exact words
 	- t   toggle classNames
 	- f   toggle files

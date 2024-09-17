@@ -9,8 +9,9 @@
 			- in addition, use pepper
 - Theory
 	- HASH - input to fix length value of garbage though specific algo, *1 way function*
-		- always gives same output from input
-		- hard to reverse engineer original value from hash
+		- what?
+			- always gives same output from input
+			- hard to reverse engineer original value from hash
 		- algos
 			- Normal
 				- sha256
@@ -22,15 +23,8 @@
 		- to fix HASH that gives same output from same input
 			- prevent dictionary attacks (called rainbow tables in this context) [like this](https://youtu.be/NuyzuNBFWxQ?t=269) where hackers pre-compute the password using the same hashing algo
 		- How? - use it before hashing
-	- Pepper
+	- Pepper - random stuff known only by enviroment
 	- HMAC
-	- Encryption - like HASH but random by default w different configs and *it's 2 way*
-		- encrypted text is called cipher
-		- needs key to be de-ciphered
-		- types
-			- symmetric - same key to encrypt & decrypt
-			- asymmetric - 2 keys to encrypt & decrypt 
-				- public/private key
-	- SIGNING - 
-		- to know who's actual sender
+	- [[Encryption]]
+	- SIGNING - to know who's actual sender
 	- asymmetric vs symmetric encryption

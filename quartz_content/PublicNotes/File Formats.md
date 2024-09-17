@@ -1,3 +1,4 @@
+[[Torrent]]
 - Immagine
 	- [[SVG]] - Scalable Vector Graphics.
 		- Doesn't lose quality if bigger or smaller (because it's made with math, not pixels)

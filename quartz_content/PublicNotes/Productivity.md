@@ -3,7 +3,7 @@
 - prerequisite: [[Introspection]] 
 - how?	
 	- [[HT focus]]
-	- [[Higher level learning]]
+	- [[HLL]]
 	- [[Critical thinking]]
 	-
 	- Multipliers

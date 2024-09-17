@@ -1,0 +1,88 @@
+- [[more unified]]
+
+- why?
+	- y - can make you a more confident programmer
+		- framework-agnostic
+		- so much
+			- combinations of input/output
+			- plugins to use (500+)
+			- potential for customization
+		- stable and future proof
+			- the library and ecosystem itself it's used in higher level libraries like prettier so even if people don't know it, they're probably using it
+	- y/n
+		- potentially faster/slower
+			- it's a low level library so optimizations are not there by default but you may choose to make them yourself to get the best results
+	- n
+		- learning curve
+			- you need to understand what and why to choose a certain plugin with a specific order to get the desired output
+##### How? Processor/pipeline 
+- Pipeline examples
+	- [unified handbook](https://github.com/unifiedjs/handbook?tab=readme-ov-file#mdx-transpilation-pipeline)
+	- [checking english w retext](https://unifiedjs.com/learn/guide/using-unified/#checking-prose)
+- what?  `unified` using parts of its ecosystem: remark/rehype
+- General overview - [src - Unified overview](https://github.com/unifiedjs/unified?tab=readme-ov-file#overview)
+	- Unified is a 500+ plugin ecosystem 
+		- ([mentioned in \#remixConf 2023](https://youtu.be/Hz-jEw-2Tv4?t=223) found [here](https://katiekodes.com/why-markdown-mdx-mdxconf/#okay-so-now-whats-a-processor))
+	- Pipeline - Remark was the first while rehype was added later
+		- i
+			- ![[Pasted image 20240111124016.png]]
+		- based on Syntax trees - a way of representing structured data as a tree
+		- remark - generally works w MDX & AST
+			- AST - Abstract Syntax Tree
+				- needed for remark to make modifications
+		- rehype - generally works w HTML & HAST
+			- HAST - Hypertext Abstract Syntax Tree
+				- needed for rehype to make modifications
+	- Other than AST & HAST there are even md/mdxAST and md/mdxHAST
+-
+- input `Parsers` syntax tree
+	- Remark - MD/MDX [`remark-parse`](https://www.npmjs.com/package/remark-parse#install)  mdAST
+		- The AST produced by MDX doesn't inherently support MDX feats, to do it you need remark-mdx
+	- Rehype - HTML `rehype-parse` HAST
+- syntax tree `Transformers` syntax tree (w chainable modifications)
+	- Translators
+		- JSX/HTML data in md/mdx may be lost in translation without additional options.
+		-
+		- AST  [`remark-rehype`](https://www.npmjs.com/package/remark-rehype) HAST
+			- .use(remarkRehype, {passThrough: ['mdxjsEsm', 'mdxFlowExpression', 'mdxJsxFlowElement', 'mdxJsxTextElement', 'mdxTextExpression']}) 
+			- AST to HAST. Options: to allow certain MDX elements to pass through the resulting HTML without transformation (without this remark-rehype strips away some important MDX AST data during translation)
+		- HAST [`rehype-remark`](https://www.npmjs.com/package/rehype-remark) AST
+	- Adders
+		- AST *[`remark-mdx`](https://www.npmjs.com/package/remark-mdx)* mdxAST
+			- most of the time be used as the last transformer 
+			- adds support to serialization and paring of JSX stuff in MDX
+				- JSX (`<x/>`), export/import (`export x from 'y'`), and expression {`{1 + 1}`
+			- usually used w mdx-js/mdx
+		- HAST [`rehype-raw`](https://github.com/rehypejs/rehype-raw?tab=readme-ov-file#what-is-this) HAST
+			- like remark-mdx but instead of JSX it understands HTML
+				- if you write html directly in mdx and you don't want to overengineer with remark-mdx, you use this to take the html and actually convert it to HAST
+			- needs `.use(remarkRehype, {allowDangerousHtml: true})` to work properly if remarkRehype is used
+	- Remark (input AST (based on MD/MDX) output AST)
+		- `remark sectionize` - group p & headers etc into sections
+		- `remark-a11y-emoji`  - adds aria lables to emojis, roles etc
+	- Rehype (input HAST (based on HTML) output HAST)
+		- `rehype-slug` - automatically adds ids to headings
+		- [`rehype-autolink-headings`](https://www.npmjs.com/package/rehype-autolink-headings) 
+			- searches for headings & adds \<a> tags etc to change the url of the search bar thus being able to share the section through url...#heading
+- syntax tree `Compilers` output
+	- Remark (input AST to output)
+		- `remark-stringify` MD
+	- Rehype (input HAST to output)
+		- `rehype-stringify` HTML
+	- MDX or mdxHAST  `mdx-js/mdx` JS
+		- parser: you can give it MDX and it will give you JS as output
+		- compiler: gives js that can be used to render anything
+		-
+		- it supports imports, expressions and jsx/html wrote directly into the mdx
+		- useful only w remark-mdx or when handling MDX/JSX
+		- you should choose a [bundler integration](https://mdxjs.com/docs/getting-started/#bundler)
+	- mdxHAST `rehype-react` React elem
+		- it only supports imports of components
+		- it doesn't actually support direct jsx and expressions
+-
+- Stuff I don't like - might be confusing and too implicit
+	- Shortcuts
+		- MD `remark` MD
+			- shortcut for unified().use(remarkParse).use(remarkStringify)
+		- HTML `rehype` HTML
+			- just a shortcut for unified().use(rehypeParse).use(rehypeStringify)

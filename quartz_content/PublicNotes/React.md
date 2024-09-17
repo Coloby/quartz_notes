@@ -1,3 +1,5 @@
+[when to use react](https://youtu.be/bcKacWr27gE?t=827) - only if website needs many btns that do fancy stuff
+
 - Teoria
 	- Cosa fa e drawbacks
 		- everything client side by default

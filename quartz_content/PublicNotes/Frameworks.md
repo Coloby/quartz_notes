@@ -9,6 +9,10 @@
 	- [[Electron]]
 	- [[NextJS]]
 
+- [docusaurus vs astro](https://youtu.be/bcKacWr27gE?t=1694)
+	- even if doc load a thon of JS, after that it's all instantaneous
+- gatsby = really bad
+
 - [[MDX]]
 - [[Astro]]
 - [[Preact]]

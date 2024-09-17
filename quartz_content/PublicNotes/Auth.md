@@ -228,6 +228,7 @@ Needs to comply with [[GDPR]]
 	-
 	- idk
 		- [ory](https://www.ory.sh/hydra/)
+		- [goauthentik](https://goauthentik.io/)
 		- [keycloack](https://www.keycloak.org/) - foss, redhat mantains it, webgui
 			- con
 				- bad docs & incosistant because speedy dev - [src](https://youtu.be/6ye4lP9EA2Y)
@@ -249,3 +250,35 @@ Needs to comply with [[GDPR]]
 					- free
 						- ![[Pasted image 20230526111925.png]]
 
+- Implementations
+	- [ ] Features
+		- [ ] Create acc
+		- [ ] update password
+		- [ ] forgot password
+		- [ ] sing in/out
+		- [ ] download your data
+		- [ ] recognize roles like admin, user, etc
+		- [ ] privacy
+			- [ ] delete account
+			- [ ] see account info
+	- [ ] Main Auth
+		- [ ] email&password
+		- [ ] Oauth
+			- [ ] Google
+			- [ ] Apple
+			- [ ] Github
+		- [ ] 2FA
+		- [ ] passkeys
+	- [ ] Supporters Auth
+		- [ ] OTP
+		- [ ] e-mail verification
+	- [ ] Passive Auth
+		- [ ] [[Captchas]]
+		- [ ] rate limiting
+		- [ ] reauthentication
+		- [ ] communicating sus activity w logs
+		- [ ] extra checks
+		- [ ] Privacy risky
+			- [ ] fingerprinting
+			- [ ] location
+			- [ ] hardware detection

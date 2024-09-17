@@ -1,5 +1,6 @@
 [[Get and go trough interviews]]
 [[Employement]]
+[[Onboarding]]
 https://www.indiehackers.com/
 
 - Give option to select a template if he wants
@@ -66,7 +67,7 @@ https://www.indiehackers.com/
 	- get yourself findable with socials
 		- linkedin
 	- [[HT portfolio]]
-	- [[my Competition]]
+	- [[myCompetition]]
 	- Search ideas
 		- html
 		- css

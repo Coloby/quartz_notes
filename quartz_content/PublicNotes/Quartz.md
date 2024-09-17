@@ -1,0 +1,33 @@
+- Installation
+	- git clone https://github.com/jackyzha0/quartz.git && cd quartz && npm i && npx quartz create
+	- Selections
+		- Empty quartz
+		- links as shortest path
+	- Create github repo & connect it to local
+		- git remote -v
+		- git remote rm origin
+		- git remote add origin theSSHYouCopyPastedFromGithub
+		- git remote -v
+			- if you see your repo in origin and the one of jackuzha0 on upstream you did all good
+		- npx quartz sync --no-pull
+- Modify quartz
+	- add custom scss
+		- go to `custom.scss` file and add your stuff
+	- modify home page
+		- `content/index.md` is your home page
+		- you can add folders of md under `content` folder and they will show up in the website
+	- modify quartz options
+		- go to `quartz.config.ts` and modify at least pageTitle
+	- run quartz in local
+		- npx quartz build --serve
+	- once you did all of your changes you can create a commit and push it to your repo
+		- git add . && git commit
+		- git push
+- Deploy quartz on netlify
+	- prepare the build for deploying
+		- npx quartz build
+	- login and go to sites and then add new site from github repo
+	- in site configuration you only need to make a few changes
+		- Build command: npx quartz build
+		- Publish directory: public
+	- deploy and you've done it all

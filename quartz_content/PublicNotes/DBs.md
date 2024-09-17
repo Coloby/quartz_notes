@@ -1,4 +1,5 @@
 ## more on notion
+- [[Storage-File management]]
 - Discovery
 	cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
@@ -10,6 +11,7 @@
 	- Role-Based - like discord servers
 	- ABAC - Attribute-based access control - more control w policies
 
+	
 - HT choose
 	- Sources
 		- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686) ends [here](https://youtu.be/cC6HFd1zcbo?t=895)

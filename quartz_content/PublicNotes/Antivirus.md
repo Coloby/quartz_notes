@@ -1,0 +1,19 @@
+- Conclusion - good practices  + virustotal +  great background antivirus
+- y
+	- can still alert you if you messed up
+- n
+	- = giving house keys to the police (don't know if they're corrupted)
+	- they sandbox virus but some virus can exploit it (+attack surface)
+	- lowers performance
+	- can't prevent
+		- zero days
+		- user dumbness clicking stuff
+	- scans
+		- files already on your system
+		- e-mail attachments
+- generallly
+	- Don't trust closed source antiviruses
+		- malwerbites portatile offline per scannerizzare i drive senza rischiare che data fuoriesca dal pc
+- Alternatives
+	- knowledge
+	- [[Malware detection]]

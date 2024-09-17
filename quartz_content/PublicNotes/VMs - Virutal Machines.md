@@ -1,0 +1,59 @@
+[[myVMs]]
+
+- Use cases
+	- Qemu vs Proxmox
+		- Qemu only if you don't have a machine to install proxmox on
+	- better for sandboxing
+
+- Type 1 hypervisors - virtualizes hardware (faster + best security)
+	- info
+		- can still run more than 1 VM at the same time
+		- slows down but only by a little <5% (also <1% in some cases)
+			- unless you use partitioning to separate the hypervisor
+	- General
+		- KVM & Xen are low level, that's why we use proxmox or XCP-ng respectively
+		- some people still use vmware because proxmox is too low level compared to it (on scale)
+		- QEMU is great bu considered by many too low level compared to proxmox- [src](https://www.reddit.com/r/Proxmox/comments/179bxnx/kvmqemu_versus_proxmox/)
+	-
+	- FOSS
+		- KVM - less secure, simpler, maybe faster, +feats than xen
+			- integrated into the Linux kernel
+			- GPLv2
+		- [[Proxmox]]
+		- TrueNAS - KVM abstraction, virtualization & storage platform
+			- [vs proxmox](https://www.reddit.com/r/homelab/comments/z0bpu9/proxmox_vs_truenas_scale/) - TLDR, use this mainly for storage, proxmox mainly for VMs
+		- [Xen](https://youtu.be/pUb8vVL5wo0?t=194) - used by QubesOS - most secure
+			- doesn't expose VMs through localhost like proxmox by default
+			- GPLv2
+			- runs directly on the hardware as a separate layer
+				- robust isolation and a smaller attack surface
+			- supports both full virtualization and paravirtualization
+		- XCP-ng - Xen abstraction
+			- uses Xen orchestra (UI) to manage XCP-ng clients (or servers where you installed it)
+			- better paid support than proxmox
+		- QEMU - mainly for type 2 though
+	- Proprietary
+		- Vmware - (ESXi)
+			- more abstractions but less flexibility compared to proxmox
+			- ESXi - virtualization platform offered by VMware
+		- Hyper-V - window's thinghy that... doesn't really does it
+	- Vultr -  usually use SSH without graph env
+- Type 2 hypervisors - runs w host OS sharing resources (slower)
+	- what? - "create an OS into another OS"
+	- pros - easier management
+		- backups
+		- snapshots 
+		- setup
+	-
+	- [QEMU](https://youtu.be/pUb8vVL5wo0?t=353) - the better virtual box - can also run as type1
+		- compared to virtual box
+			- [almost bare metal perf](https://youtu.be/wxxP39cNJOs?t=38) thanks to KVM
+			- easier less hacky stuff compared to guest additions
+			- no bad license or closed source limitations like virtual box extension packs
+			- uses more CLI for setup and some managment (not inizialization in fact)
+	- [[Virtual box]] - just don't use this, go to proxmox or QEMU
+
+- [[Containerization]] - (fastest)
+
+- Management
+	- [[VM backup]]

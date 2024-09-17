@@ -1,127 +1,7 @@
 [[lin App-Software]]
 
-- Discovery
-	- TPM? it can lock you out
-	- xresources
-		can save variable colors
-
-- Choose distro & minimal
-	- Distros
-		- essential theory
-			- highest standard of free software is FSF approved
-			- it's a pack of pre-made decisions - [src](https://youtu.be/t9e3NvTnCOA?t=260)
-			- always check [FSF](https://www.gnu.org/distros/common-distros)
-			- Debian, Fedora, Arch are the most different from each other
-				- other distros are children, for specific use-cases, or bad
-		- software dev models
-			- what?
-				- rolling release - updates as soon as ready & tested
-					- don't have to re-install system, just update
-					- doesn't mean stuff are not stable, they still get tested
-					- great for hardware compatibility
-					- latest software versions
-					- details - it has no
-						- version numbers (at most there's date or kernel ver)
-						- fixed release cycles 
-						- end-of-life dates
-					- cons
-						- bad for new users - stuff breaks more often
-						- you need to update stuff at least 1 time a week - [src](https://youtu.be/212yJEH8-iA?t=271)
-						- you can't really say version number to get help
-				- stable release
-				- details
-					- core software/libraries kernel on majors releases
-					- security, patches, on minor releases
-					- it has version numbers
-				- cons 
-					- no "cutting edge" software
-					- if there is problem, need to wait more for fix
-					- eventually you'll version will meet end-of life
-					- some distros need you to re-install, no upgrade
-		- distros to care about
-			- debain - sr
-			- arch - rr
-			- fedora - sr
-			- void linux - no systemd, 2 pkg manager
-				- has void installer
-				- not a fork
-					- pkg manager & build system from scratch
-				- pkg managers
-					- binaries
-					- compile from source
-					- XBPS (X Binary Package System)
-						- efficiency and the ability to handle partial upgrades
-						- allows users to roll back certain packages
-				- philosophy
-					- open source software
-						- separates free and non-free software into different repos
-					- aims to be minimalistic and efficient
-						- runit & fast pkg managers
-					- no AUR but community driven
-						- all packages in its official repositories are vetted and maintained by the Void team & community
-		- Distros
-			- rr
-				- manjaro
-				- arch
-				- artix
-				- void linux
-			- sr
-				- Debian - nooby friendly - yearly release cycle
-				- fedora - semester release cycle
-				- ubuntu
-				- popOS
-				- mintOS
-		- parent distros
-			- slackware - old
-			- Debian
-			- Arch
-			- redhat
-			- freeBSD
-			- openBSD
-			- openSuse
-			- android
-			- gentoo
-		- Options
-			- OG
-				- Gentoo - harder to install than arch. Source based OS
-					- "[Linux end game](https://youtu.be/8QcI43IwkVc?t=507)" -MentalOutl
-					- great to learn linux
-					- need to compile most stuff from source
-						- you can compile stuff to delete bloat and custom optimize it
-							- need to know use flags, kernel modules to to these stuff
-						- portage pkg manager
-					- meta distro - can support many architectures
-			- Privacy
-				- tails
-				- qubeOS
-				- whonix - virt machines that looses memory like tails
-			- lightweight - I would still go to minimal arch though
-				- Antix - 300mb ram idle - no systemD, debian, 32bit
-				- Lubuntu - 500mb ram idle
-					- Ram [src](https://youtu.be/xvg3wnAzru0?t=553)
-						![[Pasted image 20240515172907.png]]
-				- Peppermint - 652mb ram with xfce idle
-				- Tiny core - smallest graphical env distro, not really usable
-			- pen testing - why not just building it from debian?
-				- kali - debian with pen test bloat
-				- parrot - debian with pen test software
-			- BSD
-				- FreeBSD - also used on desktops
-					- difference
-						- BSD license instead of GPL
-						- Lower adoption & compatibility w hardware
-					- Similarities
-						- FOSS
-						- UNIX
-						- Most of the software is from linux
-				- OpenBSD - one of the most secure OS for servers mostly
-			-
-				
-			- meh
-				- Artix - arch but uses openRC instead of systemd
-				- clean linux - fast if using intel
-				- slackware - 
-				- solus - new desktop env
+- Choose distro & minimal - [[Scelta sistema operativo]]
+	- [[OS - Options]]
 	- [[Package managers]]
 	- [[Firmware-Hardware]]
 	- [[Partitioning]]
@@ -173,7 +53,9 @@
 		- GPT
 		- MBR - no more than 2TB
 	- boot loader/manager
-		- grub
+		- [grub](https://youtu.be/b_KHtK2b5cA?t=159)
+			- grub-install
+			- grub-mkconfig -o /boot/grub/grub.cfg
 	- Audio
 		- ALSA - driver hard to use
 			- cannot play 2 audio at the same time by default
@@ -184,6 +66,7 @@
 				- everything just works
 				- bad
 			- pipewire - new kid in the block to kill pusleaudio + jack
+	- [[file systems]]
 - Initial configuration
 	- archinstall 
 		- mirror 
@@ -192,9 +75,11 @@
 			- ![[Pasted image 20240513041544.png]]
 		- img
 			- ![[Pasted image 20240514001051.png]]
-	- exit (chroot)
+	- exit (chroot) - sometimes you also need to reboot
+		- especially if startx gives you permission denied. Reboot and log-in with default user like e
 	- keyboard layout - [src](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
 		- localectl set-keymap uk
+		- gb is   great britain
 	- resolution
 		- pacman -S xorg-xrandr
 		- xrandr            - see all devices
@@ -470,10 +355,10 @@
 		- Calendar/Todo stuff - vim with plugins
 			- default cal & date commands - [src](https://youtu.be/Gl4DKyicKKg?list=PL-p5XmQHB_JQ5YQYI7zI1uVSepG-0UPL-&t=85)
 			- [Calcurse](https://youtu.be/hvc-pHjbhdE) - why not using when + notetaking instead?
+				- can import google calendar stuff
 			- [when](https://youtu.be/LslUKm1mqkw?t=276) - use cal&date first todoist terminal based
 				- ![[Pasted image 20240601013217.png]]
 	- RSS reader - [newsboat](https://youtu.be/dUFCRqs822w?t=248)
-		- 
 	- e-mail client - 
 		- neomutt - terminal, configurable
 			- [mutt wizard](https://youtu.be/mPiQuWbF57M)
@@ -484,7 +369,4 @@
 
 
 
-- color picker - xcolor [2 years ago](https://github.com/Soft/xcolor) still simple & good
-- fancy
-	- cool-retro-term
-		- ![[Pasted image 20240623035927.png]]
+

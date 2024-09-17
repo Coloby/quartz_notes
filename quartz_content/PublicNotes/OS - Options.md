@@ -1,0 +1,227 @@
+- [[Scelta sistema operativo]]
+- [distrowatch](https://distrowatch.com/)
+
+- essential theory
+	- need to disable encryption on the disk in use
+		- doesn't matter if you delete volumes (the encryption will stay, at least for bitlocker)
+	- always check [FSF](https://www.gnu.org/distros/common-distros) (highest standard of free software)
+	- it's a pack of pre-made decisions - [src](https://youtu.be/t9e3NvTnCOA?t=260)
+	- Debian, Fedora, Arch are the main parent distros & really different
+		- other distros are children, for more specific use-cases, or bad
+- software dev models
+	- rolling release - updates as soon as ready & tested
+		- don't have to re-install system, just update
+		- doesn't mean stuff are not stable, they still get tested
+		- great for hardware compatibility
+		- latest software versions
+		- cons
+			- bad for new users - stuff breaks more often
+			- you need to update stuff at least 1 time a week - [src](https://youtu.be/212yJEH8-iA?t=271)
+			- you can't really specify version number to get help
+		- details - it has no
+			- version numbers (at most there's date or kernel ver)
+			- fixed release cycles 
+			- end-of-life dates
+	- stable release
+	- details
+		- core software/libraries kernel on majors releases
+		- security, patches, on minor releases
+		- it has version numbers
+	- cons 
+			- no "cutting edge" software
+			- if there is problem, need to wait more for fix
+			- eventually you'll version will meet end-of life
+			- some distros need you to re-install, no upgrade
+- resources
+	- linux
+		- repository stats [-](https://repology.org/repositories/statistics/total)
+
+- Options by use case
+	- generally
+		- [great tier list - chris titus](https://youtu.be/KyADkmRVe0U?t=267)
+		- windows's garbage
+			- auto encrypts devices (especially laptops) and store the password on the microsoft account
+			- w11 needs wi-fi connection to install...
+				- ![[Pasted image 20240902054502.png]]
+			- spyware included
+	-
+	- OG
+		- Gentoo - harder to install than arch. Source based OS
+			- [why?](https://www.reddit.com/r/linuxquestions/comments/syj5r0/what_is_the_appeal_of_gentoo/)
+			- "[Linux end game](https://youtu.be/8QcI43IwkVc?t=507)" -MentalOutl
+			- great to learn linux
+			- need to compile most stuff from source
+				- you can compile stuff to delete bloat and custom optimize it
+					- need to know use flags, kernel modules to to these stuff
+				- portage pkg manager
+			- meta distro - can support many architectures
+		- void linux - no systemd, 2 pkg manager
+			- has void installer
+			- not a fork
+				- pkg manager & build system from scratch
+			- pkg managers
+				- binaries
+				- compile from source
+				- XBPS (X Binary Package System)
+					- efficiency and the ability to handle partial upgrades
+					- allows users to roll back certain packages
+			- philosophy
+			- open source software
+				- separates free and non-free software into different repos
+			- aims to be minimalistic and efficient
+				- runit & fast pkg managers
+			- no AUR but community driven
+				- all packages in its official repositories are vetted and maintained by the Void team & community
+		- arco linux
+			- [3 branches](https://youtu.be/ch3ETaOPhzs?t=35) + extended version with all window managers
+				- [bloated](https://youtu.be/S_dG79GhNfI?t=338) (main philosophy?) & minimal version & custom
+			- [great installer](https://youtu.be/S_dG79GhNfI?t=446) 
+				- with many options about third party software
+					- ![[Pasted image 20240730101337.png]]
+				- doesn't care about closed source [-](https://youtu.be/S_dG79GhNfI?t=533)
+			- arco linux tweak tool [-](https://youtu.be/S_dG79GhNfI?t=944)
+				- make time taking stuff easier to install
+					- like [de](https://youtu.be/S_dG79GhNfI?t=1185) kde plasma
+					- [problem?](https://youtu.be/S_dG79GhNfI?t=1316)
+	- Privacy
+		- tails
+		- [[qubeOS]]
+		- whonix - virt machines that looses memory like tails
+	- lightweight - I would still go to minimal arch though
+		- Antix - 300mb ram idle - no systemD, debian, 32bit
+		- Lubuntu - 500mb ram idle
+			- Ram [src](https://youtu.be/xvg3wnAzru0?t=553)
+				![[Pasted image 20240515172907.png]]
+		- Peppermint - 652mb ram with xfce idle
+		- Tiny core - smallest graphical env distro, not really usable
+	- nooby friendly
+		- manjaro
+			- aur
+		- endevourOS???
+			- great installer
+			- specialized hardware support
+			- de
+				- plasma
+				- gnome
+				- xfce
+		- mint
+		- android, lol
+		-
+		- debian - because of stability
+		- zorinOS - based on ubuntu, looks like windows
+			- still uses wayland by default...
+			- based on gnome
+			- great
+				- store [-](https://youtu.be/wtMWrrOSbfo?t=179)
+				- layouts [-](https://youtu.be/wtMWrrOSbfo?t=489)
+		- ubuntu - it uses wayland by default... wtf
+			- discord & anydesk will have problems on sharing screen (maybe even impossible)
+	- enterprise/server
+		- in general
+			- debian & ubuntu server seems the only viable routes for most use cases
+			- web server? almost always windows
+			- file server? any OS, doesn't matter
+			- why would I need support if I'm technical?
+				- offloading part of the potential damage/responsabilities/costs if something goes wrong
+				- you don't have expertise in everything
+					- like linus when losing tb/pb of stuff calling other people to help
+		- Proxmox and...
+			- debian
+				- non consistant schedule for LTS
+				- no company backing it up (neither their support)
+				- less cutting edge but one of the most stable
+					- doesn't really matter if you use containers
+			- company backed + support
+				- ubuntu server
+					- predictable LTS schedule (2 years)
+					- spyware+bloat? going into non-free direction?
+				- redhat (RHEL Red Hat Enterprise Linux)
+				- suse enterprise
+				- windows server....
+					- mostly for...
+						- active directory
+						- printers/devices w only windows drivers
+						- web servers
+			- openBSD
+				- better network stack?
+				- [no containers here...](https://youtu.be/ZxEmeekhnPM?t=94)
+			- Archived
+				- CentOS - [discountinued](https://youtu.be/mfsjSuE0kSs) foss version of redhat
+		- nogut anymore
+			- centOS - based on redhat - sadly not an option anymore
+	- Specific
+		- Router
+			- Ensure compatibility between hardware & software [-](https://youtu.be/am7xT-zU1Q0?t=302)
+				- most stuff work best w intel network controllers
+			-
+			- OPNsense (more updates than pfsense)
+			- [[pfsense]]
+			- openWRT - best hardware support
+		- switch
+			- can use pfsense to a run a "switch" but ASIC are better
+				Switches used ASIC (application specific integrated circuits) to be really performant at switching packets. A general CPU isn't good at it.
+			- other OSs
+				- OpenSwitch [-](https://github.com/open-switch/?q=&type=all&language=&sort=stargazers)
+				- OpenWrt -
+				- linux
+					- SONiC [-](https://github.com/sonic-net/SONiC)
+					- Cumulus (it's really closed source? [-](https://www.reddit.com/r/networking/comments/7ay41p/comment/dpdwaef/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
+		- NAS
+			- True NAS
+			-
+			- ew
+				- free NAS - ZFS as filesystem
+					- freeBSD as it's base
+				- paid
+					- unraid
+	-
+	- pen testing - why not just building it from debian?
+		- kali - debian with pen test bloat
+		- parrot - debian with pen test software
+	- BSD
+		- FreeBSD - also used on desktops
+			- difference
+				- BSD license instead of GPL (non-copyleft)
+					- people like apple are abusing it...
+				- monolithich
+					- kernel
+					- user land tools
+					- drivers
+					-
+					- all in the same pkg
+				- Lower adoption & compatibility w hardware
+			- Similarities
+				- FOSS
+				- UNIX
+				- Most of the software is from linux
+		- OpenBSD - one of the most secure OS for servers mostly
+	- gaming
+		- 
+	- meh
+		- [[nixOS]] - unnecessary for most people
+		- Artix - arch but uses openRC instead of systemd
+		- clean linux - fast if using intel
+		- slackware - 
+		- solus - new desktop env
+- Options by dev model
+	- sr
+		- Debian - nooby friendly - yearly release cycle
+		- fedora -  company backed semester release cycle
+		- ubuntu
+		- popOS
+		- mintOS
+	- rr
+		- arch
+		- manjaro
+		- artix
+		- void linux 
+	- parent distros
+		- slackware - old
+		- Debian
+		- Arch
+		- redhat
+		- openSuse - company backed
+		- android
+		- gentoo
+		- freeBSD
+		- openBSD

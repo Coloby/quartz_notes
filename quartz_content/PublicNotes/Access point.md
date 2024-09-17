@@ -1,0 +1,4 @@
+- why?
+	- wi-fi performance
+	- extend area
+	- can create wi-fi subnets/vlans

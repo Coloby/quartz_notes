@@ -1,0 +1,2 @@
+- [extension](https://chrome.google.com/webstore/detail/accessible-web-helper/gdnpkbipbholkoaggmlblpbmgemddbgb/related)
+- [accessibility statement](https://gosha.net/accessibility/)

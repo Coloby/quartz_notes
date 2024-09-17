@@ -110,6 +110,11 @@
 		- create branch from main to hotfix
 		- merge to staging or directly on main
 		- merge main to dev
+- criterias
+			- how many CI do you want?
+			- do you do releases?
+			- hotfixes?
+			- how fast are you at fixing and how much of downtime can you have?
 
 - Archived - bad explanations
 	- - [models](https://youtu.be/Uszj_k0DGsg?t=931)

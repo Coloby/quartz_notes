@@ -1,4 +1,3 @@
-
 - Sys file structure
 	- home - home directories of user accounts
 	- root (/) - home directory of root
@@ -11,12 +10,12 @@
 	- tmp - temporary files deleted on restart
 	- srv - files served by machine like web server data
 	- dev - files related to hardware 
+	- mnt - temporarely file systems like USB
 	- proc - live info about processes (debug & monitoring)
 	- lost+found - files restored after system errors/problems
 	- *Meh*
 		- opt - 3rd party system software
 		- sys - virtual filesystem with kernel data
-		- mnt - temporarely file systems like USB
 	-
 	- var - temporary files & logs
 		- tmp - temporary files - persist after reboot

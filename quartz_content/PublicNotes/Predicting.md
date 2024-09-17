@@ -4,7 +4,7 @@
 	- [[Introspection]] +
 		- [[Productivity]] +
 			- [[HT focus]] +
-			- [[Higher level learning]] +
+			- [[HLL]] +
 			- [[Critical thinking]] +
 
 - what? - being 10 steps ahead  - "PACE"- Make conclusions w [[Critical thinking]]

@@ -73,14 +73,13 @@
 		- connect the dots - holicism
 		- Great [resource](https://youtu.be/tHTaIDRVI7E)
 			- mentor, peer, mentoree, and why private communities are important
-	- reading - often useless without [[Higher level learning]] & action
+	- reading - often useless without [[HLL]] & action
 	- AI - pretend it's your free of charge mentor
 	- Quick search online - valuable content can be found
 		- Usually on Certain channels/videos on yt
 		- e.g. - if searching pixelart, bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
 	- Courses - cost effective non-specific structured learning
 - focus list - sorted by quality
-	- urgent 
 	- taccuino
 	- [[Notes]]
 	-

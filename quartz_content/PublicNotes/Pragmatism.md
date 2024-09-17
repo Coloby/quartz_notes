@@ -13,7 +13,7 @@
 			- without the focus on almost re-inventing the wheel
 			- more versatile & accessible 
 		- [fonte](https://youtu.be/B9XGUpQZY38?t=450)
-- Why? - to grow in any field or to upgrade a process
+- Why? - to grow in any field or upgrade a process
 - How?
 	1. *Observe* trough POC framework: 
 		1. Problem - identify what root problems to overcome

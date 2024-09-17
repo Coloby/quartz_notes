@@ -43,10 +43,10 @@ description: There you can find my .md notes :)
 - Mindset
   - [[Introspection]]
   - [[Productivity]]
-    - [[Higher level learning]]
+    - [[HLL]] (Higher level learning, stuff to learn faster & better)
     - [[HT focus]]
     - [[Critical thinking]]
 - Freedom
   - [[Codes]]
-  - [[Design]]
+  - [[DE]] (Design)
   - [[CS - Computer Science]]

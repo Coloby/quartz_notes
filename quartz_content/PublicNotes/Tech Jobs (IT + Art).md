@@ -1,3 +1,13 @@
+[[pc build]]
+
+- Sources
+	- [technopedia](https://thrivingtechnologist.com/resources/techrolepedia/)
+	- [Dev roadmaps](https://roadmap.sh/)
+	- Hubs in bookmarks
+
+- General engineering ones
+	- [map](https://youtu.be/pQgxiQAMTTo?t=1327)
+		- ![[Pasted image 20240814224237.png]]
 - IT - Information Technology - use of tech for anything
 	- e.g.
 		- for infrastructure and CRUD data
@@ -128,4 +138,4 @@
 	- Hacker
 	- Mining in the blockchain
 
-- Art side - [[Design categories & types]]
+- Art side - [[DE categories & types]]

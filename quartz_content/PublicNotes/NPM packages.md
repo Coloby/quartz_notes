@@ -2,6 +2,38 @@
 	- directives
 		- ~ `1.2.3` up to, but not including, `1.3.0`.
 		- ^ `1.2.3` up to, but not including, `2.0.0`.
+- General evaluation tool
+	- tldr
+		- does it solve the problem?
+		- longevity
+		- popularity
+	-
+	- Basic questions
+		- [ ] Open source
+		- [ ] license
+		- [ ] self hostable
+	- Start writing criterias like this. Have goals.
+	- Ask AI
+	- google & reddit - popular options & reputation
+	- check past knowledge - [[lCode]], [[Notes]]
+	- [ ] Mentors
+		- [ ] Theo
+		- [ ] Webcody
+		- [ ] 2
+			- [ ] webdevsimplified
+			- [ ] fireship
+	- [ ] Popularity
+		- general
+			- npm/docker
+		- starts
+		- active branches
+	- [ ] Longevity
+		- general 
+			- Language - is it so niche that no much contributors?
+			- Mantainers popular and w good rep?
+		- Pulse - only owner making changes?
+		- Lines of code - the less, the more secure
+		- issues - might signal a lot of problems or great issue reports
 
 - analytics
 	- [posthog](https://posthog.com/) - [fonte](https://youtu.be/hhbHMY0rvv8?t=16214)
@@ -27,15 +59,39 @@
 					While Partytown provides the ability to execute scripts in a separate thread to avoid blocking the main thread, achieving similar functionality with service workers is also possible. Service workers can perform background tasks and handle network requests, effectively offloading processing from the main thread and improving performance.
 					
 					In summary, if you're not using Builder.io or its content editor, and your focus is on general offline capabilities and caching, standard service workers would be a more suitable choice. They offer broader functionality and can be used to optimize the performance and offline experience of your web application.
+	- Optimization
+		- webGPU - to make anything faster ([low support](https://caniuse.com/?search=webGPU))
+		- npm install @next/bundle-analyzer
 - DX 
 	- [[Tailwindcss]]
 	- [json server](https://www.npmjs.com/search?perPage=20&page=0&q=json%20server&ranking=maintenance)
 	- [[Prettier]]
 - UI
+	- tailwind typography plugin
+		- transitions problem
+			-  plugin defaults transitions to 0
+			- so I tried
+				```css
+			  .prose * {
+			
+			    transition-duration: 1000ms !important;
+			
+			  }
+			
+			  .prose > * {
+			
+			    transition-duration: 1000ms !important;
+			
+			  }
+					```
+				- and noticed meaningful differences in the timing. The paragraphs and header text were so much slower to change color.
+			- conclusion
+			- transitions goes hard on GPUs escpecially when so many of them are trigghered at the same time and it may create inconsistencies
+			- so I just used the .prose > * and I was ok with stuff not being consistent (it's almost cool at the end)
 	- [tremor](https://github.com/tremorlabs/tremor) for dashboards
-- FX
-	- particles.js
-	- 3D stuff
+	- VFX
+		- particles.js
+		- 3D stuff
 		- Rendering
 			- [[Three.js]]
 			- babylon.js (more fore game dev) [npm](https://www.npmjs.com/package/@babylonjs/core)
@@ -44,19 +100,21 @@
 			- [gsap](https://github.com/greensock/GSAP) [npm](https://www.npmjs.com/package/gsap) -> 380k - framework agnostic
 			- [anime.js](https://www.npmjs.com/package/animejs) 46k  [npm](https://www.npmjs.com/package/animejs) -> 144k
 - features
-	- [Swiper](https://www.npmjs.com/package/swiper)
-	- [echarts](https://github.com/apache/echarts) [examples](https://echarts.apache.org/examples/en/index.html#chart-type-line)
-	- [driver.js](https://driverjs.com/)
-	- [revealjs](https://github.com/hakimel/reveal.js)
-	- markmap
-		- it asks for 3rd-party-requests over the internet
-		- markmap-cli - less flexibility but simpler
-			- can also manage 3rd-party-requests
-		- render vs view
-			- render - SSR
-			- view - CSR 
-				- the only way to support markmap-toolbar
-		- markmap-toolbar
+	- Drag & drop
+		- [theo](https://youtu.be/gaNLnuwoFRI?t=913)
+	- [[NLP - Natural Language Processing]]
+	- Markdown
+		- [[MDX]]
+		- [[Unified.js]]
+		- markmap
+			- it asks for 3rd-party-requests over the internet
+			- markmap-cli - less flexibility but simpler
+				- can also manage 3rd-party-requests
+			- render vs view
+				- render - SSR
+				- view - CSR 
+					- the only way to support markmap-toolbar
+			- markmap-toolbar
 			- "use client"
 			
 			  
@@ -100,17 +158,36 @@
 			  
 			
 			export default C_MarkmapToolbar
+	- MDX rabbit hole
+		- syntaxt highlighters
+			- [rehype-pretty-code](https://www.npmjs.com/package/rehype-sanitize#use) vs [highlighter.js](https://highlightjs.org/) vs [prism.js](https://github.com/PrismJS/prism) or prism-react-renderer
+				- even if the latters are more famous I'm too lazy to understand how to use them in rsc. 
+				- when I won't be fine anymore w rehype-pretty-code, I'll change it
+		- used
+			- [mdx code highlighting](https://www.npmjs.com/package/highlight.js)
+			- [reading time](https://www.npmjs.com/package/reading-time)
+			- [social icos](https://www.npmjs.com/package/react-social-icons) [docs](https://react-social-icons.com/) alternative: [react-share](https://www.npmjs.com/package/react-share)
+		- not used
+			- frontmatter parser [gray matter](https://www.npmjs.com/package/gray-matter)
+	- Carousel
+		[swiper](https://www.npmjs.com/package/swiper) vs [embla carousel](https://www.npmjs.com/package/embla-carousel-react)
+		[swiper](https://bundlephobia.com/package/swiper@11.1.0) - [embla](https://bundlephobia.com/package/embla-carousel@8.0.0)
+		- [Swiper](https://www.npmjs.com/package/swiper)
+	- [echarts](https://github.com/apache/echarts) [examples](https://echarts.apache.org/examples/en/index.html#chart-type-line)
+	- [driver.js](https://driverjs.com/) - unmaintained [22k](https://github.com/kamranahmedse/driver.js)
+		- unmaintained sadly
+			- ![[Pasted image 20240803193804.png]]
+	- [revealjs](https://github.com/hakimel/reveal.js)
+	
 	- [react email](https://react.email/) -   e-mail crafter, not sender
 	- for next.js
 		- [next-sitemap](https://www.npmjs.com/package/next-sitemap)
-- Optimization
-	- webGPU - to make anything faster ([low support](https://caniuse.com/?search=webGPU))
-	- npm install @next/bundle-analyzer
+
 - API
 	- graph base
 		- [img](https://youtu.be/cXlxMP9PU8I?t=106)
 			- ![[Pasted image 20230805143743.png]]
-- Unreleated
+- non-website
 	- AI
 		- By microsoft
 			- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
@@ -124,14 +201,10 @@
 	- C/C++
 		- [Vcpkg by microsoft](https://github.com/microsoft/vcpkg)
 
-- MDX rabbit hole
-	- syntaxt highlighters
-		- [rehype-pretty-code](https://www.npmjs.com/package/rehype-sanitize#use) vs [highlighter.js](https://highlightjs.org/) vs [prism.js](https://github.com/PrismJS/prism) or prism-react-renderer
-			- even if the latters are more famous I'm too lazy to understand how to use them in rsc. 
-			- when I won't be fine anymore w rehype-pretty-code, I'll change it
-	- used
-		- [mdx code highlighting](https://www.npmjs.com/package/highlight.js)
-		- [reading time](https://www.npmjs.com/package/reading-time)
-		- [social icos](https://www.npmjs.com/package/react-social-icons) [docs](https://react-social-icons.com/) alternative: [react-share](https://www.npmjs.com/package/react-share)
-	- not used
-		- frontmatter parser [gray matter](https://www.npmjs.com/package/gray-matter)
+
+
+
+
+
+
+

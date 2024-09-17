@@ -1,7 +1,7 @@
 [[Syntethizer]]
 Education business
 
-Broad overview of [[CC flow]]
+Broad overview of [[fCC]]
 
 - What? - Get traffic/audience on socials w no niche to pitch offers - [src](https://youtu.be/BZ2nSULolKI?t=969)
 	- share systems to achieve *your* goals based on *your* identity
