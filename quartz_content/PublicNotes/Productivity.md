@@ -1,24 +1,31 @@
-#tier1 
-### If you're not growing you're dying
-- prerequisite: [[Introspection]] 
-- how?	
-	- [[HT focus]]
-	- [[HLL]]
-	- [[Critical thinking]]
-	-
-	- Multipliers
-		- what - ideas that help you gain better results in any field
-			- like [[Atlas]], every note on [[Zettelkasten]] and the 4 pillars of life
-		- how?
-			- to find them
-				- Use [[Introspection]]
-					- What would help me best to obtain what I want in life?
-						- asking how to gain your what
-				- [[HT research]] conflicting and new ideas
-				- [[Relationships]] to get feedback, validation and data
+- prerequisite: [[Int]] 
 
-- Archive
+- [[Critical thinking]] get/process info
+- mantain
+	- [[Motivation]]
+	- [[HT focus]]
+-
+- [[Multipliers]]
+
+- a-chived
 	- already synthetized
+		### If you're not growing you're dying
+		- 
+		- Basics
+			- Self help
+				- habits are solutions to problems you might not have
+				- what?
+					- synthetized and practical info from areas like psychology, sociology, and philosophy
+					- cons
+						- stay aware of bro science & oversemplification
+						- Because it's synthetized it's harder to
+							- understand why we do these things
+							- modify them
+							- appreciate them
+							- share them w our own twists
+							-
+							- because we don't have the fundamental pieces, like learning a song through tabs instead of sheet music.
+								- You play it, you don't understand it
 		- Tools
 			- [[Second brain]] with [[Zettelkasten]] if needed
 			- [[App - software - tools]]
@@ -41,3 +48,22 @@
 					- img
 						- ![[Pasted image 20230619021509.png]]
 				- time blocking
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tier1 

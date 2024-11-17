@@ -4,9 +4,9 @@
 	- [[Mindmaps]]
 	- [[Second brain]]
 - Techniques
+	- [[Prestudy]]
 	- [[Interleaving]]
 	- [[Skimming]]
-	- [[Prestudy]]
 - Logic frameworks
 	- decision tree
 		- ![[Pasted image 20230615225028.png]]

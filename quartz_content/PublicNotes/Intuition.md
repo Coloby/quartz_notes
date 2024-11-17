@@ -1,0 +1,22 @@
+- what? gut feeling, knowing without conscious usage of the mind
+	- having a feeling or impression about something without being able to logically explain why
+	- quick, automatic judgments/insights
+- why?
+	- [[Quick thinking]]
+	- [[Creativity]]
+	- [[emotional intelligence]] - reading cues/emotions
+	- Unconscious access & processing of [[Subconscious]] info
+		- Pattern recognition based on past experiences
+		- Using [[Predicting]] unconsciously getting conclusions
+			- e.g. mechanics/doctors finding the problem in seconds
+	-
+	- spiritual/mystical source of knowledge
+
+- beofre execution of conclusions
+	- ground them at least partially with reasoning
+		- solves the reliability, accuracy, biases problems of intuition
+- Grow it
+	- extensive experience solving similar problems over time
+
+- n
+	- intuition contradicts rationality or complements it?

@@ -3,6 +3,8 @@
 [[Onboarding]]
 https://www.indiehackers.com/
 
+name of agency? [-](https://youtu.be/Kj0RL9Xo3Q8?t=98)
+
 - Give option to select a template if he wants
 - 0 to 1000
 	- [Target small business](https://youtu.be/8BlD4yI52ag?t=149) - reccommend you to their friends

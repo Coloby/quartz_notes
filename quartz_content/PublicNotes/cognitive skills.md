@@ -1,0 +1,5 @@
+- [[Intuition]]
+- [[Quick thinking]]
+- [[Intellect]]
+- Working Memory - temporarily holding information for processing
+- pain tolerance/threshold

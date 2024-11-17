@@ -1,1 +1,3 @@
 - [fonte](https://youtu.be/1KKEzRMnkng?t=561)
+- what? doesn't matter how hard you work, quality & direction needed
+	- Penny wise and pound foolish

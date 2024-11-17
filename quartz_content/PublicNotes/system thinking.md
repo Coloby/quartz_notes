@@ -1,0 +1,30 @@
+- [[overviewing]]
+-
+- Narrower related point of views
+	- emergence - examining only high level parts
+		- doesn't focus on other parts of system
+		- Kind of like holism & [[Holistic thiking]]
+	- reductionism - examining only lower level parts
+---
+##### how? 
+- Generally
+	- Every unit interact & depend w its siblings & other unit types
+		- changes with time
+		- Lower & Higher level parts
+			- have their own purpose that might not derive from the other
+		- Casuality - cause-effect behaviours
+			- Usually non-linear & operating at different levels
+			-
+			- Feedback loops
+				- Changes in one part of the system affect other parts, creating cyclical relationships.
+			- history of a system influences its current & future state
+			- Local changes can cascade to affect the entire system.
+			- Effects can influence their causes
+			- Thresholds can be trigghered by slight changes
+		- e.g.
+			- mini wholes interact with components, other mini wholes, the whole, and meta wholes
+- Units
+	- components
+	- mini wholes / emergence
+	- wholes
+	- can we create meta-wholes?

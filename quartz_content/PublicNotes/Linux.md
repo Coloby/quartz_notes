@@ -1,5 +1,5 @@
 - Discovery
-	- [[Lin fixer]]
+	- [[Lin troubleshooting]]
 	- arch
 		- TPM? it can lock you out
 		- xresources
@@ -32,16 +32,30 @@
 	- Kali Linux On Android 
 		[Device NO ROOT Easily, Kali Linux On Android](https://www.youtube.com/watch?v=1YNRA0S1pZw&ab_channel=Haxoid)
 
+- [[lin App-Software]]
+- [[Lin Distros]]
+- [[Lin troubleshooting]]
+-
 - [[From Windows to Linux]]
-- [[Install arch]]
-	- Specific distro experience
-		[[Come installo ubuntu]]
-		[[Kali linux]]
-		[[Linux mint]]
 - Other
-	- [[Linux compatibility]]
+	- [[Linux software compatibility]]
 	- [[WSL (Windows Subsystem for Linux)]]
 	- [[Distrobox]]
+	-
+	- 2
+		- [[Lin audio shorcuts]]
+		- set default file browser
+			xdg-mime query default inode/directory
+			xdg-mime default thunar.desktop inode/directory
+			jxdg-mime query default inode/directory
+		- understand which key you're pressing
+			- sudo showkey
+		- terminal tricks
+		- make folders
+			![[Pasted image 20240922151845.png]]
+		cd -
+		tail -f logfile.log
+---
 
 - Mentors
 	- [Mental Outlaw](https://www.youtube.com/@MentalOutlaw/videos)
@@ -101,7 +115,7 @@
 		- [[Lin folders-file structure]]
 		- [[Partitioning]]
 		- [[Package managers]]
-		- [[Lin fixer]]
+		- [[Lin troubleshooting]]
 		- [[lin security]]
 		- [[systemctl]]
 	- Scripting

@@ -31,7 +31,7 @@
 				- document your process & publicize it trough videos blogs etc 
 			- choose 
 			- The offer (product/service)
-			- [[Niche market]] trough [[Introspection]] etc
+			- [[Niche market]] trough [[Int]] etc
 		- Freelance providing your service free and then monetize it 
 			- Your pay are reviews at the start.
 				- Build authority through great work, and start asking money only after (like 3 projects). 

@@ -4,49 +4,50 @@ description: There you can find my .md notes :)
 ---
 
 ## Overview
-- What is this?
-  - Sharing your digital notes on the internet is a practice called [digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc). That's what I'm doing with this website 
-  - I'll update this website every 3 weeks
-  - Last update: 25/Jun/2024
-- Why?
-  - Serendipity and many other stuff I'm too lazy to write here
-  - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about this & more
-- Disclaimers - These notes are made for me first, not for the public, but still shared
-  - Don't take everything I write as truth
-  - Most images don't work for now :P
-  - If you find Italian stuff, too bad for you. 90% Of these notes are english anyway
+- What is this? [Digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc)
+  - Sharing my personal digital notes to the internet. These notes are made for me first, not for the public, but still shared anyway
+  - Similar to how wikipedia works, notes are connected with each other through links
+  - Only a portion of my 800 notes is shared here
+  - I'll update this website 1 time a month
+    - Last update: 17/11/2024 (day/month/year)
+- Why this exist? To help & attract people with similar interests as me
+  - Letting people know more [about me](https://edondigital.vercel.app/about)
+    - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about anything you find here & more
+  - Serendipity 
+- From where I should start? look the map and let your curiosity guide you!
+  - Go to [[vault map]] to get a simple overview of all of my notes, or look here
+    - 1st block
+      - ==[[Int]]== - Introspection
+      - [[Principles]]
+      - [[HLL]] - Higher Order Learning (How to learn better)
+      - [[Critical thinking]] - Tools/Ideas to think better
+      -
+      - [[Productivity]]
+      - [[mind building]] - mind, culture, & knowledge hub
+    - 2nd block
+      - ==[[Money]]==
+      - [[CS]] - Computer science
+      - [[Code]] - Programming (mainly web development)
+      -
+      - [[DE]] - Design (mainly web design)
+      - Still not shared but filled w info
+        - [[MU]] - Music (mainly guitar)
+        - [[BU]] - Business
+        - [[CC]] - Content Creation
+        - [[Sho]] - Shooting with cameras
+  - For the best viewing experience, [download my notes](https://github.com/Coloby/quartz_notes/archive/refs/heads/v4.zip) and view them with [Obsidian](https://obsidian.md/) or your favorite markdown viewer
+  - To know more: [[Understand my vault]] 
+  - Disclaimers
+    - Don't take everything I write as truth
+    - Most images don't work for now :P
 - Important links
-  - My personal website: https://edondigital.vercel.app
-    - no soul-less portfolio, and here you can find most stuff about me
-  - This website is open source: https://github.com/Coloby/quartz_notes
-    - you can also download my notes that link
-## Helpful notes to make sense of my vault
-- fonte = source
-  - I'm mentioning the source of a particular topic
-- discovery
-  - you'll find this list on top of files. Its items are useful resources to go deeper into the note's topic
-- archived
-  - stuff I no longer count as relevant but are there just because I don't want to delete them
-- why don't you use headings?
-  - I hate them. They take too much space, have strange behaviors when folding stuff, and take too much brain power to make them (##### = heading 5)
-  - just fold the lists and here you go, you have "headings"
-- why do you have only a public folder?
-  - I'm lazy, I organize notes through connections, not folders
-## Most important notes
-- more info
-  - That's how I mentally think about my entire knowledge
-  - These are higher-level notes. It means that they are really important to me and are likely connected to many other notes
-- My life principles
-  - [[Minimalism]]
-  - [[Predicting]]
-  - [[Pragmatism]]  
-- Mindset
-  - [[Introspection]]
-  - [[Productivity]]
-    - [[HLL]] (Higher level learning, stuff to learn faster & better)
-    - [[HT focus]]
-    - [[Critical thinking]]
-- Freedom
-  - [[Codes]]
-  - [[DE]] (Design)
-  - [[CS - Computer Science]]
+  - This website and its notes are free & open source! -> [github](https://github.com/Coloby/quartz_notes)
+  - [My personal website](https://edondigital.vercel.app)
+    - here you can find most stuff about me 
+    - [it's also free & open source](https://github.com/Coloby/Personal-Blog) :)
+  - Related free resources
+    - How to start taking notes with obsidian
+      - Download obsidian from the [official website](https://obsidian.md/)
+      - [Download my Obsidian Starter vault](https://edondigital.vercel.app/assets/routes_specific/downloads/obsidian/obsidian_starter.zip) and open it with obsidian. More info about beginner kits [here](https://edondigital.vercel.app/downloads/beginner-kits)
+    - How to share your notes like I did: [[Quartz]]
+  - [[Support me]] & [Contact me](https://edondigital.vercel.app/contact)!

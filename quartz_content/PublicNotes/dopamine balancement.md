@@ -1,0 +1,102 @@
+- what?
+	- hormone and neurotransmitter produced in the brain
+	- Modulating pleasure, reward, and motivation
+	- Influencing mood, emotion, and cognition
+- why?
+	- Normal levels
+		- pleasure, motivation, alertness, and focus
+- if not
+	- you'll start thinking that life is boring *compared to* something that is less purposeful but funnier short-term
+	- abnormal levels
+		- less stuff makes you motivated
+		- anxiety, depression, or impaired motor control.
+	- linked to
+		- Attention deficit hyperactivity disorder (ADHD)
+		- Drug addiction
+		- Parkinson's disease
+		- Schizophrenia
+
+- dopamine nation book - dopamine in addictions
+
+- The cycle [-](https://youtu.be/K-TW2Chpz4k?t=2157)
+	1. craving
+		- peak - more often, faster, higher, it reaches = ++drop
+			- [averages](https://youtu.be/K-TW2Chpz4k?t=2697) of different substances & behaviours
+			- spikes lasts minutes to an hour sometimes longer [-](https://youtu.be/K-TW2Chpz4k?t=3886)
+			- frequent big waves let the water/dopamine go out of the pool
+				- the baseline recedes
+		- drop - after a peak domapine goes under baseline
+			- we start feeling the pain of not having that thing, which motivates us even more [-](https://youtu.be/K-TW2Chpz4k?t=1391)
+			
+			- the deeper, the more the need to restore baseline
+		- recovery - linearity between peak & drops
+			- GPT
+				- peak & drops are non-linear
+			- huberman [-](https://youtu.be/K-TW2Chpz4k?t=6340)
+				- how high is the peak is linear to how deep is the drop
+				- how steep is the drop, is linear to how much time you'll need before recovering the motivation
+				-
+				- procrastinating
+					- doing other stuff instead of the one you need to do. Untile the latter becomes so urgent that the motivation comes in only because of the anxiety of failure being that close
+				- fastest way to recover motivation [-](https://youtu.be/K-TW2Chpz4k?t=6388)
+					- doing something that gives you even more pain than the one you're feeling while being on the lowest point of the drop
+					- should be
+						- tangential/related to the goal you're procrastinating about
+						- sucks, is not that you don't want to do it, you ACTUALLY would prefer not to do it, to steepen that drop
+						-
+						- focus meditation in the middle of a drop is an example [-](https://youtu.be/K-TW2Chpz4k?t=6797)
+					-
+					- makes sense if you go back to definition of a drop
+						- it is the point where you feel the most need/motivation to free your pain
+						- the deeper, the more motivation you'll have to go back to baseline at least
+		- craving [-](https://youtu.be/K-TW2Chpz4k?t=1678)
+			- the desire to get that specific desire - peak
+			- the need to free the pain of not having it - drop
+		-
+		- initial motivation
+	2. clues [-](https://youtu.be/K-TW2Chpz4k?t=1869) time between crave & getting it
+		- optimistic - increases dopamine & drops again
+		- pessimistic - decrease
+		-
+		- Growth mindset - you can't do that thing well, yet
+		- clues continue to appear until reward phase [-](https://youtu.be/K-TW2Chpz4k?t=1995)
+			- these peaks & highs after phase 1 adjust dopamine continously as you persue that goal
+		- Explains how certain people do great in all context
+			- them believing this thing is going to happen will give them even more motivation to achieve it
+		- even this stage alone can upgrade dopamine baseline
+		-
+		- motivation of the persuit (between stage 1 & 3)
+	3. reward & expectation [-](https://youtu.be/K-TW2Chpz4k?t=1594) dopamine goes...
+		- more than met = above baseline temporarely
+		- are met = goes to baseline again
+		- aren't met = below baseline temporarely
+		-
+		- motivation after getting/not the reward
+	4. Remember & learn [-](https://youtu.be/K-TW2Chpz4k?t=2206) what did/didn't led to a reward
+		- reinforce/deteriorate the loop
+		-
+		- motivation that will influence next time you get into loop
+			- might need more loops before being relevant
+- recovery 
+	- of dopamine levels from addiction is ~30d [-](https://youtu.be/K-TW2Chpz4k?t=3054)
+	- some stuff 
+		- can't be quit cold turkey
+		- need to be limited but not removed
+	- n - repeaiting bad behaviour
+		- you won't get an higher peak repeating it in the same way, but you'll still get drops 
+
+- Tools
+	- Maximize amount of dopamine in-pool
+		- sleep
+		- Non-Sleep Deep Rest (NSDR) +65%
+		- Nutrition & Tyrosin [-](https://youtu.be/K-TW2Chpz4k?t=3465) [2](https://youtu.be/K-TW2Chpz4k?t=4401)
+		- sunlight (especially) [-](https://youtu.be/K-TW2Chpz4k?t=3514)
+		- exercise
+		-
+		- deliberate cold exposure up to the neck [-](https://youtu.be/K-TW2Chpz4k?t=3933) 
+			- early in the day & not after exercise [-](https://youtu.be/K-TW2Chpz4k?t=4065)
+			- 37 - 55 farhenit
+		- warm exposure for long time [-](https://youtu.be/K-TW2Chpz4k?t=4100)
+		- legal drugs [-](https://youtu.be/K-TW2Chpz4k?t=4204)
+	- Rewards after positive behaviour
+			- never try to be consistent with rewarding yourself [-](https://youtu.be/K-TW2Chpz4k?t=5525)

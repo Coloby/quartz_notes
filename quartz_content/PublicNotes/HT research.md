@@ -1,4 +1,3 @@
-- [[Learning methods]]
 - Dorks
 	- discovery
 		- https://github.com/topics/twitter-dorks
@@ -10,7 +9,7 @@
 
 - Setup
 	- Browser
-		- alwyas make sure from where the results are taken from e.g. US
+		- make sure from where the results are taken from e.g. US
 - filter the useless
 	- [[Skimming]]
 	- don't learn from: who don't use it himself || don't know the theory

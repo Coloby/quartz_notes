@@ -1,7 +1,6 @@
-[[lin App-Software]]
+[[Lin Distros]]
 
-- Choose distro & minimal - [[Scelta sistema operativo]]
-	- [[OS - Options]]
+- minimal
 	- [[Package managers]]
 	- [[Firmware-Hardware]]
 	- [[Partitioning]]
@@ -118,7 +117,7 @@
 				`cp /etc/X11/xinit/xinitrc ~/`
 				
 				[  
-				](https://www.phind.com/search?cache=olrj1x62lgkn3z3iffkit46t)
+				
 			
 			
 			startx

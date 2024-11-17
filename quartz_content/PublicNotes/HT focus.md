@@ -4,16 +4,9 @@
 	- [[Predicting]] your own best strategy
 	- [[Relationships]] accountability & support
 
-- Flow
-	- [[Rituals]] & [[Flowmodoro]]
-	- [[Time vs focus management]]
-	- [[Schedule making]]
-- Rules
-	- optimization - [[Point of diminishing returns]]
-	- urgency - [[Parkinson's Law - expectations]] 
-- Other
-	- energy types - [[Gas to take action]]
-	- be - [[Conditioning]]
+- [[Parkinson's Law - expectations]] - urgency
+- [[Motivation]]
+- [[Conditioning]]
 
 - less
 	- Ambience optimization
@@ -21,6 +14,7 @@
 		- based on tasks - e.g. light a lamp only to study
 	- batching - grouping similar tasks to do togheter.
 	- one time only stuff - pag 196 [[Atomic habits]]
+
 - Books
 	- to read
 		- [[Flow book]]
@@ -28,3 +22,10 @@
 	- read
 		- [[Deep Work]]
 		- [[Atomic habits]]
+
+- Archived
+	- already in other more important places
+		- [[Rituals]] & [[Flowmodoro]]
+		- [[Discipline]]
+		- optimization - [[Point of diminishing returns]]
+		- [[Time vs focus management]]

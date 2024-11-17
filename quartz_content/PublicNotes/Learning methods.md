@@ -10,23 +10,24 @@
 		- Blogs
 		- Essay writings
 	- [obituaries](https://www.nytimes.com/international/section/obituaries)
+	- do you want the course or the curriculum?
 
-- Sources to learn sorted by "objective" quality
-	- [[Pragmatism]] testing
-		- Usually it should not be the first method you use
-			- [[Mentor]]s may guide you preventing you to make useles mistakes, but still makes you train on the field after doing so
-		- only worth it when...
-			- preparation has been needed and made
-				- there might be mistakes that are destructive and should be prevented
-				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
-			- if you fail, the lesson you'll learn will be *really* valuable
+- Sources to learn sorted by (convenience & quality)
+	- Your mind - never underestimate youself
+		- why? wrong or right it's going to be your unique conclusion entirely based on the context of yourself
+		- Past knowledge - process&update to the new one - *regularely*
+			- like N & L notes or discovery sections
+		- Use principles & widsom - chess board playing w [[Predicting]]
+	- AI - pretend it's your free of charge mentor
+		- even if quality is aurguable, it's really fast to get answers
+	- Quick search online
+		- Specific sources - if searching pixelart, go to [pixilart.com](https://www.pixilart.com/)
+		- Or general yt channels/videos
+			- even in 2x it might be not productive compared to using [[HLL]] on a book/common topic w AI
+		- language/culture of info is relevant
+			- countries/cultures are always specialized in something
 	- facts vs opinions - empirical data (higher/lower level)
 		- take care of [[Biases and Fallacies]] w [[Critical thinking]] and you'll find something really close to the truth
-	- Your mind - never underestimate youself
-		- Past knowledge - process&update to the new one - *regularely*
-		- Present situation/life - as a chess board w [[Predicting]]
-			- Resources
-			- Risks
 	- Relationships - People
 		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
 			- Any other category might not did/make what you want to make, **mentors did instead**, they have experience
@@ -73,22 +74,27 @@
 		- connect the dots - holicism
 		- Great [resource](https://youtu.be/tHTaIDRVI7E)
 			- mentor, peer, mentoree, and why private communities are important
+	- [[Pragmatism]] testing
+		- Usually it should not be the first method you use
+			- [[Mentor]]s may guide you preventing you to make useles mistakes, but still makes you train on the field after doing so
+		- only worth it when...
+			- preparation has been needed and made
+				- there might be mistakes that are destructive and should be prevented
+				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
+			- if you fail, the lesson you'll learn will be *really* valuable
 	- reading - often useless without [[HLL]] & action
-	- AI - pretend it's your free of charge mentor
-	- Quick search online - valuable content can be found
-		- Usually on Certain channels/videos on yt
-		- e.g. - if searching pixelart, bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
-	- Courses - cost effective non-specific structured learning
+		- textbooks *might* be better
+	- Courses - cost effective non-tailored structured learning
+		- Great quick overview, but do [[overviewing]] first
 - focus list - sorted by quality
-	- taccuino
-	- [[Notes]]
+	- [[Notes]] - if it's really important, it should be there
 	-
 	- open browser tabs (not always so good)
 	- mentors - [[Steal like an artist - book]]
 		- bookmarks/e
 		- courses - [udemy](https://www.udemy.com/home/my-courses/learning/)
 		- books
-		- [[Learning resources]]
+	- taccuino
 	-
 	- Shallow work
 		- p1
@@ -104,7 +110,6 @@
 			- Inspiration in coding bookmarks (sick)
 			-
 			- read articles
-			- [[Learning resources]]
 			-
 			- Other
 				- todoist

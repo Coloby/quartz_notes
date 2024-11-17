@@ -4,14 +4,24 @@
 [[Brainstorming]]
 [[Design thinking]]
 [[Discovery]]
+[[Look-Beauty-Appearence]]
 
 - Discovery
+	- - nap = creativity?
+		- luce calda = creativity?
+		- study [[Creativity]]
+		- check your intrests and finally combine them [[Specialist VS Generalist]]
+			- marketing?
+			- coding
+			- self improvement
+			- how to study
+			- what's the best way for a programmer to study?
 	- mixing stuff - name of category? sub categories? other stuff??
 	- [brainstomring might not be good](https://youtu.be/IfESj3jTZ6Q?t=1068)
 	- Divergent thinking, [[Design thinking]] [[Brainstorming]] science don't really work & pcs can do them much better
 	
 	- [he says that's still using logic w randomness](https://youtu.be/IfESj3jTZ6Q?t=924) and no human is creative like this
-		Convergent and divergent thinking Divergent is better to come with ideas and convergent to filter them. If that's so, isn't one of the best ways to solve a problem solving it backwards and then evaluating the soltions? you come with ideas looking at the big picture (divergent) then you evaluate those in more detail (convergent) then you re-evaluate ideas coming up with other ones (divergent) and then you re-evaluate this refining process (convergent)
+		
 	[[Risk assessment]]
 	- conformity is the opposite of courage
 	ideas come not before the problem but while resolving it bcs varables arise

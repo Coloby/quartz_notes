@@ -25,6 +25,8 @@
         Transformer-based models, such as BERT or GPT-3
 
 - AI usecases
+	- asking to put groups of tabs from browser to obsidian/tablesz
+	- asking about your e-books
 	- Let AI summarize everything
 	
 	- who are the most related mentors from my notes to learn from how to X? also give videos/links

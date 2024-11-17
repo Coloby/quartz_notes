@@ -1,0 +1,2 @@
+- [[Exploit negative emotions]]
+- Use your trauma as a fuel

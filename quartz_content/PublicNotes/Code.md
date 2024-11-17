@@ -1,13 +1,16 @@
-- [[fCode]]
+- why? [[why Coding job evaluation]]
 - [[Open source]]
 
 - Types
+	- [[XR]] - [[VR]]/[[AR]]
+	- [[AI]]
+	-
+	- [[CLI dev]]
 	- [[Game dev]]
 	- [[Extensions dev]]
-	- [[CLI dev]]
 - Personal
-	- [[Code Thoughts]]
 	- [[Code meta]]
+	- [[Code Thoughts]]
 	- [[Code principles]]
 	- [[Code proj]]
 - Tech

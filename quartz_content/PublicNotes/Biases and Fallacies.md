@@ -1,7 +1,7 @@
 https://www.skool.com/adonis-gang/full-guide-to-getting-smarter
 - Bias - tendency to prefer a specific idea even if not logical
-	- [[Any benefit bias]]
 	- [[Dunning-Kruger bias]]
+	- [[Any benefit bias]]
 	- [[Survivor Bias]]
 - Fallacy - idea that even though it seems, is not logical
 	- [[Naturalistic fallacy]]

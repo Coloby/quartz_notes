@@ -1,8 +1,7 @@
 #tier2
 - what? Higher Level Learning
-	- [[nHLL]]
-- Why? - [To remember and think better](https://youtu.be/--Hu2w0s72Y?t=1682)
-- Prerequisite: [[Productivity]]
+- why? - [To learn, remember, and think better & faster](https://youtu.be/--Hu2w0s72Y?t=1682)
+- prerequisite: [[Productivity]]
 
 - How we store memory 
 	- ![[Pasted image 20230613224745.png]]
@@ -32,8 +31,8 @@
 		- Approach - [[Learning methods]]
 		- Filter - [[HT research]]
 		- Arrange - [[Prestudy]]
-	2. Process - encoding w cognitive load - BIS
-		- [[Bloom's principles]] - [[Predicting]] & [[Chunking]] to bigger picture & past ideas
+	2. **Process** - encoding w cognitive load - BIS
+		- [[Bloom's principles]] - [[Predicting]] & [[Chunking]] to bigger picture & past ideas like N & L notes or discovery sections
 		- [[Inquiry learning]]
 		- [[Study techniques]]
 	3. Pull - [[Retrieval-Revision techniques]]
@@ -43,18 +42,19 @@
 		- shelfs are needed to categorize the books
 		- The way you arrange the books into the shelfs and in the library itself is encoding
 		- You use retrieval to find a book in a specific shelf
-	- archived 
-		- old1
-			- Chose where to get info trough [[Cone of learning]]
-			- [[Prestudy]]
-			1. Where to put info for optimal retrieval?
-				- Evaluating and [[Chunking]] it to the bigger picture and past knowledge.
-			2. How to write it for better encoding?
-				- Cognitive load is used to enhance encoding often with [[Bloom's principles]] supplemented with [[Inquiry learning]] and personal [[Study techniques]]
-				- Always be concise and clear
 
 - semi usefull vocabs
 	- deep processing - the product of higher order learning
 	- synthesizing - like evaluating in the [[Bloom's principles]]
 - fonti utili
 	- [perchè bloom's taxonomy è importante?](https://www.youtube.com/watch?v=q7lY-FytO3U) [spiega il perchè in sintesi](https://youtu.be/tkkey3ADfCI?t=487)
+
+- archived
+	- [[school]]
+	- Chose where to get info trough [[Cone of learning]]
+	- [[Prestudy]]
+	1. Where to put info for optimal retrieval?
+		- Evaluating and [[Chunking]] it to the bigger picture and past knowledge.
+	2. How to write it for better encoding?
+		- Cognitive load is used to enhance encoding often with [[Bloom's principles]] supplemented with [[Inquiry learning]] and personal [[Study techniques]]
+		- Always be concise and clear

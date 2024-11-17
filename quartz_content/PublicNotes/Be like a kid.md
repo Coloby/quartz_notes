@@ -1,3 +1,5 @@
+- [[The kid and the ice-cream]]
+
 - How?
 	- Kill assumptions - [a box is never just a box](https://youtu.be/CrGpipgcfi4?t=416)
 	- [If something works in a way why not swap it?](https://youtu.be/KPlJcD-o-4Q?t=7546)

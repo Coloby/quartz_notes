@@ -1,5 +1,7 @@
-#tier2 
 - Discovery
+	- https://www.youtube.com/watch?v=XIAiC7mLjBU
+		- communication theory
+		- instructional design
 	- [Leonard da Vinci](https://www.youtube.com/watch?v=o0UqD4UxBTE)
 	- Polymath
 		combine ideas from different fields
@@ -22,36 +24,53 @@
 				- Killing ideas that gives drawbacks with outcomes and preferring the ones which only gives outcomes
 		- Ethical Decision-Making
 		- [Bayes theorem](https://www.youtube.com/results?search_query=Bayes%27+Theorem)
+
 - what? - Reaching conclusions rationalizing and dominating emotions
-- Why? [fonte](https://www.youtube.com/watch?v=ikjNj7CfeUI) 
- 
-- In deph
-	- [[Problem solving]]
-	- [[Biases and Fallacies]]
-	- [[HT Aurgument]]
-- less
-	- logic vs rationality
-		- logic - objective, empirical and sound aurgumentations
-		- rationality - being logic based on subjective beliefs or [[Introspection]]
-	- Thinking styles
-		- Cognitive Approaches:
-			- Top-Down - bigger picture to break it down into specific details. 
-				- deduction and organizing information hierarchically.
-			- Bottom-Up - specific details to get bigger picture
-				- induction and building understanding from the ground up.
-		- Decision-Making Styles: [fonte](https://www.youtube.com/watch?v=cmBf1fBRXms)
-			- Divergent Thinking- generating a wide range of ideas or possibilities.
-				- relational, creativity, exploration, and multiple viewpoints and solutions, creative risks.
-			- Convergent Thinking - evaluating & selecting ideas criteria based
-				- linear, analysis,  judgment, and single solutions.
-		- Ideological Perspectives:
-			- Liberals - open to change, diverse viewpoints, and social progress. 
-				- individual rights and social equality.
-			- Conservatives-tradition, stability, & preserving existing institutions. 
-				- order and individual responsibility.
+- why? [v](https://www.youtube.com/watch?v=ikjNj7CfeUI) 
+
+- The cycle - order of execution and iteration suggested
+	1. [[Divergent Thinking]], [[HLL]] - get options
+	2. [[Convergent Thinking]] - pick best one or process them
+	3. both
+		- [[Bloom's principles]]
+		- [[system thinking]]
+		- [[Creativity]]
+	---
+	- [[mind building]]
+		- [[cognitive skills]]
+		- [[Culture]]
+	- Related/Useful
+		- [[Psychology]]
+		- [[Philosophy]]
+		-
+		- [[Economics]]
+		- [[Political science]]
+		- [[Life maps]]
+- Theory
+	- [[Thinking styles]]
+	- [[Thinking Vocabs]]
 
 - fonti
 	- Books
 		[[Thinking fast and slow]]
 	- videos
 		- [Creativity: Why Brainstorming & Design Thinking Does't Work Angus Fletcher](<Creativity: Why Brainstorming And Design Thinking Does Not Work Angus Fletcher>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tier2 

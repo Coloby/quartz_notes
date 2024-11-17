@@ -1,7 +1,7 @@
 - why?  enhances:
 	- cognitive load
 	- [[Predicting]]
-	- avoiding boredom and tireness thanks to different or similar topics
+	- avoids boredom and tireness thanks to different/similar topics 
 	- spacing to kill forgetting curves
 - how?
 	- Choose order & quantity of topics if you need:

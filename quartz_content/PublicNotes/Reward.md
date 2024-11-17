@@ -1,0 +1,7 @@
+- doing what you frequently already do [v](https://www.youtube.com/watch?v=dUUwFE7cGXc)
+	- if not, why you're not doing the best thing for u already?
+		- instead of coping
+		- alternatives are fulfilling and purposeful or just "sexy"?
+	- We confuse the reward for the "hustle" with wanting to rest
+		- after finished the MIT, rest or do/get positive stuff
+		- reward shouldn't be unhealthy - [bad habits are self harm](https://youtu.be/bsZq4OpnKZw?t=7385)

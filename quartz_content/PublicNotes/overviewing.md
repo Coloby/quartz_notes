@@ -1,0 +1,29 @@
+- what? [[system thinking]] applied to study [sung](https://youtu.be/3Z7frfjiEcM?t=669)
+- why? - [v](https://www.youtube.com/watch?v=eZWP-eA-lCg) build a structure to build less familiar information from
+##### How?
+- Create overview of main keypoints/components of a subject/system
+	- [[Divergent Thinking]]
+	- start from knowledge you relate/know most
+		- to get the first bunch of dots fast
+	- [skip details](https://youtu.be/tkkey3ADfCI?t=911)
+- evaluate them w each other
+- give+validate *importancy* to invest/not focus/time in X component
+- Compare components to entire topic/system
+- i
+	- ask AI - Explain me the fundamentals & vocabulary of X
+	- Job/roles based on that
+	- curriculums
+	- fanciest or objective worthy things
+	- the masters of that field
+	- how it relates/mixes with this other field?
+	-
+	- how can I use this part of this field in different ones/scenarios?
+	- history of it to reveal...
+		- patterns, turning points, and areas of significant change
+	- courses
+	- mindmap
+	- cheatsheet
+	- understand what & why of 
+		- the main topic
+		- main subcategories
+		- main solutions/tools

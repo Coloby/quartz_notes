@@ -1,14 +1,11 @@
 - Bloom's taxonomy - all is sorted by importance - [fonte](https://youtu.be/VcT8puLpNKA?t=243) [newSrc](https://youtu.be/1xqerXscTsE)
-	- clarifications
+	- legend
 		- With "info" most of the time I'm referring to past knowledge and THEN about the topic itself
 		- if you start from high level (always try to do this), the outcomes from lower levels will be included (that's why it's a pyramid) + the ones unique for that level
-	1. Create - innovating trough [[Problem solving]] & steps below
+	-
+	1. Create - innovating trough [[Critical thinking]] & steps below
 		- creating new info from what you know
-	2. [[Predicting]] "PACE"- Make conclusions with [[Critical thinking]]
-		- Predict - w [[Holistic thiking]]
-		- Aurgument - trough fallacies & inconsistency to destroy [[HT Aurgument]]
-		- [[Creativity]] - think with the unknown
-		- Evaluate - if it is, why is more important & how compared to other info? [e.g](https://youtu.be/Mvxbl7Iwep4?t=1164)
+	2. [[Predicting]]
 	3. Analyze "CRED" - understanding on a-steroids
 		- [[Chunking]]
 		- Relate
@@ -58,4 +55,3 @@
 
 
 
-#tier3 

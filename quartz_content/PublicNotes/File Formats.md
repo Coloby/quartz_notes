@@ -31,6 +31,11 @@
 	- AVI
 		- It is compatible with different file formats and several web browsers. There’s a guarantee of high-quality videos from this file format. Microsoft developed this video format, and it can hold both audio and video data.
 - Audio
+- E-books
+	- e-pub - foss e-book format
+	- Proprietary kindle-amazon
+		- azw3 - best kindle format
+		- Mobi - old kindle format
 - Other
 	- DOC - word
 	- DOCX -

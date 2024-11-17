@@ -97,7 +97,7 @@
 	- teach the team about security policies and best practices
 
 - [[DevOps]] 
-	
+
 - System administrator
 	- DevOps but focused and specialized on day to day maintainance rather than continous automation and collaboration
 - AI
