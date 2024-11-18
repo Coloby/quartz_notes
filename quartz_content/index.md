@@ -10,11 +10,11 @@ description: There you can find my .md notes :)
   - Only a portion of my 800 notes is shared here
   - I'll update this website 1 time a month
     - Last update: 17/11/2024 (day/month/year)
-- Why this exist? To help & attract people with similar interests as me
+- Why sharing? To help & attract people with similar interests as me
   - Letting people know more [about me](https://edondigital.vercel.app/about)
     - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about anything you find here & more
   - Serendipity 
-- From where I should start? look the map and let your curiosity guide you!
+- From where should I start? look at the map and let your curiosity guide you!
   - Go to [[vault map]] to get a simple overview of all of my notes, or look here
     - 1st block
       - ==[[Int]]== - Introspection
@@ -30,7 +30,7 @@ description: There you can find my .md notes :)
       - [[Code]] - Programming (mainly web development)
       -
       - [[DE]] - Design (mainly web design)
-      - Still not shared but filled w info
+      - Still not shared but filled with info
         - [[MU]] - Music (mainly guitar)
         - [[BU]] - Business
         - [[CC]] - Content Creation
