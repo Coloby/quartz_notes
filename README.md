@@ -1,17 +1,15 @@
-## Overview
-
 ### what is this?
-My digital garden, or the notes that I want to share with the internet.
+My [digital garden](https://www.youtube.com/watch?v=TDqsr3MNTTc), or the notes I want to share with the internet.
 
-To do it, I'm using [Quartz V4](https://github.com/jackyzha0/quartz), a static-site generator. The default configuration works like a charm, especially if you already like obsidian.
+To do it, I'm using [Quartz V4](https://github.com/jackyzha0/quartz), a static-site generator.
 
 The tool is from [jackyzha0](https://github.com/jackyzha0) but the modifications and notes are from [Ed](https://edondigital.vercel.app/about), the creator of this repo.
 
 ### why?
 
-It was only 20 minutes of setup, and it's SO COOL. 
+It was only 20 minutes of setup, and I love the idea.
 
-I'm too lazy to list the hundreds of benefits, just watch [this video](https://www.youtube.com/watch?v=TDqsr3MNTTc) to get an idea.
+### To get a deeper overview of this project go here: https://edongarden.netlify.app/#overview
 
 ---
 
