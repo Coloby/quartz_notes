@@ -1,4 +1,5 @@
 [[emotional intelligence]]
+[[Mental health]]
 [[Negative emotion to positive outcome]]
 
 [[nEmotional control]]

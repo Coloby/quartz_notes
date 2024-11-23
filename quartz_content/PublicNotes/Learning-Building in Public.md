@@ -1,4 +1,5 @@
 [[share in public]]
+[[digital garden]]
 
 - Discover
 	- [red last vids](https://www.youtube.com/@nicolevdh/videos)

@@ -1,18 +1,18 @@
 
-| Category | Flow      | Now       | Learning    | Inspiration          | Principles   |
-| -------- | --------- | --------- | ----------- | -------------------- | ------------ |
-| [[HLL]]  |           | [[nHLL]]  | [[lHLL]]    |                      | [[Prestudy]] |
-| [[Int]]  |           | [[nInt]]  | [[lInt]]    |                      |              |
-|          |           |           |             |                      |              |
-| [[Code]] | [[fCode]] | [[nCode]] | [[lCode]]   | [[iCode]]            |              |
-| [[BU]]   | [[fBU]]   | [[nBU]]   | [[lBU]]     | [[BU models]]        |              |
-| [[CC]]   | [[fCC]]   | [[nCC]]   | [[lCC]]     | [[iCC]]              |              |
-| [[DE]]   | [[fDE]]   |           | [[lDesign]] | [[iDesign]]          | [[pDesign]]  |
-| [[MU]]   |           | [[nMU]]   |             | [[iMU]] [[iMu vids]] |              |
-| [[Sho]]  |           | [[nSho]]  |             | [[iSho]]             |              |
-|          |           |           |             |                      |              |
-| [[Tra]]  | [[fTra]]  | [[nTra]]  |             |                      |              |
-| [[3D]]   |           |           | [[l3D]]     | [[i3D - visual]]     |              |
+| Category | Flow      | Now       | Learning    | Inspiration          | Principles     |
+| -------- | --------- | --------- | ----------- | -------------------- | -------------- |
+| [[HLL]]  |           | [[nHLL]]  | [[lHLL]]    |                      | [[Prestudy]]   |
+| [[Int]]  |           | [[nInt]]  | [[lInt]]    |                      | [[Principles]] |
+|          |           |           |             |                      |                |
+| [[Code]] | [[fCode]] | [[nCode]] | [[lCode]]   | [[iCode]]            | [[pCode]]      |
+| [[BU]]   | [[fBU]]   | [[nBU]]   | [[lBU]]     | [[BU models]]        | [[pBU]]        |
+| [[CC]]   | [[fCC]]   | [[nCC]]   | [[lCC]]     | [[iCC]]              |                |
+| [[DE]]   | [[fDE]]   | [[nDE]]   | [[lDesign]] | [[iDesign]]          | [[pDesign]]    |
+| [[MU]]   |           | [[nMU]]   |             | [[iMU]] [[iMu vids]] |                |
+| [[Sho]]  |           | [[nSho]]  |             | [[iSho]]             |                |
+|          |           |           |             |                      |                |
+| [[Tra]]  | [[fTra]]  | [[nTra]]  |             |                      |                |
+| [[3D]]   |           |           | [[l3D]]     | [[i3D - visual]]     |                |
 [[iVFX]]
 [[nLin]]
 

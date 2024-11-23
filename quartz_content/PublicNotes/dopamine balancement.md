@@ -58,11 +58,10 @@
 		- optimistic - increases dopamine & drops again
 		- pessimistic - decrease
 		-
-		- Growth mindset - you can't do that thing well, yet
 		- clues continue to appear until reward phase [-](https://youtu.be/K-TW2Chpz4k?t=1995)
 			- these peaks & highs after phase 1 adjust dopamine continously as you persue that goal
-		- Explains how certain people do great in all context
-			- them believing this thing is going to happen will give them even more motivation to achieve it
+		- Optimism & [[Growth mindset]] = Positive clues
+			- helps [[Self control]] in bad situations
 		- even this stage alone can upgrade dopamine baseline
 		-
 		- motivation of the persuit (between stage 1 & 3)
@@ -77,26 +76,28 @@
 		-
 		- motivation that will influence next time you get into loop
 			- might need more loops before being relevant
-- recovery 
-	- of dopamine levels from addiction is ~30d [-](https://youtu.be/K-TW2Chpz4k?t=3054)
-	- some stuff 
-		- can't be quit cold turkey
-		- need to be limited but not removed
-	- n - repeaiting bad behaviour
-		- you won't get an higher peak repeating it in the same way, but you'll still get drops 
+- Theory
+	- recovery 
+		- of dopamine levels from addiction is ~30d [-](https://youtu.be/K-TW2Chpz4k?t=3054)
+		- some stuff 
+			- can't be quit cold turkey
+			- need to be limited but not removed
+	- donts
+		- repeat bad behaviour
+			- you won't get an higher peak repeating it in the same way, but you'll still get drops
+			- amigdala & negative emotions (the ones that still help) will be numb [-](https://youtu.be/xaICKlp9kQc?t=893)
 
 - Tools
 	- Maximize amount of dopamine in-pool
 		- sleep
-		- Non-Sleep Deep Rest (NSDR) +65%
 		- Nutrition & Tyrosin [-](https://youtu.be/K-TW2Chpz4k?t=3465) [2](https://youtu.be/K-TW2Chpz4k?t=4401)
-		- sunlight (especially) [-](https://youtu.be/K-TW2Chpz4k?t=3514)
+		- [[yoga nidra]]
+		- [[morning sun bath]] 
 		- exercise
 		-
-		- deliberate cold exposure up to the neck [-](https://youtu.be/K-TW2Chpz4k?t=3933) 
-			- early in the day & not after exercise [-](https://youtu.be/K-TW2Chpz4k?t=4065)
-			- 37 - 55 farhenit
+		- deliberate cold exposure 
+			
 		- warm exposure for long time [-](https://youtu.be/K-TW2Chpz4k?t=4100)
 		- legal drugs [-](https://youtu.be/K-TW2Chpz4k?t=4204)
 	- Rewards after positive behaviour
-			- never try to be consistent with rewarding yourself [-](https://youtu.be/K-TW2Chpz4k?t=5525)
+		- never try to be consistent with rewarding yourself [-](https://youtu.be/K-TW2Chpz4k?t=5525)

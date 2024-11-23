@@ -1,0 +1,3 @@
+- each thing or entity, before it's creation, possesses an essence or set of essential characteristics that define its true identity, destiny, or purpose when referring to humans
+- there are traits that can be added or removed to something but that something will be the thing that reflects it's essence anyway
+	- a dog can have a tail or not but still being a dog

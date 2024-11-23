@@ -9,32 +9,38 @@ description: There you can find my .md notes :)
 - Similar to how wikipedia works, notes are connected through links or references to other notes
 - Only a portion of my 800 notes is shared here
 - I'll update this website 1 time a month
-  - Last update: 18/11/2024 (day/month/year)
+  - Last update: 23/11/2024 (day/month/year)
 ### Why sharing? To help & attract people with similar interests as me
   - Letting people know more [about me](https://edondigital.vercel.app/about)
     - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about anything you find here & more
   - [Serendipity](https://en.wikipedia.org/wiki/Serendipity), or exposing myself to opportunities & more luck
 ## Where to start? look at the map and let your curiosity guide you!
 - Go to [[vault map]] to get a simple overview of all of my notes, or look here
-- 1st block
-  - ==[[Int]]== - Introspection
-  - [[Principles]]
-  - [[HLL]] - Higher Order Learning (How to learn better)
+- ==[[Mind]]== 
+  - [[Int]] - Introspection
+  - [[HLL]] - Higher Order Learning - How to learn better
   - [[Critical thinking]] - Tools/Ideas to think better
-  -
   - [[Productivity]]
-  - [[mind building]] - mind, culture, & knowledge hub
-- 2nd block
-  - ==[[Money]]==
+  - unstable - not much processed
+    - [[mind building]] - mind, culture, cognitive skills... 
+    - [[Communication]] - teaching, sociology, reading people...
+    - [[Creativity]] - design thinking, storytelling...
+    - [[Wisdom]] - philosophy, religion, spirituality...
+- ==[[Wealth]]==
   - [[CS]] - Computer science
   - [[Code]] - Programming (mainly web development)
-  -
-  - [[DE]] - Design (mainly web design)
-  - Still not shared but filled with info
-    - [[MU]] - Music (mainly guitar)
-    - [[BU]] - Business
-    - [[CC]] - Content Creation
-    - [[Sho]] - Shooting with cameras
+  - [[BU]] - Business - Marketing, Sales, Onboarding...
+  - [[DE]] - Design - mainly web design, but also more
+  - [[CC]] - Content Creation - writing, social media...
+  - [[MU]] - Music - Guitar, Singing, Music theory...
+  - [[Sho]] - Shooting - Cameras, videography, photography...
+  - unstable - not much processed
+    - [[DevOps]] - infrastructure management, automation & collaboration between development & IT operations
+    - [[Cybersecurity]] - hacking prevention/attack & related
+    - [[IoT]] - Internet of Things - smart devices/home
+    -
+    - [[Tra]] - travelling
+    - [[3D]] - Mostly Blender
 - For the best viewing experience, [download my notes](https://github.com/Coloby/quartz_notes/archive/refs/heads/v4.zip) and view them with [Obsidian](https://obsidian.md/) or your favorite markdown viewer
 - To know more: [[Understand my vault]] 
 - Disclaimers

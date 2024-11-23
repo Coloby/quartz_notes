@@ -20,6 +20,9 @@
 		- go to `quartz.config.ts` and modify at least pageTitle
 	- run quartz in local
 		- npx quartz build --serve
+		- or
+		- npx quartz build --serve -d ./quartz_content
+			- if modified content dir to quartz_content
 	- once you did all of your changes you can create a commit and push it to your repo
 		- git add . && git commit
 		- git push

@@ -54,7 +54,7 @@
 - Development
 	- Planning
 		- [[RFC management]]
-		- [[Codes theory]] - [[Code principles]]
+		- [[Codes theory]] - [[pCode]]
 		- Recurring
 			- 1
 				- [[Performance - Optimizing]]
@@ -70,6 +70,7 @@
 - Testing
 	- [[Testing code]]
 	- [[BU testing - pragmatism]]
+	- [[Quality Assurance (QA)]]
 - Deployment
 	- re-check 
 		- [[Architecture-Infra codes]]

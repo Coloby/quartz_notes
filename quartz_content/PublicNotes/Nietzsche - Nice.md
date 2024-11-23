@@ -1,0 +1,21 @@
+- key arguments
+	- life is meaningless like [[Nihilism]] but even that we should give it a personal meaning ouself trough our [[Identity]], morals and set of actions trough [[Existensialism]] and questioning society's norms. 
+	- Really similar to [[Perspectivism]] and [[Collectindividualism]]
+- What he go against
+	- [[Essentialism]]
+	- [[Eudaimonism]]
+- Quotes
+	- there are no facts, only interpretations
+	- The meaninglessness of suffering, not suffering itself, was the curse that layover mankind so far
+- big takes
+	- [[Search and don't believe]]
+	- [[Finding happiness vs chasing it]]
+- books
+
+- list of philosophies mentioned
+	- [[Eudaimonism]]
+	- [[Nihilism]]
+	- [[Perspectivism]]
+	- [[Essentialism]]
+	- [[Existensialism]]
+	- [[Collectindividualism]]

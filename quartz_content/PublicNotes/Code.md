@@ -11,7 +11,7 @@
 - Personal
 	- [[Code meta]]
 	- [[Code Thoughts]]
-	- [[Code principles]]
+	- [[pCode]]
 	- [[Code proj]]
 - Tech
 	- Languages

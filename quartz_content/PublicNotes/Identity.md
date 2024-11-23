@@ -1,0 +1,38 @@
+- [[Search and don't believe]]
+
+- based on: [v](https://www.youtube.com/watch?v=17WiQ_tNld4&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
+	- Health - Physical - body & genetic
+		- DNA
+			- usually make something harder or easier to do or think but most of the time it doesn't make it impossible
+		- [[Experiences]]
+			- involountary and passive experiences
+			- [[Identity & life depends on focus]]
+				- beliefs trough [[Critical thinking]]
+				- makes our values (what we prioritize or believe in)
+					- e.g. family upbringing, education, social interactions, cultural influences, personal experiences
+	- Mind
+		- Psychological - thoughts, experiences
+			- emotions
+			- behaviors
+			- feelings
+			- thought patterns
+			- knowledge
+				- their version of [[the atlas]]
+				- 4 pillars
+			- n
+				- flaws
+				- imperfections
+				- quirks
+		- [[Int]] - Existential
+	- Relationships - Social - roles, relationships, groups
+
+- what people make other see of themself 
+	- is not even more valuable than a first impression. 
+	-
+	- what's benith? what's constant?
+- Our identity it's evolving & adapting every second 
+	- we're more than one person in different times & contexts of life
+	- thus desires change too
+	
+	- Obbligations and responsabilities in people change over time based on the bond you have with the other person
+	- you talk/act/behave/are w your family differently from friends

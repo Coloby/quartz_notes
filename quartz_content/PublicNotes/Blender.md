@@ -1,0 +1,132 @@
+- [[i3D - visual]]
+
+- Discovery
+	blender optix ray tracing engine [-](https://youtu.be/s1fxZ-VWs2U?t=714) 
+
+- Basic
+	- Settings - right click and add shortcut
+		- window/toggle window fullscreen
+		- view/frame selected
+	- Good to know
+		- Blender auto save files, but it put them in a separate folder
+		- Always apply rotation and scale 
+			- If something is wrong go ctrl+a and scale
+			- object/apply/rotation adn scale
+		- can do math to write numbers like 5 * 5
+	- theory
+		- origin
+			- modifiers, physics are based on this center of mass of the obj
+		- clip start - when blender clips texturing when viewing
+			- n/view         menu
+		- when scaling to real world, you need to apply it
+			- scale it
+			- ctrl + a
+			- click on scale
+		- [names](https://youtu.be/tBpnKTAc5Eo?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&t=654)
+	- Shortcuts
+		- Essential
+			- G R S then X Y Z then Number
+			- f12         render
+			- f3          search stuff
+			- tab              object to edit mode
+			- shift + a       add elem
+			- alt + e        deselect
+		- Object
+			- s      scale
+				- alt + s        scale along normals
+			- r        rotate
+			- g      grab
+			- x     delete
+			- a     select all mesh in edit mode 
+			- w     change select tool
+			- f        fill between edges
+				-  alternatives
+					- grid fill 
+				- under right click menu 
+					- bridge edge loops 
+					- merge vertices
+			- h       hide
+			- alt + h          de-hyde
+			- ctrl + +  when selecting to select more	
+		- camera - mc = mouse center btn
+			- alt + mc       focus on object
+			- shift + ` fly mode
+			- pan         shift + mc
+			- orbit         mc
+			- select camera                0
+			- shift+s + cursorToSelected
+			- lock camera to obj
+				- ![[Pasted image 20240316222741.png]]
+			- snap view to obj
+				- ![[Pasted image 20240316223008.png]]
+			- ` view selected       view selected elem
+- Menus - l = left click
+	- Anytime
+		- ctrl + l           link menu
+		- ctrl + e         edge menu
+		- p                  separate menu
+		- shift+s   apre il menu
+		-
+		- 1, 2, 3 in edit mode
+		- F9      after creating an object
+		- show properties of elem                 n
+			- useful to lock camera to view
+	- Top bar
+		- shaders - more in depth of what you see in layer
+		- geometry nodes - more in depth of the modifier w same name
+		- [[edit mode]]
+		- [[sculpting mode]]
+	- l + shade smooth
+- Modifiers
+	- theory
+		- apply them
+		- modify where you see and don't see them
+	-
+	- simple defor             bent!
+	- shrinkwrap - to make mesh of icing touch donut w no clipping
+	- solidify - gives thickness
+	- ctrl + 1          add subdivision modifier
+		- viewport is how you see it in "edit" mode
+		- render is how you see it in render mode
+	- [edge split](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1383)      separate selection from mesh
+	- [bevel modifier](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1750)        like bevel but you can on & off
+		- you cann add [weights](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1864)
+
+- 0
+	- Snapping + Auto merge vertices
+	- Smoothing
+		- shade flat is default - have different lighting on edges
+		- shade smooth - blends edges lighting
+		- auto smooth
+			- properties of object/object data/normals/autosmooth
+			- [mark sharp](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=368) - give shadow to these vertices. based on auto smooth
+		- Sub surf modifier - ctrl + 1
+			- [crease edges](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=956) are based on subdivision modifier
+	- Hard edges
+		- [proximity loops](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1015) - using 3 lines to make an edge 
+			- destructive: you can do it [with bavel too](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1689)
+			- non destructive: [bevel modifier](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1750)
+		- [edge splitting](https://youtu.be/CdHXpHPWKYo?list=PLda3VoSoc_TQrLrt-voecHs0Mb5qzk2S3&t=1228)
+			- destructively: mesh/split/selection
+			- proceduraly: edge split modifier
+	[Blender 3.0 Beginner Modelling Tutorial (Donut part 4)](https://youtu.be/R1isb0x4zYw?t=156)
+
+- 3 Methods of 3D modelling
+	- polygonal based - great for hard surfaces
+		- stuff without imperfections and precise geometrical shapes
+		- gives jagged stuff when expanding
+		- topology is included
+	- Sculpting - organic surfaces
+		- great for imperfections life faces
+		- needs to do topology seperatly
+	- NURBs based - precise engineering design tasks
+		- used in CAD software
+		- like svg. If you expand, it doesn't lose quality 
+		- Compared to polygon
+			- topology is automatic but less flexible
+			- may require more computational resources, particularly when working with large or highly detailed surfaces
+		- e.g. Plasticity
+- 3D + pixel art
+	- [beautiful ambient](https://www.youtube.com/watch?v=ERA7-I5nPAU)
+	- [game](https://www.youtube.com/watch?v=lwJurL2-f0c)
+	- [convert 3D model to 2D animated](https://www.youtube.com/watch?v=eSqb6II3WMM)

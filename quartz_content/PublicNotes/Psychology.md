@@ -1,12 +1,6 @@
 [[Motivation]]
 
-[[Sociology]]
-[[Conversational Intelligence]]
-
-[[influencing]]
-[[Leadership]]
-
-
+[[Communication]]
 [[Black sworn]]
 
 - +theoretical

@@ -2,6 +2,9 @@
 - [[Career choice]]
 ---
 - discovery
+	- Apathy [-](https://www.phind.com/search?cache=) the middleground of happiness & sadness
+	- [[boredom]]
+	- We want to be sedated because we're cowards - [src](https://youtu.be/NdCo5HY8KMo?t=738)
 	- if you don't hate it, you will tolerate it
 	- what to do when desire is not strong enough - compliant, stay good here
 	- Flow
@@ -20,7 +23,7 @@
 	- [[support systems]]
 	- [[Rest]]
 	- [[Mindfulness]]
-	- [[Journaling]]
+	- [[Journaling - who I am]]
 	-
 	- [[Subconscious]]
 - Recover
@@ -45,10 +48,10 @@
 	- searching for the right reasons before trying it (not always true)
 - Flow
 - [[dopamine balancement]]
-- Self control -- **awareness**
+- [[Self control]] -- **awareness**
 	- generally
-		- limited
 		- external factors counts
+		- limited resource
 		- HT grow - going out of comfort zone
 			- general
 				- adding uncomfortable stuff in routine respecting it
@@ -86,7 +89,7 @@
 	- depends on
 		- Pillars
 			- [[Health]]
-			- [[Money]]
+			- [[Wealth]]
 			- [[Relationships]]
 		- environment
 	- e.g. being at school for the sake of others opinions
@@ -116,7 +119,10 @@
 	- the better you become the more intrinsic motivation grows
 	- it's a positive feedback loop by itself
 
-- Tricks - can't get outcomes consistently
+- Tools -  consistant outcomes
+	- [[yoga nidra]]
+	- [[morning sun bath]]
+- Tricks - non-consistent outcomes
 	- Passion -- **emotion**
 		- great starter
 		- less consistency

@@ -1,0 +1,2 @@
+- The believe in nothing - even though the believe in nothing is something
+- no good, no evil, the world exist

@@ -5,6 +5,7 @@
 	- [[Quick thinking]]
 	- [[Creativity]]
 	- [[emotional intelligence]] - reading cues/emotions
+	- let slow thinking rest
 	- Unconscious access & processing of [[Subconscious]] info
 		- Pattern recognition based on past experiences
 		- Using [[Predicting]] unconsciously getting conclusions
@@ -12,9 +13,16 @@
 	-
 	- spiritual/mystical source of knowledge
 
-- beofre execution of conclusions
+- flow
+	- give a precise problem to the [[Subconscious]]
+	- before execution of conclusions
 	- ground them at least partially with reasoning
 		- solves the reliability, accuracy, biases problems of intuition
+
+- activate it
+	- write down the problem
+	- [[boredom]]
+	- [[Meditation]]
 - Grow it
 	- extensive experience solving similar problems over time
 

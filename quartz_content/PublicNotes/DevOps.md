@@ -57,6 +57,7 @@
 - 1
 	- [[Linux]]
 	- Infra
+		- [[myInfra]]
 		- general
 			- [[IaC - Infrastructure as Code]]
 			- [[Storage-File management]]

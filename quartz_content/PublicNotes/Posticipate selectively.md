@@ -6,3 +6,13 @@
 	- tasks categories
 		- put a Discovery section into the category note with the task.
 			- if you're gonna need to know more about something chances are you're going to look at your past knowledge anyway and if not then it's logical to think that you may have putten something useful for yourself in the future
+	-
+	- Practical
+		- Browser
+			- MUSIC + quick access
+			- Work - only the things your working on
+				- most of the time 0 stuff should be there
+				- never let it be w something non-important for the morning after
+			- Misc - anything not needed for work
+		- [[Notes]]
+			- always put stuff in nCategory asap whenever you can

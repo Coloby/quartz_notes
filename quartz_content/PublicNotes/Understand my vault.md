@@ -15,7 +15,7 @@
 - Patterns/Conventions
   - discovery - like [[nCode]] & [[lCode]] but smaller
   - archived - stuff I no longer count as relevant 
-		- there just because I don’t want to delete them or archival reasons
+    - there just because I don’t want to delete them or for archival reasons
   - source mentioning
     - general sources
       - src

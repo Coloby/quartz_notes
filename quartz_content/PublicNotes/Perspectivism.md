@@ -1,0 +1,2 @@
+- The truth is based on the individual that percieves it in he's own way.
+	- there is no objective truth, just interpretations

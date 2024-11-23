@@ -1,0 +1,4 @@
+- [v](https://youtu.be/e-k7b8Zmh70)
+- When you follow someone's ideas you lose your worth as an individual, authentycity, uniqness and the ability to grow each other
+	- you are finding the answers trough somebody's experience and not yours. Don't follow an intermediate but only your trouth
+	- if your trouth collide with someone's else then you can go trough this adventure togheter. If not, someone better leave

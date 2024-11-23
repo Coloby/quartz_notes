@@ -117,7 +117,7 @@
 				`cp /etc/X11/xinit/xinitrc ~/`
 				
 				[  
-				
+				]()
 			
 			
 			startx

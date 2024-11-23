@@ -4,26 +4,39 @@
 
  - [[the atlas]]
 	 - img
-		 - ![[Pasted image 20241117153828.png]]
+		 - ![[Pasted image 20241123172841.png]]
 	 - text version (there are missing ones because not shared)
-		 - 1st block
-			 - ==[[Int]]== - Introspection
-			 - [[Principles]]
-			 - [[HLL]] - Higher Order Learning (How to learn better)
-			 - [[Critical thinking]] - Tools/Ideas to think better
-			 -
-			 - [[Productivity]]
-			 - [[mind building]] - mind, culture, & knowledge hub 
-		 - 2nd block
-			 - ==[[Money]]==
-			 - [[CS]] - Computer science
-			 - [[Code]] - Programming (mainly web development)
-			 -
-			 - [[DE]] - Design (mainly web design)
-		 - unstable
-			 - [[DevOps]]
-	 - excalidraw version [[the atlas]]
+		- ==[[Mind]]== 
+			- [[Int]] - Introspection
+			- [[HLL]] - Higher Order Learning - How to learn better
+			- [[Critical thinking]] - Tools/Ideas to think better
+			- [[Productivity]]
+			- unstable - not much processed
+				- [[mind building]] - mind, culture, cognitive skills... 
+				- [[Communication]] - teaching, sociology, reading people...
+				- [[Creativity]] - design thinking, storytelling...
+				- [[Wisdom]] - philosophy, religion, spirituality...
+		- ==[[Wealth]]==
+			- [[CS]] - Computer science
+			- [[Code]] - Programming (mainly web development)
+			- [[BU]] - Business - Marketing, Sales, Onboarding...
+			- [[DE]] - Design - mainly web design, but also more
+			- [[CC]] - Content Creation - writing, social media...
+			- [[MU]] - Music - Guitar, Singing, Music theory...
+			- [[Sho]] - Shooting - Cameras, videography, photography...
+			- unstable - not much processed
+				- [[DevOps]] - infrastructure management, automation & collaboration between development & IT operations
+				- [[Cybersecurity]] - hacking prevention/attack & related
+				- [[IoT]] - Internet of Things - smart devices/home
+				-
+				- [[Tra]] - travelling
+				- [[3D]] - Mostly Blender
+	- excalidraw version [[the atlas]]
  - [[knowledge table]]
 
+
+
+- Graph image (with filters active), to demonstrate and totally not to flex
+![[Pasted image 20241123175607.png]]
 
  

@@ -1,11 +1,20 @@
-- prerequisite: [[Int]] 
+- main source is Sam Ovens video [-](https://youtu.be/H5c41aWpQ14)
 
-- [[Critical thinking]] get/process info
-- mantain
-	- [[Motivation]]
-	- [[HT focus]]
--
-- [[Multipliers]]
+- focus
+	[[Minimalism]]
+	[[HT focus]]
+- Sustain - [[Energy]]
+- Do MIT
+- Continue to learn - [[Multipliers]]
+
+- Tools
+	- Isolation [-](https://youtu.be/H5c41aWpQ14?t=1276)
+		- protect your time [-](https://youtu.be/H5c41aWpQ14?t=1638)
+		- no phone when working, in other room
+			- nobody really needs your immediate help
+		- check & answer to emails every 3 days
+	- Accountability partner
+	- [[Atlas]]
 
 - a-chived
 	- already synthetized
@@ -48,7 +57,11 @@
 					- img
 						- ![[Pasted image 20230619021509.png]]
 				- time blocking
-
+	- consume > apply
+		- develop innervoice that contextualize the advice into your reality/circumstances to filter & adapt it to your needs
+	- consume broad variety of content
+	- questions > advice 
+	- fisherman & capitalist [-](https://youtu.be/AoelHvtx15M?t=2128)
 
 
 

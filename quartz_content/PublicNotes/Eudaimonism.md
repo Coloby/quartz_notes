@@ -1,0 +1,1 @@
+Living trying to find your full potential, following your virtues thus being fullfilled and happy about it

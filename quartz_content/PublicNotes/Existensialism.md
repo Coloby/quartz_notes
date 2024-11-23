@@ -1,0 +1,1 @@
+There may be a meaning to life but you should focus on creating it yourself as an [[Collectindividualism]] because you don't got an essence, neither a destiny like in [[Essentialism]]

@@ -7,3 +7,4 @@
 	- surround yourself with people that already got what you want, with similar mindset or abilities that may synergyze with you
 - what you consume
 	- consume content that incentivize and help you achieve your goals even if you don't take action because it fills your brain with related thoughs
+- what you eat

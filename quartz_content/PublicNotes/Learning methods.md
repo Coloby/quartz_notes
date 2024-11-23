@@ -34,6 +34,8 @@
 			- it's a combination of tutoring, coaching, and consulting
 			- holistic specialized supportive role. "Best" one usually
 		- Tutoring - specific for skill/offer dev + like a teacher
+			- worth even for betting first 3 calls to see if budget is suffiecient for you to learn the skills to start asking people for money and get even more tutoring
+			- they get paid also depending on nationality
 		- Coaching - holistic & focussed on broad goal obtaining
 			- Only if mentorship is off radar & already know skill/offer
 		- Consulting - practical tutoring but less teaching

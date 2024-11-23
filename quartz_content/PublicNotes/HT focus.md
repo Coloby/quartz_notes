@@ -4,9 +4,11 @@
 	- [[Predicting]] your own best strategy
 	- [[Relationships]] accountability & support
 
+
+- ultradian rythm [-](https://youtu.be/5HINgMMTzPE) 90m max focus sessions
 - [[Parkinson's Law - expectations]] - urgency
-- [[Motivation]]
 - [[Conditioning]]
+- [[Motivation]]
 
 - less
 	- Ambience optimization

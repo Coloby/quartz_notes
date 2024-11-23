@@ -1,26 +1,31 @@
 [[GPU]]
 
-- Dictionary
+- Discoveryu
+	- [ai g](https://github.com/topics/ai)
+	- [autoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+	- [open assistant](https://github.com/LAION-AI/Open-Assistant)
+	- [quivr RAG system](https://github.com/QuivrHQ/quivr)
 
-- 0
-    - Language models
-      - algorythms that have been trained w a specific set of data to solve a specific problem trough a specific strategy
-      - they simulate intelligenge
-        - trough an advanced "schema" that they make with the simulated data and "random" choices they make.
-        - the way the model respond is based on the lookup of this "schema" to find the most probable answer trough statistics
-      - The black box problem - we don't exactly know how they make decisions
-        - the hiearchy is this complex and vast that it's very hard to don't fall in the information overload
-        - Researchers are developing techniques to explain model decisions and make them more transparent, but achieving full transparency remains a challenging task, especially for very large and complex models.
-      - Parameters - assumptions that the model or the creator make
-        - assumptions may be completly random
-        - In the training phase those assumptions gets refined
-        - directly related to the num of neurons and connections
-          - Learned in the training phase
-            - weigth - determine the strength of connections between neurons
-            - biases - values added to the weighted sum of inputs before passing through an activation function in each neuron
-    - AGI - Artificial General Intelligence or Strong AI
-      - Human like artificial intelligence
-    - The Singularity
+- Dictionary
+	- 0
+	    - Language models
+	      - algorythms that have been trained w a specific set of data to solve a specific problem trough a specific strategy
+	      - they simulate intelligenge
+	        - trough an advanced "schema" that they make with the simulated data and "random" choices they make.
+	        - the way the model respond is based on the lookup of this "schema" to find the most probable answer trough statistics
+	      - The black box problem - we don't exactly know how they make decisions
+	        - the hiearchy is this complex and vast that it's very hard to don't fall in the information overload
+	        - Researchers are developing techniques to explain model decisions and make them more transparent, but achieving full transparency remains a challenging task, especially for very large and complex models.
+	      - Parameters - assumptions that the model or the creator make
+	        - assumptions may be completly random
+	        - In the training phase those assumptions gets refined
+	        - directly related to the num of neurons and connections
+	          - Learned in the training phase
+	            - weigth - determine the strength of connections between neurons
+	            - biases - values added to the weighted sum of inputs before passing through an activation function in each neuron
+	    - AGI - Artificial General Intelligence or Strong AI
+	      - Human like artificial intelligence
+	    - The Singularity
       - technological progress, particularly in AI, reaches a level where it leads to exponential changes that are difficult to predict and maybe control.\
         Transformer-based models, such as BERT or GPT-3
 
@@ -55,7 +60,7 @@
 		- common pitfalls
 		- practical applications
 		- case-studies - when was it used by other people?
-
+	
 	- get motivated by AI - ask why you like the topic or why you're doing it
 	- gen
 		- cheat sheet

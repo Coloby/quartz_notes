@@ -1,15 +1,18 @@
-[[Minimalism]]
-[[Pragmatism]]
-[[Predicting]]
-
 - Discovery
 	- invest in the long term but not too much (purpose layer)
-# if there's something better to do or there will be, you're procrastinating
+
+- if there's something better to do or there will be, you're procrastinating
 - Live out of love and beauty - [[Be like a kid]]
-- If no creativity needed, delegate, automate, systematize, or leave it
+- If no creativity needed
+	- delegate
+	- automate
+	- systematize
+	- ask help
+	-
+	- leave it
 - You deserve the consequences of your action
 
- - quasi scontati
+- quasi scontati
 	- [[Most things are subjective]]
 	- Value your time and delegate when possible
 	- Growth vs Fixed mindset

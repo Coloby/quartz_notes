@@ -37,15 +37,13 @@
 		- [[Creativity]]
 	---
 	- [[mind building]]
-		- [[cognitive skills]]
-		- [[Culture]]
 	- Related/Useful
 		- [[Psychology]]
 		- [[Philosophy]]
 		-
 		- [[Economics]]
 		- [[Political science]]
-		- [[Life maps]]
+		- [[Wisdom]]
 - Theory
 	- [[Thinking styles]]
 	- [[Thinking Vocabs]]

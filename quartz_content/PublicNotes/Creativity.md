@@ -3,8 +3,7 @@
 
 [[Brainstorming]]
 [[Design thinking]]
-[[Discovery]]
-[[Look-Beauty-Appearence]]
+[[Appearence]]
 
 - Discovery
 	- - nap = creativity?

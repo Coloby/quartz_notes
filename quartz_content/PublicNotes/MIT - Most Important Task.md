@@ -1,21 +1,18 @@
-- what? the task that makes the most differnece now & future
+- what? the task that makes the most differnece now & future [sam](https://youtu.be/H5c41aWpQ14?t=1353)
 - why? [[80-20 pareto principle]]
 	- if not, you're confirming that you cannot focus & achieve ur goals
 - how? *systems* & validating trough [[Int]] to be convinced that's the MIT
 
 - logic - have resons that confirms this is the n1 option
-	- It isn't about doing more but doing less, is that the less?
-		- [[Predicting]] 
-		- [[Pragmatism]]
-	- filter
+	- filter - It isn't about doing more but doing less, is that the less?
 		- [[Bottle framework]]
 		- [[80-20 pareto principle]]
-		- [[Reward]] 
+		- [[KPIs]]
+		- [[Reward]]
 	- be lazy
 		- [[Posticipate selectively]]
 		- [[Find the best laziest alternative]]
 		- [[Never be a fly]]
-- [[emotional control]] - find reasons to trigger DRIVE
 
 - Excuses
 	- The only valid excuse - there's something better to do
