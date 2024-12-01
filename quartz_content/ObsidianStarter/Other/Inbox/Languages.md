@@ -1,3 +1,0 @@
-[[English]]
-[[Karuntemiz]]
-[[Italian]]

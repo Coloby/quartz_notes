@@ -1,8 +1,0 @@
----
-Description: 
-Date: 
-Vote: 
----
-
-- Notes
-	- 

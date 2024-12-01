@@ -17,9 +17,15 @@
 [[nLin]]
 
 - Naming conventions
-	- big topic that serves as a hub, e.g. [[Code]]
-	- f (flow) process to create something, e.g. [[fCode]]
-	- n (now) - temporarely notes, e.g. [[nCode]]
-	- l (learn) - info/resources to learn more, e.g. [[lCode]]
-	- i (inspiration) - inspiring resources/ideas, e.g. [[iCode]]
-	- p - (principles) - e.g. [[pDesign]]
+  - (category) big topic, e.g. [[Code]]
+    - serves as a hub for sub-topics
+    - might contain information about the whole category
+  - f (flow) process to create something, e.g. [[fCode]]
+    - Similar to Standard Operating Procedures: kind of like to-do lists to maintain a high standard of quality on a project
+  - n (now) - temporary notes, e.g. [[nCode]]
+    - Like an inbox of ideas I try to empty every time I start to study the category again broadly
+  - l (learn) - info/resources/links to learn more, e.g. [[lCode]]
+    - usually contains my most trusted mentors in the category
+    - can contain broad sub-topics of the category that I might want to explore in the future
+  - i (inspiration) - inspiring resources/ideas, e.g. [[iCode]]
+	- p (principles) ideas to apply in other area of my life - e.g. [[pDesign
