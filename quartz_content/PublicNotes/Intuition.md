@@ -15,9 +15,10 @@
 
 - flow
 	- give a precise problem to the [[Subconscious]]
+	- Search Clues/Patterns
 	- before execution of conclusions
-	- ground them at least partially with reasoning
-		- solves the reliability, accuracy, biases problems of intuition
+		- ground them at least partially with reasoning
+			- solves the reliability, accuracy, biases problems of intuition
 
 - activate it
 	- write down the problem
@@ -28,3 +29,6 @@
 
 - n
 	- intuition contradicts rationality or complements it?
+
+
+

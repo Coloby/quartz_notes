@@ -5,7 +5,6 @@
 - how? choose the way you need to be conditioned or someone else will
 
 - [[Discipline]]
-- [[Mindfulness]] thougs control
 - [[Greatness - You're lucky]]
 
 - less

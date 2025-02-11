@@ -69,6 +69,7 @@
 		- [Sebi](https://www.youtube.com/@SebisRandomTech/search?query=480)
 		- [bigair](https://www.youtube.com/watch?v=ZPzFrgV62hg)
 - Theory
+	- [[Lin Booting process]]
 	- Re-install linux fast
 		- [[Ansible]]
 			- learning curve

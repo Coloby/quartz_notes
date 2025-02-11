@@ -1,0 +1,39 @@
+- [[Architecture-Infra codes]]
+- [roadmap.sh](https://roadmap.sh/)
+
+- interview w JS senior developer [-](https://www.youtube.com/watch?v=aWfYxg-Ypm4&pp=ygUed2ViIGRldmVsb3BlciBpbnRlcnZpZXcgaHVtYW5z)
+	- ![[Pasted image 20241215160607.png]]
+- stacks
+	- [Fireship overengineered stack 2021](https://youtu.be/Sxxw3qtb3_g?list=PL0vfts4VzfNg__PkSVKhrYvdc35kHybBy&t=567)
+	- ![[Pasted image 20231121164610.png]]
+
+- Already in place
+	- CMS problems & solutions - [from builder.io](https://youtu.be/mA-Cocc9dRE)
+	- what? can find this info in its specific notes
+	- [which framework?](https://www.youtube.com/watch?v=S7X6fLbdwlc&pp=ygUqSG93IHNob3VsZCB5b3UgY2hvb3NlIHlvdXIgZnJhbWV3b3JrPyB0aGVv) 
+		- t3 stack?
+		- App or Website?
+			- ![[Pasted image 20230820092727.png]]
+	- [which db? K/V > Document > Relational](https://youtu.be/cC6HFd1zcbo?t=1533)
+			- Try to mentally start w K/V first then if you need more stuff just go with relational
+			- ![[Pasted image 20231112004950.png]]
+	- Learning VIM be like [v](https://www.youtube.com/watch?v=E_8B_seg8AI)
+		- i
+			- ![[Pasted image 20241216200442.png]]
+	- [[DevOps]] - [workflow overview](https://youtu.be/4It0D0Nw00c)
+		- ![[Pasted image 20241215160359.png]]
+	- Dev cody
+		- next.js fast explanation [-](https://youtu.be/LkDelp5WWYU)
+		- [[Gitflows]]/ship like companies - [long gitflow similar](https://www.youtube.com/watch?v=Dl-BdxNRUqs) [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+			- gitflow
+				- ![[Pasted image 20241215161244.png]]
+			- trunk
+				- ![[Pasted image 20241215161220.png]]
+		- [Mindmap of features](https://miro.com/app/board/uXjVMiRMzrc=/) 
+			- ![[Pasted image 20240624022347.png]]
+			- ![[Pasted image 20240624022409.png]]
+			- ![[Pasted image 20240624022426.png]]
+			- ![[Pasted image 20240624022459.png]]
+			- ![[Pasted image 20240624022508.png]]
+	- Waterfall vs Agile [-](https://youtu.be/SHU9dViaFoM?t=328)
+		- ![[Pasted image 20241215160518.png]]

@@ -1,4 +1,5 @@
 - Discovery - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
+	- [sys design tut](https://youtu.be/F2FmTdLtb_4)
 	- Jenkins, GitLab CI, Travis CI, CircleCI
 	- configure multiple computers without OS installed automatically
 		- Ansible needs SSH or to be in the machine locally
@@ -51,6 +52,8 @@
 		![[Pasted image 20240724234236.png]]
 		![[Pasted image 20240724233735.png]]
 
+- [workflow overview](https://youtu.be/4It0D0Nw00c)
+	- ![[Pasted image 20241215160359.png]]
 - Already knew
 	- [[Git]]/[[Git-hub]]
 	- [[Architecture-Infra codes]]
@@ -64,13 +67,12 @@
 			- [[Security]]
 			- [[PCs remote management]]
 		- By specific type
-			- [[Servers]]
+			- 
+			- [[Backend]]
 			- [[IoT]]
 			- [[Cloud Computing]]
 			-
 			- [[Networking]]
-			- [[Backend]] (APIs)
-			- [[DBs]]
 	- [[Virtualization]]
 	- Operations
 		- [[CI-CD]]

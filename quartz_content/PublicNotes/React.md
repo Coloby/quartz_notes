@@ -37,6 +37,30 @@
 						}
 					})
 					updateClicked({ stage3 : {...clicked.stage3, [clickedKey] : false}})
+- React 19 - new important stuff
+	- react compiler
+		- 11/12/2024 still in beta but already used in production by meta
+		- more perf! [-](https://youtu.be/6aQgiJHReCI?t=1351)
+			- showcase manual vs automatic way [-](https://youtu.be/DhfeXfF_W4w?t=484)
+			- avoids to pre-render 
+			- memorization usememo & usefallback - no more
+				- if you follow the rules of react [-](https://youtu.be/DhfeXfF_W4w?t=334)
+		- eslint plugin to help the builder **and react** not to get mad [-](https://youtu.be/DhfeXfF_W4w?t=279)
+			- use that
+	- Suspense
+		- old behaviour [-](https://youtu.be/6aQgiJHReCI?t=148)
+			- goes into every one of its child components trying to render them, THEN checks if any of them needs to wait to THEN show the fallback
+		- proposed
+			- check 1 at the time, check if needs to wait for data and if it is, sends fallback. Then checks for other ones
+		- new [-](https://youtu.be/6aQgiJHReCI?t=276)
+		- what it means? [-](https://youtu.be/6aQgiJHReCI?t=182)
+			- components are not kickstarted at the same time anymore, so if there's a timeout...
+				- old - only the biggest timeout would count - in parallel
+				- proposed - all timers count and will execute one after the other
+					- worst perf compared to old
+				- new - like proposed, but also pre-warm other components just right after having found one that needs to wait and giving it the fallback
+					- better perf as the old
+
 - [[State management]] - [video](https://www.youtube.com/watch?v=5-1LM2NySR0)
 
 - Keys on .map - [srcIndian](https://youtu.be/xlPxnc5uUPQ)

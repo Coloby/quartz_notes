@@ -19,15 +19,14 @@
 - dopamine nation book - dopamine in addictions
 
 - The cycle [-](https://youtu.be/K-TW2Chpz4k?t=2157)
-	1. craving
+	1. craving - the more we peaked the more we desire more
 		- peak - more often, faster, higher, it reaches = ++drop
+			- frequent big waves let the water/dopamine go out of the pool
+				- the baseline recedes because the drop is big
 			- [averages](https://youtu.be/K-TW2Chpz4k?t=2697) of different substances & behaviours
 			- spikes lasts minutes to an hour sometimes longer [-](https://youtu.be/K-TW2Chpz4k?t=3886)
-			- frequent big waves let the water/dopamine go out of the pool
-				- the baseline recedes
 		- drop - after a peak domapine goes under baseline
 			- we start feeling the pain of not having that thing, which motivates us even more [-](https://youtu.be/K-TW2Chpz4k?t=1391)
-			
 			- the deeper, the more the need to restore baseline
 		- recovery - linearity between peak & drops
 			- GPT
@@ -37,7 +36,7 @@
 				- how steep is the drop, is linear to how much time you'll need before recovering the motivation
 				-
 				- procrastinating
-					- doing other stuff instead of the one you need to do. Untile the latter becomes so urgent that the motivation comes in only because of the anxiety of failure being that close
+					- doing other stuff instead of the one you need to do. Until the latter becomes so urgent that the motivation comes in only because of the anxiety of failure being that close
 				- fastest way to recover motivation [-](https://youtu.be/K-TW2Chpz4k?t=6388)
 					- doing something that gives you even more pain than the one you're feeling while being on the lowest point of the drop
 					- should be
@@ -77,6 +76,9 @@
 		- motivation that will influence next time you get into loop
 			- might need more loops before being relevant
 - Theory
+	- Routine - big spikes are better in the afternoon [-](https://youtu.be/ebnLrYrSX8Q?t=229)
+		- if you spike early your baseline for what is desirable decreases so everything else will be harder for you to do if it's not dopamine oriented
+		- avoid youtube, people (unless necessary like clients), high dopamine food, it NEEDS to be boring
 	- recovery 
 		- of dopamine levels from addiction is ~30d [-](https://youtu.be/K-TW2Chpz4k?t=3054)
 		- some stuff 
@@ -91,7 +93,7 @@
 	- Maximize amount of dopamine in-pool
 		- sleep
 		- Nutrition & Tyrosin [-](https://youtu.be/K-TW2Chpz4k?t=3465) [2](https://youtu.be/K-TW2Chpz4k?t=4401)
-		- [[yoga nidra]]
+		- [[yoga nidra NSDR]]
 		- [[morning sun bath]] 
 		- exercise
 		-

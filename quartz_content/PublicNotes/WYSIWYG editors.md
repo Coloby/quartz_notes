@@ -1,0 +1,24 @@
+- resources
+	- [awesome WYSIWYG](https://github.com/JefMari/awesome-wysiwyg-editors?tab=readme-ov-file#for-react)
+
+- Criterias
+	- musts
+		- security
+		- perf
+		- markdown support
+	- Localization
+	- Plugins ecosystem that's rich
+	- collaboration w more people
+	- mobile optimized
+	- Customizability
+		- custom components & html
+	- Accessibility
+- specific
+	- lexical [20k](https://github.com/facebook/lexical)
+	- slate [30k](https://github.com/ianstormtaylor/slate)
+	-
+	- plate [12k](https://github.com/udecode/plate)
+	- prosemirror [8k](https://github.com/ProseMirror/prosemirror)
+	-
+	- closed source
+		- froala

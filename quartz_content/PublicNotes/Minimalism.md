@@ -7,10 +7,12 @@
 		- low on quality (wisdom)
 		- high in quantity ("hard-work")
 
-- why?
-	- [[Energy]] - [sam](https://youtu.be/H5c41aWpQ14?t=226)
-	- [[Identity & life depends on focus]] 
-- how? [[MIT - Most Important Task]]
+- why? - [[Identity & life depends on focus]] 
+- how? 
+	- [[MIT - Most Important Task]]
+	- [[Energy-Time]] - [sam](https://youtu.be/H5c41aWpQ14?t=226)
+
+
 
 
 

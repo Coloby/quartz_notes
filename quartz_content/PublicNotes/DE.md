@@ -17,7 +17,7 @@
 [[fDE]]
 - [[App - software - tools]]
 - Code
-	- [[code Styling]]
+	- [[Styling code]]
 	- [[Figma]]
 
 - Main

@@ -28,10 +28,10 @@
 		- security, patches, on minor releases
 		- it has version numbers
 	- cons 
-			- no "cutting edge" software
-			- if there is problem, need to wait more for fix
-			- eventually you'll version will meet end-of life
-			- some distros need you to re-install, no upgrade
+		- no "cutting edge" software
+		- if there is problem, need to wait more for fix
+		- eventually you'll version will meet end-of life
+		- some distros need you to re-install, no upgrade
 - resources
 	- linux
 		- repository stats [-](https://repology.org/repositories/statistics/total)
@@ -39,11 +39,7 @@
 - Options by use case
 	- generally
 		- [great tier list - chris titus](https://youtu.be/KyADkmRVe0U?t=267)
-		- windows's garbage
-			- auto encrypts devices (especially laptops) and store the password on the microsoft account
-			- w11 needs wi-fi connection to install...
-				- ![[Pasted image 20240902054502.png]]
-			- spyware included
+		- [[Windows OS]]
 	-
 	- OG
 		- Gentoo - harder to install than arch. Source based OS

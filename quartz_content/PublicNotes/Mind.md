@@ -1,12 +1,13 @@
-[[Int]]
+- [[nMind]]
+
+[[Int PVM]]
 [[HLL]]
-[[Critical thinking]]
+[[Reasoning]]
+-
 [[Productivity]]
 
 [[mind building]]
 [[Communication]]
-[[Wisdom]]
-[[Creativity]]
 
 
 

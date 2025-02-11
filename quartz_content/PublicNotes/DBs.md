@@ -1,8 +1,7 @@
-## more on notion
+ more on notion
 - [[Storage-File management]]
 - Discovery
 	cold starts https://youtu.be/v-9AZKp-Ljo?t=197
-	- [DB choice?](https://www.youtube.com/results?search_query=we+need+to+talk+about+prisma)
 
 - Security - you can mix them
 	- RLS - Raw Level - Row based on anything
@@ -10,8 +9,6 @@
 	- Object-level - db objects (tables, views, procedures etc)
 	- Role-Based - like discord servers
 	- ABAC - Attribute-based access control - more control w policies
-
-	
 - HT choose
 	- Sources
 		- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686) ends [here](https://youtu.be/cC6HFd1zcbo?t=895)
@@ -46,6 +43,11 @@
 	- sources
 		- dsjim
 - Ways to connect
+	- Session pooler connetion string worked for me
+		- copying old proj string w diff password & port didn't work
+		- Direct connection didn't work
+	- supabase connections
+		- ![[Pasted image 20241224070957.png]]
 	- direct connection
 		- 
 	- Non-standard or default
@@ -56,10 +58,8 @@
 				- Once the user finishes with the connection, it's returned to the pool, becoming available for reuse by other users
 			- why?
 				- it's more perfomance heavy to open/close connections than to let maybe 4 open and never close them. Especially in scenarios where there's a high frequency of requests
-			- how?
-				- implemented through middleware
-			- tools
-				- (postgres) - pgbouncer and pgpool-II 
+			- how? - implemented through middleware
+			- tools - (postgres) - pgbouncer and pgpool-II 
 		- APIs
 - Types - [src](https://www.youtube.com/watch?v=9mdadNspP_M)
 	- Relational
@@ -82,7 +82,7 @@
 			- concistency through documents - [src](https://youtu.be/9mdadNspP_M?t=831)
 	- Key value
 
-- Specific
+- DB techs
 	- SQLite
 		- mostly offline but can be used online - doesn't need a server  
 		- lightweight, less feature, cheap, faster than most DBs like mySQL

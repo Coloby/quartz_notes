@@ -1,6 +1,16 @@
 [[GPU]]
+https://www.youtube.com/watch?v=qJeAkPvKA_0
+- Leaderboards
+	- artificialanalysis.ai [-](https://artificialanalysis.ai/)
 
+- Limitations
+	- unless explicitly asked, it's hard for it to go beyond your own expertise
+		- even if given a complex system like [[Int PVM]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
 - Discoveryu
+	- p1
+		- comfy UI workflows
+		- flux lora realistic images [-](https://youtu.be/1m7ZVCy3728)
+	- understand something about all of this mess [-](https://youtu.be/d-VjcaRyo40)
 	- [ai g](https://github.com/topics/ai)
 	- [autoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 	- [open assistant](https://github.com/LAION-AI/Open-Assistant)
@@ -29,6 +39,13 @@
       - technological progress, particularly in AI, reaches a level where it leads to exponential changes that are difficult to predict and maybe control.\
         Transformer-based models, such as BERT or GPT-3
 
+- where AI do/doesn't make sense? 80%, not the remaining 20%
+	- generally
+		- The more easy/uncomplicated tasks will be automated the more humans will be able to focus on excellence instead
+	- Humans - [[Excellence]]
+	- AI - Anything replicable without individuality or major depth
+	- perfectionists will be more needed
+		- the more AI gets better & faster to get 80% of the job done, the more pefectionists (the ones that can get that extra 20% which is the hard part) will be needed.
 - AI usecases
 	- asking to put groups of tabs from browser to obsidian/tablesz
 	- asking about your e-books
@@ -69,7 +86,7 @@
 	- deep-dive
 	- get asked questions by AI & answer real-time [-](https://youtu.be/3D6gaawXwfk?t=625)
 
-
+---
 - Full note-taking AI helper pipeline
 
   - **Document Embedding** with Vector Databases

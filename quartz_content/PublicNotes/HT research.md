@@ -5,6 +5,10 @@
 	- Twitter
 		- until:2020-01-01
 		- since
+- Common great websites
+	-
+	- reddit.com
+	- wikipedia
 
 
 - Setup

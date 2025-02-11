@@ -1,4 +1,8 @@
 - Criterias
+	- [which framework?](https://www.youtube.com/watch?v=S7X6fLbdwlc&pp=ygUqSG93IHNob3VsZCB5b3UgY2hvb3NlIHlvdXIgZnJhbWV3b3JrPyB0aGVv) 
+		- t3 stack?
+		- App or Website?
+			- ![[Pasted image 20230820092727.png]]
 	- [Ease of use vs simplicity](https://youtu.be/QBGJZ3h3n4c?t=414)
 	- [backend&frontend](https://youtu.be/QBGJZ3h3n4c?t=1153)
 		- htmx goes from backend to a little frontend

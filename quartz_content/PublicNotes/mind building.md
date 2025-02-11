@@ -12,16 +12,16 @@
 	- e.g.
 		- problem solving
 		- processing & learning info
-		- [[int]]
+		- [[Int PVM]]
 
-- [[cognitive skills]]
+- [[my cognitive style-skills]]
 - [[Culture]]
 
 - Types of intelligence
-	- Cognitive intelligence
-	- Social intelligence (understanding social cues and relationships)
-	- Emotional intelligence (understanding and managing emotions)
-	- Moral intelligence (distinguishing right from wrong)
+	- Cognitive intelligence - the usage of the mind
+	- Social intelligence - social cues & relationships
+	- Emotional intelligence - understanding & managing emotions
+	- Moral intelligence - distinguishing right from wrong
 
 
 

@@ -1,7 +1,9 @@
 - principles
+	- Writing all in one file or not having folders is ok as long as it's mantainable, don't follow conventions for the sake of it [-](https://youtu.be/RmGHnYUqQ4k?t=151)
 	- if you don't feel lost but feel like the structure could be better, don't change it. Change it only when you feel like you have to
 	- if folder name would be the same of the component, just call the component index.tsx - [src](https://youtu.be/Mm6_DlO5vvs?t=569)
-- Folder organization strategies by project size - [src-webdev](https://youtu.be/UUga4-z7b6s?t=236) - [srcgithub](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md)
+
+- Folder organization strategies by proj size - [src-webdev](https://youtu.be/UUga4-z7b6s?t=236) - [srcgithub](https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md)
 	- small - (probably non production or small outcomes)
 		- personal least complex choice, highly subjective
 	- mid - based on route
@@ -53,13 +55,27 @@
 					- footer_routes
 					- footer_routes
 	- large
-		- based on feature - [using index.js](https://youtu.be/UUga4-z7b6s?t=817) if you want
+		- based on feature - [using index.js](https://youtu.be/UUga4-z7b6s?t=817) if you want [2](https://youtu.be/xyxrB2Aa7KE?t=530)
 		- Hybrid - based on feature + based on route
+	- Enterprise level folder structure [-](https://www.youtube.com/watch?v=aHZz_6NhQkQ)
+		- why all of this? 
+			- extend, mantain, add features to complex software easily
+		- packages - stuff you'd share between apps [v](https://youtu.be/aHZz_6NhQkQ?t=676)
+			- db, utils, components, code in general 
+		- apps
+			- api
+			- web
+			- app (mobile)
+			- docs
+			- email
+			- studio
 - Folder meaning
 	- discovery - [validations](https://youtu.be/XEO3mFvrDx0?t=1286)
+	- generally
+		- index.ts/js when the folder name explains it
 	-
 	- Siblings
-		- lib - mostly essential internal dependen code
+		- lib - mostly essential internal dependen code & *lib settings*
 			- Can also be same as vendor or both, depending on project
 			- Can also be third party libraries, but vendor is preferred, especialy if these dependencies are not esential
 			- Eg. per fare una facade per interagire con le librerie come axios
@@ -102,6 +118,7 @@
 			- usually contains executables or binaries
 
  - Files
+	 - [[Dependency management - package.json]]
 	 - components.json
 		 - aliases
 			 - esclusively needed for shadcn CLI to put stuff in the right places, that's why they don't conflict with aliases in tsconfig

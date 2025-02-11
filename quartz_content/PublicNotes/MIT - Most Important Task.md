@@ -1,18 +1,23 @@
 - what? the task that makes the most differnece now & future [sam](https://youtu.be/H5c41aWpQ14?t=1353)
-- why? [[80-20 pareto principle]]
+- why? 
+	- [[80-20 pareto principle]]
+	- better usage of [[Subconscious]], time, focus, [[Energy-Time]]
+		- most people think about too many things polutting their mind
 	- if not, you're confirming that you cannot focus & achieve ur goals
-- how? *systems* & validating trough [[Int]] to be convinced that's the MIT
+- how? *systems* & validating trough [[Int PVM]] to be convinced that's the MIT
+	- logic - have resons that confirms this is the n1 option
 
-- logic - have resons that confirms this is the n1 option
-	- filter - It isn't about doing more but doing less, is that the less?
-		- [[Bottle framework]]
-		- [[80-20 pareto principle]]
-		- [[KPIs]]
-		- [[Reward]]
-	- be lazy
-		- [[Posticipate selectively]]
-		- [[Find the best laziest alternative]]
-		- [[Never be a fly]]
+- filter - It isn't about doing more but doing less, is that the less?
+	- [[Bottlenecks framework]]
+	- [[80-20 pareto principle]]
+	- [[KPIs]]
+	-
+	- [[Reward]]
+	- [[Multipliers]]
+- be lazy
+	- [[Posticipate selectively]]
+	- [[Find the best laziest alternative]]
+	- [[Never be a fly]]
 
 - Excuses
 	- The only valid excuse - there's something better to do

@@ -2,7 +2,15 @@
 - [[Career choice]]
 ---
 - discovery
-	- Apathy [-](https://www.phind.com/search?cache=) the middleground of happiness & sadness
+	- primagen https://youtu.be/7fjBIPKTKQw?t=2152
+	- Motivation justin [-](https://youtu.be/RMB3NsQotvM)
+		Feeling
+		Thoughts
+		Actionz
+		
+		distnace - thought action diffusion
+		fake it til you make it
+	- higly alert but calm https://youtu.be/QmOF0crdyRU?t=245
 	- [[boredom]]
 	- We want to be sedated because we're cowards - [src](https://youtu.be/NdCo5HY8KMo?t=738)
 	- if you don't hate it, you will tolerate it
@@ -119,9 +127,6 @@
 	- the better you become the more intrinsic motivation grows
 	- it's a positive feedback loop by itself
 
-- Tools -  consistant outcomes
-	- [[yoga nidra]]
-	- [[morning sun bath]]
 - Tricks - non-consistent outcomes
 	- Passion -- **emotion**
 		- great starter
@@ -134,6 +139,10 @@
 			- Novelty
 			- Surprise - tyring to [[Predicting]] outcomes confirming/den
 		- e.g. - found new category of knowledge like DevOps/mu
+- Tools - consistant outcomes
+	- [[boredom]]
+	- [[yoga nidra NSDR]]
+	- [[morning sun bath]]
 
 
 

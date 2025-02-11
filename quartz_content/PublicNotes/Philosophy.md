@@ -1,22 +1,34 @@
-[[Ethics]]
-[[Morals]]
 [[nPhilosophy]]
+[[lPhilosophy]]
 
-- What? fundamental truths, wisdom
+- What? fundamental truths about what we perceive, love of wisdom
+
+- Main Branches
+	Logic/argumentation/[[Reasoning]]
+	[[epistemology]]
+	[[Ethics]]
+	[[Aesthetics - beauty]]
+	[[Metaphysics]]
+	[[Political science]]
+
+- [[myPhilosophy]]
 
 - intresting ideas
-	- [[Collectindividualism]]
 	- [[Search and don't believe]]
 	- [[Finding happiness vs chasing it]]
 - Movements
 	- [[stoicism]]
+	- [[objectivism]]
+	- [[taoism]]
+	- eutopianism
+	- [[idealism]]
 	-
 	- without usage found
 		- [[Cosmicism]]
 - Philosophers
 	- [[Nietzsche - Nice]]
 	- Socrate
-		- He was questioning everything and talking about this with anyone
+		- He was questioning everything & talking about it with anyone
 		- Got executed from politicians
 		- IK nothing oriented
 	- Pleto

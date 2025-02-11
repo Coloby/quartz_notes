@@ -7,6 +7,7 @@
 - why? 
 	- conclusions
 		- n1 reason to use astro is PPR & performance w Partial Hydration but Next.js 14 introduced PPR as experimental so eventually we'll have it too + partial hydration it's double edge sword 
+		- astro is simpler for simple static stuff & can be used with react [-](https://youtu.be/2OTq15A5s0Y?t=358)
 		- even though animations & support for md it's great those are the only 2 reasons I may use astro
 		- other than for smaller projects, I would not use this + you still need to learn it while next.js can do the same stuff (apart from PPR) even if w a different dx experience
 		- next.js seem to have a future, not sure about astro + still has small community

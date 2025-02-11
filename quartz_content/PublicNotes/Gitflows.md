@@ -1,4 +1,10 @@
 #### Flows
+- Great overviews
+	- ship like companies - [long gitflow similar](https://www.youtube.com/watch?v=Dl-BdxNRUqs) [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+		- gitflow
+			- ![[Pasted image 20241215161244.png]]
+		- trunk
+			- ![[Pasted image 20241215161220.png]]
 - + staging - almost gitflow
 	- How? - [great explanation](https://youtu.be/hG_P6IRAjNQ?t=228)
 		- make feat branches from dev. 

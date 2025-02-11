@@ -1,0 +1,16 @@
+- Enviroment
+	- [[Vscode]]
+	- [[Terminal]]
+	- [[Git]]
+	- [[Git-hub]]
+- Steps explanation
+	- planning
+	- designing - how you want to see it and experience it?
+	- development - make it
+	- testing - test it
+	- deployment - make it usable and distribute it
+- [[Teamwork]]
+- [[Great code Overviews]]
+
+- [nome è già preso?](https://tools.namerobot.com/appcheck)
+- [Google analytics is ilelgal, nice](https://youtu.be/hhbHMY0rvv8?t=15917) GDPR: get rekt

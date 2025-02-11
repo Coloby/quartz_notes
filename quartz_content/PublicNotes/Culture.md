@@ -13,7 +13,7 @@
     [[Math]]
     [[Educazione civica]]
 	
-	- Applied Sciences
+	- Applied [[Science]]
 		- [[CS]]
 	- Social Sciences
 		- [[Political science]]

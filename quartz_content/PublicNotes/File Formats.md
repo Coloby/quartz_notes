@@ -1,4 +1,6 @@
 [[Torrent]]
+[[Video encoding formats]]
+
 - Immagine
 	- [[SVG]] - Scalable Vector Graphics.
 		- Doesn't lose quality if bigger or smaller (because it's made with math, not pixels)
@@ -31,11 +33,15 @@
 	- AVI
 		- It is compatible with different file formats and several web browsers. There’s a guarantee of high-quality videos from this file format. Microsoft developed this video format, and it can hold both audio and video data.
 - Audio
+- Markdown & [[MDX]]
+	- XSS is a problem when the markdown is converted to HTML
 - E-books
-	- e-pub - foss e-book format
+	- e-pub - foss e-book format - can exec javascript
 	- Proprietary kindle-amazon
 		- azw3 - best kindle format
-		- Mobi - old kindle format
+		- Mobi - old kindle format, macros code
+	- similar
+		- RTF - like doc bcs they might have code through macros
 - Other
 	- DOC - word
 	- DOCX -

@@ -13,9 +13,6 @@
 - books
 
 - list of philosophies mentioned
-	- [[Eudaimonism]]
 	- [[Nihilism]]
 	- [[Perspectivism]]
-	- [[Essentialism]]
 	- [[Existensialism]]
-	- [[Collectindividualism]]

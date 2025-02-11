@@ -16,6 +16,11 @@
 			1. Examines psychological growth and change throughout the lifespan [5].
 
 - Discovery
+	- ego
+	- [[personality tests & patterns]] patterns
+		- how much are they really relevant?
+		- how can we get even more precise predictions?
+	- HT auto therapy?
 	- Therapy?
 	- Exposure theraphy
 

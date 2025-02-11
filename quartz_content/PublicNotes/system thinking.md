@@ -1,5 +1,6 @@
-- [[overviewing]]
+- [[overviewing]]/[[Prestudy  - Priming]]
 - [[Pragmatism]]
+- [[Bloom's principles]] (Solo taxonomy)
 -
 - Narrower related point of views
 	- emergence - examining only high level parts
@@ -15,7 +16,7 @@
 		- ![[Pasted image 20241120104309.png]]
 		- ![[Pasted image 20241120104318.png]]
 ---
-##### how? 
+
 - Every unit interact & depend w its siblings & other unit types
 	- changes with time
 	- Lower & Higher level parts
@@ -36,9 +37,13 @@
 	- mini wholes / emergence
 	- wholes
 	- can we create meta-wholes?
-- Practical
+- Practical - **Input** -> Process/System -> Outcome/Feedback
+	- *[[leverage]]*
+	- [[Root problem]]
+	- Variables of the problem?
+	- Garbage in Garbage out - [[Inputs to follow]] - [[Conditioning]]
+	- All influenced by Environment
+		- even climate have massive influence
+			- bad climate = worst countries happiness
 	- [v](https://youtu.be/rcxiCDNHJpM?t=1024)i
 		- ![[Pasted image 20241118152513.png]]
-	- What? trace inputs that make best outputs (leverage) [-](https://youtu.be/hpP9xibD8Yc) e.g. 
-	- good food = ingrediets = your own farm = best soil
-	- money = help people = do stuff differently = learn different things = get time to learn = kill part of yourself = reinvent yourself

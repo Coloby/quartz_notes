@@ -7,9 +7,9 @@
 		 - ![[Pasted image 20241123172841.png]]
 	 - text version (there are missing ones because not shared)
 		- ==[[Mind]]== 
-			- [[Int]] - Introspection
+			- [[Int PVM]] - Introspection
 			- [[HLL]] - Higher Order Learning - How to learn better
-			- [[Critical thinking]] - Tools/Ideas to think better
+			- [[Reasoning]] - Tools/Ideas to think better
 			- [[Productivity]]
 			- unstable - not much processed
 				- [[mind building]] - mind, culture, cognitive skills... 

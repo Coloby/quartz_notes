@@ -7,7 +7,7 @@
 		- [[Experiences]]
 			- involountary and passive experiences
 			- [[Identity & life depends on focus]]
-				- beliefs trough [[Critical thinking]]
+				- beliefs trough [[Reasoning]]
 				- makes our values (what we prioritize or believe in)
 					- e.g. family upbringing, education, social interactions, cultural influences, personal experiences
 	- Mind
@@ -23,7 +23,7 @@
 				- flaws
 				- imperfections
 				- quirks
-		- [[Int]] - Existential
+		- [[Int PVM]] - Existential
 	- Relationships - Social - roles, relationships, groups
 
 - what people make other see of themself 

@@ -4,7 +4,7 @@
 	- [[Mindmaps]]
 	- [[Second brain]]
 - Techniques
-	- [[Prestudy]]
+	- [[Prestudy  - Priming]]
 	- [[Interleaving]]
 	- [[Skimming]]
 - Logic frameworks

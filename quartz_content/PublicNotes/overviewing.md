@@ -1,29 +1,86 @@
-- what? [[system thinking]] applied to study [sung](https://youtu.be/3Z7frfjiEcM?t=669)
-- why? - [v](https://www.youtube.com/watch?v=eZWP-eA-lCg) build a structure to build less familiar information from
+- what? [[system thinking]] applied to study building your own index page 
+- why? - [justin](https://youtu.be/2rtSSM-C91I) [v](https://www.youtube.com/watch?v=eZWP-eA-lCg) [sung](https://youtu.be/3Z7frfjiEcM?t=669)
+	- to skip non-important stuff & help w direction
+		- defines the right feedback & direction to follow [[Pragmatism]]
+	- initial structure to build less familiar information from
 ##### How?
-- Create overview of main keypoints/components of a subject/system
+- Make overview of main keypoints/components/inputs of a subject/system
 	- [[Divergent Thinking]]
 	- start from knowledge you relate/know most
-		- to get the first bunch of dots fast
+		- to connect and get the first bunch of dots fast
 	- [skip details](https://youtu.be/tkkey3ADfCI?t=911)
-- evaluate them w each other
-- give+validate *importancy* to invest/not focus/time in X component
-- Compare components to entire topic/system
-- i
-	- ask AI - Explain me the fundamentals & vocabulary of X
-	- Job/roles based on that
-	- curriculums
-	- fanciest or objective worthy things
-	- the masters of that field
-	- how it relates/mixes with this other field?
+	- Find the [[leverage]]
+- [[Predicting]] evaluate them
+	- give+validate *importancy* to invest/not focus/time in X component
+	- Compare components to each other, entire topic, field, & system  
+
+- useful keywords - combine them to get great results
+	- great
+		- fundamentals/foundations of X
+		- main vocabulary of X
+		- for beginners
+		- milestones in X
+		- understand what & why of 
+			- the main topic
+			- main subcategories
+			- main solutions/tools
+		- SOPs
+		- wow maps
+			- curriculum
+			- roadmap
+			- cheatsheet
+			- mindmap
+			- map of X
+			- overview of X
+			- guide
+		- relations
+			- how can I use this part of this field in different ones/scenarios?
+			- how it relates/mixes with this other field?
+			- cross-disciplinary applications
+			- interdisciplinary connections
+			- multidisciplinary approaches
+		- professional settings
+			- job requirements for X
+			- Job/roles based on that
+			- professional certifications X
+		- Great results
+			- fanciest or objective worthy things
+			- the masters of that field
+			- state-of-the-art
+			- HT make the perfect X
+			- what professionals are searching in X?
+			- success indicators X
+			- expert approaches X
+	- more specific
+		- main patterns
+			- industry standards in X
+			- best practices X field
+			- professional guidelines X
+			- implementation patterns
+		- current methodologies X
 	-
-	- how can I use this part of this field in different ones/scenarios?
-	- history of it to reveal...
-		- patterns, turning points, and areas of significant change
-	- courses
-	- mindmap
-	- cheatsheet
-	- understand what & why of 
-		- the main topic
-		- main subcategories
-		- main solutions/tools
+	- practical
+		- case studies
+		- use cases
+		- applications
+		- implementation strategies
+		- practical examples
+		- real-world applications
+	- past
+		- timeline
+		- evolution of X field
+		- historical development X
+		- black sworns
+			- turning points
+			- historical breakthroughs
+			- areas of significant change
+	- meh
+		- principles of X
+		- core concepts in X
+		- basic principles of X
+		- essential elements of X
+		-
+		- hierarchy in X
+		- framework of X
+		- architecture of X
+	

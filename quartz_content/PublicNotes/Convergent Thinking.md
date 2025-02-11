@@ -1,29 +1,31 @@
 - Relations
 	- Other contexts where it's heavily used
-		- teaching - Feyman method in [[Retrieval-Revision techniques]]
+		- teaching - Feyman method in [[Retrieval - Revision techniques]]
 		- communicating - [[CC]]
 ---
 - what? - evaluating & selecting options through criterias - analytical
 
-- Theory
-	- Criterias
-		- use most rare criteras to exclude most options
-		- sort by importancy & focus on topline
-		- ~Downsides/Tradeoffs acceptable?
-		- WHEN? is it the right time?
-	- Understanding
-		- if it is, why's +important & how compared to other info?
-##### tools
-- WWHw - the foundation of solving a problem
-	- what?
-	- why?
-	- how?
-	-
-	- when?
-- [[HT Aurgument]]
+- Basics
+	- if it is, why's +important & how compared to other info?
+	- WWHwhen    ~y/n   - foundations of solving a problem
+		- what?
+		- why?
+		- how?
+		-
+		- when? how's it compared to past, present, future - abt...
+			- problem
+			- solution
+			- feedback
+		- pro/cons? - are you ok with the cons/pros of this option?
+		- translate to the negative
+	- Contex/Environment
+		- resources
+		- limitations
+		- Can/Can't I?
 - [[First principle thinking]]
 
+- [[HT Aurgument]]
 - [[Biases and Fallacies]]
-- [[Respect the unknown]]
 
+- [[Respect the unknown]]
 - [[SWOT analysis]]

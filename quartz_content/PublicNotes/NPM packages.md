@@ -1,3 +1,5 @@
+[[Dependency management - package.json]]
+
 - yyy
 	- wtf 
 		mdx-embed
@@ -5,9 +7,7 @@
 		1. Bundle image within a mdx file using [remark-mdx-images](https://www.npmjs.com/package/remark-mdx-images)
 
 - Theory
-	- directives
-		- ~ `1.2.3` up to, but not including, `1.3.0`.
-		- ^ `1.2.3` up to, but not including, `2.0.0`.
+	
 - Tools to evaluate [-](https://javascript.plainenglish.io/7-tools-to-choose-the-right-npm-package-7baf47259ae0)
 - General evaluation tool
 	- tldr

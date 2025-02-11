@@ -1,7 +1,11 @@
 - Structure not linear at all expecially Planning x Dev
 - artists create culture and designers remix it - [26:40](https://www.flux-academy.com/resources/watch-the-brand-design-workshop)
 
-- Standardize - only after [[Onboarding]] & [[DE direction]] gets validated
+- pre - [[Creativity]] & [[Reasoning]] & [[Aesthetics - beauty]] to inspire
+	- [[iCode]]
+	- [[iDesign]]
+	- notion for more design
+- Standardize - only after [[Onboarding]] & [[DE direction]] gets validated ^f55ed1
 	- Style scapes - detailed visual direction - design system
 		- [e.g.](https://youtu.be/-MqwkxmTr8I?t=824)
 	- Consystency

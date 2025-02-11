@@ -2,6 +2,7 @@
 - [[Open source]]
 
 - Types
+	- Websites - [[fCode]]
 	- [[XR]] - [[VR]]/[[AR]]
 	- [[AI]]
 	-
@@ -11,22 +12,17 @@
 - Personal
 	- [[Code meta]]
 	- [[Code Thoughts]]
+	- [[gCode]]
 	- [[pCode]]
-	- [[Code proj]]
 - Tech
 	- Languages
-		- Programming
-			- [[Typescript]]
-			- [[JS]]
-		- Markmppp
-			- [[MDX]]
-			- [[Latex]]
-	- [[Frameworks]]
-	- [[Package managers]]
-	- [[NPM packages]]
+		- [[Latex]]
+		- [[MDX]]
+	- Packages
+		- [[Package managers]]
+		- [[NPM packages]]
 	- Other
 		- [[Bun]]
-		- [[Docker]]
 
 
 

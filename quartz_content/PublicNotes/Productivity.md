@@ -1,12 +1,16 @@
 - main source is Sam Ovens video [-](https://youtu.be/H5c41aWpQ14)
 
-- focus
-	[[Minimalism]]
-	[[HT focus]]
-- Sustain - [[Energy]]
-- Do MIT
-- Continue to learn - [[Multipliers]]
+- what? practical/processed [[Wisdom]] or general practical tips
+- why? I experimented & they worked, *for me*
 
+---
+- [[Minimalism]] - Prioritize
+- [[Energy-Time]] - Sustain
+---
+
+- [[HT focus]] - Approach
+- principles > techniques/tools
+	- [[Wisdom]] makes you find solutions, techniques are pre-baked solutions that might or might not work (usually not by themself)
 - Tools
 	- Isolation [-](https://youtu.be/H5c41aWpQ14?t=1276)
 		- protect your time [-](https://youtu.be/H5c41aWpQ14?t=1638)
@@ -18,6 +22,7 @@
 
 - a-chived
 	- already synthetized
+		- positive mindset > negative mindset
 		### If you're not growing you're dying
 		- 
 		- Basics
@@ -43,7 +48,7 @@
 				- use clock to remember habits or anything you usually forget
 				- use sticky notes on desktop to remember you of to-dos
 				- Archivio - Ho cambiato idea
-					- prenditi tante responsabilità così non sprechi tempo - va contro [[Bottle framework]] quindi sconsiglio
+					- prenditi tante responsabilità così non sprechi tempo - va contro [[Bottlenecks framework]] quindi sconsiglio
 			- essential classics - I remember because I do them periodically
 				- [[Habits]] and [[Rituals]]
 				- [[Routines and TimeTables]]

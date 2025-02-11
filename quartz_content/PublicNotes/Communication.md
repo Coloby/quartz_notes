@@ -2,11 +2,12 @@
 [[Relationships]]
 
 - 
+	[[Teamwork]]
+	[[Leadership]]
+	[[Teaching]]
 	[[Copywriting]]
 	[[Storytelling]]
 	[[influencing]]
-	[[Leadership]]
-	[[Teaching]]
 	[[Conversational Intelligence]]
 - 
 	- stuff go south
@@ -17,6 +18,7 @@
 		- [[micro-expressions]]
 		- behavioral analysis
 		- [[Intuition]]
+		- social deduction?
 		-
 		- why? to understand
 			- personality

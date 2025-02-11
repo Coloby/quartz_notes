@@ -1,4 +1,4 @@
-[[Prestudy]]
+[[Prestudy  - Priming]]
 
 - what? - 80% results are made of 20% of causes, most stuff is noise
 
@@ -11,6 +11,7 @@
 	- the interviewee would be an 8 but not a 9 or 10... don't choose him
 - Account *tradeoffs* even in great opportunities - e.g.
 	- what we put focus on like people & thoughts
+- you can/should re-apply it to itself
 -
 - 80% of our stuff is garbage but share it anyway to find the 20%
 

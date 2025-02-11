@@ -1,12 +1,9 @@
-#keynote 
-- What? [v](https://youtu.be/B9XGUpQZY38?t=450)
-	- Way of thiking focussed on the practical outcomes
-		- rejecting anything abstract/principle based that doesn't bring any tangible results.
-			- it can also be bad for you
-		- versatile
-			- it doesn't need empiric truths or abstractions necessary
-		- accessible
-			- it's scope it's general and not limited to scientific research etc.
+- What? [v](https://youtu.be/B9XGUpQZY38?t=450) - Way of thiking focussed on practical outcomes
+	- rejecting anything abstract that doesn't bring any tangible results.
+		- Optimally,  the abstract & Pragmatism togheter
+	- versatile - doesn't need empiric truths or abstractions necessary
+	- accessible - scope it's general & not limited to scientific research
+	-
 	- Similar to:
 		- [[Scientific method]] 
 			- almost identyc (instead of solutions, hypothesis)
@@ -15,24 +12,28 @@
 			- without the focus on almost re-inventing the wheel
 			- more versatile & accessible 
 - Why? - to grow in any field or upgrade a process
-- How?
-	1. *Observe* trough POC framework: 
-		1. Problem - identify what root problems to overcome
-			- we don't go to school to finish school, we do it to get a job, we get it because we need money, need money because I need stuff from other people, because I need/want stuff, because of my identity
-		2. Outcomes - why and how is happening? how to change it?
-		3. Contex - Can/Can't? - limitations, resources, & enviroment
-	2. *[[Predicting]] Solutions and tests* to get great feedback trough [[KPIs]]
-	3. *Evaluate feedback* changing solutions & tests
-		- can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion
-	-
-	- Summarized
-		- think
-		- execute
-		- learn
-		- think
-		-
-		- repeat
 
+1. Problem - identify which one is worth it [[80-20 pareto principle]]
+	- is it the [[Root problem]]?
+2. Solution - [[Predicting]]/tests to get positive feedback
+	- [[Reasoning]] 
+		- Best scenario/solution respecting [[Criterias]]?
+		- [[system thinking]]
+3. Feedback - Evaluate changing solutions & tests iterating step 2
+	- Bad/Good feedback? [[KPIs]]
+		- when we're getting closer to solution? pivod instead?
+		- should we "fail" faster?
+	- can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion
+-
+- Summarized
+	- think
+	- execute
+	- learn
+	- think
+	-
+	- repeat
+
+---
 - E.g.
 	- [[system thinking]]
 	- [[Law of actraction]]
@@ -46,3 +47,23 @@
 	- religion
 	- if there is an haunted house, the one who don't believe in ghost will have a better time
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#keynote 
