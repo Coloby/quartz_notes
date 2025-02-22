@@ -12,7 +12,7 @@
 	- e.g.
 		- problem solving
 		- processing & learning info
-		- [[Int PVM]]
+		- [[Int]]
 
 - Leverages
 	- [[myInputs]] - people reach excellence because they study from great sources, not because they're born like this

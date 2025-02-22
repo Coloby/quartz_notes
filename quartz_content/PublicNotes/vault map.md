@@ -9,7 +9,7 @@
 		 - ![[Pasted image 20241123172841.png]]
 	 - text version (there are missing ones because not shared)
 		- ==[[Mind]]== 
-			- [[Int PVM]] - Introspection
+			- [[Int]] - Introspection
 			- [[HLL]] - Higher Order Learning - How to learn better
 			- [[Reasoning]] - Tools/Ideas to think better
 			- [[Productivity]]

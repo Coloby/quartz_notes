@@ -6,8 +6,9 @@
 	- find, refine, mix, & make ideas
 	- Openess
 	- [[Subconscious]]
-- See patterns
-- Past knowledge - N, L, Discovery & Existing notes
+
 - [[Creativity]]
 - [[HLL]] - [[Prestudy  - Priming]]
+- Past knowledge - N, L, Discovery & Existing notes
+- See patterns
 

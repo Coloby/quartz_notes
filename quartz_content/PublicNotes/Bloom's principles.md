@@ -22,7 +22,7 @@
 		- relations & info goes beyond the same field
 			- current field + diff fields + past knowledge
 			- e.g.
-				- choosing a career based on [[Int PVM]], past knowledge, & any related field [[Predicting]] the best option
+				- choosing a career based on [[Int]], past knowledge, & any related field [[Predicting]] the best option
 				- making a video with music, 3d graphics, & educational content to teach X specifically
 				- studying a concept that encompass other fields like AI (Math, statistics, computer science, etc)
 		- can create new knowledge & apply t diff contexts (principles)

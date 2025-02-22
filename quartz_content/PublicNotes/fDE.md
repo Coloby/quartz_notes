@@ -3,7 +3,7 @@
 
 - pre - [[Creativity]] & [[Reasoning]] & [[Aesthetics - beauty]] to inspire
 	- [[iCode]]
-	- [[iDesign]]
+	- [[iDE]]
 	- notion for more design
 - Standardize - only after [[Onboarding]] & [[DE direction]] gets validated ^f55ed1
 	- Style scapes - detailed visual direction - design system

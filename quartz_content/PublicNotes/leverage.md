@@ -21,7 +21,7 @@
 	- ignore everything else, let go
 
 - Prioritize - It isn't about doing more but doing less, is that the less?
-	- [[Int PVM]]
+	- [[Int]]
 	- [[Bottlenecks framework]] - what's blocking it
 	- [[Multipliers]] - what can support it
 	- [[80-20 pareto principle]] - tips to find/confirm it

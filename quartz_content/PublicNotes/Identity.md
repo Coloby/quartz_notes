@@ -23,7 +23,7 @@
 				- flaws
 				- imperfections
 				- quirks
-		- [[Int PVM]] - Existential
+		- [[Int]] - Existential
 	- Relationships - Social - roles, relationships, groups
 
 - what people make other see of themself 

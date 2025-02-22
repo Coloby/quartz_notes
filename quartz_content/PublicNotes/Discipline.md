@@ -7,7 +7,7 @@
 	- based on identity & flexibility
 - why? - decision fatigue - optimization - accountability
 
-- Full process in [[Int PVM]]
+- Full process in [[Int]]
 - [[Todé]] - MIT & Period Goals & Daily follow	
 	- [[Daily Focus lists]]
 	- [[Routine theory]] - [[Habits]] - [[Rituals]]

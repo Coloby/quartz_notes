@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=qJeAkPvKA_0
 
 - Limitations
 	- unless explicitly asked, it's hard for it to go beyond your own expertise
-		- even if given a complex system like [[Int PVM]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
+		- even if given a complex system like [[Int]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
 - Discoveryu
 	- p1
 		- comfy UI workflows

@@ -1,4 +1,4 @@
-[[Int PVM]] - you map your life based on priorities too
+[[Int]] - you map your life based on priorities too
 
 - what? priming - Get study material & prepare prioritizing info
 - why?

@@ -1,6 +1,6 @@
 - [[nMind]]
 
-[[Int PVM]]
+[[Int]]
 [[HLL]]
 [[Reasoning]]
 -

@@ -1,4 +1,4 @@
-[[personality tests & patterns]] & [[Int PVM]]
+[[personality tests & patterns]] & [[Int]]
 - resources
 	- [LocalScriptMan](https://www.youtube.com/@localscriptman)
 - Discovery

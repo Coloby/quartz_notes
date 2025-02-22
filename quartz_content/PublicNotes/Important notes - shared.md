@@ -1,7 +1,6 @@
 - Important notes from main topics
-
 - [ ] [[Mind]] 
-	- [ ] [[Int PVM]]
+	- [ ] [[Int]]
 		- [ ] [[Discipline]]
 	- [ ] [[Reasoning]]
 		- [ ] [[system thinking]] - especially [[leverage]] & inputs - [[myInputs]]

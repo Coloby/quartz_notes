@@ -5,22 +5,14 @@
 		- [[MU theory]]
 		- [[GU theory]]
 
-| Cate        | Flow      | Now       | Lear      | Inspirat         | Principles              | Proj      | Milesto          |
-| ----------- | --------- | --------- | --------- | ---------------- | ----------------------- | --------- | ---------------- |
-| [[HLL]]     |           | [[nHLL]]  | [[lHLL]]  |                  | [[Prestudy  - Priming]] |           |                  |
-| [[Int PVM]] |           | [[nInt]]  | [[lInt]]  |                  | [[Principles]]          |           | [[myMilestones]] |
-|             |           |           |           |                  |                         |           |                  |
-| [[Code]]    | [[fCode]] | [[nCode]] | [[lCode]] | [[iCode]]        | [[gCode]]               | [[pCode]] | ---              |
-| [[BU]]      | [[fBU]]   | [[nBU]]   | [[lBU]]   | [[BU models]]    | [[gBU]]                 |           | [[mBU]]          |
-| [[CC]]      | [[fCC]]   | [[nCC]]   | [[lCC]]   | [[iCC]]          |                         |           | [[mCC]]          |
-| [[DE]]      | [[fDE]]   | [[nDE]]   | [[lDE]]   | [[iDesign]]      | [[gDesign]]             |           |                  |
-| [[MU]]      | ---       | [[nMU]]   | ---       | [[iMU]]          |                         | ---       | ---              |
-| [[Sho]]     |           | [[nSho]]  |           | [[iSho]]         |                         |           |                  |
-|             |           |           |           |                  |                         |           |                  |
-| [[Tra]]     | [[fTra]]  | [[nTra]]  |           |                  |                         |           |                  |
-| [[3D]]      |           |           | [[l3D]]   | [[i3D - visual]] |                         |           |                  |
-[[iVFX]]
-[[nLin]]
+| Cate     | Flow      | Now       | Lear      | Inspirat  | Principles | Proj      | Milesto |
+| -------- | --------- | --------- | --------- | --------- | ---------- | --------- | ------- |
+| [[Code]] | [[fCode]] | [[nCode]] | [[lCode]] | [[iCode]] | [[gCode]]  | [[pCode]] | ---     |
+| [[BU]]   | [[fBU]]   | [[nBU]]   | [[lBU]]   | [[iBU]]   | [[gBU]]    |           | [[mBU]] |
+| [[CC]]   | [[fCC]]   | [[nCC]]   | [[lCC]]   | [[iCC]]   |            |           | [[mCC]] |
+| [[DE]]   | [[fDE]]   | [[nDE]]   | [[lDE]]   | [[iDE]]   | [[gDE]]    |           |         |
+| [[MU]]   | ---       | [[nMU]]   | ---       | [[iMU]]   |            | ---       | ---     |
+| [[Sho]]  |           | [[nSho]]  |           | [[iSho]]  |            |           |         |
 
 - There are more notes like these, but not important enough to be here
 - Naming conventions
@@ -36,7 +28,7 @@
 		- can contain broad sub-topics of the category that I might want to explore in the future
 		- some mentors might still be in the RSS reader, the most important ones should be here
 	- i (inspiration) - inspiring resources/ideas, e.g. [[iCode]]
-	- g (principles) ideas to apply in other area of my life - e.g. [[gDesign]]
+	- g (principles) ideas to apply in other area of my life - e.g. [[gDE]]
 	- p (project management) - categorized collection of projs
 		- These projs can contain their own...
 			- milestones, todos, inspiration for new todos, etc

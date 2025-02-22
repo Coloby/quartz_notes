@@ -1,4 +1,4 @@
-#### [[Wisdom]] + WWHwhen   ~y/n
+#### [[Wisdom]] + WWHwhen   ~y/n    (PVM)
 - Purpose - why, clarity - thought filters - mind shaping
 	- [[Aesthetics - beauty]]
 	- "Why?" sections in notes 

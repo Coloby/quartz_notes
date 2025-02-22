@@ -3,7 +3,7 @@
 - what? - Tips to find the [[leverage]]
 - 80% results are made of 20% of causes, most stuff is noise
 
-- If it doesn't align with your personality, ([[Int PVM]]) say no
+- If it doesn't align with your personality, ([[Int]]) say no
 - Account *tradeoffs* even in great opportunities - e.g.
 	- good/bad is not enough, it's about what's the best good/bad
 		- If value < 90% compared to criterias, don't choose it - e.g.
