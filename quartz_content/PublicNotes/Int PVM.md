@@ -31,9 +31,8 @@
 		- [[HT goals and to-dos]]
 - Mission - how, gap - using the 4 pillars to achieve goals
 	- [[Discipline]]       - entropy manager, structure
-	- [[the atlas]]         - mental model/library for knowledge
-	- [[Mindfulness]]    - building awareness & control of oneself
-	- [[Ethics]]
+	- [[the atlas]]         - library of knowledge/models
+	- [[Mindfulness]]    - awareness & self-control
 	- Theory
 		- [[Project management]]
 		- [[Analytics]]

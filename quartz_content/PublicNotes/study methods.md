@@ -1,0 +1,34 @@
+- PERRIO study method [-](https://youtu.be/6GTt10GDWII)
+	- [[Prestudy  - Priming]] - stuff you do before studying - [[overviewing]]
+	- Encoding - organize & process info effectively
+		- [[Bloom's principles]]
+		- how fast info flows to your memory
+		- active learning
+		- understanding of complex concepts/problems
+		- +short/long term memory saving time from repetition
+		-
+		- Grouping/[[Chunking]]
+		- Simplifying
+		- Analogies
+		- Connections
+		- Intutive
+	- [[Atlas]]/Reference - offload details efficently
+	- Retrieval - retrieve info from memory & helps re-encoding
+		- [[Retrieval - Revision techniques]]
+		- +retention
+		- essential for tests
+	- [[Interleaving]] - applying knowledge from multiple angles
+		- improves complex problem solving
+		- +mastery
+		- great for curveball questions
+	- Overlearning - optional & repetitive - learning more than u need
+		- more broadly and deeply - but less important
+		- faster recall
+		- higher mastery
+		- +memory
+		- +confidence finding knowledge gaps
+		-
+		- repetition
+		- practice papers
+		- flash cards
+		- revising reference

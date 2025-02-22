@@ -1,3 +1,6 @@
+- What? helpful resources for employee
+
+[[find Job]]
 - useful resources
 	- [redd](https://www.reddit.com/r/technicalwriting/comments/1dpvju7/four_job_offers_and_12_interviews_in_3_months/)
 	- https://lazyapply.com/

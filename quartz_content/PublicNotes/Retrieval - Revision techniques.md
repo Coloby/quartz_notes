@@ -16,11 +16,11 @@
 		1. Explain to someone in the most simple way
 		2. Identify what you can't explain and learn it again
 		3. Repeat until you gain a simple but complete explanation
-	- Free recall - trying to recall info without peeking
-		[fonte](https://youtu.be/evIuDvQDDSY?t=38) 
-	
+	- Free recall - trying to recall info without peeking [fonte](https://youtu.be/evIuDvQDDSY?t=38) 
+	-
 	- Less effective	
-		1. Active recall - to me free recall is better - trying to recall info without peeking but with prompts
+		1. Active recall - to me, free recall is better :| 
+			- what? trying to recall info without peeking but with prompts
 			- often paired w flashcards
 			- e.g.
 			- porsi delle domande sull’argomento e saper rispondere;
@@ -29,6 +29,5 @@
 			    - Posso spiegarlo con parole mie?
 			- svolgere gli esercizi se è una materia scientifica.
 			- ripetere ad alta voce dopo che si è letto un paragrafo o un capitolo;
-	
 		2. Flash cards - [mostly a last resort](https://youtu.be/ckPVBw_CBJk?t=216)
 			- to remember details that we can't really remember using your Tidy brain workflow

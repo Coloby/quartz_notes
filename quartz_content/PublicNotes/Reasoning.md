@@ -42,12 +42,13 @@
 	- [[Creativity]]
 	- Models
 		- [[system thinking]]
-		- [[Pragmatism]]
-		-
 		- [[Excellence]]
 - [[Divergent Thinking]] - get options
 - [[Convergent Thinking]] - find best options
 ---
+- Smalltips
+	- 3rd person look to identify emotions & rationality
+	- Step back, give it time (24/48h) & come back
 
 - Theory
 	- [[Thinking styles]]

@@ -1,0 +1,57 @@
+- [[system thinking]]
+
+- what? parts of a system that gives best outputs if manipulated [-](https://youtu.be/hpP9xibD8Yc) 
+	- the task/actions that makes the most differnece now & future [sam](https://youtu.be/H5c41aWpQ14?t=1353)
+	- e.g.
+		- [[mind building]]
+		- [[Ovens actions]] - grow biz
+		- [grow audience](https://www.youtube.com/watch?v=iD1jJMz9zOs&t=519s) 
+		- [[Prestudy  - Priming]]
+- why? focus on what matters optimizing [[Energy-Time]] - [v](https://youtu.be/H5c41aWpQ14?t=226)
+	- It's universal - how to understand "what to do" in any field
+	- [[Identity & life depends on focus]] 
+	- better usage of [[Subconscious]], time, focus, [[Energy-Time]]
+	-
+	- most people think about too many things polutting their mind
+	- if not, you're confirming that you cannot focus & achieve ur goals
+
+- Find/prioritize problems/solutions/actions based on most relevant...
+	- metrics/[[Analytics]]/feedback
+	- fundamental priciples 
+	- ignore everything else, let go
+
+- Prioritize - It isn't about doing more but doing less, is that the less?
+	- [[Int PVM]]
+	- [[Bottlenecks framework]] - what's blocking it
+	- [[Multipliers]] - what can support it
+	- [[80-20 pareto principle]] - tips to find/confirm it
+	- [[Kid reasoning]] - Outside the box
+	-
+	- [[Reward]]
+- be lazy
+	- [[Posticipate selectively]]
+	- [[Find the best laziest alternative]]
+	- [[Never be a fly]]
+
+- Smaller
+	- Quantity * Quality = Output
+		- most people are X [-](https://youtu.be/AFbtGxzV3BE?t=129)
+			- low on quality (wisdom)
+			- high in quantity ("hard-work")
+		- *balance of quality & quantity to achieve a purposeful goal w efficency*
+		- Never underestimate either one of the 2
+			- quantity makes you find quality if you are looking for it
+- Excuses
+	- The only valid excuse - there's something better to do
+	- No motivation now - I work better when I want to work
+		- Drive is usually never enough to accomplish goals but discipline may ignite it even when we feel like "It's not the right time of the day"
+		- It's true but even w that you would like to work much less that is needed for you to get what you want so discipline is needed anyway
+	- hard day Yesterday/Today, I can't take it
+		- means that you didn't do the MIT before doing the shallow work and now you'll need more discipline to get in track in the same day
+	- Need more rest
+		- if you've logically selected your rest type and period it's most likely that you're scared of starting again rather that you didn't rest properly
+		- if the "more rest" means shallow rest then that's a good indication that you're just scared
+
+- Archived
+	- [fonte](https://youtu.be/7ZTsqm1ilp0?t=4341) - Hamza
+		- Your competitors are not doing it because they can't handle it [fonte](https://youtu.be/dUUwFE7cGXc?t=3955) 

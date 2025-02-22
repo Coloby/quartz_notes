@@ -11,7 +11,8 @@
 		- [[First principle thinking]] 
 			- without the focus on almost re-inventing the wheel
 			- more versatile & accessible 
-- Why? - to grow in any field or upgrade a process
+- Why? - validate/confirm causes & effects
+	- to grow in any field or upgrade a system
 
 1. Problem - identify which one is worth it [[80-20 pareto principle]]
 	- is it the [[Root problem]]?
@@ -20,7 +21,7 @@
 		- Best scenario/solution respecting [[Criterias]]?
 		- [[system thinking]]
 3. Feedback - Evaluate changing solutions & tests iterating step 2
-	- Bad/Good feedback? [[KPIs]]
+	- Bad/Good feedback? [[Analytics]]
 		- when we're getting closer to solution? pivod instead?
 		- should we "fail" faster?
 	- can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion

@@ -1,0 +1,19 @@
+- [[Sleep]]
+- Eat
+	[[Food]]
+	[[Diet theory]]
+	[[supplements]]
+	- Substances
+		- [[Testosterone]]
+		- [[Flouride-fluoro]]
+- Body
+	[[Exercise]]
+	[[Physiology]]
+	[[body parts]]
+	[[MEDIC]]
+- Emergencies
+	- [[first-aid]]
+[[Law]]
+[[Security]]
+
+[[Posture]]

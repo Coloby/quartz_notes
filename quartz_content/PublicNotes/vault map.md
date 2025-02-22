@@ -1,9 +1,11 @@
 - more info
 	- That's how I mentally think about all of my notes
 	- These notes embody most of what I noted about, they are categories 
-
- - [[the atlas]]
-	 - img
+- [[knowledge table]] - mostly used for skill-based notes
+- [[Important notes - shared]] - Some important notes and their sub-categories for more detailed navigation
+- The atlas - An overview of some of the most important notes and how much knowledge/confidence I have in them explained through tiers
+	 - excalidraw version -> [[the atlas]]
+	 - img version
 		 - ![[Pasted image 20241123172841.png]]
 	 - text version (there are missing ones because not shared)
 		- ==[[Mind]]== 
@@ -19,6 +21,7 @@
 		- ==[[Wealth]]==
 			- [[CS]] - Computer science
 			- [[Code]] - Programming (mainly web development)
+			-
 			- [[BU]] - Business - Marketing, Sales, Onboarding...
 			- [[DE]] - Design - mainly web design, but also more
 			- [[CC]] - Content Creation - writing, social media...
@@ -31,10 +34,6 @@
 				-
 				- [[Tra]] - travelling
 				- [[3D]] - Mostly Blender
-	- excalidraw version [[the atlas]]
- - [[knowledge table]]
-
-
 
 - Graph image (with filters active), to demonstrate and totally not to flex
 ![[Pasted image 20241123175607.png]]

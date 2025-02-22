@@ -9,7 +9,7 @@
 	- development - make it
 	- testing - test it
 	- deployment - make it usable and distribute it
-- [[Teamwork]]
+- [[Communication]]
 - [[Great code Overviews]]
 
 - [nome è già preso?](https://tools.namerobot.com/appcheck)

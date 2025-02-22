@@ -1,6 +1,8 @@
  more on notion
 - [[Storage-File management]]
 - Discovery
+	- [singlestore](https://youtu.be/c-hKSbzooAg?t=1389) form theo
+	- upstash KV, redis(no), couldflare kv?
 	cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 
 - Security - you can mix them

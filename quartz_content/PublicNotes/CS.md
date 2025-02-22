@@ -33,7 +33,7 @@
 	- [[Type speed test]]
 	- [[Shortcuts - Hotkeys]]
 - meh
-	[[File Formats]]
+	[[File Formats-extensions]]
 	[[Digital measures - Dimensioni digitali]]
 	[[CPU idle mining]]
 	[[CS certifications]] 

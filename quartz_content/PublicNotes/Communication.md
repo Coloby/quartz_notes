@@ -2,13 +2,17 @@
 [[Relationships]]
 
 - 
-	[[Teamwork]]
 	[[Leadership]]
 	[[Teaching]]
+	-
+	[[influencing]]
 	[[Copywriting]]
 	[[Storytelling]]
-	[[influencing]]
 	[[Conversational Intelligence]]
+- Work specific
+	[[Work culture]]
+	[[Collaboration-Training]]
+	[[Hiring-Recruiting]]
 - 
 	- stuff go south
 		- [[Conflict resolution]]
@@ -27,12 +31,14 @@
 			- intentions
 			- psychological & emotional states
 	[[Trust]]
-	[[Social skills]]
-- 
 	[[Appearence]]
+- More Personal
+	[[Social skills]]
 	[[Boundaries]]
 	[[linguistics]]
 
+
+---
 - Books
 	- [[How to win friends]]
 

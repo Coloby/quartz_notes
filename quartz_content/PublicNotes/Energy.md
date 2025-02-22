@@ -1,4 +1,0 @@
-- [[Motivation]]
-- [[Health]]
-- [[Energy balls.excalidraw]]
-- [[Energy&time savers]] [-](https://youtu.be/H5c41aWpQ14?t=348)

@@ -1,26 +1,24 @@
 - I
-	- milestones - scheduled tasks or small objectives to get better
-		- similar to life milestones & code proj management
 	- direction - anything useful to build a journey toward a purposeful goal
 	- theory
 		- [[Codes theory]]
 		- [[MU theory]]
 		- [[GU theory]]
 
-| Cate     | Flow      | Now       | Lear      | Inspirat         | General                 | Proj      |
-| -------- | --------- | --------- | --------- | ---------------- | ----------------------- | --------- |
-| [[HLL]]  |           | [[nHLL]]  | [[lHLL]]  |                  | [[Prestudy  - Priming]] |           |
-| [[Int PVM]]  |           | [[nInt]]  | [[lInt]]  |                  | [[Principles]]          |           |
-|          |           |           |           |                  |                         |           |
-| [[Code]] | [[fCode]] | [[nCode]] | [[lCode]] | [[iCode]]        | [[gCode]]               | [[pCode]] |
-| [[BU]]   | [[fBU]]   | [[nBU]]   | [[lBU]]   | [[iBU]]          | [[gBU]]                 |           |
-| [[CC]]   | [[fCC]]   | [[nCC]]   | [[lCC]]   | [[iCC]]          |                         |           |
-| [[DE]]   | [[fDE]]   | [[nDE]]   | [[lDE]]   | [[iDesign]]      | [[gDesign]]             |           |
-| [[MU]]   | ---       | [[nMU]]   | ---       | [[iMU]]          |                         | ---       |
-| [[Sho]]  |           | [[nSho]]  |           | [[iSho]]         |                         |           |
-|          |           |           |           |                  |                         |           |
-| [[Tra]]  | [[fTra]]  | [[nTra]]  |           |                  |                         |           |
-| [[3D]]   |           |           | [[l3D]]   | [[i3D - visual]] |                         |           |
+| Cate        | Flow      | Now       | Lear      | Inspirat         | Principles              | Proj      | Milesto          |
+| ----------- | --------- | --------- | --------- | ---------------- | ----------------------- | --------- | ---------------- |
+| [[HLL]]     |           | [[nHLL]]  | [[lHLL]]  |                  | [[Prestudy  - Priming]] |           |                  |
+| [[Int PVM]] |           | [[nInt]]  | [[lInt]]  |                  | [[Principles]]          |           | [[myMilestones]] |
+|             |           |           |           |                  |                         |           |                  |
+| [[Code]]    | [[fCode]] | [[nCode]] | [[lCode]] | [[iCode]]        | [[gCode]]               | [[pCode]] | ---              |
+| [[BU]]      | [[fBU]]   | [[nBU]]   | [[lBU]]   | [[BU models]]    | [[gBU]]                 |           | [[mBU]]          |
+| [[CC]]      | [[fCC]]   | [[nCC]]   | [[lCC]]   | [[iCC]]          |                         |           | [[mCC]]          |
+| [[DE]]      | [[fDE]]   | [[nDE]]   | [[lDE]]   | [[iDesign]]      | [[gDesign]]             |           |                  |
+| [[MU]]      | ---       | [[nMU]]   | ---       | [[iMU]]          |                         | ---       | ---              |
+| [[Sho]]     |           | [[nSho]]  |           | [[iSho]]         |                         |           |                  |
+|             |           |           |           |                  |                         |           |                  |
+| [[Tra]]     | [[fTra]]  | [[nTra]]  |           |                  |                         |           |                  |
+| [[3D]]      |           |           | [[l3D]]   | [[i3D - visual]] |                         |           |                  |
 [[iVFX]]
 [[nLin]]
 
@@ -38,4 +36,9 @@
 		- can contain broad sub-topics of the category that I might want to explore in the future
 		- some mentors might still be in the RSS reader, the most important ones should be here
 	- i (inspiration) - inspiring resources/ideas, e.g. [[iCode]]
-	- p (principles) ideas to apply in other area of my life - e.g. [[gDesign]]
+	- g (principles) ideas to apply in other area of my life - e.g. [[gDesign]]
+	- p (project management) - categorized collection of projs
+		- These projs can contain their own...
+			- milestones, todos, inspiration for new todos, etc
+			- a note for the WIP stuff (like commits) that starts with "d" like [[dPW]]
+	- m (milestones) - goals to orientate, like [[myMilestones]] but for X

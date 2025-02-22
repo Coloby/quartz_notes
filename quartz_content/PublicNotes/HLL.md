@@ -4,16 +4,6 @@
 - why? - [To learn, remember, and think better & faster](https://youtu.be/--Hu2w0s72Y?t=1682)
 - prerequisite: [[Productivity]]
 
-- How we store memory 
-	- Basics
-		- Info
-		- Priming
-		- Encodng & Cognitive load
-			- Retention
-			- Reference
-		- Overstudying
-		- Retrieval
-	- ![[Pasted image 20230613224745.png]]
 - Tidy library framework
 	- Contextual
 		- consuming content - pay attenction to...
@@ -25,11 +15,11 @@
 				- why is this interesting?
 				- are the actors related to influencing?
 		- reading
+			- don't read in a linear way - [[Prestudy  - Priming]]
+				- Book are tools, we use them, not the opposite
 			- Solo taxonomy - prefer extended abstract
 				- integrate new knowledge into old knoledge
 				- don't just write into the note of the book itself
-			- don't read in a linear way - [[Prestudy  - Priming]]
-				- Book are tools, we use them, not the opposite
 		- taking notes
 			- Only after higher level learning
 			- [Don't offload too quickly](https://youtu.be/Mvxbl7Iwep4?t=156)
@@ -41,6 +31,8 @@
 	2. [[Process - encoding]]
 	3. [[Retrieval - Revision techniques]]
 	-
+	- Re-arrange/read the library with [[Pragmatism]] periodically
+	- Principles > Methods/Techniques
 	- Analogy
 		- book = info, note, small portion of knowledge
 		- shelfs = subject - categorizes books
@@ -48,9 +40,21 @@
 		- *Libraries* = extended abstract - your own custom categorization
 		- Cities = [[Holistic thiking]] - connects info in libraries optimally
 		-
+		- Prestudy = Label books, move... 
+			- shelfs, bookcases, and libraries in the right cities/places
 		- Encoding = Book arrangement into shelfs & in library itself
 		- Retrieval = find a book in a shelf from specific library
-
+-
+- How we store memory 
+	- Basics
+		- Info
+		- Priming
+		- Encodng & Cognitive load
+			- Retention
+			- Reference
+		- Overstudying
+		- Retrieval
+	- ![[Pasted image 20230613224745.png]]
 
 ---
 - archived

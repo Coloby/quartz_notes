@@ -1,6 +1,6 @@
+- [[leverage]]
 - [[Motivation]]
-- [[Energy-focus&time savers]] 
-- [[Energy-time prioritization]]
+- [[Energy-focus&time savers]]
 - [[Subconscious]]
 
 - [[Health]]

@@ -1,3 +1,4 @@
+- [[bu_System]]
 - [[overviewing]]/[[Prestudy  - Priming]]
 - [[Pragmatism]]
 - [[Bloom's principles]] (Solo taxonomy)
@@ -16,7 +17,19 @@
 		- ![[Pasted image 20241120104309.png]]
 		- ![[Pasted image 20241120104318.png]]
 ---
-
+- **Input** -> Process/System -> Outcome/Feedback - [v](https://youtu.be/rcxiCDNHJpM?t=1024)
+	- *[[leverage]]* - best variables/[[Criterias]]
+	- [[Pragmatism]] - validate/confirm causes & effects
+	-
+	- Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
+	- [[Root problem]]
+	- All influenced by Environment
+		- even climate have massive influence
+			- bad climate = worst countries happiness
+	-
+	- Variables of the problem?
+	- i
+		- ![[Pasted image 20241118152513.png]]
 - Every unit interact & depend w its siblings & other unit types
 	- changes with time
 	- Lower & Higher level parts
@@ -37,13 +50,3 @@
 	- mini wholes / emergence
 	- wholes
 	- can we create meta-wholes?
-- Practical - **Input** -> Process/System -> Outcome/Feedback
-	- *[[leverage]]*
-	- [[Root problem]]
-	- Variables of the problem?
-	- Garbage in Garbage out - [[Inputs to follow]] - [[Conditioning]]
-	- All influenced by Environment
-		- even climate have massive influence
-			- bad climate = worst countries happiness
-	- [v](https://youtu.be/rcxiCDNHJpM?t=1024)i
-		- ![[Pasted image 20241118152513.png]]

@@ -1,0 +1,23 @@
+- Important notes from main topics
+
+- [ ] [[Mind]] 
+	- [ ] [[Int PVM]]
+		- [ ] [[Discipline]]
+	- [ ] [[Reasoning]]
+		- [ ] [[system thinking]] - especially [[leverage]] & inputs - [[myInputs]]
+			- Garbage in (inputs) garbage out (your life)
+		- [ ] [[Excellence]]
+	- [ ] [[HLL]]
+		- [ ] [[Prestudy  - Priming]]
+		- [ ] [[Process - encoding]]
+		- [ ] [[study methods]]
+	- [ ] [[Productivity]]
+		- [ ] [[leverage]] - add/delete what u do based on purpose
+			- [ ] [[Diversification is bad]] your focus [-](https://youtu.be/i16HTSt-wl4?t=727)
+		- [ ] [[Energy-Time]]
+- [ ] [[Wealth]]
+	- [ ] [[BU]]
+	- [ ] [[CC]]
+	- [ ] [[Code]]
+- [ ] [[Health]]
+- [ ] [[Relationships]]

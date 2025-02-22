@@ -83,7 +83,7 @@
 	- [[Discipline]] -- **planning**
 	- [[Willpower]] - short term
 	- [[Tenacity]] - long-term
-	- [[emotional control]]
+	- [[emotional control]] - [[Mindfulness]]
 
 - External -- **external factors**
 	- best for

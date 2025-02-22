@@ -24,6 +24,7 @@
 			- the main topic
 			- main subcategories
 			- main solutions/tools
+		- X cycle
 		- SOPs
 		- wow maps
 			- curriculum

@@ -14,6 +14,9 @@
 		- processing & learning info
 		- [[Int PVM]]
 
+- Leverages
+	- [[myInputs]] - people reach excellence because they study from great sources, not because they're born like this
+	- [[Simple actions]]
 - [[my cognitive style-skills]]
 - [[Culture]]
 

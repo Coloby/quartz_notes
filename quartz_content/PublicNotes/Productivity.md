@@ -4,7 +4,7 @@
 - why? I experimented & they worked, *for me*
 
 ---
-- [[Minimalism]] - Prioritize
+- [[leverage]] - Prioritize
 - [[Energy-Time]] - Sustain
 ---
 

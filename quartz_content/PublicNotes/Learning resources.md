@@ -14,28 +14,33 @@
 
 - Sources to learn sorted by (convenience & quality)
 	- Your mind - never underestimate youself
-		- why? wrong or right it's going to be your unique conclusion entirely based on the context of yourself
+		- why? 
+			- wrong or right it's going to be your unique conclusion entirely based on the context of yourself
 		- Past knowledge - process&update to the new one - *regularely*
 			- like N & L notes or discovery sections
-		- Use principles & widsom - chess board playing w [[Predicting]]
+			- obsidian(your own ideas) > videos - often true
+				- Instead of consuming new content, is it better to go deeper into the one that's already in your notes?
+		- [[system thinking]]
+			- Principles & [[Wisdom]] - chess board playing w [[Predicting]]
+		- [[HLL]] - [[Prestudy  - Priming]]
 	- AI - pretend it's your free of charge mentor
 		- even if quality is aurguable, it's really fast to get answers
-	- Quick search online
-		- Specific sources - if searching pixelart, go to [pixilart.com](https://www.pixilart.com/)
+	- Quick search online [[HT research]]
+		- Specific sources based on context
+			- if searching pixelart, go to [pixilart.com](https://www.pixilart.com/)
 		- Or general yt channels/videos
 			- even in 2x it might be not productive compared to using [[HLL]] on a book/common topic w AI
 		- language/culture of info is relevant
 			- countries/cultures are always specialized in something
 	- facts vs opinions - empirical data (higher/lower level)
-		- take care of [[Biases and Fallacies]] w [[Critical thinking]] and you'll find something really close to the truth
+		- take care of [[Biases and Fallacies]] w [[Reasoning]] and you'll find something really close to the truth
 	- Relationships - People
+		- [[debating]] 
 		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
 			- Any other category might not did/make what you want to make, **mentors did instead**, they have experience
 			- it's a combination of tutoring, coaching, and consulting
 			- holistic specialized supportive role. "Best" one usually
-		- Tutoring - specific for skill/offer dev + like a teacher
-			- worth even for betting first 3 calls to see if budget is suffiecient for you to learn the skills to start asking people for money and get even more tutoring
-			- they get paid also depending on nationality
+		- [[Tutoring]] - specific for skill/offer dev + like a teacher
 		- Coaching - holistic & focussed on broad goal obtaining
 			- Only if mentorship is off radar & already know skill/offer
 		- Consulting - practical tutoring but less teaching
@@ -43,6 +48,7 @@
 			- like someone that do your same stuff, but is better than you.
 			- He doesn't teach like a tutor, but he has practical knowledge.
 			- useful when feeling comfortable on the theory but lacking the practical and holistic implementation 
+		- [[Teaching]] yourself to some other
 		- Community&Masterminds - great support for any situation
 			- networking serendipity
 			-
@@ -84,42 +90,19 @@
 				- there might be mistakes that are destructive and should be prevented
 				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
 			- if you fail, the lesson you'll learn will be *really* valuable
+	- Work-related
+		- Apprentership
+		- States wanting you to work there
 	- reading - often useless without [[HLL]] & action
 		- textbooks *might* be better
+		- Old books are most likely free, digital ones are great too
 	- Courses - cost effective non-tailored structured learning
 		- Great quick overview, but do [[overviewing]] first
-- focus list - sorted by quality
-	- [[Notes]] - if it's really important, it should be there
 	-
-	- open browser tabs (not always so good)
-	- mentors - [[Steal like an artist - book]]
-		- bookmarks/e
-		- courses - [udemy](https://www.udemy.com/home/my-courses/learning/)
-		- books
-	- taccuino
-	-
-	- Shallow work
-		- p1
-		- Notes/Contextual
-		- go to the intrested note and search if there is "discovery" section
-		- [kill rss feed](https://www.inoreader.com) and saved
-		- order & go trough browser saved tabs
-		- p2
-		- p3
-		-
-		- Almost useless
-			- watch saved tabs into the chrome extension
-			- Inspiration in coding bookmarks (sick)
-			-
-			- read articles
-			-
-			- Other
-				- todoist
-				- Make daily extra todos
-				- 1h meditate
-			-
-			- check obsidian tags
-			- look orphans/notes to connect 
+	- School based
+		- free lecturers from best universities [-](https://www.reddit.com/r/philosophy/comments/843ggz/oxfords_free_introduction_to_philosophy_stream_41/)
+		- Exchange student
+		- Uni/Master
 - online sources
 	- google
 		- trends
@@ -128,76 +111,3 @@
 		- google
 	- Podcasts
 	- [[Courses]]
--
-- Archived
-	- have time list - sorted by quality
-		- urgent 
-		- taccuino
-		- [[Notes]] 
-		-
-		- book
-		- go to e bookmarks
-		- [[Learning resources]]
-		- p1
-		-
-		- Shallow work
-			- Contextual
-			- go to the intrested note and search if there is "discovery" section
-			- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
-			- p2
-			- p3
-			-
-			- Almost useless
-				- watch saved tabs into the chrome extension
-				- Inspiration in coding bookmarks (sick)
-				-
-				- read articles
-				- [[Learning resources]]
-				-
-				- Other
-					- todoist
-					- Make daily extra todos
-					- 1h meditate
-				-
-				- check obsidian tags
-				- look orphans/notes to connect
-	- old
-	- sorted by personal process
-		- people - mentor & [[Relationships]]
-		- AI
-		- Past knowledge
-		- Quick research online - where the most valuable content can be found
-			- Usually on Certain channels/videos on yt
-			- e.g. 
-				- if searching pixelart bin pinterest and go to [pixilart.com](https://www.pixilart.com/)
-		
-		- reading
-		- empirical data (higher/lower level)
-		- testing
-		- Learn because bored list - sorted by quality
-		- mentor and [[Relationships]]
-		- urgent / taccuino
-		- intentionally doing research preferring AI
-		
-		- testing
-		- p1
-		- search empirical data (higher/lower level)
-		- reading
-		
-		- p2
-		- Inspiration in coding bookmarks (sick)
-		- go to e bookmarks
-		- p3
-		
-		- watch saved tabs into the chrome extension
-		- [kill rss feed](https://www.inoreader.com/folder/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB) and saved
-		
-		- read articles
-		- [[Learning resources]]
-		- check obsidian tags
-		- look orphans/notes to connect
-		
-		- Other
-			- Make daily extra todos
-			- todoist
-			- 1h meditate 

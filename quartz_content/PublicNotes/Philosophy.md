@@ -18,6 +18,7 @@
 	- [[Finding happiness vs chasing it]]
 - Movements
 	- [[stoicism]]
+	- [[Existensialism]]
 	- [[objectivism]]
 	- [[taoism]]
 	- eutopianism

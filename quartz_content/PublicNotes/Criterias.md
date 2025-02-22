@@ -1,0 +1,5 @@
+- use most rare criteras to exclude most options
+- sort by importancy & focus on topline
+- ~Downsides/Tradeoffs acceptable?
+- WHEN? is it the right time?
+- Where?
