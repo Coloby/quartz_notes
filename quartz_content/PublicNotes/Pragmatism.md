@@ -14,25 +14,19 @@
 - Why? - validate/confirm causes & effects
 	- to grow in any field or upgrade a system
 
-1. Problem - identify which one is worth it [[80-20 pareto principle]]
-	- is it the [[Root problem]]?
-2. Solution - [[Predicting]]/tests to get positive feedback
-	- [[Reasoning]] 
-		- Best scenario/solution respecting [[Criterias]]?
-		- [[system thinking]]
-3. Feedback - Evaluate changing solutions & tests iterating step 2
+1. Problem - Which is most important to solve? [[leverage]]/[[Root problem]]
+2. Solution - Experimenting using [[Reasoning]] to get feedback/solution
+3. Feedback - Refine next educated guess until a solution is found
 	- Bad/Good feedback? [[Analytics]]
 		- when we're getting closer to solution? pivod instead?
 		- should we "fail" faster?
-	- can be influeced by factors beyond one's control thus are not strictly correlated to the quality of the conclusion
 -
+- Speed of iteration, make sure it's optimal
+
 - Summarized
-	- think
+	- think & learn
 	- execute
-	- learn
-	- think
-	-
-	- repeat
+	- repeat until it works
 
 ---
 - E.g.

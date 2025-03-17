@@ -65,7 +65,7 @@
 			- [[IaC - Infrastructure as Code]]
 			- [[Storage-File management]]
 			- [[Security]]
-			- [[PCs remote management]]
+			- [[PCs remote management - KVM]]
 		- By specific type
 			- 
 			- [[Backend]]

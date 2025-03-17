@@ -16,13 +16,12 @@
 	- Your mind - never underestimate youself
 		- why? 
 			- wrong or right it's going to be your unique conclusion entirely based on the context of yourself
+		- [[HLL]] - [[Prestudy  - Priming]]
+		- [[leverage]]
 		- Past knowledge - process&update to the new one - *regularely*
 			- like N & L notes or discovery sections
 			- obsidian(your own ideas) > videos - often true
 				- Instead of consuming new content, is it better to go deeper into the one that's already in your notes?
-		- [[system thinking]]
-			- Principles & [[Wisdom]] - chess board playing w [[Predicting]]
-		- [[HLL]] - [[Prestudy  - Priming]]
 	- AI - pretend it's your free of charge mentor
 		- even if quality is aurguable, it's really fast to get answers
 	- Quick search online [[HT research]]
@@ -35,6 +34,7 @@
 	- facts vs opinions - empirical data (higher/lower level)
 		- take care of [[Biases and Fallacies]] w [[Reasoning]] and you'll find something really close to the truth
 	- Relationships - People
+		- Reverse engineer
 		- [[debating]] 
 		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
 			- Any other category might not did/make what you want to make, **mentors did instead**, they have experience

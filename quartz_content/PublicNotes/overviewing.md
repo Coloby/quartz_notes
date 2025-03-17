@@ -34,6 +34,8 @@
 			- map of X
 			- overview of X
 			- guide
+			- syllabus
+			- tier list
 		- relations
 			- how can I use this part of this field in different ones/scenarios?
 			- how it relates/mixes with this other field?

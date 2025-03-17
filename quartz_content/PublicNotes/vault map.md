@@ -6,7 +6,7 @@
 - The atlas - An overview of some of the most important notes and how much knowledge/confidence I have in them explained through tiers
 	 - excalidraw version -> [[the atlas]]
 	 - img version
-		 - ![[Pasted image 20241123172841.png]]
+		 - ![[Pasted image 20250224044314.png]]
 	 - text version (there are missing ones because not shared)
 		- ==[[Mind]]== 
 			- [[Int]] - Introspection
@@ -16,7 +16,6 @@
 			- unstable - not much processed
 				- [[mind building]] - mind, culture, cognitive skills... 
 				- [[Communication]] - teaching, sociology, reading people...
-				- [[Creativity]] - design thinking, storytelling...
 				- [[Wisdom]] - philosophy, religion, spirituality...
 		- ==[[Wealth]]==
 			- [[CS]] - Computer science
@@ -24,16 +23,11 @@
 			-
 			- [[BU]] - Business - Marketing, Sales, Onboarding...
 			- [[DE]] - Design - mainly web design, but also more
-			- [[CC]] - Content Creation - writing, social media...
-			- [[MU]] - Music - Guitar, Singing, Music theory...
-			- [[Sho]] - Shooting - Cameras, videography, photography...
 			- unstable - not much processed
+				- [[CC]] - Content Creation - writing, social media...
+				- [[MU]] - Music - Guitar, Singing, Music theory...
+				- [[Sho]] - Shooting - Cameras, videography, photography...
 				- [[DevOps]] - infrastructure management, automation & collaboration between development & IT operations
-				- [[Cybersecurity]] - hacking prevention/attack & related
-				- [[IoT]] - Internet of Things - smart devices/home
-				-
-				- [[Tra]] - travelling
-				- [[3D]] - Mostly Blender
 
 - Graph image (with filters active), to demonstrate and totally not to flex
 ![[Pasted image 20241123175607.png]]

@@ -1,3 +1,8 @@
+- Contextual
+	- BU
+		- before studying money-related resources, get a perspective
+			- understand how wealthy the guy really is. 10k a month might not be much for you or everything that you need
+			- get a global understand of wealth distribution
 - Dorks
 	- discovery
 		- https://github.com/topics/twitter-dorks

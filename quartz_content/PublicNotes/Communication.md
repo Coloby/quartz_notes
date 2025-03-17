@@ -12,29 +12,19 @@
 - Work specific
 	[[Work culture]]
 	[[Collaboration-Training]]
-	[[Hiring-Recruiting]]
+	[[Hiring-Recruiting-Employing]]
 - 
 	- stuff go south
 		- [[Conflict resolution]]
 		- [[de-escalation]]
-	- reading people
-		- [[body language]]
-		- [[micro-expressions]]
-		- behavioral analysis
-		- [[Intuition]]
-		- social deduction?
-		-
-		- why? to understand
-			- personality
-			- life experiences
-			- motivations/purposes
-			- intentions
-			- psychological & emotional states
+	- [[reading people]]
+		
 	[[Trust]]
 	[[Appearence]]
 - More Personal
 	[[Social skills]]
 	[[Boundaries]]
+	[[Etiquette]]
 	[[linguistics]]
 
 

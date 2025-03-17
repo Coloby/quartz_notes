@@ -1,4 +1,5 @@
 [[GPU]]
+https://cursor.directory/
 https://www.youtube.com/watch?v=qJeAkPvKA_0
 - Leaderboards
 	- artificialanalysis.ai [-](https://artificialanalysis.ai/)

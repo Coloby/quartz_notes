@@ -17,36 +17,101 @@
 		- ![[Pasted image 20241120104309.png]]
 		- ![[Pasted image 20241120104318.png]]
 ---
-- **Input** -> Process/System -> Outcome/Feedback - [v](https://youtu.be/rcxiCDNHJpM?t=1024)
-	- *[[leverage]]* - best variables/[[Criterias]]
-	- [[Pragmatism]] - validate/confirm causes & effects
-	-
-	- Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
-	- [[Root problem]]
-	- All influenced by Environment
-		- even climate have massive influence
-			- bad climate = worst countries happiness
-	-
-	- Variables of the problem?
-	- i
-		- ![[Pasted image 20241118152513.png]]
-- Every unit interact & depend w its siblings & other unit types
-	- changes with time
-	- Lower & Higher level parts
-		- have their own purpose that might not derive from the other
-	- Casuality - cause-effect behaviours
-		- Usually non-linear & operating at different levels
+- Variables
+	- Units
+		- components
+		- mini wholes / emergence
+		- wholes
+		- meta-wholes
+	- Env -> Input -> Process -> Outcome -> Feedback [v](https://youtu.be/rcxiCDNHJpM?t=1024)
+		- Environment - can kill/sustain system
+			- understand in which ways that's the case
+			- trends and similar are ways for small biz to compete
+			- look out for major changes & adapt quickly
+			- e.g. 
+				- even climate have massive influence
+					- bad climate = worst countries happiness
+		- Inputs
+		- Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
+		- Outputs
+		- Processes
+		- Feedback
 		-
-		- Feedback loops - outputs affects other inputs
-			- Changes in one part of the system affect other parts, creating cyclical relationships.
-		- history of a system influences its current & future state
-		- Local changes can cascade to affect the entire system.
-		- Effects can influence their causes
-		- Thresholds can be trigghered by slight changes
-	- e.g.
-		- mini wholes interact with components, other mini wholes, the whole, and meta wholes
-- Units
-	- components
-	- mini wholes / emergence
-	- wholes
-	- can we create meta-wholes?
+		- i
+			- ![[Pasted image 20241118152513.png]]
+	-
+	- Resources - inflows/outflows & pools
+		- Inflows & Outflows of resources always exist
+		- Pools of resources - manipulate them
+			- too much = wasting resources
+			- too little = risk of stopping/decreasing outputs	
+	- Entropy - natural decadence of a system w time
+		- History changes a systems's current/future state
+		- makes mantainance essential
+	- Less
+		- a system can be choise based
+			- this scenario can be a system by itself and the leverage is anything that would high up the chances of success & returns
+- Considerations
+	- Every unit interact & depend w its siblings & other unit types
+		- Lower & Higher level parts
+			- have their own purpose that might not derive from the other
+		- Casuality - cause-effect behaviours
+			- Usually non-linear & operating at different levels
+			-
+			- Feedback loops - outputs affects other inputs
+				- Changes in one part of the system affect other parts, creating cyclical relationships.
+			- Local changes can cascade to affect the entire system.
+			- Thresholds can be trigghered by slight changes
+		- e.g.
+			- mini wholes interact with components, other mini wholes, the whole, and meta wholes
+	- After-scale, complexity problems, side-effects, Changes can... 
+		- be counteproductive
+		- affect other systems & society as a whole
+			- e.g.
+				- pollution can cause enormous damage
+				- the internet caused enormous development
+		- simple solutions are often the best ones
+			- if you solve a big problem with other systems, you made even more moving parts that can fail
+- Manipulations - others in [[Reasoning]]
+	- Enchance
+		- *[[leverage]]* - best variables/[[Criterias]]
+		- Ways to scale
+			- Vertically - enhance system efficency
+				- Soft - provide/builds upon existing patterns
+				- Hard - internal optimization of a system
+					- includes optimizations about...
+						- Resource usage
+						- Logic
+						- bottlenecks
+					- e.g.
+						- it would change the CPU internal logic in a more optimal way instead of upgrading the CPU which would be vertical scaling
+			- Horizontally - duplicate systems
+			- Cooperation - make systems enhance other systems
+		- Autocatalysis
+			- system produce output that can be fed as input to itself
+				- Compounds the system 
+			- e.g.
+				- network effect in social media & viral content
+				- marketing in product-based biz
+	- Support - [[Multipliers]]
+	- Limiters
+		- [[Bottlenecks framework]] 
+		- [[Root problem]]
+		- Dependencies
+			- Problem
+				- the more dependant a system is to one other the more you risk to alt it because of cascading problems
+				- happens especially with people, like in 2008
+					- banks that had an insurance with other banks felt like they could use more debt. When they lost lots of money and asked for insurance, even the other banks needed money because the whole real-estate market went south
+			- Loosely coupled vs Highly Integrated systems
+				- Highly - cons are the pros of loosely w/o isolation
+					- Direct, high-speed connections
+				- Loosely
+					- Failure, updates/mantainance & dependencies are isolated
+					- try to be an orchestra
+						- if a violin mistakes, the others will cover
+						- [[CAP theorem]]
+			- always have a plan B for when things go south
+-
+- Useful questions
+	- Variables of the problem?
+

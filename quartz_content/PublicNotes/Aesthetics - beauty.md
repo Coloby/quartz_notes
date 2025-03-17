@@ -12,11 +12,11 @@
 - Discovery
 	- beautiful vs sublime?
 		- sublime [-](https://www.youtube.com/results?search_query=what%27s+the+sublime) 
+			- usually it's about something negative & beauty is for positive stuff
 			- overwhelms the senses
 			- gives deep emotional responses
 			- goes beyond what's expected by society
 			- starts/changes from within, not from the extern [-](https://youtu.be/fXcckb7CHTE?t=350)
-		- 
 	taste
 	ideology
 	evidence based design
@@ -30,6 +30,13 @@
 		-
 		- despair
 		- pride
+
+- The function follows the form, not the other way around [-](https://youtu.be/FJrCn-y16Vs?t=4086)
+	- If the singular parts are meaningful and goes well to the whole, it's great [-](https://youtu.be/FJrCn-y16Vs?t=4191)
+- Bad creativity is when you make something that's new but out of touch
+	- With existing principles that makes art work
+- Parts need to be in sync w the whole & vice-versa [-](https://youtu.be/FJrCn-y16Vs?t=2310)
+
 
 fractal
 symmetry

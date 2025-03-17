@@ -19,6 +19,8 @@
 - [[Inquiry learning]]
 
 - More tips on establishing importancy
+	- Base everything you'll learn to a project/objective
+	-
 	- If you don't have a problem, don't search solutions
 		- learn solutions only to solve an immediate problem
 			- you have a problem that will filter what you actually need

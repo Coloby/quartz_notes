@@ -1,6 +1,8 @@
 - resources
 	- [awesome WYSIWYG](https://github.com/JefMari/awesome-wysiwyg-editors?tab=readme-ov-file#for-react)
 
+- Obsidian Plugins - to make it WYSIWYG
+	- [1](https://forum.obsidian.md/t/switch-between-markdown-wysiwyg-editing-mode/52434/4) [p1](https://github.com/PKM-er/obsidian-editing-toolbar) [p2](https://github.com/chetachiezikeuzor/cMenu-Plugin)
 - Criterias
 	- musts
 		- security
@@ -16,6 +18,7 @@
 - specific
 	- lexical [20k](https://github.com/facebook/lexical)
 	- slate [30k](https://github.com/ianstormtaylor/slate)
+	- stackedit [22k](https://github.com/benweet/stackedit) [w](https://stackedit.io/)
 	-
 	- plate [12k](https://github.com/udecode/plate)
 	- prosemirror [8k](https://github.com/ProseMirror/prosemirror)

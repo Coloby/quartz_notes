@@ -1,4 +1,4 @@
-- what? you're as strong as your wakest link, & don't waste [[essentialism.excalidraw]]
+- what? you're as strong as ur wakest link, don't waste [[Energy-Time]]
 	- *avoid* bad habits, *focus* on *[constrains](https://youtu.be/h7LdEYE759I?t=1541)* & *mantainance* of essential stuff 
 		- [[Energy balls.excalidraw]] preserve [[Motivation]]
 		- seasons based on [[Essential stuff]]

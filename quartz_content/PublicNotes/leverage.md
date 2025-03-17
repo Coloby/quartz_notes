@@ -1,16 +1,19 @@
 - [[system thinking]]
 
 - what? parts of a system that gives best outputs if manipulated [-](https://youtu.be/hpP9xibD8Yc) 
-	- the task/actions that makes the most differnece now & future [sam](https://youtu.be/H5c41aWpQ14?t=1353)
+	- Like finding the right "levers" to pull any time you can to gain a great outcome compared to any other "lever"/option
 	- e.g.
 		- [[mind building]]
 		- [[Ovens actions]] - grow biz
 		- [grow audience](https://www.youtube.com/watch?v=iD1jJMz9zOs&t=519s) 
 		- [[Prestudy  - Priming]]
 - why? focus on what matters optimizing [[Energy-Time]] - [v](https://youtu.be/H5c41aWpQ14?t=226)
+	- best usage of [[Subconscious]], time, focus, [[Energy-Time]]
 	- It's universal - how to understand "what to do" in any field
+	- task/actions that makes the most differnece now & future [sam](https://youtu.be/H5c41aWpQ14?t=1353)
+	- A way to prioritize, understand the real importance of things
+		- every teacher at school will tell you that their subject is important, they mean to them. They can't mean to you because they don't know or care about your goals. Chances are that learning when a certain war happened won't make any difference in your life.
 	- [[Identity & life depends on focus]] 
-	- better usage of [[Subconscious]], time, focus, [[Energy-Time]]
 	-
 	- most people think about too many things polutting their mind
 	- if not, you're confirming that you cannot focus & achieve ur goals
@@ -22,8 +25,6 @@
 
 - Prioritize - It isn't about doing more but doing less, is that the less?
 	- [[Int]]
-	- [[Bottlenecks framework]] - what's blocking it
-	- [[Multipliers]] - what can support it
 	- [[80-20 pareto principle]] - tips to find/confirm it
 	- [[Kid reasoning]] - Outside the box
 	-
@@ -34,6 +35,7 @@
 	- [[Never be a fly]]
 
 - Smaller
+	- Prediction - which scenario will give the most outcomes?
 	- Quantity * Quality = Output
 		- most people are X [-](https://youtu.be/AFbtGxzV3BE?t=129)
 			- low on quality (wisdom)

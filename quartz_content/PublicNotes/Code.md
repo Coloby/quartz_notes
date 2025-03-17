@@ -3,6 +3,7 @@
 
 - Types
 	- Websites - [[fCode]]
+	- [[Data analyst]]
 	- [[XR]] - [[VR]]/[[AR]]
 	- [[AI]]
 	-

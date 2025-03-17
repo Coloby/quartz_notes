@@ -5,7 +5,7 @@
 	- [[iCode]]
 	- [[iDE]]
 	- notion for more design
-- Standardize - only after [[Onboarding]] & [[DE direction]] gets validated ^f55ed1
+- Standardize - only after [[Offer delivery - onboarding]] & [[DE direction]] gets validated ^f55ed1
 	- Style scapes - detailed visual direction - design system
 		- [e.g.](https://youtu.be/-MqwkxmTr8I?t=824)
 	- Consystency
