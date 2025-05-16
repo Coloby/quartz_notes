@@ -1,4 +1,4 @@
-- [[nMind]]
+[[nMind]]
 
 [[Int]]
 [[HLL]]

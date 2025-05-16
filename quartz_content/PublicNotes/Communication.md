@@ -1,4 +1,12 @@
-[[Sociology]]
+- what? - social sciences
+
+- Main
+	[[Psychology]]
+	[[Sociology]]
+	[[Anthropology]]
+	[[Economics]]
+	[[Political science]]
+
 [[Relationships]]
 
 - 
@@ -17,8 +25,7 @@
 	- stuff go south
 		- [[Conflict resolution]]
 		- [[de-escalation]]
-	- [[reading people]]
-		
+	[[reading people]]
 	[[Trust]]
 	[[Appearence]]
 - More Personal
@@ -36,3 +43,4 @@
 	- Convincing
 		Persuasion - individual and short term
 		Influence - broader and long term
+- 

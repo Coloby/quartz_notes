@@ -1,16 +1,39 @@
  more on notion
-- [[Storage-File management]]
+- [[mySQL workbench]]
+- [[Storage-File-Data management]]
+- [[DB backups]]
 - Discovery
 	- [singlestore](https://youtu.be/c-hKSbzooAg?t=1389) form theo
 	- upstash KV, redis(no), couldflare kv?
-	cold starts https://youtu.be/v-9AZKp-Ljo?t=197
+	- cold starts https://youtu.be/v-9AZKp-Ljo?t=197
 
-- Security - you can mix them
-	- RLS - Raw Level - Row based on anything
-	- CLS - Column-level
-	- Object-level - db objects (tables, views, procedures etc)
-	- Role-Based - like discord servers
-	- ABAC - Attribute-based access control - more control w policies
+- Theory - 0
+	- Ways to connect
+		- Session pooler connetion string worked for me
+			- copying old proj string w diff password & port didn't work
+			- Direct connection didn't work
+		- supabase connections
+			- ![[Pasted image 20241224070957.png]]
+		- direct connection
+			- 
+		- Non-standard or default
+			- connection pooler
+				- what?
+					- there are a fixed number of connections open at any given time. 
+					- When a user requests a connection, the pool provides an available one from its pool of connections. 
+					- Once the user finishes with the connection, it's returned to the pool, becoming available for reuse by other users
+				- why?
+					- it's more perfomance heavy to open/close connections than to let maybe 4 open and never close them. Especially in scenarios where there's a high frequency of requests
+				- how? - implemented through middleware
+				- tools - (postgres) - pgbouncer and pgpool-II 
+			- APIs
+	- Security - you can mix them
+		- RLS - Raw Level - Row based on anything
+		- CLS - Column-level
+		- Object-level - db objects (tables, views, procedures etc)
+		- Role-Based - like discord servers
+		- ABAC - Attribute-based access control - more control w policies
+	- [[migrations]]
 - HT choose
 	- Sources
 		- 1h theo explanation starts [here](https://youtu.be/cC6HFd1zcbo?t=686) ends [here](https://youtu.be/cC6HFd1zcbo?t=895)
@@ -31,9 +54,11 @@
 		- planetscale - no free tier, minimum 44$/m plan
 		-
 		- upstash - caching, integrates great w redis
-		- cockroach DB - sbt
-		- turso
-	- dynamo DB - end game of cloud hosting
+		- edge databases
+			- cockroach DB - sbt
+			- turso
+	- dynamo DB - managed NoSQL DB
+		- end game of cloud hosting
 	- On browser
 		- localstorage
 		- [[IndexedDB]]
@@ -44,25 +69,7 @@
 			- mongoDB
 	- sources
 		- dsjim
-- Ways to connect
-	- Session pooler connetion string worked for me
-		- copying old proj string w diff password & port didn't work
-		- Direct connection didn't work
-	- supabase connections
-		- ![[Pasted image 20241224070957.png]]
-	- direct connection
-		- 
-	- Non-standard or default
-		- connection pooler
-			- what?
-				- there are a fixed number of connections open at any given time. 
-				- When a user requests a connection, the pool provides an available one from its pool of connections. 
-				- Once the user finishes with the connection, it's returned to the pool, becoming available for reuse by other users
-			- why?
-				- it's more perfomance heavy to open/close connections than to let maybe 4 open and never close them. Especially in scenarios where there's a high frequency of requests
-			- how? - implemented through middleware
-			- tools - (postgres) - pgbouncer and pgpool-II 
-		- APIs
+
 - Types - [src](https://www.youtube.com/watch?v=9mdadNspP_M)
 	- Relational
 		- data integrity
@@ -85,14 +92,25 @@
 	- Key value
 
 - DB techs
-	- SQLite
-		- mostly offline but can be used online - doesn't need a server  
+	- SQLite - minimal relational db
+		- originally meant offline but can be used online
+			- turso & libSQL made if "online" on the edge
+		- best thing is that it deploys anywhere
+			- is just a code library and a data file, you don't need a server to deploy that db
+			- great for embedded solutions & apps that need a db
+			- when it is fine to store the data in a single file locally on the machine the program is running on but the data is structured and you want it to remain structured.
+		- more on use-cases [-](https://sqlite.org/whentouse.html)
 		- lightweight, less feature, cheap, faster than most DBs like mySQL
 		- mostly used in embedded systems
 		- reliable - less code
 		- Backward compatible and easily extendable.
 		- recorevable db content
 		- officially max 140 terabytes (depends on embedded system)
+	- turso/libSQL - they made the latter - sqlite on the edge
+		- like what I wanted to do w habitsapp... kind of
+			- offline/local first apps are hard [-](https://youtu.be/3gVBjTMS8FE?t=3022)
+			- ![[Pasted image 20250511072411.png]]
+			- react query? [-](https://youtu.be/3gVBjTMS8FE?t=3182)
 	- MySQL - Foss fast standard for medium to big stuff
 		- Stability Issues
 		- Poor performance on high loads (millions of records)
@@ -104,7 +122,7 @@
 		- Flexibility - Supports a wide range of data types
 		- Complexity - configurable+, hard for new users to set up/maintain.
 	- Distributed & resilient DB
-		- What?
+		- What? DBs on the edge
 			- Servers on the edge are not enough, we also need the DBs to be closer to users... so let's make 30 replicas distributed in the world
 		- foss
 			- CockroachDB

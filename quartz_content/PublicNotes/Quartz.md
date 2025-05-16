@@ -1,3 +1,4 @@
+[tut](https://youtu.be/6s6DT1yN4dw?t=128)
 - Installation
 	- git clone https://github.com/jackyzha0/quartz.git && cd quartz && npm i && npx quartz create
 	- Selections

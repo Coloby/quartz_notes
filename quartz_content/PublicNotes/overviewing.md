@@ -86,4 +86,5 @@
 		- hierarchy in X
 		- framework of X
 		- architecture of X
-	
+- other useful
+	- Reddit groups

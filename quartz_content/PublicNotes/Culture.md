@@ -2,42 +2,40 @@
 	[[Luck]]
 	[[Dictionary - Vocaboli generali]]
 	[[Etiquette]]
-- Discovery
+
+- n
 	- Opere artistiche da conoscere?
 		- Poeti?
 		- Religioni?
 			- Tempio di Solomone?
----
 
-- Categories of knowledge
-    [[Math]]
-    [[Educazione civica]]
-	
-	- Applied [[Science]]
-		- [[CS]]
-	- Social Sciences
-		- [[Political science]]
-		- [[Psychology]] - social sciences - the mind of people
-		- [[Economics]]
-	- Humanities
-		- [[literature]]
-	    - [[Italian]]
-		- [[Languages]]
-	    - [[History]]
-		- [[Philosophy]]
+- 0
+	- Elitism but the funny way
+		- ![[Pasted image 20250504010431.png]]
+		- ![[Pasted image 20250504010436.png]]
+		- ![[Pasted image 20250504010440.png]]
+		- ![[Pasted image 20250504010443.png]]
+	- liberal arts - studies all humanities subjects
+		- well roundend/broad education
+		- misses on wealth, health, & technical/practical knowledge
+			- apart from economics
+		- some colleges/unis don't follow the philosophy behind this
+###### Categories of knowledge
+- Humanities - expression, understanding, & culture
+	- generally
+		- popular in italian reinassance
+		- deriving wisdom from the past
+			- ancient books were deeply studied
 	- [[Art]] - creative arts - specific artistics arts like music, painting...
-	- Physical
+	- [[Science]]
+	- [[Philosophy]]
+	- [[Languages]]
+	- [[History]]
+- Other
+	[[Educazione civica]]
+	- Physical/Health related
 		- martial arts
 			- [[Boxing]]
 		- weapons
-	- Natural sciences - non-living sys
-		- Astronomy - celestial bodies and their interactions in space
-		- Physics - study of matter & related
-		- Chemistry - composition, structure, properties & change of matter
-		- Earth Sciences - Earth - meteorology, Seismology & geology
-	-
-	- Meh
-		- liberal arts - well roundend/broad education
-			- humanities, mathematics, and social & physical sciences
-			- Social science, physical science, philosophy, math, and literature
+
 

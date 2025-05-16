@@ -10,6 +10,7 @@
 	- [[CLI dev]]
 	- [[Game dev]]
 	- [[Extensions dev]]
+	- [[Program/Script dev]]
 - Personal
 	- [[Code meta]]
 	- [[Code Thoughts]]

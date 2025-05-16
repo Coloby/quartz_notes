@@ -18,26 +18,29 @@
 		- ![[Pasted image 20241120104318.png]]
 ---
 - Variables
-	- Units
+	- Unit types
 		- components
 		- mini wholes / emergence
 		- wholes
 		- meta-wholes
-	- Env -> Input -> Process -> Outcome -> Feedback [v](https://youtu.be/rcxiCDNHJpM?t=1024)
+	- Unit components - can create systems to manipulate them - [v](https://youtu.be/rcxiCDNHJpM?t=1024)
 		- Environment - can kill/sustain system
+			- [[Everyone have the same 24h BS]] - where u study
 			- understand in which ways that's the case
 			- trends and similar are ways for small biz to compete
 			- look out for major changes & adapt quickly
 			- e.g. 
 				- even climate have massive influence
 					- bad climate = worst countries happiness
-		- Inputs
-		- Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
-		- Outputs
-		- Processes
-		- Feedback
+		- Inputs - Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
+		- Outputs - which results are important? [[Int]] & [[leverage]]
+		- Processes - optimize outputs from inputs (SOPs)
+			- optimize [[Pragmatism]] too
+			- [[OS]]
+			- SOPs (fNotes)
+		- Feedback - understand & iterate ([[Pragmatism]])
 		-
-		- i
+		- i - can replicate this system even for singular components
 			- ![[Pasted image 20241118152513.png]]
 	-
 	- Resources - inflows/outflows & pools
@@ -45,7 +48,7 @@
 		- Pools of resources - manipulate them
 			- too much = wasting resources
 			- too little = risk of stopping/decreasing outputs	
-	- Entropy - natural decadence of a system w time
+	- Entropy - natural decadence of any system w time
 		- History changes a systems's current/future state
 		- makes mantainance essential
 	- Less

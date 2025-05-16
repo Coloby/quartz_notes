@@ -1,4 +1,5 @@
 - Discovery - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
+	- sys admin
 	- [sys design tut](https://youtu.be/F2FmTdLtb_4)
 	- Jenkins, GitLab CI, Travis CI, CircleCI
 	- configure multiple computers without OS installed automatically
@@ -14,7 +15,7 @@
 		- telling router that anyone that tries to get port:x will be redirected to port:y
 	- separating parts of your backend/frontend into microservices to save performance?
 	[that's life](https://youtu.be/qVEEpUvl0Kw?t=220) - + killer article	
-	- [[Storage-File management]]
+	- [[Storage-File-Data management]]
 	- do not virtualize [client PCs](https://youtu.be/8B1Kp_ylUSY?t=330)
 	- remote into other people computers to use quickbooks license lol
 	- are IoT secure?
@@ -63,7 +64,7 @@
 		- [[myInfra]]
 		- general
 			- [[IaC - Infrastructure as Code]]
-			- [[Storage-File management]]
+			- [[Storage-File-Data management]]
 			- [[Security]]
 			- [[PCs remote management - KVM]]
 		- By specific type

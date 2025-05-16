@@ -34,6 +34,25 @@
 		- local - software installed from source
 		- src - stuff needed to compile & build softw from source
 		- include - C libraries
+- old notes?
+	- More
+		- /var
+			- log files (`/var/log`)
+			- spool directories (`/var/spool` for print queues and mail)
+			- temporary files (`/var/tmp`)
+			- package manager data (`/var/lib/dpkg` or `/var/lib/rpm`)
+		- /etc - global system configs
+			- networking (`/etc/network`)
+			- system startup (`/etc/init.d`)
+			- user management (`/etc/passwd`, `/etc/group`)
+		- /tmp - temporary files
+		- /log - log files
+	- Other
+	/bin - has binaries or executable (like cd, ls, etc)
+	/sbin - same as /bin but for sudo
+	/usr - contains copy of /bin
+	/lib - shared library files
+	/dev - devices
 -
 - useful Folders
 	- ~/.

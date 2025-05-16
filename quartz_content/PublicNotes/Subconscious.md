@@ -15,6 +15,8 @@ limbic system? [-](https://youtu.be/GLtmel8hD1k?t=1937)
 	-
 	- it's all stored here
 
+- It has no context - just tries to get a hold with the most desirable
+	- Tries to get dopamine, no matter the context, it doesn't have it
 - have a... 
 	- give a problem/idea to your mind to attract related ideas
 		- Wrap it into emotions

@@ -9,7 +9,7 @@ description: There you can find my .md notes :)
 - Similar to how wikipedia works, notes are connected through links or references to other notes
 - Only a small portion of my 1100+ notes is shared here (just about 140 notes)
 - I'll update this website 1 time a month
-  - **Last update: 17/03/2025 (day/month/year)**
+  - **Last update: 17/05/2025 (day/month/year)**
 ### Why sharing? To help & attract people with similar interests as me
   - Letting people know more [about me](https://edondigital.vercel.app/about)
     - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about anything you find here & more

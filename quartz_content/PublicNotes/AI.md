@@ -4,10 +4,9 @@ https://www.youtube.com/watch?v=qJeAkPvKA_0
 - Leaderboards
 	- artificialanalysis.ai [-](https://artificialanalysis.ai/)
 
-- Limitations
-	- unless explicitly asked, it's hard for it to go beyond your own expertise
-		- even if given a complex system like [[Int]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
+
 - Discoveryu
+	- MCP, the new REST API for AI [-](https://youtu.be/HyzlYwjoXOQ)
 	- p1
 		- comfy UI workflows
 		- flux lora realistic images [-](https://youtu.be/1m7ZVCy3728)
@@ -16,7 +15,6 @@ https://www.youtube.com/watch?v=qJeAkPvKA_0
 	- [autoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 	- [open assistant](https://github.com/LAION-AI/Open-Assistant)
 	- [quivr RAG system](https://github.com/QuivrHQ/quivr)
-
 - Dictionary
 	- 0
 	    - Language models
@@ -40,6 +38,10 @@ https://www.youtube.com/watch?v=qJeAkPvKA_0
       - technological progress, particularly in AI, reaches a level where it leads to exponential changes that are difficult to predict and maybe control.\
         Transformer-based models, such as BERT or GPT-3
 
+- Limitations
+	- unless explicitly asked, it's hard for it to go beyond ur own expertise
+		- even if given complex systems like [[Int]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
+- Freya got depressed also because of it [-](https://youtu.be/-opBifFfsMY?t=3656)
 - where AI do/doesn't make sense? 80%, not the remaining 20%
 	- generally
 		- The more easy/uncomplicated tasks will be automated the more humans will be able to focus on excellence instead
@@ -53,6 +55,9 @@ https://www.youtube.com/watch?v=qJeAkPvKA_0
 	- Let AI summarize everything
 	
 	- who are the most related mentors from my notes to learn from how to X? also give videos/links
+	- website to voice?
+		- https://lukesmith.xyz/ has so much great content... use AI to speach it for you so u don't have to read it while eating? free podcasts
+	- 
 	- yt vid
 		- tranform to text
 		- remove

@@ -8,20 +8,86 @@
 	- ![[Pasted image 20231121164610.png]]
 
 - Already in place
+	- 0
+		- [[web dev stages.excalidraw]]
 	- CMS problems & solutions - [from builder.io](https://youtu.be/mA-Cocc9dRE)
-	- what? can find this info in its specific notes
-	- [which framework?](https://www.youtube.com/watch?v=S7X6fLbdwlc&pp=ygUqSG93IHNob3VsZCB5b3UgY2hvb3NlIHlvdXIgZnJhbWV3b3JrPyB0aGVv) 
-		- t3 stack?
-		- App or Website?
-			- ![[Pasted image 20230820092727.png]]
-	- [which db? K/V > Document > Relational](https://youtu.be/cC6HFd1zcbo?t=1533)
-			- Try to mentally start w K/V first then if you need more stuff just go with relational
-			- ![[Pasted image 20231112004950.png]]
+		- what? can find this info in its specific notes
+	- fullstack "definition" & roles/pipeline [-](https://youtu.be/rAjd8z-Fx5A)
+		- Product manager - manager + product strat
+			- acts as a manager and has some business tasks related to the product success mostly vision and purpose of it
+		- i
+			- ![[Pasted image 20250505162323.png]]
+	- Frameworks
+		- batteries included vs not [v](https://youtu.be/eBy6LJvv8B0)
+			- quick list
+				- ![[Pasted image 20250514223828.png]]
+			- not - need to choose every piece yourself
+				- complexity scales with needs
+				- could end up with unmantained garbage
+			- included - there's a standard solution & not much more
+				- can be complex from the start
+				- could need to modify it to fit your needs
+				- usually follows the MVC mentality
+					- realistically it gets out of hand at a certain point and it should not be called MVC anymore
+			- i
+				- ![[Pasted image 20250514223850.png]]
+				- ![[Pasted image 20250514223319.png]]
+		- [which framework?](https://www.youtube.com/watch?v=S7X6fLbdwlc&pp=ygUqSG93IHNob3VsZCB5b3UgY2hvb3NlIHlvdXIgZnJhbWV3b3JrPyB0aGVv) 
+			- t3 stack?
+			- App or Website?
+				- ![[Pasted image 20230820092727.png]]
+			- [Ease of use vs simplicity](https://youtu.be/QBGJZ3h3n4c?t=414)
+			- [backend&frontend](https://youtu.be/QBGJZ3h3n4c?t=1153)
+				- htmx goes from backend to a little frontend
+				- next.js goes from frontend to a little backend
 	- Learning VIM be like [v](https://www.youtube.com/watch?v=E_8B_seg8AI)
 		- i
 			- ![[Pasted image 20241216200442.png]]
-	- [[DevOps]] - [workflow overview](https://youtu.be/4It0D0Nw00c)
-		- ![[Pasted image 20241215160359.png]]
+	- Backend
+		- [which db? K/V > Document > Relational](https://youtu.be/cC6HFd1zcbo?t=1533)
+			- Try to mentally start w K/V first then if you need more stuff just go with relational
+			- ![[Pasted image 20231112004950.png]]
+		- Serverless, Traditional servers, & fluid compute [Theo v](https://youtu.be/156FSMbyMPQ?t=432)
+			- traditional dedicated servers give 1 entire thread
+				- u pay for these ~2.5 seconds
+					- ![[Pasted image 20250513091454.png]]
+			- serverless - pay based on compute time
+				- properties
+					- stateless (people use cache/DBs to have it)
+					- spin up & scale on-demand
+					- die when not used
+					- 1 instance can serve only 1 user at the time
+				- spawns a VM per-request
+				- u pay based on compute time, not threads
+					- paying for 6 whole seconds
+					- the goal is to reduce the compute time in milliseconds
+					- ![[Pasted image 20250513091547.png]]
+				- doesn't support streaming
+				-
+				- waitUntil
+					- the lambda don't die instantly but can do more even after the "final" response
+						- thanks to vercel abstraction of the AWS gateway (vercel edge)
+				- announced [-](https://youtu.be/156FSMbyMPQ?t=1195) in-function concurrency
+				- vercel edge checks usage of an alive lambda and if it's not too much it gives it another task
+				- could also try to understand if other devs have tasks that can fit in there
+				- you still pay for the whole time even if you might be able to do more with the same amount of time
+			- Pay based on CPU execution time
+				- cloudflare worker
+					- gives request to a v8 instance
+					- pay based on CPU execution time [-](https://youtu.be/156FSMbyMPQ?t=1470)
+					- no compute time limit
+					- bad stuff about this [-](https://youtu.be/156FSMbyMPQ?t=1871)
+						- it's not node
+				- fluid compute
+					- why not enabled by default [-](https://youtu.be/156FSMbyMPQ?t=1946)
+						- because some code expect multiple requests per-task
+					- for AI chat apps
+						- most of time is spent waiting to then stream a word/token and time of compute gets very big
+					- works like cloudflare workers
+					- practical benefits [-](https://youtu.be/156FSMbyMPQ?t=1734)
+		- [[DevOps]]
+			- [workflow overview](https://youtu.be/4It0D0Nw00c)
+			- ![[Pasted image 20241215160359.png]]
 	- Dev cody
 		- next.js fast explanation [-](https://youtu.be/LkDelp5WWYU)
 		- [[Gitflows]]/ship like companies - [long gitflow similar](https://www.youtube.com/watch?v=Dl-BdxNRUqs) [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)

@@ -1,5 +1,10 @@
-[[Philosophy]]
-[[Religion]]
+- Humanities
+	[[Philosophy]]
+	[[Religion]]
+	[[History]]
+	-
+	[[Languages]] & Literature
+[[Political science]]
 [[Spirituality]]
 - [[Discoveries]]
 	[[Old life maps]]

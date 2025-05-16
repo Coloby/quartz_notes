@@ -103,3 +103,15 @@
 	- more security for server actions [-](https://youtu.be/I-yTjdloeuQ?t=1266)
 	-
 	- Instrumentation & error tracking enhanced for library devs [-](https://youtu.be/I-yTjdloeuQ?t=994)
+- outisde of vercel
+	- needs X that understands server components
+		- bundler
+		- server
+		- router
+
+
+- Server vs client components
+	also client comps are rendered on server first? [-](https://www.reddit.com/r/nextjs/comments/1c80rfp/if_using_use_client_in_all_components_why_use/)
+	- The only way to render server comps inside client comps normallly is w prop drilling [-](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns#interleaving-server-and-client-components)
+	- [img](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
+		- ![[Pasted image 20240106103335.png]]
