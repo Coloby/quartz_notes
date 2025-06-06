@@ -132,6 +132,7 @@
 			- output: brave-browser.desktop
 		- xdg-mime default firefox.desktop x-scheme-handler/http x-scheme-handler/https
 			- to change it
+	[[lin app dev tools]]
 
 - Smaller
 	- Customize startup settings

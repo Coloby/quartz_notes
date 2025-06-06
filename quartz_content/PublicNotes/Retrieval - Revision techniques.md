@@ -8,17 +8,28 @@
 		- Sporadically needed with great encoding
 		- Fights the decay of the forgetting curve trough [[Retrieval - Revision techniques]]
 	- [[Interleaving]]
-	- wPw - Whole part whole - teach by reverse engineering
-		1. Reveal the final result
-		2. Disectionate it to understand how the components relate to each other to embody the final result
-		3. Make the final product again
-	- Feyman method - teach info in a simple manner
-		1. Explain to someone in the most simple way
-		2. Identify what you can't explain and learn it again
-		3. Repeat until you gain a simple but complete explanation
-	- Free recall - trying to recall info without peeking [fonte](https://youtu.be/evIuDvQDDSY?t=38) 
+	
 	-
-	- Less effective	
+	- Less effective
+		- teach based
+			- Critiques
+				- need to find someone
+				- doesn't tell you HOW to simplify
+					- you'll intuitively learn something but not much other than that
+					- like giving you the rules of the game and hoping you'll win without any strat
+					- just study principles behind simplifying stuff
+				- not aligned enough to the main purpose
+					- which is often to solve a problem, not just memorize stuff
+				- risk to oversimplify
+			- wPw - Whole part whole - teach by reverse engineering
+				1. Reveal the final result
+				2. Disectionate it to understand how the components relate to each other to embody the final result
+				3. Make the final product again
+			- Feyman method - teach info in a simple manner
+				1. Explain to someone in the most simple way
+				2. Identify what you can't explain and learn it again
+				3. Repeat until you gain a simple but complete explanation
+		- Free recall - trying to recall info without peeking [fonte](https://youtu.be/evIuDvQDDSY?t=38) 
 		1. Active recall - to me, free recall is better :| 
 			- what? trying to recall info without peeking but with prompts
 			- often paired w flashcards

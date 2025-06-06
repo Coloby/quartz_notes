@@ -110,6 +110,7 @@
 				- flatpack - by redhat
 					- flathub
 				- snaps - worst
+					- closed source...?
 					- by Canonical, the company behind Ubuntu
 					- snap store
 			- downloading binaries - discouraged for security
@@ -121,7 +122,7 @@
 		- [[systemctl]]
 	- Scripting
 		- [[Cron jobs]]
-		- [[Bash]]
+		- [[Bash - lin commands]]
 	- Other
 		- how to learn best
 			- man

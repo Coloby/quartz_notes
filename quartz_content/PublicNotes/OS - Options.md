@@ -41,7 +41,7 @@
 		- [great tier list - chris titus](https://youtu.be/KyADkmRVe0U?t=267)
 		- [[Windows OS]]
 	-
-	- OG
+	- OG - [[Linux]]
 		- Gentoo - harder to install than arch. Source based OS
 			- [why?](https://www.reddit.com/r/linuxquestions/comments/syj5r0/what_is_the_appeal_of_gentoo/)
 			- "[Linux end game](https://youtu.be/8QcI43IwkVc?t=507)" -MentalOutl

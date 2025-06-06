@@ -1,6 +1,7 @@
 [[myPlaybooks]]
 
 - Discovery
+	- [great config](https://youtu.be/NuuZ4CmiFQQ?list=PLT98CRl2KxKEGi9C9S9HSFiE1uxbuag57)
 	- no need to check if file exist bcs is automatic?
 	- ansible-runner
 	- roles & inventory

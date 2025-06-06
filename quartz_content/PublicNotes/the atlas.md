@@ -32,7 +32,7 @@ tier1 ^CLKcJaPS
 
 tier2 ^Oq8rqS7u
 
-%%***>>>text element-link:[[DevOps]]<<<***%%[[DevOps]] ^17wiJjkr
+%%***>>>text element-link:[[DevOps - Sys admin]]<<<***%%[[DevOps - Sys admin]] ^17wiJjkr
 
 unstable ^12sx6JMR
 
@@ -44,11 +44,7 @@ unstable ^12sx6JMR
 
 %%***>>>text element-link:[[Mind]]<<<***%%[[Mind]] ^JdssrlF0
 
-%%***>>>text element-link:[[Communication]]<<<***%%[[Communication]] ^ToJ5P8x7
-
 ![ ^H6whTG8s
-
-%%***>>>text element-link:[[Wisdom]]<<<***%%[[Wisdom]] ^mZ5glbTP
 
 
 # Embedded files
@@ -138,8 +134,8 @@ unstable ^12sx6JMR
 		},
 		{
 			"type": "rectangle",
-			"version": 1360,
-			"versionNonce": 1412542633,
+			"version": 1408,
+			"versionNonce": 277749915,
 			"isDeleted": false,
 			"id": "mHeexRHP7boTPCoz5iaVm",
 			"fillStyle": "hachure",
@@ -153,7 +149,7 @@ unstable ^12sx6JMR
 			"strokeColor": "#ffffff",
 			"backgroundColor": "transparent",
 			"width": 266.9050125931604,
-			"height": 409.03106837433256,
+			"height": 319.52491060523533,
 			"seed": 1957590425,
 			"groupIds": [],
 			"frameId": null,
@@ -161,7 +157,7 @@ unstable ^12sx6JMR
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1746279379934,
+			"updated": 1748480730892,
 			"link": null,
 			"locked": false
 		},
@@ -595,8 +591,8 @@ unstable ^12sx6JMR
 		},
 		{
 			"type": "text",
-			"version": 1416,
-			"versionNonce": 1384930535,
+			"version": 1418,
+			"versionNonce": 1369273780,
 			"isDeleted": false,
 			"id": "17wiJjkr",
 			"fillStyle": "hachure",
@@ -607,26 +603,26 @@ unstable ^12sx6JMR
 			"angle": 0,
 			"x": 296.4224945101684,
 			"y": -74.20038501699138,
-			"strokeColor": "#f8f0fc",
+			"strokeColor": "#ffec99",
 			"backgroundColor": "transparent",
-			"width": 132.26171875,
+			"width": 287.861328125,
 			"height": 32.199999999999996,
 			"seed": 874309261,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1746278341407,
-			"link": "[[DevOps]]",
+			"updated": 1749186997233,
+			"link": "[[DevOps - Sys admin]]",
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 2,
-			"text": "[[DevOps]]",
-			"rawText": "[[DevOps]]",
+			"text": "[[DevOps - Sys admin]]",
+			"rawText": "[[DevOps - Sys admin]]",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "[[DevOps]]",
+			"originalText": "[[DevOps - Sys admin]]",
 			"lineHeight": 1.15,
 			"baseline": 26
 		},
@@ -706,8 +702,8 @@ unstable ^12sx6JMR
 		},
 		{
 			"type": "text",
-			"version": 1607,
-			"versionNonce": 2018619842,
+			"version": 1639,
+			"versionNonce": 900578651,
 			"isDeleted": false,
 			"id": "11tOgTeU",
 			"fillStyle": "hachure",
@@ -717,7 +713,7 @@ unstable ^12sx6JMR
 			"opacity": 100,
 			"angle": 0,
 			"x": -11.866730043804012,
-			"y": 39.25442225854175,
+			"y": -57.96779996368048,
 			"strokeColor": "#f8f0fc",
 			"backgroundColor": "transparent",
 			"width": 196.109375,
@@ -727,7 +723,7 @@ unstable ^12sx6JMR
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1744576523006,
+			"updated": 1748480723139,
 			"link": "[[mind building]]",
 			"locked": false,
 			"fontSize": 28,
@@ -817,43 +813,6 @@ unstable ^12sx6JMR
 		},
 		{
 			"type": "text",
-			"version": 1695,
-			"versionNonce": 918071198,
-			"isDeleted": false,
-			"id": "ToJ5P8x7",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -11.866730043804012,
-			"y": -55.158684324234784,
-			"strokeColor": "#f8f0fc",
-			"backgroundColor": "transparent",
-			"width": 225.640625,
-			"height": 32.199999999999996,
-			"seed": 983895059,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1744576523006,
-			"link": "[[Communication]]",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "[[Communication]]",
-			"rawText": "[[Communication]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "[[Communication]]",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
 			"version": 10,
 			"versionNonce": 742238530,
 			"isDeleted": false,
@@ -888,43 +847,6 @@ unstable ^12sx6JMR
 			"originalText": "![",
 			"lineHeight": 1.15,
 			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 1760,
-			"versionNonce": 2126382046,
-			"isDeleted": false,
-			"id": "mZ5glbTP",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -11.866730043804012,
-			"y": -7.952131032846516,
-			"strokeColor": "#f8f0fc",
-			"backgroundColor": "transparent",
-			"width": 132.234375,
-			"height": 32.199999999999996,
-			"seed": 1121201622,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1744576523006,
-			"link": "[[Wisdom]]",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "[[Wisdom]]",
-			"rawText": "[[Wisdom]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "[[Wisdom]]",
-			"lineHeight": 1.15,
-			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -963,7 +885,7 @@ unstable ^12sx6JMR
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#1e1e1e",
-		"currentItemStrokeColor": "transparent",
+		"currentItemStrokeColor": "#ffec99",
 		"currentItemBackgroundColor": "#ffffff",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
@@ -975,10 +897,10 @@ unstable ^12sx6JMR
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 279.5331103006114,
-		"scrollY": 391.58325473896053,
+		"scrollX": 418.24347499374204,
+		"scrollY": 396.75816663690665,
 		"zoom": {
-			"value": 0.7999999999999999
+			"value": 0.7499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

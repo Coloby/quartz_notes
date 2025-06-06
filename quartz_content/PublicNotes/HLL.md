@@ -1,19 +1,49 @@
 [[dev coaching]]
 
-- what? Higher Level Learning
 - why? - [To learn, remember, and think better & faster](https://youtu.be/--Hu2w0s72Y?t=1682)
-- prerequisite: [[Productivity]]
 
 - Tidy library framework
+	1. [[Prestudy  - Priming]]
+	2. [[Process - encoding]]
+	3. [[Retrieval - Revision techniques]]
+	-
+	- Re-arrange/read the library with [[Pragmatism]] periodically
+	- Analogy
+		- book = info, note, small portion of knowledge
+		- shelfs = subject - categorizes books
+		- bookcase = fields - categorizes shelfs
+		- *Libraries* = extended abstract - ur own custom categorization
+		- Cities = [[Holistic thiking]] - connects info in libraries optimally
+		-
+		- Prestudy = Label books, move... 
+			- shelfs, bookcases, and libraries in the right cities/places
+		- Encoding = Book arrangement into shelfs & in library itself
+		- Retrieval = find a book in a shelf from specific library
+-
+- 0
+	- Expertise
+		- Dreyfus Model (Skill Development)
+			- Advanced beginner - learns from experience
+			- Competent - makes independent decisions
+			- Proficient - develops intuition
+			- Expert - uses deep, unconscious knowledge
+		- Four Stages of Competence (Skill Acquisition)
+		    - Unconscious Incompetence - Don’t know what u don’t know
+		    - Conscious Incompetence - Aware of gaps in knowledge
+		    - Conscious Competence - Can perform skill but need effort
+		    - Unconscious Competence - Skill becomes second nature
+	- How we store memory 
+		- Basics
+			- Info
+			- Priming
+			- Encodng & Cognitive load
+				- Retention
+				- Reference
+			- Overstudying
+			- Retrieval
+		- ![[Pasted image 20230613224745.png]]
+- 1
 	- Contextual
-		- consuming content - pay attenction to...
-			- storytelling
-			- design
-			- graphichs and vfxs
-			- patterns of positive & negatives
-			- influencing
-				- why is this interesting?
-				- are the actors related to influencing?
 		- reading
 			- don't read in a linear way - [[Prestudy  - Priming]]
 				- Book are tools, we use them, not the opposite
@@ -26,35 +56,6 @@
 				- Note unwanted burden away like details, but not if your working memory is capable of retaining it while using [[HLL]] and cognitive load to preocess it futher
 			- [type or write, but do it relationally,](https://youtu.be/Mvxbl7Iwep4?t=429) [not lineary](https://youtu.be/NF9rwQxsD1w?t=2170)
 		- [[HT new language]]
-	-
-	1. [[Prestudy  - Priming]]
-	2. [[Process - encoding]]
-	3. [[Retrieval - Revision techniques]]
-	-
-	- Re-arrange/read the library with [[Pragmatism]] periodically
-	- Principles > Methods/Techniques
-	- Analogy
-		- book = info, note, small portion of knowledge
-		- shelfs = subject - categorizes books
-		- bookcase = fields - categorizes shelfs
-		- *Libraries* = extended abstract - your own custom categorization
-		- Cities = [[Holistic thiking]] - connects info in libraries optimally
-		-
-		- Prestudy = Label books, move... 
-			- shelfs, bookcases, and libraries in the right cities/places
-		- Encoding = Book arrangement into shelfs & in library itself
-		- Retrieval = find a book in a shelf from specific library
--
-- How we store memory 
-	- Basics
-		- Info
-		- Priming
-		- Encodng & Cognitive load
-			- Retention
-			- Reference
-		- Overstudying
-		- Retrieval
-	- ![[Pasted image 20230613224745.png]]
 
 ---
 - archived

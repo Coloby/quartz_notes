@@ -1,4 +1,6 @@
 [[Cone of learning]]
+[[myInputs]]
+
 - Discovery
 	- Great people that do intresting 
 		- [[Articles]] - accademic resources, mostly for articles

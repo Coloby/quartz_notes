@@ -1,5 +1,6 @@
 - [[Sleep]]
 - Eat
+	[[cooking]]
 	[[Food]]
 	[[Diet theory]]
 	[[supplements]]

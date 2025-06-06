@@ -7,9 +7,9 @@ description: There you can find my .md notes :)
 ### What is this? [Digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc)
 - Sharing my personal digital notes to the internet. These notes are made for me first, not for the public, but still shared anyway
 - Similar to how wikipedia works, notes are connected through links or references to other notes
-- Only a small portion of my 1100+ notes is shared here (just about 140 notes)
+- Only a small portion of my 1300+ notes is shared here (just about 140 notes)
 - I'll update this website 1 time a month
-  - **Last update: 17/05/2025 (day/month/year)**
+  - **Last update: 07/06/2025 (day/month/year)**
 ### Why sharing? To help & attract people with similar interests as me
   - Letting people know more [about me](https://edondigital.vercel.app/about)
     - You can [contact me](https://edondigital.vercel.app/contact) on [Twitter](https://twitter.com/edondigital) or wherever to have a chat about anything you find here & more

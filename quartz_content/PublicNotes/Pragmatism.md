@@ -18,10 +18,9 @@
 2. Solution - Experimenting using [[Reasoning]] to get feedback/solution
 3. Feedback - Refine next educated guess until a solution is found
 	- Bad/Good feedback? [[Analytics]]
-		- when we're getting closer to solution? pivod instead?
-		- should we "fail" faster?
--
-- Speed of iteration, make sure it's optimal
+		- when we're getting closer to solution? or pivot instead?
+	- Speed of iteration, fail fast optimally
+		- usage of resources vs predicted outcomes
 
 - Summarized
 	- think & learn

@@ -6,8 +6,9 @@
 		- p -Ss         search any package with X in title/descr
 		- p -Syu         - update all pkgs
 		- p -S          - install 
-		- p -Rs         remove X package & its dependencies
-			- p -Rns      also removes configs??
+		- Remove
+			- p -Rs         remove X package & its dependencies
+				- p -Rns      also removes configs??
 		-
 		- List pkgs
 			- p -Q           lists every pkg
@@ -20,6 +21,11 @@
 	-  - 
 	- fixes
 		- remove every useless pkg - [src](https://youtu.be/JR8SJfbacrw?t=187)
+		- PGP signature
+			- signature from X is unknown trust
+			-
+			- sudo pacman -Sy archlinux-keyring
+			- sudo pacman-key --refresh-keys
 		- installing X package breaks Y deps required by Z
 			- installing libxml2 (2.14.2-2) breaks dependency 'libxml2.so=2-64' required by electron33
 			- sudo pacman -Syu --ignore libxml2
@@ -41,3 +47,6 @@
 			- installation command
 			- sudo apt-get update
 			- amdgpu-install	
+- flatpack
+	- flatpack list
+	- flatpack uninstall --unused

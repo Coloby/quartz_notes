@@ -8,8 +8,7 @@
 	- ![[Pasted image 20231121164610.png]]
 
 - Already in place
-	- 0
-		- [[web dev stages.excalidraw]]
+	- [[web dev stages.excalidraw]]
 	- CMS problems & solutions - [from builder.io](https://youtu.be/mA-Cocc9dRE)
 		- what? can find this info in its specific notes
 	- fullstack "definition" & roles/pipeline [-](https://youtu.be/rAjd8z-Fx5A)
@@ -85,7 +84,7 @@
 						- most of time is spent waiting to then stream a word/token and time of compute gets very big
 					- works like cloudflare workers
 					- practical benefits [-](https://youtu.be/156FSMbyMPQ?t=1734)
-		- [[DevOps]]
+		- [[DevOps - Sys admin]]
 			- [workflow overview](https://youtu.be/4It0D0Nw00c)
 			- ![[Pasted image 20241215160359.png]]
 	- Dev cody
@@ -101,5 +100,8 @@
 			- ![[Pasted image 20240624022426.png]]
 			- ![[Pasted image 20240624022459.png]]
 			- ![[Pasted image 20240624022508.png]]
+	- devops
+		- [workflow overview](https://youtu.be/4It0D0Nw00c)
+			- ![[Pasted image 20241215160359.png]]
 	- Waterfall vs Agile [-](https://youtu.be/SHU9dViaFoM?t=328)
 		- ![[Pasted image 20241215160518.png]]

@@ -14,46 +14,38 @@
 	- give+validate *importancy* to invest/not focus/time in X component
 	- Compare components to each other, entire topic, field, & system  
 
-- useful keywords - combine them to get great results
-	- great
-		- fundamentals/foundations of X
+- useful keywords - combine to get greater results
+	- Should always try
 		- main vocabulary of X
-		- for beginners
+		- understand what & why of main...
+			- topic
+			- subcategories
+			- solutions/tools
+		- X for beginners
 		- milestones in X
-		- understand what & why of 
-			- the main topic
-			- main subcategories
-			- main solutions/tools
-		- X cycle
+		- fundamentals/foundations of X
 		- SOPs
-		- wow maps
-			- curriculum
-			- roadmap
-			- cheatsheet
-			- mindmap
-			- map of X
-			- overview of X
-			- guide
-			- syllabus
-			- tier list
-		- relations
-			- how can I use this part of this field in different ones/scenarios?
-			- how it relates/mixes with this other field?
-			- cross-disciplinary applications
-			- interdisciplinary connections
-			- multidisciplinary approaches
-		- professional settings
-			- job requirements for X
-			- Job/roles based on that
-			- professional certifications X
-		- Great results
-			- fanciest or objective worthy things
-			- the masters of that field
-			- state-of-the-art
-			- HT make the perfect X
-			- what professionals are searching in X?
-			- success indicators X
-			- expert approaches X
+	- wow maps
+		- curriculum
+		- syllabus
+		- roadmap
+		- cheatsheet
+		- mindmap
+		- map of X
+		- overview of X
+		- guide
+		- tier list
+		- X cycle
+	- Great results
+		- what problems a professional on X should have solved to be defined as such?
+		- fanciest or objective worthy things
+		- the masters of that field
+		- the philosophy of X
+		- state-of-the-art
+		- HT make the perfect X
+		- what professionals are searching in X?
+		- expert approaches X
+		- success indicators X
 	- more specific
 		- main patterns
 			- industry standards in X
@@ -61,14 +53,24 @@
 			- professional guidelines X
 			- implementation patterns
 		- current methodologies X
+	- Relations
+		- how it relates/mixes/upgrades w X field?
+		- how can I use this part of this field in different ones/scenarios?
+		- cross-disciplinary applications
+		- interdisciplinary connections
+		- multidisciplinary approaches
+	- professional settings
+		- job requirements for X
+		- job/roles based on that
+		- professional certifications X
 	-
 	- practical
-		- case studies
 		- use cases
+		- real-world applications
+		- case studies
 		- applications
 		- implementation strategies
 		- practical examples
-		- real-world applications
 	- past
 		- timeline
 		- evolution of X field

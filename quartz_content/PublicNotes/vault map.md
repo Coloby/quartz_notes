@@ -23,7 +23,7 @@
 			- [[BU]] - Business - Marketing, Sales, Onboarding...
 			- [[Art]] - Music, Filming, Design, etc
 			- unstable - not much processed
-				- [[DevOps]] - infrastructure management, automation & collaboration between development & IT operations
+				- [[DevOps - Sys admin]] - infrastructure management, automation & collaboration between development & IT operations
 
 - Graph image (with filters active), to demonstrate and totally not to flex
 ![[Pasted image 20241123175607.png]]

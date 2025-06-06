@@ -4,4 +4,4 @@
 		- 2 perfectionists could help each other so much
 
 - img
-	![Untitled](📂Archivio/Altro/Media/Business/Untitled.png)
+	![Untitled](Untitled%2011.png)

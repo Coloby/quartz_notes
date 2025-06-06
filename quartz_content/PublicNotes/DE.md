@@ -36,10 +36,8 @@
 			- focal point
 				- where to put the most details for hyarchy?
 			- distinct characteristics
-	- World Building
-		- [vid](https://youtu.be/juxoTahjPkk?t=587)
-		- maybe take lord of the ring inspiration
-		- [don't make everything in 1 time](https://youtu.be/juxoTahjPkk?t=760) - have flexibility
+	- [[World Building]]
+		
 ---
 - 1
 	- [[Art]]

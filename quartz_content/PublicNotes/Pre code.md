@@ -2,7 +2,7 @@
 	- [[Vscode]]
 	- [[Terminal]]
 	- [[Git]]
-	- [[Git-hub]]
+	- [[Git-hub - git manager]]
 - Steps explanation
 	- planning
 	- designing - how you want to see it and experience it?

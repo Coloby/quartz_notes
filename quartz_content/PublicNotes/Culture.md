@@ -26,16 +26,21 @@
 		- popular in italian reinassance
 		- deriving wisdom from the past
 			- ancient books were deeply studied
+		- [ ] undervalued by society from after industrial revolution
+			- stem related things seems to be much more valued from current society than humanities.
+			- Recurring jokes that humanities doen't give u many job prospects
+			- if you count even just the tech market in terms of monetary value it's problably bigger than humanities related subjects
 	- [[Art]] - creative arts - specific artistics arts like music, painting...
-	- [[Science]]
 	- [[Philosophy]]
 	- [[Languages]]
 	- [[History]]
+	-
+	- [[Science]] some directly in e.g. medicine, psychology, politics
+	- [[Religion]]
 - Other
 	[[Educazione civica]]
 	- Physical/Health related
 		- martial arts
 			- [[Boxing]]
 		- weapons
-
 

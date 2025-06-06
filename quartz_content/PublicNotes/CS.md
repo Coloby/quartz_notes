@@ -8,7 +8,7 @@
 		[[Mobile-Phones]]
 - Mid
 	[[Code]]
-	[[DevOps]]
+	[[DevOps - Sys admin]]
 		[[Cybersecurity]]
 		[[Privacy]]
 	    [[IoT]]

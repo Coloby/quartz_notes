@@ -11,7 +11,9 @@
 	- anything not important enough will be throwed away fast
 
 - Essential steps
-	- [[overviewing]] / re-check old structure already done
+	- Give context to the learning
+		- what's the problem or thing u want to get good at?
+	- [[overviewing]] - re-check old structure already done
 	- [[leverage]] - what are the high value input/levers?
 - From where? - [[Learning resources]]
 - Filter garbage - [[HT research]]

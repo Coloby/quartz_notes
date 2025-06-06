@@ -1,7 +1,7 @@
-- Discovery - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
-	- sys admin
-	- [sys design tut](https://youtu.be/F2FmTdLtb_4)
-	- Jenkins, GitLab CI, Travis CI, CircleCI
+- n - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
+	- 1
+		- sys admin
+		- [sys design tut](https://youtu.be/F2FmTdLtb_4)
 	- configure multiple computers without OS installed automatically
 		- Ansible needs SSH or to be in the machine locally
 
@@ -53,10 +53,8 @@
 		![[Pasted image 20240724234236.png]]
 		![[Pasted image 20240724233735.png]]
 
-- [workflow overview](https://youtu.be/4It0D0Nw00c)
-	- ![[Pasted image 20241215160359.png]]
 - Already knew
-	- [[Git]]/[[Git-hub]]
+	- [[Git]]/[[Git-hub - git manager]]
 	- [[Architecture-Infra codes]]
 - 1
 	- [[Linux]]
@@ -68,7 +66,6 @@
 			- [[Security]]
 			- [[PCs remote management - KVM]]
 		- By specific type
-			- 
 			- [[Backend]]
 			- [[IoT]]
 			- [[Cloud Computing]]
@@ -80,6 +77,8 @@
 		- [[env-secrets management]]
 - 2
 	- [[HomeLab]]
+	- [[micro services]]
+	- [[Mainframe - Distributed systems]]
 
 
 

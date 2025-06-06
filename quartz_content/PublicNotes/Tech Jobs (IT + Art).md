@@ -21,7 +21,7 @@
 		- touchescreens, speakers, cameras, hardware that a computer uses, network hardware, signals etc
 - [Software developer](https://www.youtube.com/watch?v=leOX1ehXHNM) - focuses on making and fixing the software
 	- i
-		 ![Untitled](📂Archivio/Altro/Media/Tech%20jobs/Untitled.png)
+		 ![Untitled](Untitled%2030.png)
 	- Web dev - fontend/backend + UI/UX - (general)
 		- websites
 		- webapps
@@ -96,7 +96,7 @@
 	- use of security measures, standards & regulations in infrastructure
 	- teach the team about security policies and best practices
 
-- [[DevOps]] 
+- [[DevOps - Sys admin]] 
 
 - System administrator
 	- DevOps but focused and specialized on day to day maintainance rather than continous automation and collaboration
@@ -112,7 +112,7 @@
 	- [Data engineer](https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one)
 	- [Data analyst](https://www.youtube.com/watch?v=ywZXpfdqg1o)
 		- bachelor & master helps
-		![Untitled](📂Archivio/Altro/Media/Tech%20jobs/Untitled%201.png)
+		![Untitled](Untitled%201%2021.png)
 	- Data scientist
 - Hardware side
 	- Network administrator - (mainly hardware side)

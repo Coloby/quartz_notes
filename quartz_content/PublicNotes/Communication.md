@@ -13,7 +13,7 @@
 	[[Leadership]]
 	[[Teaching]]
 	-
-	[[influencing]]
+	[[Rhetoric]]
 	[[Copywriting]]
 	[[Storytelling]]
 	[[Conversational Intelligence]]

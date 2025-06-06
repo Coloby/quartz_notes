@@ -10,7 +10,9 @@
 		
 		distnace - thought action diffusion
 		fake it til you make it
+	[-](https://youtu.be/cwakOgHIT0E?t=6112) but something you don't want to do or new
 	- higly alert but calm https://youtu.be/QmOF0crdyRU?t=245
+	- Apathy - the middleground of happiness & sadness
 	- [[boredom]]
 	- We want to be sedated because we're cowards - [src](https://youtu.be/NdCo5HY8KMo?t=738)
 	- if you don't hate it, you will tolerate it
@@ -103,6 +105,8 @@
 	- e.g. being at school for the sake of others opinions
 - momentum - consistant **outcomes** 
 	- trigghering a positive feedback loop
+	- [[Subconscious]] gives you new ideas & problem solving
+	- Snowballs focus & confidence
 	- daily/weekly thinghy?
 		- 5 vs 6 work days a week is subjective
 			- 5

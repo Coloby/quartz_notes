@@ -6,21 +6,22 @@
 - Resources
 	- [JakeDontDraw](https://www.youtube.com/@JakeDontDraw/videos)
 
-
-- Main
-	[[MU]]
-	[[i3D - visual]]
-- 2
-	[[CC]]
-	[[Sho]]
-	[[digital art]]
-	[[DE]]
-	[[Writing]]
-	[[Drawing]]
-- 3
-	- [[comedy]]
-- non-traditional
-	- [[Code]]
+- Medias
+	- Main
+		[[MU]]
+		[[i3D - visual]]
+	- 2
+		[[CC]]
+		[[Sho]]
+		[[digital art]]
+		[[DE]]
+		[[Writing]]
+		[[Drawing]]
+	- 3
+		- [[comedy]]
+	- non-traditional
+		- [[Code]]
+		- [[Biology]]
 
 - Theory
 	[[art in time]]

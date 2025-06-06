@@ -4,6 +4,8 @@
 - Planning - precedence changes on needs
 	- [[Great code Overviews]]
 	- [[Specific code project template]]
+	- [[code Planning - validation template]]
+	-
 	- Unix phylosophy
 		- a filter (input, gives output to other softw)
 			- expect it to collaborate with other software
@@ -21,66 +23,50 @@
 	- if you want to be innovative: [[First principle thinking]]
 	- otherwise u may go for analogy & look at the work of other people
 - [[fDE]]
+- Recurring - always keep in mind [[Code law and regulations]]
 - Development
 	- Planning
 		- [[RFC management]]
 		- [[Codes theory]] - [[gCode]]
-		- Recurring
-			- [[Performance - Optimizing]]
-			- [[Privacy]]
-			-
-			- [[Accessibility]]
-			- [[Networking]]
-	- Executing
 		- [[feats-todos]]
+	- Executing
 		- [[Dev notes]]
 		- Useful Components
 			- sentry repo[rt](https://youtu.be/8CdKgnErqQM?t=89) component
-	- [[frontend]]
-	- [[Backend]]
+		- [[frontend]]
+		- [[Backend]]
 - Pre-deployment
 	- Testing
 		- [[Testing code]]
 		- [[BU testing - pragmatism]]
-		- [[Quality Assurance (QA)]]
-	- Previews - let client test it first
-- Deployment
-	- check 
+	- [[DevOps - Sys admin]]/infra
 		- [[Architecture-Infra codes]]
-		- [[code Planning - validation template]]
-		- [[Privacy]]
-		- [[Networking]]
-			- [[blocking stuff - big firewall]]
-				- [vercel firewall](https://youtu.be/t-U6vTrx_9Y)
-		-
-		- TODOs vscode extension
-		- [frontend checklist](https://github.com/thedaviddias/Front-End-Checklist)
-		- Bookmarks & predeploy in browser
-			- Coding/Predeploy
-			- Security/security/Rating and checkers
-		- Bundling process work w minifications etc
-		- [[Soy dev]] - Using too many abstractions forgetting perf?
-		- When it's ok to use and not use react?
-	- [[Domains]]
-	- [[SEO]]
-	- [[Publishing - Sponsoring]]
-	- [[Hosting]]
-	- [[Code law regulations to follow]]
+		- [[Domains]]
+		- [[Hosting]]
+	- Bookmarks & predeploy in browser
+		- Coding/Predeploy
+		- Security/security/Rating and checkers
+	-
+	- TODOs vscode extension
+	- [[Performance - Optimizing]]
+	- [[Code law and regulations]] (again)
 	- [[Last code checks]]
-	- [[DevOps]]/infra
-- Maintainance
+- Previews - let client test it
+- Deployment
+	- [[Publishing - Sponsoring]]
+	- extras/perfectionizing
+		- [frontend checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- Maintainance - mostly for resiliance
+	- [[Git-hub - git manager]]
 	- setup systems for when things go wrong
-	- [[Git-hub]]
 	- Updates & patches
 	- Incidents managing
-	- Feedback/Data collecting+usage
-	- Instrumentation & error tracking [-](https://youtu.be/I-yTjdloeuQ?t=994)
 	- Monitoring
 		- broken links checker
 		- ops
 			- uptime
 		- monitor SSD lifetime
-	- Antivirus companies can block your website
+		- Antivirus companies can block your website
 		- when? - It can happen to everyone [-](https://youtu.be/vqdEepJekbw?t=982)
 			- happens especially for websites that have user-generated content
 			-
@@ -88,9 +74,6 @@
 		-
 		- type in virustotal website and see if antiviruses flagged it as virus
 
-- Release
-	- provisioning & configuration of [[DevOps]]
-	- deploy
 
 
 
