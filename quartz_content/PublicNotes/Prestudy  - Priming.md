@@ -13,7 +13,7 @@
 - Essential steps
 	- Give context to the learning
 		- what's the problem or thing u want to get good at?
-	- [[overviewing]] - re-check old structure already done
+	- [[overviewing]]
 	- [[leverage]] - what are the high value input/levers?
 - From where? - [[Learning resources]]
 - Filter garbage - [[HT research]]

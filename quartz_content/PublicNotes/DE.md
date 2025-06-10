@@ -30,7 +30,7 @@
 		- Base it on a story (brief)
 		- Breakdown in shapes
 			- what's the percentage of circles, squares and triangles?
-		- Make a minimal rapresentation using simple shapes - [src](https://youtu.be/v6lPsEPOIkM?t=189)
+		- Make a minimal representation using simple shapes - [src](https://youtu.be/v6lPsEPOIkM?t=189)
 		- consider starting with the silhouette
 		- Choose
 			- focal point

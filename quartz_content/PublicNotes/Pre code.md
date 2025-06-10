@@ -1,5 +1,5 @@
 - Enviroment
-	- [[Vscode]]
+	- [[IDE - Text editor]]
 	- [[Terminal]]
 	- [[Git]]
 	- [[Git-hub - git manager]]

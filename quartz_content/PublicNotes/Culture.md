@@ -3,12 +3,6 @@
 	[[Dictionary - Vocaboli generali]]
 	[[Etiquette]]
 
-- n
-	- Opere artistiche da conoscere?
-		- Poeti?
-		- Religioni?
-			- Tempio di Solomone?
-
 - 0
 	- Elitism but the funny way
 		- ![[Pasted image 20250504010431.png]]

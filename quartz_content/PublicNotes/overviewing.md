@@ -8,6 +8,7 @@
 	- [[Divergent Thinking]]
 	- start from knowledge you relate/know most
 		- to connect and get the first bunch of dots fast
+		- Current & Different but related fields & topics
 	- [skip details](https://youtu.be/tkkey3ADfCI?t=911)
 	- Find the [[leverage]]
 - [[Predicting]] evaluate them

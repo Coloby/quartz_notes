@@ -897,10 +897,10 @@ unstable ^12sx6JMR
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 418.24347499374204,
-		"scrollY": 396.75816663690665,
+		"scrollX": 234.97403504091653,
+		"scrollY": 366.1378115419469,
 		"zoom": {
-			"value": 0.7499999999999999
+			"value": 0.9
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

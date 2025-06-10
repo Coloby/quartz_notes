@@ -11,6 +11,15 @@
 				- makes our values (what we prioritize or believe in)
 					- e.g. family upbringing, education, social interactions, cultural influences, personal experiences
 	- Mind
+		- ideologies - systems of ideas and beliefs
+			- e.g.
+				Political Ideologies – Examples include democracy, socialism, communism, liberalism, and conservatism.
+	
+				Economic Ideologies – Capitalism, Marxism, and Keynesian economics influence how economies function.
+				
+				Social Ideologies – Feminism, environmentalism, and human rights movements shape societal values.
+				
+				Religious Ideologies – Belief systems like Christianity, Islam, and Buddhism provide moral and spiritual frameworks.
 		- Psychological - thoughts, experiences
 			- emotions
 			- behaviors

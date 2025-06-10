@@ -1,0 +1,10 @@
+- Dreyfus Model (Skill Development)
+	- Advanced beginner - learns from experience
+	- Competent - makes independent decisions
+	- Proficient - develops intuition
+	- Expert - uses deep, unconscious knowledge
+- Four Stages of Competence (Skill Acquisition)
+	- Unconscious Incompetence - Don’t know what u don’t know
+	- Conscious Incompetence - Aware of gaps in knowledge
+	- Conscious Competence - Can perform skill but need effort
+	- Unconscious Competence - Skill becomes second nature

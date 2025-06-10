@@ -1,0 +1,58 @@
+[[Every video that confirms this]]
+
+- Why? conscious/aware mental mutation to who you want to be
+	- [[Conditioning]]
+	- If you are not conscious of your goals and problems, you'll see what survival tell you to see, what's easy 
+		- pg 47 [[The art of focus - Dan Koe book]]
+
+- WWHwhen   ~y/n
+- legend
+	- ~ = negative side of it, like goals & non-goals or things to avoid
+	- y/n = pro & cons
+	- WWHwhen = why, what, how, when
+
+- Purpose - why, clarity - how to know what's important?
+	- [[Philosophy]] - make your own, what's of value to you?
+	- [[Values]]
+	- [[Principles]]
+	- Virtues - like values but practical, part of our identity & life
+		- require constant effort & practice - habitual
+		- can change
+		- have immediate effects in our life
+	- Ideals - broad/general long-term goals/aspirations 
+		- to establish direction
+		- usually remain constant over time
+		- what you strive for
+	- Theory
+		- what? - Designing mindset & lifestyle through research
+		- why? - Helps to define & stabilize identity & fulfillment
+			- Self-worth shaping with motivations
+				- Requirements to fulfillment & being proud of ur life
+			- More preciseness answering subjective questions
+		- [[HT validate desires]]
+		- [[purpose layers]]
+- Vision - what, goals - tangible desires closest to what's important?
+	- [[Visions]]               - general direction
+	- [[myMilestones]]    - map of progress toward direction
+	- [[Revisions]]            - specific time-bound goals
+	- Theory
+		- what? - trying to visualize what's meaningful & purposeful
+		- why? 
+			- align thoughts with actions
+			- Filter & contextualize thoughts through what's important
+				- what u think, learn, perceive & believe 
+		- [[HT goals and to-dos]]
+- Mission - how, plan - how to optimally satisfy desires practically?
+	- [[Mindfulness]]    - awareness & self-control
+	- [[Discipline]]       - entropy manager, structure
+	- [[the atlas]]         - library of knowledge/models
+	- Theory
+		- [[Project management]]
+		- [[Analytics]]
+
+- Archived
+	- Hard to forget
+		- Journey & Destination needs to be balanced
+			- Both needed to feel like what you do is toward something of value to you
+			- journey can give purpose while trying to achieve the goal, but it's all about the everyday things you do that will define if you're feeling purposeful in the journey
+		- [[Active purpose research]]

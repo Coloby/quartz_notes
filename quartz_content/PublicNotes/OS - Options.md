@@ -2,6 +2,13 @@
 - [distrowatch](https://distrowatch.com/)
 
 - essential theory
+	- Other ways
+		- Your own USB bootable OS [v](https://youtu.be/zlInz7c83K8)
+			- when travelling & boot up from devices you don't own
+		- [[Ansible]]
+		- connecting through PC w [[SSH]] or similar
+		- Mini PC
+		- [[Laptop]]
 	- need to disable encryption on the disk in use
 		- doesn't matter if you delete volumes (the encryption will stay, at least for bitlocker)
 	- always check [FSF](https://www.gnu.org/distros/common-distros) (highest standard of free software)

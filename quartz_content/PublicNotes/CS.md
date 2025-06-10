@@ -29,12 +29,13 @@
 	[[Recupero dati by CMD]]
 	[[CS Strange tricks]]
 - Mine
-	- [[Backup-reset]]
-	- [[Type speed test]]
-	- [[Shortcuts - Hotkeys]]
+	[[Backup-reset]]
+	[[Type speed test]]
+	[[Shortcuts - Hotkeys]]
 - meh
-	[[File Formats-extensions]]
-	[[Digital measures - Dimensioni digitali]]
+	- theory
+		[[File Formats-extensions]]
+		[[Digital measures - Dimensioni digitali]]
 	[[CPU idle mining]]
 	[[CS certifications]] 
 

@@ -1,6 +1,6 @@
 [[Motivation]]
 
-[[mental disorders]]
+[[mental disorders-problems]]
 [[Communication]]
 [[Black sworn]]
 

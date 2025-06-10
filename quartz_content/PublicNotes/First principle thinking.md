@@ -1,7 +1,9 @@
-#explore
 [fonte](https://youtu.be/K3HTlfmtFO0)
-- Use it to innovate - start from 0 and see what and how it can be improved
-	- *Start from empiric truths* trying to *kill the root causes of problems efficently and without analogy* of what others have done previously, and *connect all with other big ideas or skills* thanks to [[Reasoning]]
+- Use it to innovate - start from 0, see what & how it can be improved
+	- *Start from empiric truths* trying to 
+	- *kill the root causes of problems efficently and without analogy* 
+		- of what others have done previously
+	- *connect all with other big ideas or skills* thanks to [[Reasoning]]
 	- Maybe someone overlooked step in the creating process that could be optimized and that's where this method want to get value from
 	- e.g.
 		- if the costs of the raw material of a rocket is 2% of the finished product, we can optimize greatly on the assembling part and the overall process of taking those materials into the shape of a rocket

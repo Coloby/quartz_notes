@@ -15,6 +15,7 @@
 		[[Sho]]
 		[[digital art]]
 		[[DE]]
+		[[character DE]]
 		[[Writing]]
 		[[Drawing]]
 	- 3

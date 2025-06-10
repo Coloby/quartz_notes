@@ -3,27 +3,23 @@
 - What? fundamental truths about what we perceive, love of wisdom
 
 - Main Branches
-	- my rapresentation
-		Logic/argumentation/[[Reasoning]]
+	- my representation
+		Logic/[[Reasoning]]
 		[[Epistemology]]
 		[[Metaphysics]]
-		- Axiology - study of value
+		- Axiology - study of value, value theory
 			- [[Ethics]] (moral)
 			- [[Aesthetics - beauty]] (Beauty & Artistic)
 		-
 		[[Political science]] (philosophy in practice)
-	- main-stream rapresentation
+	- main-stream representation
 		Logic/argumentation/[[Reasoning]]
 		[[Epistemology]]
 		[[Metaphysics]]
 			some say that [[Aesthetics - beauty]] is a sub-category of metaphysics
 		[[Ethics]]
-- my fav questions
-	- what's 
-		- a great life? why & how?
-		- who you are?
-		- beauty
-		- value
+- [[my fav questions]]
+	
 
 - Movements
 	- [[stoicism]]
@@ -37,6 +33,7 @@
 	- [[Ethical Egoism]]
 	- without usage found
 		- [[Cosmicism]]
+		- [[bug man]]
 - Philosophers
 	- [[Nietzsche - Nice]]
 	- Socrate

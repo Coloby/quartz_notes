@@ -4,7 +4,7 @@
 - when to use it?
 	- Because of it's nature that's not a consistent method thus I advice following [[Bloom's principles]] and use this as a supplement.
 
-- Try to make your imagination/[[Creativity]] run free
+- Try to make your curiosity/imagination/[[Creativity]] run free
 - have a problem in your head so that your mind will find important ideas
 
 - e.g...

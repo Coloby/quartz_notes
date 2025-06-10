@@ -1,5 +1,5 @@
 - what? - The real currency are time & energy
-	- How much money you have is a rapresentation of how great you are at making them in a certain period
+	- How much money you have is a representation of how great you are at making them in a certain period
 	- if you were poor but had 1M in knowledge you'd be recovering it pretty quickly compared to others
 
 - HT high up hours quality -> [[leverage]]

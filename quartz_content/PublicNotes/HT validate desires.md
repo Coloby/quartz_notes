@@ -1,0 +1,6 @@
+- not only one thing nor permanent
+	- past/present/future 
+- based on identity, not external influence
+	- fav stories we tell ouselves to make life meaningful
+- puts you in flow state
+	- is not the reward but the task that you like
