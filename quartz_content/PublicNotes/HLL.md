@@ -1,4 +1,4 @@
-[[dev coaching]]
+[[dev-code coaching]]
 
 - why? - [To learn, remember, and think better & faster](https://youtu.be/--Hu2w0s72Y?t=1682)
 
@@ -21,8 +21,6 @@
 		- Retrieval = find a book in a shelf from specific library
 -
 - 0
-	- [[Expertise levels]]
-		
 	- How we store memory 
 		- Basics
 			- Info

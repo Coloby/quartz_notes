@@ -3,6 +3,7 @@ https://www.skool.com/adonis-gang/full-guide-to-getting-smarter
 	- [[Dunning-Kruger bias]]
 	- [[Any benefit bias]]
 	- [[Survivor Bias]]
+	- [confimation bias](https://youtu.be/E4Pp4VMRZKI?t=764)
 - Fallacy - idea that even though it seems, is not logical
 	- [[Naturalistic fallacy]]
 - Both bias & fallacy

@@ -1,5 +1,8 @@
 - Discovery
-	- [[Lin troubleshooting]]
+	- 1
+		- Lin kernel map [w](https://makelinux.github.io/kernel/map/) out of date?
+			- ![[Pasted image 20250617000039.png]]
+	- [[Lin troubleshooting-debug]]
 	- arch
 		- TPM? it can lock you out
 		- xresources
@@ -34,7 +37,7 @@
 
 - [[lin App-Software]]
 - [[Lin Distros]]
-- [[Lin troubleshooting]]
+- [[Lin troubleshooting-debug]]
 -
 - [[From Windows to Linux]]
 - Other
@@ -117,7 +120,7 @@
 		- [[Lin folders-file structure]]
 		- [[Partitioning]]
 		- [[Package managers]]
-		- [[Lin troubleshooting]]
+		- [[Lin troubleshooting-debug]]
 		- [[lin security]]
 		- [[systemctl]]
 	- Scripting

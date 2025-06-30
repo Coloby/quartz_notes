@@ -18,9 +18,13 @@
 			- p -Qm        installed from AUR
 			- p -Qdt        see useless pkgs
 			- p -Sc         removes old version pkgs
-	-  - 
+	-
 	- fixes
 		- remove every useless pkg - [src](https://youtu.be/JR8SJfbacrw?t=187)
+		- PKG blocking updates because of dependency
+			sudo pacman -Rs electron30        - info abt dep
+			pacman -Qdtq                               - list orphan deps
+			sudo pacman -Qdtq | sudo pacman -Rns -            - remove all oprhan deps
 		- PGP signature
 			- signature from X is unknown trust
 			-
@@ -29,6 +33,8 @@
 		- installing X package breaks Y deps required by Z
 			- installing libxml2 (2.14.2-2) breaks dependency 'libxml2.so=2-64' required by electron33
 			- sudo pacman -Syu --ignore libxml2
+	- mantainance
+		- p -Qk            checks pkg integrity
 
 - Paru
 	- package got corrupted? remove cache

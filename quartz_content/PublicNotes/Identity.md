@@ -1,6 +1,6 @@
 - [[Search and don't believe]]
 
-- based on: [v](https://www.youtube.com/watch?v=17WiQ_tNld4&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
+- made out of: [v](https://www.youtube.com/watch?v=17WiQ_tNld4&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
 	- Health - Physical - body & genetic
 		- DNA
 			- usually make something harder or easier to do or think but most of the time it doesn't make it impossible
@@ -11,15 +11,7 @@
 				- makes our values (what we prioritize or believe in)
 					- e.g. family upbringing, education, social interactions, cultural influences, personal experiences
 	- Mind
-		- ideologies - systems of ideas and beliefs
-			- e.g.
-				Political Ideologies – Examples include democracy, socialism, communism, liberalism, and conservatism.
-	
-				Economic Ideologies – Capitalism, Marxism, and Keynesian economics influence how economies function.
-				
-				Social Ideologies – Feminism, environmentalism, and human rights movements shape societal values.
-				
-				Religious Ideologies – Belief systems like Christianity, Islam, and Buddhism provide moral and spiritual frameworks.
+		- [[ideologies]] 
 		- Psychological - thoughts, experiences
 			- emotions
 			- behaviors
@@ -34,6 +26,7 @@
 				- quirks
 		- [[Int]] - Existential
 	- Relationships - Social - roles, relationships, groups
+	- What makes you fit in society
 
 - what people make other see of themself 
 	- is not even more valuable than a first impression. 

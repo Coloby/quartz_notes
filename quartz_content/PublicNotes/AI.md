@@ -1,10 +1,24 @@
 - [[AIsoftware]]
 - [[myAIpipelines]]
+- [[askAI]]
 
 - Resources
 	- gpu is enough for this LLM? [-](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
+	- Cloud stuff
+		- TTS
+			- Credits based
+				- can't clone voice
+					- fast
+						- Luvvoice [w](https://luvvoice.com/en/dashboard/text-to-speech)
+							- clone voice
+								- for some reason always says (not enough credits)
+						- naturalreaders [w](https://www.naturalreaders.com/online/)
+					- Elevenlabs [w](https://elevenlabs.io/app/speech-synthesis/text-to-speech) - slow but great
 	- Leaderboards
-		- artificialanalysis.ai [-](https://artificialanalysis.ai/)
+		- TTS [w](https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2)
+		- LLMs
+			- artificialanalysis.ai [-](https://artificialanalysis.ai/)
+			- web.lmarena.ai [w](https://web.lmarena.ai/leaderboard)
 - n
 	- MPC - Model Context Protocol
 	https://cursor.directory/
@@ -33,14 +47,30 @@
 	        - assumptions may be completly random
 	        - In the training phase those assumptions gets refined
 	        - directly related to the num of neurons and connections
-	          - Learned in the training phase
-	            - weigth - determine the strength of connections between neurons
-	            - biases - values added to the weighted sum of inputs before passing through an activation function in each neuron
+				- Learned in the training phase
+		            - weigth - determine the strength of connections between neurons
+		            - biases - values added to the weighted sum of inputs before passing through an activation function in each neuron
 	    - AGI - Artificial General Intelligence or Strong AI
 	      - Human like artificial intelligence
 	    - The Singularity
-      - technological progress, particularly in AI, reaches a level where it leads to exponential changes that are difficult to predict and maybe control.\
+		      - technological progress, particularly in AI, reaches a level where it leads to exponential changes that are difficult to predict and maybe control.\
         Transformer-based models, such as BERT or GPT-3
+		- Tokens & Context for LLMs
+			- what's a token?
+				- rapresents how much input an AI model can process as context
+				-
+				- part of a word, a fragment
+				- 4mb of notes = ~500k tokens
+					- probably contains well over 500,000 tokens, depending on formatting.
+				- 1 token ≈ ¾ of a word, or > 4 tokens ≈ 3 words
+			- token size - how many tokens a model can handle
+			- solutions
+				- [[Retrieval-Augmented Generation (RAG)]]
+			- More tokens = more VRAM used 
+				- linear or sometimes quadratic in cost
+				- 7B model w 4K context may need ~6–8 GiB VRAM
+				- generally 8k tokens = 4.5vram
+			    - ![[Pasted image 20240819120459.png]]
 
 - why, philosophy, etc
 	- Limitations
@@ -95,11 +125,15 @@
 				- also when change 1 word it will tab for another change somewhere else [v](https://youtu.be/uqRF4IszorU?t=2591)
 			- ![[Pasted image 20250609172612.png]]
 	- Manage content/inputs
-		- Summarize stuff like...
+		- Summarize stuff 
 			- top 10 ...
 			- click baity but possibly useful
-		- e-books
-	    - yt vid
+	    - main inputs
+		    - yt vid
+			- e-books
+		    - articles
+		- [[TTS - Text To Speech]]
+		-
 		- tranform to text
 		- remove
 			- if 
@@ -121,9 +155,7 @@
 		- notes/second brain
 			- who are the most related mentors from my notes to learn from how to X? also give videos/links
 		- databases/tables you own
-	- narrate articles if you prefer to listen
-		- website to voice?
-			- https://lukesmith.xyz/ has so much great content... use AI to speach it for you so u don't have to read it while eating? free podcasts
+	
 	-
 	- asking to put groups of tabs from browser to obsidian/tablesz
 	- chat w people but AI can see it
@@ -209,16 +241,7 @@
 				- great when
 					- info on notes is highly structured & realated to question
 				- n - may struggle if notes are very diverse or complex.
-	    - Retrieval-Augmented Generation (RAG) - great for notes!
-		- RAG is a journey, not a destination... [-](https://youtu.be/u5Vcrwpzoz8?t=286)
-			- what?
-				- Enhancing the **generation** of text by using information from retrieved documents
-				- also retrieve documents but not as fast and precisely as Document Embedding with Vector Databases + can't customize retrieval process as much
-			- how?
-				- Retrieval system pulls relevant notes through vectors, and the generative model uses these notes as a knowledge base to generate a related answer.
-			- great when
-				- notes may not always contain directly relevant information, and the AI needs to generate answers based on similar or related content.
-			      - need good amount of computational power to run the generative model alongside the retrieval system
+	    - [[Retrieval-Augmented Generation (RAG)]] - great for notes!
 	    - Contextual Question Answering with Elasticsearch
 			- what?
 				- find relevant docs through ranking algos that primarily uses keyword and phrase matching while highlighting relevant text (doesn't give answers itself)
@@ -269,9 +292,7 @@
 
   - context length - info AI can use to give answers
 
-  - generally 8k tokens = 4.5vram
 
-    - ![[Pasted image 20240819120459.png]]
 
   - chat with RTX - nvidia webui can be trained w local data + yt vids [-](https://youtu.be/XwL_cRuXM2E?t=428)
 

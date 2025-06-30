@@ -1,9 +1,9 @@
 - Curiosity
-- [[the atlas]] - biggest categories of knowledge
+- [[the atlas]] - big categories of knowledge
 	- humanities
 		- [[Int]] - values/perspectives & optimization of em
 	- sciences
-		- [[personality tests & patterns]] - self-worth mechanisms
+		- [[self-worth mechanisms]]
 		- [[Political science]]
 	- Related
 		- [[Prestudy  - Priming]]
@@ -11,11 +11,12 @@
 		- [[encyclopedia]] - especially the index
 		- [[curriculums job-universities]]
 		- intelligence types
+		- [[body parts]]/senses
 - personal system
 	- [[systems I wanna do]]
 	- [[Todé]] & subnotes
 	- [[Lifestyles]]
 	- Cultures/Places
 - technically
-	- [[do with friends]]
+	- [[do with friends - going out - places]]
 	- [[To buy]]

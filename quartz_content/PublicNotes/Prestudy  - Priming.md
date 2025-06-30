@@ -1,6 +1,8 @@
 [[Int]] - you map your life based on priorities too
+[[Epistemology]] - understand knowledge in the first place
 
-- what? priming - Get study material & prepare prioritizing info
+- what? priming - things you do before, preparation
+	- Get study material & prepare prioritizing info
 - why?
 	- less overwhelm w new/complex topics
 	- +learning speed

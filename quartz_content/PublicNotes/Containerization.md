@@ -20,7 +20,6 @@
 	- docker-compose watch - re-run container on changes
 - kubernetes - CLI - Orchestration of containers
 	- can also manage non-containerized applications through the use of init containers and sidecars
-- portainer.io - GUI to manage single docker instances
-	- has some of the kubernetes functionality but not every one of them
+[[portainer]].io
 - Docker desktop
 - rancher - GUI to manage multiple kubernetes clusters

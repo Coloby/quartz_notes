@@ -23,7 +23,7 @@
 	- if you want to be innovative: [[First principle thinking]]
 	- otherwise u may go for analogy & look at the work of other people
 - [[fDE]]
-- Recurring - always keep in mind [[Code law and regulations]]
+- Recurring - always keep in mind [[Code law-regulations-compliance]]
 - Development
 	- Planning
 		- [[RFC management]]
@@ -31,8 +31,6 @@
 		- [[feats-todos]]
 	- Executing
 		- [[Dev notes]]
-		- Useful Components
-			- sentry repo[rt](https://youtu.be/8CdKgnErqQM?t=89) component
 		- [[frontend]]
 		- [[Backend]]
 - Pre-deployment
@@ -49,7 +47,7 @@
 	-
 	- TODOs vscode extension
 	- [[Performance - Optimizing]]
-	- [[Code law and regulations]] (again)
+	- [[Code law-regulations-compliance]] (again)
 	- [[Last code checks]]
 - Previews - let client test it
 - Deployment
@@ -61,19 +59,7 @@
 	- setup systems for when things go wrong
 	- Updates & patches
 	- Incidents managing
-	- Monitoring
-		- broken links checker
-		- ops
-			- uptime
-		- monitor SSD lifetime
-		- Antivirus companies can block your website
-		- when? - It can happen to everyone [-](https://youtu.be/vqdEepJekbw?t=982)
-			- happens especially for websites that have user-generated content
-			-
-			- Anyone using quad9 would not be able to access the website because security analysis company flagged it as insecure
-		-
-		- type in virustotal website and see if antiviruses flagged it as virus
-
+	- [[sec-monitoring - logs-metrics-traces]]
 
 
 

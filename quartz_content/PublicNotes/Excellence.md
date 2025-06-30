@@ -35,7 +35,7 @@
 	- Sharing - (Mind + Rel)
 		- socials [[CC]]
 		- Collab [[Collaboration-Training]]
-		- Coaching [[dev coaching]]
+		- Coaching [[dev-code coaching]]
 		- building [[my communities]]
 	-
 	- [[Subconscious]] - [[Rest]]

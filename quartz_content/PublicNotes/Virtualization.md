@@ -1,0 +1,34 @@
+- [[kubernetes]]
+- [[WSL (Windows Subsystem for Linux)]]
+- [[Distrobox]]
+- [[Containerization]]
+	- Sandboxed containers [-](https://snyk.io/blog/best-practices-for-container-isolation/)
+		- what?
+			- uses custom userspace mini-kernel 
+				- sits between containerized applications and host’s kernel
+				- intercepts all the container’s system calls and performs a policy check before passing each call off to the host kernel
+		- like
+			- gvisor
+				- also implements 
+					- [custom TCP/IP stack](https://gvisor.dev/docs/user_guide/networking/)
+					- [filesystem proxy](https://gvisor.dev/docs/user_guide/filesystem/) - between container & host’s one
+				- written in Go, a memory-safe language
+				- n
+					- won’t be able to use most tools designed for the Linux kernel to debug
+					- may need to reimplement kernel features to support some workloads running inside gVisor
+- [[VMs - Virutal Machines]]
+	- MicroVMs [-](https://snyk.io/blog/best-practices-for-container-isolation/)
+		- what?
+			- use hypervisor, like [qemu](https://www.qemu.org/), to create light VMs per-container
+		- n
+			- containers here can’t directly share files w the host.
+			- fewer ways for a container to interact with the host
+		- services
+			- [AWS Firecracker](https://firecracker-microvm.github.io/)
+
+- theory
+	- GPU passthrough
+		- might get you banned on games
+		- might need 2 GPUs [-](https://youtu.be/ING69haO-wc?t=306)
+
+

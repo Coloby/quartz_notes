@@ -43,4 +43,3 @@
 	- Convincing
 		Persuasion - individual and short term
 		Influence - broader and long term
-- 

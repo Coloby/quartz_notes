@@ -1,9 +1,15 @@
 [[pc build]]
+[[engineer]]
 
 - Sources
 	- [technopedia](https://thrivingtechnologist.com/resources/techrolepedia/)
 	- [Dev roadmaps](https://roadmap.sh/)
 	- Hubs in bookmarks
+
+- Lots of fields organized decently
+	- [[DevOps - Sys admin]] 
+	- [[Code]]
+	- [[Jobs-not-mentioned]]
 
 - General engineering ones
 	- [map](https://youtu.be/pQgxiQAMTTo?t=1327)
@@ -12,10 +18,7 @@
 	- e.g.
 		- for infrastructure and CRUD data
 		- Jobs - It's very uncomplete list and the ones already mentioned are part of this
-		- It help desk - take tickets that you can handle and solve problems
-			**provides support and services related to software, hardware, databases, web resources, networks and enterprise systems**
-			
-			**installing or upgrading components, setting up software, assisting with network administration, and resolving all IT support issues**
+		- [[help desk]] 
 - [fonte eli](https://www.youtube.com/watch?v=pWcZsD0d4Pk&t=460s) 
 	- Computer engineering - hardware
 		- touchescreens, speakers, cameras, hardware that a computer uses, network hardware, signals etc
@@ -40,11 +43,6 @@
 	- Mobile developer
 		- react native
 	- [[Web3]] developer - make software related to blockchains
-		- blockchain developer
-			- [[Smart contracts]], websites, games, programs that uses the blockchain
-		- [[DeFi]]
-		- [[DApp]]
-		- [[Tokenization]]
 	- [[XR]] developer - [fonte](https://www.youtube.com/watch?v=XGIBFZ3ggGs)
 		- creates stuff for apple vision pro and much, much more
 		- vr/ar 
@@ -96,24 +94,13 @@
 	- use of security measures, standards & regulations in infrastructure
 	- teach the team about security policies and best practices
 
-- [[DevOps - Sys admin]] 
-
 - System administrator
 	- DevOps but focused and specialized on day to day maintainance rather than continous automation and collaboration
 - AI
-- [Mechatronics](https://www.youtube.com/watch?v=tgjgN-Up4DY) - How to be Michael Reeee
-	- Mechanical
-	- Electrical
-	- Computer
-	- Software
 
 - DB administrator
-- 3 DATA - [fonte](https://towardsdatascience.com/data-scientist-vs-data-analyst-vs-data-engineer-1e2514a36d41)
-	- [Data engineer](https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one)
-	- [Data analyst](https://www.youtube.com/watch?v=ywZXpfdqg1o)
-		- bachelor & master helps
-		![Untitled](Untitled%201%2021.png)
-	- Data scientist
+- Data - [[Data analytics]]
+
 - Hardware side
 	- Network administrator - (mainly hardware side)
 	- Embedded systems - modular hardware & low level optimization
@@ -136,6 +123,16 @@
 
 - Other
 	- Hacker
-	- Mining in the blockchain
 
-- Art side - [[DE categories & types]]
+- Related
+	- Art side - [[DE categories & types]]
+	- [[OT - Operational Technology]]
+	- [Mechatronics](https://www.youtube.com/watch?v=tgjgN-Up4DY) - How to be Michael Reeee
+		- Mechanical
+		- Electrical
+		- Computer
+		- Software
+
+
+
+

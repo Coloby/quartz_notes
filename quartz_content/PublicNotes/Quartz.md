@@ -20,6 +20,7 @@
 	- modify quartz options
 		- go to `quartz.config.ts` and modify at least pageTitle
 	- run quartz in local
+		- PNPM NOT SUPPORTED, SHOULD ALSO DO NPM INSTALL
 		- npx quartz build --serve
 		- or
 		- npx quartz build --serve -d ./quartz_content

@@ -1,3 +1,5 @@
+[[Medicine]]
+
 - [[Sleep]]
 - Eat
 	[[cooking]]

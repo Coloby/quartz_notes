@@ -6,12 +6,10 @@
 - [[Motivation]]
 - [[Energy-focus&time savers]]
 - [[Subconscious]]
-- [[Everyone have the same 24h BS]]
 
 - [[Health]]
 
 - Small
-	
 	- [[Everyone have the same 24h BS]]
 	- If MIT doesn't need much focus to complete
 		- do something else where allocating high focus is more valuable

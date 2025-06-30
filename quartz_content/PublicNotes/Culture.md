@@ -4,6 +4,10 @@
 	[[Etiquette]]
 
 - 0
+	- Meta analysis
+		- 20/06/2025 - Most human knowledge *seems* to be there
+			- Humanities, Sciences, and Engineering
+			- [[breadth of knowledge]] - search for sub-categories&more
 	- Elitism but the funny way
 		- ![[Pasted image 20250504010431.png]]
 		- ![[Pasted image 20250504010436.png]]
@@ -14,25 +18,38 @@
 		- misses on wealth, health, & technical/practical knowledge
 			- apart from economics
 		- some colleges/unis don't follow the philosophy behind this
+	- Relevancy of information
+		- Humanities - don't change much
+			- we still think that classic period has produced one of the foundamentals of philosophy & other humanities
+		- Sciences - more like in centuries
+		- Engineering - depending on field, can even change every 5y
+
 ###### Categories of knowledge
 - Humanities - expression, understanding, & culture
 	- generally
-		- popular in italian reinassance
+		- popular in italian [[Renaissance]]
 		- deriving wisdom from the past
 			- ancient books were deeply studied
-		- [ ] undervalued by society from after industrial revolution
-			- stem related things seems to be much more valued from current society than humanities.
-			- Recurring jokes that humanities doen't give u many job prospects
-			- if you count even just the tech market in terms of monetary value it's problably bigger than humanities related subjects
 	- [[Art]] - creative arts - specific artistics arts like music, painting...
 	- [[Philosophy]]
 	- [[Languages]]
 	- [[History]]
 	-
 	- [[Science]] some directly in e.g. medicine, psychology, politics
-	- [[Religion]]
+	- Belief systems - [[Religion]]
+- Engineering
+
+ - Mixers
+	- Science +...
+		- Generally
+			- Goes really well with
+				- [[Art]]
+		- Engineering
+			- [[Biology]] +...
+				- [[biomimicry]]
+
 - Other
-	[[Educazione civica]]
+	- [[Educazione civica]]
 	- Physical/Health related
 		- martial arts
 			- [[Boxing]]

@@ -1,0 +1,23 @@
+[[Storage-File-Data management]]
+
+- snapshots - fastest, not really a "backup"
+	- copies settings and metadata necessary to restore your data in case of a disruption. 
+	- The actual data files need to be stored separately to be retrievable
+- replications - fastest, reliable, but resource hungry
+	- what?
+		- quick and easy resumption of operations after an outage or corruption
+		- replicate everything
+	- types
+		- Async - Every X time, duplicate in other system
+		- Sync - On every change, duplicate in other system
+		- multi-site - multiple geographical locations/machin
+		- snapshot
+			- like normal snapshots but are
+				- portable
+					- can use the same snapshot and bring it to another machine/system
+		- log shipping - mostly used for SQL logging redundancy & recovery
+- full backup - slowest, most reliable, no resource hungry
+	- types
+		- full - complete copy, classic backup
+		- differential - Backs up changes made since last full backup (regardless of any incremental backups that occurred in the meantime)
+		- incremental - backs up changes made since last backup (full and incremental)

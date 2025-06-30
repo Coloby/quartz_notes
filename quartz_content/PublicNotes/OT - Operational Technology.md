@@ -1,0 +1,26 @@
+- what?
+	- vs IT
+		- IT - Info Tech - information
+		- OT - focused on operations & processes
+			- slow dev cycles
+				- much slower, AGILE & similar are not very useful there because if X machine breaks in 10y that's a problem
+			- smaller in scale, no internet
+			- "less" cyb sec need since it's small scale [v](https://youtu.be/4ey2VdS2h9o?t=489)
+				- standards take a big hold of that
+			- not much need for great UI, people have to use the software
+	- critical infrastructure like 
+		- power plans
+		- water
+		- gas
+		- data centers
+		- mining
+		- rail
+		- manufactering
+			- pharmaceutical
+		- telecommunications
+- why? IT for industrial computer systems
+	- keeping machines running, processes safe, and infrastructure stable
+- ICS - Industrial Cyber Security
+	- more
+		- use to not change a lot for decades but recently it's changing a lot since attackers have grown even ouside state actors
+	- free yt course that talk about the branches of ICS [v](https://youtu.be/CCIrntyqe64?list=PLOSJSv0hbPZAlINIh1HcB0L8AZcSPc80g&t=1234)

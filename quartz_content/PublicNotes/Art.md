@@ -1,7 +1,3 @@
-- n
-	- beauty?
-		- why would we pay 1million for a painting but not for a videogame?
-
 - What? communicating ideas/feelings to people through an artwork
 - Resources
 	- [JakeDontDraw](https://www.youtube.com/@JakeDontDraw/videos)
@@ -19,10 +15,13 @@
 		[[Writing]]
 		[[Drawing]]
 	- 3
+		- [[Contents-input types - medias]]
+		- [[Voices]]
 		- [[comedy]]
 	- non-traditional
 		- [[Code]]
 		- [[Biology]]
 
 - Theory
+	[[Creativity]]
 	[[art in time]]

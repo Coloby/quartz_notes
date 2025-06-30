@@ -3,14 +3,17 @@
 
 - Types
 	- Websites - [[fCode]]
-	- [[Data analyst]]
-	- [[XR]] - [[VR]]/[[AR]]
+	- [[Web3]]
 	- [[AI]]
+	- [[XR]] - [[VR]]/[[AR]]
 	-
-	- [[CLI dev]]
 	- [[Game dev]]
-	- [[Extensions dev]]
-	- [[Program-Script dev]]
+	- "Smaller"
+		- [[CLI dev]]
+		- [[Extensions dev]]
+		- [[Program-Script dev]]
+	- Kind of
+		- [[DevOps - Sys admin]]
 - Personal
 	- [[Code meta]]
 	- [[Code Thoughts]]

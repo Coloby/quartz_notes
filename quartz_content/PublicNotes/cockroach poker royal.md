@@ -9,7 +9,7 @@
 
 - cards in deck
 	- 65 cards tot
-	- 9 cards of the same specie - royal counted too
+	- 9 cards of the same species - royal counted too
 		- 7 species
 		- 7 royal
 	- 2 special
@@ -96,7 +96,7 @@
 						- if you win with a similar card, the other player put 3
 						-
 						- royal goes back to bottom of deck
-						- while the royal is highlighted, it doesn't count to reach 4 cards of same specie
+						- while the royal is highlighted, it doesn't count to reach 4 cards of same species
 					- reveal
 						- before playing, the loser will let the other player know about 1 of his cards, then he can choose to shuffle his hand
 						- if the loser loses again same card, he put

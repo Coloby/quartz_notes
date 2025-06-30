@@ -17,14 +17,17 @@
 
 - useful keywords - combine to get greater results
 	- Should always try
-		- main vocabulary of X
-		- understand what & why of main...
+		- *Understand what & why of main...*
 			- topic
-			- subcategories
+			- subcategories/main branches
 			- solutions/tools
-		- X for beginners
-		- milestones in X
 		- fundamentals/foundations of X
+		- main vocabulary of X
+		- Masters/Great minds of that field & big ideas about X
+		- First prompts from categories below
+		-
+		- milestones in X
+		- X for beginners
 		- SOPs
 	- wow maps
 		- curriculum
@@ -37,10 +40,10 @@
 		- guide
 		- tier list
 		- X cycle
+		- taxonomy
 	- Great results
 		- what problems a professional on X should have solved to be defined as such?
 		- fanciest or objective worthy things
-		- the masters of that field
 		- the philosophy of X
 		- state-of-the-art
 		- HT make the perfect X

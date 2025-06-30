@@ -1,5 +1,6 @@
 stll more to port from [[{}]]
 
+[[PC logs-diary]]
 [[Mantainance]]
 [[OS - Options]]
 [[OS install]]

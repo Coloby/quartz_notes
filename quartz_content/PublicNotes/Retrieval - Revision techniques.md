@@ -8,7 +8,6 @@
 		- Sporadically needed with great encoding
 		- Fights the decay of the forgetting curve trough [[Retrieval - Revision techniques]]
 	- [[Interleaving]]
-	
 	-
 	- Less effective
 		- teach based

@@ -29,7 +29,7 @@
 	[[Recupero dati by CMD]]
 	[[CS Strange tricks]]
 - Mine
-	[[Backup-reset]]
+	[[Backup-reset hub]]
 	[[Type speed test]]
 	[[Shortcuts - Hotkeys]]
 - meh

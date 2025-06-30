@@ -1,5 +1,3 @@
-[[Every video that confirms this]]
-
 - Why? conscious/aware mental mutation to who you want to be
 	- [[Conditioning]]
 	- If you are not conscious of your goals and problems, you'll see what survival tell you to see, what's easy 
@@ -12,17 +10,9 @@
 	- WWHwhen = why, what, how, when
 
 - Purpose - why, clarity - how to know what's important?
-	- [[Philosophy]] - make your own, what's of value to you?
-	- [[Values]]
+	- [[Philosophy]]/[[ideologies]] - make your own
+	- [[Values Virtues Ideals]]
 	- [[Principles]]
-	- Virtues - like values but practical, part of our identity & life
-		- require constant effort & practice - habitual
-		- can change
-		- have immediate effects in our life
-	- Ideals - broad/general long-term goals/aspirations 
-		- to establish direction
-		- usually remain constant over time
-		- what you strive for
 	- Theory
 		- what? - Designing mindset & lifestyle through research
 		- why? - Helps to define & stabilize identity & fulfillment
@@ -34,7 +24,7 @@
 - Vision - what, goals - tangible desires closest to what's important?
 	- [[Visions]]               - general direction
 	- [[myMilestones]]    - map of progress toward direction
-	- [[Revisions]]            - specific time-bound goals
+	- [[Revisions]]            - reflections & time-bound goals
 	- Theory
 		- what? - trying to visualize what's meaningful & purposeful
 		- why? 
@@ -43,14 +33,22 @@
 				- what u think, learn, perceive & believe 
 		- [[HT goals and to-dos]]
 - Mission - how, plan - how to optimally satisfy desires practically?
-	- [[Mindfulness]]    - awareness & self-control
-	- [[Discipline]]       - entropy manager, structure
-	- [[the atlas]]         - library of knowledge/models
+	- Custom systems based on how u think it's best to achieve vision
+	- [[Journaling - who I am]]
+	- [[Daily Focus lists]]
+		- [[myBottlenecks]]
+		- [[myExperiments]]
+	- [[Routines and TimeTables]]
+		- [[Rituals]]
+		- [[Habits]]
+	- [[Todé]]
 	- Theory
-		- [[Project management]]
-		- [[Analytics]]
+		- [[Mindfulness]]    - awareness & self-control
+		- [[Discipline]]       - entropy manager, structure
+		- [[the atlas]]         - library of knowledge/models
 
 - Archived
+	[[Every video that confirms this]]
 	- Hard to forget
 		- Journey & Destination needs to be balanced
 			- Both needed to feel like what you do is toward something of value to you

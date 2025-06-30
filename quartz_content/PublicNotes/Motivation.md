@@ -1,5 +1,6 @@
 - [[Be like a kid]]
 - [[Career choice]]
+- [[self-worth mechanisms]]
 ---
 - discovery
 	- primagen https://youtu.be/7fjBIPKTKQw?t=2152
@@ -30,7 +31,6 @@
 	- automation
 	- delegation
 - Mantain
-	- [[support systems]]
 	- [[Rest]]
 	- [[Mindfulness]]
 	- [[Journaling - who I am]]
@@ -49,7 +49,7 @@
 		- projection - 
 ##### Types of motivation
 - Drive -- **identity** - Reminding yourself of why 
-	- aligning actions to [[Values]]
+	- aligning actions to [[Values Virtues Ideals]]
 		- e.g. 
 			- gym because you want health & strength
 			- cc because you are altruistic
@@ -136,13 +136,7 @@
 		- great starter
 		- less consistency
 		- e.g. studied 10 hours while feeling happy in the meantime 
-	- Intrigue -- **context** [-](https://youtu.be/brInNApdbL4?t=464)
-		- great starter
-		- can be a multiplier for anything
-		- made from
-			- Novelty
-			- Surprise - tyring to [[Predicting]] outcomes confirming/den
-		- e.g. - found new category of knowledge like DevOps/mu
+	- [[Intrigue]] -- **context**
 - Tools - consistant outcomes
 	- [[boredom]]
 	- [[yoga nidra NSDR]]

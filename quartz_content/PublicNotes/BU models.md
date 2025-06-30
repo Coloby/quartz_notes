@@ -1,9 +1,5 @@
 [[BU models 2]]
 
-- N
-	- Optimization/Automation to sell based on client success
-	startup credits [-](https://youtu.be/PmVONwkYsg8?t=262)
-
 - Principles
 	- it's very risky to start a startup without cashflow
 		- startup = selling something with uncertain success rate/market
@@ -245,7 +241,7 @@
 	- others do fullfillme
 	- fonte [ali abdal](https://youtu.be/M5y69v1RbU0?t=876)
 	- thomas gonnet becomes rich w highlevel sponsorship program [v](https://youtu.be/-zhCzU5Zli4?t=105)
-- [[dev coaching]]/Tutoring/Mentoring
+- [[dev-code coaching]]/Tutoring/Mentoring
 - [[Investing]]
 -
 - franchising
@@ -276,9 +272,9 @@
 - Copywriting/ghostwriting
 - Middleman based
 	- remote seller/appointment setter - [fonte](https://www.youtube.com/watch?v=vLkFH3ffpBY)
-	- what?
-		- getting employed... to try to schedule sales calls for your boss or to make them yourself and then getting a percentage (usually 4% or low in general) out of positive sales calls
-	- why? a way to maybe get mentored while learning sales
+		- what?
+			- getting employed... to try to schedule sales calls for your boss or to make them yourself and then getting a percentage (usually 4% or low in general) out of positive sales calls
+		- why? a way to maybe get mentored while learning sales
 	- matching employees with businesses
 
 - Dropshipping - buy when client ask while supplier do fullfillment

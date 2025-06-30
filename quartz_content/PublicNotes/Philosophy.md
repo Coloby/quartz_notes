@@ -19,7 +19,6 @@
 			some say that [[Aesthetics - beauty]] is a sub-category of metaphysics
 		[[Ethics]]
 - [[my fav questions]]
-	
 
 - Movements
 	- [[stoicism]]
@@ -34,20 +33,8 @@
 	- without usage found
 		- [[Cosmicism]]
 		- [[bug man]]
-- Philosophers
-	- [[Nietzsche - Nice]]
-	- Socrate
-		- He was questioning everything & talking about it with anyone
-		- Got executed from politicians
-		- IK nothing oriented
-	- Pleto
-		- Student of Socrate
-		- created a school to find the truth
-		- methaphysic oriented
-	- Aristotele
-		- Student of Pleto
-		- Physically oriented [[Scientific method]]
-
+- [[Philosophers]]
+	
 - Epistemology & Ontology - shapes methods & methodology
 	- Positivism
 		- Ontology - there's only 1 reality or truth

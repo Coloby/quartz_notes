@@ -1,6 +1,0 @@
-- Installation
-	- AUR one never worked
-	- Github method
-		- install latest zip [g](https://github.com/ActivityWatch/activitywatch?tab=readme-ov-file)
-		- extract & execute aw-qt
-		- done :)

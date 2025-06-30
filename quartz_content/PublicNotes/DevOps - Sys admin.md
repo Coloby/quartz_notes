@@ -1,3 +1,5 @@
+[[myInfra]]
+
 - n - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
 	- 1
 		- sys admin
@@ -30,8 +32,9 @@
 		- [[DBs]]
 		- Security
 		- Servers
+		- ...
 	- frequent activities
-		- communicate with team & stakeholders limitations
+		- communicate w team & stakeholders limitations
 		- Monitoring tools
 			- to track application and system health, detect performance bottlenecks, and identify potential issues proactively
 		- Scaling planning
@@ -39,46 +42,43 @@
 		- Automated testing
 			- automated testing of infrastructure and environments, ensuring that changes don't introduce vulnerabilities or degrade performance
 		- Incident management
-		- Bridge and collaboration with other departments like cybersecurity
-		- Automated Backup and Recovery
+		- Bridge & collaboration w other departments eg cybersecurity
+		- Automated Backup & Recovery
 		- Give useful tools to empower productivity to other teams
 	-
 	- classic icon
 		- ![[Pasted image 20240621010638.png]]
-	- lol on the what - devops should be colled continous delivery
+	- lol on the what - devops should be called continous delivery
 		- https://youtu.be/m1FBrO3ekkU?t=763
 		- ![[Pasted image 20240621011227.png]]
 	- Not too useful images to explain what he does
 		![[Pasted image 20240724234048.png]]
 		![[Pasted image 20240724234236.png]]
 		![[Pasted image 20240724233735.png]]
+- Order is all over the place because categories here merge a lot
+	- Generally follows complexity (intra-categories)
 
-- Already knew
-	- [[Git]]/[[Git-hub - git manager]]
-	- [[Architecture-Infra codes]]
-- 1
-	- [[Linux]]
-	- Infra
-		- [[myInfra]]
-		- general
-			- [[IaC - Infrastructure as Code]]
-			- [[Storage-File-Data management]]
-			- [[Security]]
-			- [[PCs remote management - KVM]]
-		- By specific type
-			- [[Backend]]
-			- [[IoT]]
-			- [[Cloud Computing]]
-			-
-			- [[Networking]]
-	- [[Virtualization]]
-	- Operations
-		- [[CI-CD]]
-		- [[env-secrets management]]
-- 2
+- general
 	- [[HomeLab]]
+	- [[Automation]]
+	- [[Security]] - [[Networking]]
+	- [[Data analytics]]
+	- [[Cloud Computing]]
+	- [[IoT]]
+- Dev - [[Code]]
+	- [[Backend]]
+	- [[Architecture-Infra codes]]
 	- [[micro services]]
+	- [[Git]]/[[Git-hub - git manager]]
+	- Very specific
+		- [[env-secrets management]]
+- Sys admin
+	- [[Linux]]
 	- [[Mainframe - Distributed systems]]
+	- [[Virtualization]]
+	- Very specific
+		- [[Storage-File-Data management]]
+		- [[PCs remote management - KVM]]
 
 
 
