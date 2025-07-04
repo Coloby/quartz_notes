@@ -1,5 +1,5 @@
 - what? 
-	- Design in 4 words - IPPI
+	- Design in 4 words - PIRI
 		- Problem solving
 		- Inspiration
 		- Rules
@@ -7,7 +7,7 @@
 	- *Therapist* that *remixes* w *standardized* iteration based on an identity to create and/or apply *visual systems*
 		- Words meaning
 			- *Therapist* - eradicate the root problem trough communication
-			- *remixing* - inspiration from many others 
+			- *remixing* - inspiration from many others (like DJs)
 			- *standardized* - backed up from objective styling best practices
 			- *visual systems* - like branding and style guidelines
 	- Archived

@@ -1,8 +1,3 @@
-- meh
-	[[Luck]]
-	[[Dictionary - Vocaboli generali]]
-	[[Etiquette]]
-
 - 0
 	- Meta analysis
 		- 20/06/2025 - Most human knowledge *seems* to be there
@@ -30,13 +25,14 @@
 		- popular in italian [[Renaissance]]
 		- deriving wisdom from the past
 			- ancient books were deeply studied
-	- [[Art]] - creative arts - specific artistics arts like music, painting...
+	- [[Art]]
 	- [[Philosophy]]
-	- [[Languages]]
+	- [[Languages]] - mostly literature & greek/latin
 	- [[History]]
 	-
-	- [[Science]] some directly in e.g. medicine, psychology, politics
 	- Belief systems - [[Religion]]
+	- closely related - medicine, psychology, politics ([[Science]]s)
+- [[Science]]
 - Engineering
 
  - Mixers
@@ -54,4 +50,8 @@
 		- martial arts
 			- [[Boxing]]
 		- weapons
+- meh
+	[[Luck]]
+	[[Dictionary - Vocaboli generali]]
+	[[Etiquette]]
 

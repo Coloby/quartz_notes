@@ -1,5 +1,5 @@
-[[atlas2]]
 [[Obsidian]]
+[[atlas2]]
 [[notes map]]
 
 - what? How I think & take notes

@@ -1,9 +1,10 @@
 - main source is Sam Ovens video [-](https://youtu.be/H5c41aWpQ14)
 
 - what? practical/processed [[Wisdom]] or general practical tips
-- why? I experimented & they worked, *for me*
+- why? optimizing survival *to favor/optimize living*
 
 ---
+- [[Note taking]] 
 - [[leverage]] - Prioritize
 - [[Energy-Time]] - Sustain
 ---

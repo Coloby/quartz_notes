@@ -5,9 +5,8 @@
 [[Reasoning]]
 -
 [[Productivity]]
-
 [[mind building]]
-[[Communication]]
+
 
 
 

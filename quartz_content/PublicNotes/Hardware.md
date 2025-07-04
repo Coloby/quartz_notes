@@ -2,6 +2,7 @@
 [[SBC - Single Board Computer]]
 [[UPS]]
 [[Projectors]]
+[[MU hardware]]
 
 - Mentors
 	- [Louis Rossmann](https://www.youtube.com/@rossmanngroup/videos)

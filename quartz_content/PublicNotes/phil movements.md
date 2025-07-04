@@ -1,0 +1,13 @@
+- [[stoicism]]
+- [[Existensialism]]
+- [[objectivism]]
+- [[taoism]]
+- eutopianism
+- [[idealism]]
+- [[utilitarianism]]
+- [[platonism]]
+-
+- [[Ethical Egoism]]
+- without usage found
+	- [[Cosmicism]]
+	- [[bug man]]

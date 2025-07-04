@@ -1,16 +1,19 @@
-- What? [v](https://youtu.be/B9XGUpQZY38?t=450) - Way of thiking focussed on practical outcomes
-	- rejecting anything abstract that doesn't bring any tangible results.
-		- Optimally,  the abstract & Pragmatism togheter
-	- versatile - doesn't need empiric truths or abstractions necessary
-	- accessible - scope it's general & not limited to scientific research
+- What? [v](https://youtu.be/B9XGUpQZY38?t=450) - [[Scientific method]] repackaged w better marketing
+	- Way of thiking focussed on practical outcomes
 	-
-	- Similar to:
-		- [[Scientific method]] 
-			- almost identyc (instead of solutions, hypothesis)
-			- more versatile & accessible
-		- [[First principle thinking]] 
-			- without the focus on almost re-inventing the wheel
-			- more versatile & accessible 
+	- re-purposing [[Scientific method]]
+		- if you were to say [[Scientific method]] applied to non-scientific stuff, you'd intuitively be doing pragmatism...
+		- though it gives a different feeling in situations like
+			- "Oh this person is really pragmatic"
+			- use "scientific" instead and it becomes mocking unless the person is a real scientist
+	- differences you'd intituitively discover
+		- rejects anything abstract that doesn't give tangible results
+		- versatile - no need for empiric truths/abstractions necessary
+		- accessible - general scope, not limited to scientific research
+		- instead of solutions, hypothesis
+	- Similar to - [[First principle thinking]] 
+		- without the focus on almost re-inventing the wheel
+		- more versatile & accessible 
 - Why? - validate/confirm causes & effects
 	- to grow in any field or upgrade a system
 
@@ -39,7 +42,8 @@
 				- risking lifes on a low percentage cure rate tool is bad
 					- Even though pragmatism may cure the clynically depressed guy we're risking him to relapse and suicide while there could be taken a different approach that may have led to the same result but at least it was considered the best option with the best probability of success. That's why pragmatism should not be used to prevent or cure clynical depression but rather as a plus added to standard procedures made by professionals 
 	- religion
-	- if there is an haunted house, the one who don't believe in ghost will have a better time
+	- not being scared of ghots
+		- if there is an haunted house, the one who don't believe in ghost will have a better time
 
 
 

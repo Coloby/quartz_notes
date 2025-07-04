@@ -19,9 +19,9 @@ limbic system? [-](https://youtu.be/GLtmel8hD1k?t=1937)
 	- Tries to get dopamine, no matter the context, it doesn't have it
 - have a... 
 	- give a problem/idea to your mind to attract related ideas
-		- Wrap it into emotions
+		- Wrap it into strong emotions
 			- Faith - being sure something's going to happen 
-			- Love - 
+			- Love - emotional
 			- Sex - biological
 	- clear mind, no bad thoughts occupying mental estate [[leverage]]
 	- [[Conditioning]]

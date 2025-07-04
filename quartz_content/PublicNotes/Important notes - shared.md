@@ -1,8 +1,10 @@
 - Important notes from main topics
 - [ ] [[Mind]] 
 	- [ ] [[Int]]
-		- [ ] [[Discipline]]
+		- [ ] [[PVM]]
+			- [ ] [[Journaling - who I am]]
 	- [ ] [[Reasoning]]
+		- [ ] Everything under "Umbrella terms"
 		- [ ] [[system thinking]] - especially [[leverage]] & inputs - [[myInputs]]
 		- [ ] [[Excellence]]
 	- [ ] [[HLL]]
@@ -12,7 +14,9 @@
 	- [ ] [[Productivity]]
 		- [ ] [[leverage]] - add/delete what u do based on purpose
 			- [ ] [[Diversification is bad]] your focus [-](https://youtu.be/i16HTSt-wl4?t=727)
+		- [ ] [[Note taking]]
 		- [ ] [[Energy-Time]]
+- [ ] Technical stuff
 	- [ ] [[Code]]
 	- [ ] [[DevOps - Sys admin]]
 - [ ] [[Health]]

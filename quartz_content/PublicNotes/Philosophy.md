@@ -18,23 +18,10 @@
 		[[Metaphysics]]
 			some say that [[Aesthetics - beauty]] is a sub-category of metaphysics
 		[[Ethics]]
-- [[my fav questions]]
 
-- Movements
-	- [[stoicism]]
-	- [[Existensialism]]
-	- [[objectivism]]
-	- [[taoism]]
-	- eutopianism
-	- [[idealism]]
-	- [[utilitarianism]]
-	-
-	- [[Ethical Egoism]]
-	- without usage found
-		- [[Cosmicism]]
-		- [[bug man]]
+- [[phil movements]]
 - [[Philosophers]]
-	
+
 - Epistemology & Ontology - shapes methods & methodology
 	- Positivism
 		- Ontology - there's only 1 reality or truth

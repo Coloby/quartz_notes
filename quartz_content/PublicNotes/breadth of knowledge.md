@@ -1,3 +1,5 @@
+- what? HT widen knowledge?
+
 - Curiosity
 - [[the atlas]] - big categories of knowledge
 	- humanities
@@ -5,7 +7,7 @@
 	- sciences
 		- [[self-worth mechanisms]]
 		- [[Political science]]
-	- Related
+	- Generally Related
 		- [[Prestudy  - Priming]]
 		- [[myInputs]] - ways/medias I get info from
 		- [[encyclopedia]] - especially the index
@@ -13,9 +15,10 @@
 		- intelligence types
 		- [[body parts]]/senses
 - personal system
-	- [[systems I wanna do]]
-	- [[Todé]] & subnotes
-	- [[Lifestyles]]
+	- [[Int]]
+		- [[systems I wanna do]]
+		- [[Todé]] & subnotes
+		- [[Lifestyles]]
 	- Cultures/Places
 - technically
 	- [[do with friends - going out - places]]

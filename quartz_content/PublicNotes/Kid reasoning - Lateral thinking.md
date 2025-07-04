@@ -1,0 +1,43 @@
+- [[The kid and the ice-cream]]
+- [Ask more whys&questions](https://youtu.be/IfESj3jTZ6Q?t=1752) [[Inquiry learning]]
+
+- General
+- what? Think outside the box
+	- Originated by Edward de Bono in 1967
+
+- techniques
+	- kill assumptions - stop taking solutions/problems for granted
+		- a box is never just a box [-](https://youtu.be/CrGpipgcfi4?t=416)
+		- what we do everyday can be different [-](https://youtu.be/9uOMectkCCs?t=856)
+		- catch the invisible problem
+	- reframing problems
+		- Swapping [-](https://youtu.be/KPlJcD-o-4Q?t=7546) cats are owners, books read us
+		- Reversal - what if we did the opposite?
+		- [[Root problem]]
+		- mixing - re-mixing 
+			- ideas
+			- fields
+			- principles
+			- properties
+			- ideas
+			- Using symbolic language
+			- metaphor
+			- emotions
+			-
+			- AKA associative thinking
+	- Unexpected solutions
+		- Boxes management [-](https://youtu.be/9uOMectkCCs?t=576)
+			- see boxes before - how we get the problem
+			- delete, combine, and add boxes
+		- Chaos - absurd/illogical ideas & link them together
+		- Imagination is the only limit
+			- We limit ourself by the "I cannot do it" factor. Think above it
+			- What if we started creating/OtherNoun things like if only imagination was the limit?	
+		-
+		- Zen kōans - paradoxical questions/stories/statements
+			- to get non-linear insights
+			- used in Zen Buddhism 
+			- eg
+				- “What is the sound of one hand clapping?”
+				- “What was your original face before your parents were born?”
+		

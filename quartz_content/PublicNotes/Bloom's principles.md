@@ -9,6 +9,7 @@
 	-
 	1. Create - innovating trough [[Reasoning]] & steps below
 		- creating new info from what you know
+			- Past knowledge - N, L, Discovery & Existing notes
 	2. [[Predicting]]
 	3. Analyze "CRED" - understanding on a-steroids
 		- [[Chunking]]

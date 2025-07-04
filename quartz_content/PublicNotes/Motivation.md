@@ -1,4 +1,4 @@
-- [[Be like a kid]]
+- [[Kid reasoning - Lateral thinking]]
 - [[Career choice]]
 - [[self-worth mechanisms]]
 ---

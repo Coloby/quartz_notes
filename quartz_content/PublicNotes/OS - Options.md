@@ -49,6 +49,7 @@
 		- [[Windows OS]]
 	-
 	- OG - [[Linux]]
+		- [[arch lin]]
 		- Gentoo - harder to install than arch. Source based OS
 			- [why?](https://www.reddit.com/r/linuxquestions/comments/syj5r0/what_is_the_appeal_of_gentoo/)
 			- "[Linux end game](https://youtu.be/8QcI43IwkVc?t=507)" -MentalOutl
@@ -58,6 +59,7 @@
 					- need to know use flags, kernel modules to to these stuff
 				- portage pkg manager
 			- meta distro - can support many architectures
+		-
 		- void linux - no systemd, 2 pkg manager
 			- has void installer
 			- not a fork
@@ -69,12 +71,10 @@
 					- efficiency and the ability to handle partial upgrades
 					- allows users to roll back certain packages
 			- philosophy
-			- open source software
-				- separates free and non-free software into different repos
-			- aims to be minimalistic and efficient
-				- runit & fast pkg managers
-			- no AUR but community driven
-				- all packages in its official repositories are vetted and maintained by the Void team & community
+				- separates free & non-free into different repos
+				- minimalistic & efficient - runit & fast pkg managers
+				- no AUR but community driven
+					- all packages in its official repositories are vetted and maintained by the Void team & community
 		- arco linux
 			- [3 branches](https://youtu.be/ch3ETaOPhzs?t=35) + extended version with all window managers
 				- [bloated](https://youtu.be/S_dG79GhNfI?t=338) (main philosophy?) & minimal version & custom
@@ -91,6 +91,40 @@
 		- [[qubeOS]]
 		- whonix - virt machines that looses memory like tails
 	- lightweight - I would still go to minimal arch though
+		- alpine OS
+			- security, simplicity & resource efficiency.
+			- use cases
+				- Ideal for 
+					- containers, embedded systems, low-resource devices, & servers
+				- not really intended to be used w GUI
+			- different toolset than most other OS
+				- musl libc - no glibc (C Library)
+				- busy box - GNU coreutils
+				- open RC - no systemd
+				- apk - package manager
+			-
+			- Resources
+				- storage
+					- Base image is ~5 MB
+						- compared to 100–200MB for Ubuntu/CentOS
+					- installation to disk requires ~130MB
+					- container requires no more than 8 MB
+				- Boots fast
+				- consumes minimal RAM and CPU.
+			- security
+				- compiles all userland binaries, all outside the kernel w...
+				- SSP - stack smashing protection - overflows tripwires
+					- small, random value (the “canary”) is placed on the stack before the return address
+					- If a buffer overflow tries to overwrite the return address, it will also overwrite the canary
+					- Sys checks canary before returning from a function 
+						- if it’s been changed, the program crashes instead of executing malicious code.
+				- PIE - Position Independent Executables
+					- userland binaries are compiled as
+					- code can be loaded at any memory address.
+					-  enables Address Space Layout Randomization (ASLR) — a security technique that randomizes where code is loaded in memory.
+					- If an attacker tries to exploit a vulnerability (like a buffer overflow), they can’t predict where to jump to — because the memory layout changes every time.
+			- n
+				- less pkgs available
 		- Antix - 300mb ram idle - no systemD, debian, 32bit
 		- Lubuntu - 500mb ram idle
 			- Ram [src](https://youtu.be/xvg3wnAzru0?t=553)
@@ -120,7 +154,7 @@
 		- ubuntu - it uses wayland by default... wtf
 			- discord & anydesk will have problems on sharing screen (maybe even impossible)
 	- enterprise/server
-		- in general
+		- generally
 			- debian & ubuntu server seems the only viable routes for most use cases
 			- web server? almost always windows
 			- file server? any OS, doesn't matter
@@ -150,9 +184,9 @@
 				- [no containers here...](https://youtu.be/ZxEmeekhnPM?t=94)
 			- Archived
 				- CentOS - [discountinued](https://youtu.be/mfsjSuE0kSs) foss version of redhat
-		- nogut anymore
+		- archived
 			- centOS - based on redhat - sadly not an option anymore
-	- Specific
+	- Specific use cases
 		- Router
 			- Ensure compatibility between hardware & software [-](https://youtu.be/am7xT-zU1Q0?t=302)
 				- most stuff work best w intel network controllers
@@ -177,10 +211,23 @@
 					- freeBSD as it's base
 				- paid
 					- unraid
-	-
-	- pen testing - why not just building it from debian?
-		- kali - debian with pen test bloat
-		- parrot - debian with pen test software
+		-
+		- E-reader - E-ink device
+			- most popular
+				- linux-based
+					- android-based
+			- less common but foss
+				- InkBox OS
+				- InkBox OS 2
+				- muditaOS [g714](https://github.com/mudita/MuditaOS)
+				- quill [g500](https://github.com/Quill-OS/quill)
+			- non-foss
+				- kindle OS
+				- kobo OS
+		- pen testing - why not just building it from debian?
+			- kali - debian with pen test bloat
+			- parrot - debian with pen test software
+		- gaming
 	- BSD
 		- FreeBSD - also used on desktops
 			- difference
@@ -198,10 +245,9 @@
 				- UNIX
 				- Most of the software is from linux
 		- OpenBSD - one of the most secure OS for servers mostly
-	- gaming
-		- 
 	- meh
 		- [[nixOS]] - unnecessary for most people
+		-
 		- Artix - arch but uses openRC instead of systemd
 		- clean linux - fast if using intel
 		- slackware - 

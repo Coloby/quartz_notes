@@ -5,6 +5,19 @@
 - Resources
 	- gpu is enough for this LLM? [-](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
 	- Cloud stuff
+		- LLMs
+			- Grok - good recent online research
+			- Microsoft
+			- Google/Gemini
+			- GPT
+			- llama
+			- deepseek
+			- Claude
+			- mistral
+			- phind.com
+			-
+			- alibaba
+			- amazon
 		- TTS
 			- Credits based
 				- can't clone voice

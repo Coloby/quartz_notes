@@ -11,29 +11,15 @@
 
 - [[Culture]]
 - [[breadth of knowledge]]
+- [[Reverse engineering great minds]]
 -
 - [[Simple actions]]
 - [[my cognitive style-skills]]
 
-- Types of intelligence
+- Types of "intelligence"
 	- Cognitive - the usage of the mind
 	- Social - social cues & relationships
 	- Emotional - understanding & managing emotions
 	- Moral - distinguishing right from wrong
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[]]

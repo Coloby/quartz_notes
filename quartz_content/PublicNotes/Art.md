@@ -21,6 +21,10 @@
 	- non-traditional
 		- [[Code]]
 		- [[Biology]]
+- Categories
+	- Visual arts
+	- Music
+	- Performing arts
 
 - Theory
 	[[Creativity]]

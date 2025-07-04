@@ -1,4 +1,5 @@
 [[Public notes FAQ]]
+[[great notes examples]]
 
 - what? All of these are Patterns/Conventions I use in my notes
 
@@ -22,7 +23,7 @@ stuff into individual notes...
 - source mentioning
 	- general sources
 		- src
-		- -
+		- `-`
 		- fonte (it's Italian and it means "source")
 	- specific
 		- w       website

@@ -1,0 +1,18 @@
+- what? reporting & monitoring - present/past data
+	- collect, analyze, & visualize
+	- Dashboard, KPI, reports, perf metrics
+	- descriptive
+	- for: biz users/exec
+- why? use-cases ->  decision making based on data
+	- Track KPIs (Key Performance Indicators)
+	- Analyze customer behavior
+	- Forecast sales and demand
+	- Optimize supply chains
+	- Monitor financial performance
+	- Support marketing and HR decisions
+- Components
+	- Data Sources – CRM, ERP, DBs, spreadsheets, APIs, etc.
+	- ETL - Extract, Transform, Load: clean & prepare data
+	- Data Warehouses – Centralized storage for structured data
+	- Analytics Tools – For querying, modeling, and exploring data
+	- Dashboards & Reports – Visualizations that gives insights

@@ -1,0 +1,3 @@
+- focusing on dictionary definitions of words over the real argument
+- eg
+		- getting dismissed because you used the wrong word even if you mean the same thing as the other party

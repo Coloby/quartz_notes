@@ -26,7 +26,7 @@
 - Prioritize - It isn't about doing more but doing less, is that the less?
 	- [[Int]]
 	- [[80-20 pareto principle]] - tips to find/confirm it
-	- [[Kid reasoning]] - Outside the box
+	- [[Kid reasoning - Lateral thinking]] - Outside the box
 	-
 	- [[Reward]]
 - be lazy

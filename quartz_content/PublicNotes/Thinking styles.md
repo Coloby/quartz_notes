@@ -1,0 +1,14 @@
+- Decision-Making Styles [v](https://www.youtube.com/watch?v=cmBf1fBRXms)
+	- [[Divergent Thinking]] 
+	- [[Convergent Thinking]] 
+	-
+	- Too similar Cognitive Approaches
+		- Top-Down - break down bigger picture into many pieces
+			- deduction and organizing information hierarchically
+		- Bottom-Up - bring togheter pieces to get bigger picture
+			- induction & building understanding from the ground up
+- Ideological Perspectives
+	- Liberal - open to change, diverse viewpoints, & social progress
+		- individual rights and social equality
+	- Conservative - tradition, stability, preserving existing institutions
+		- order and individual responsibility

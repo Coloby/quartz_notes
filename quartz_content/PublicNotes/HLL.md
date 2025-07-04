@@ -1,6 +1,7 @@
 [[dev-code coaching]]
 
-- why? - [To learn, remember, and think better & faster](https://youtu.be/--Hu2w0s72Y?t=1682)
+- what? create/refine study/learning method - Higher Level Learning
+- why? learn, remember, & think better & faster [v](https://youtu.be/--Hu2w0s72Y?t=1682)
 
 - Tidy library framework
 	1. [[Prestudy  - Priming]]
@@ -21,6 +22,7 @@
 		- Retrieval = find a book in a shelf from specific library
 -
 - 0
+	- [[Note taking]]
 	- How we store memory 
 		- Basics
 			- Info

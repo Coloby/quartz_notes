@@ -1,7 +1,6 @@
 - [[bu_System]]
 - [[overviewing]]/[[Prestudy  - Priming]]
 - [[Pragmatism]]
-- [[Bloom's principles]] (Solo taxonomy)
 -
 - Narrower related point of views
 	- emergence - examining only high level parts
@@ -24,14 +23,16 @@
 		- wholes
 		- meta-wholes
 	- Unit components - can create systems to manipulate them - [v](https://youtu.be/rcxiCDNHJpM?t=1024)
-		- Environment - can kill/sustain system
-			- [[Everyone have the same 24h BS]] - where u study
-			- understand in which ways that's the case
-			- trends and similar are ways for small biz to compete
+		- Environment - can kill/sustain system, how?
 			- look out for major changes & adapt quickly
+			- resources
+			- limitations
 			- e.g. 
+				- [[engineer]]
+				- [[Everyone have the same 24h BS]] - where u study
 				- even climate have massive influence
 					- bad climate = worst countries happiness
+				- trends & similar are ways for small biz to compete
 		- Inputs - Garbage in Garbage out - [[myInputs]] - [[Conditioning]]
 		- Outputs - which results are important? [[Int]] & [[leverage]]
 		- Processes - optimize outputs from inputs (SOPs)

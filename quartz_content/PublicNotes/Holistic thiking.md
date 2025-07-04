@@ -1,5 +1,2 @@
 - What?
 	- Understanding something trough it's connections to other things contextualizing it's meaning trough it's place in the bigger picture/system
-- why?
-	- to eradicate the problem, don't patch it - Understand life better and what's causing the problem in the first place - [v](https://www.youtube.com/watch?v=25LUF8GmbFU&pp=ygUZbWl0IGVkdWNhdGVkIG5ldXJvc3VyZ2Vvbg%3D%3D)
-	- stop finding little specific tactics to patch problems

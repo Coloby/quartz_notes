@@ -14,6 +14,50 @@
 	- [obituaries](https://www.nytimes.com/international/section/obituaries)
 	- do you want the course or the curriculum?
 
+- HT choose
+	- if you close your eyes and only listen, you'd understand the low-quality hidden by the fancy images scrolling & VFX
+
+- Senses & Main ways
+	- generally - the more together the better
+	- best scenario
+		- Doing the thing while having a mentor
+	- big minds' opinions
+		- Socrates - Dialogue >
+			- true knowledge comes from dialectic—a live, back-and-forth conversation where ideas are tested and refined.
+			- outside of academia often teached 1o1 or small groups
+		- Plato 
+			- whose dialogues often begin with characters referencing prior teachings or shared assumptions.
+	-
+	- Talking
+		- >
+			- refine w discourse, but needs prio basic knowledge
+				- should have basic knowledge&opinion prio
+			- teaching individually + active discourse
+				- both student & teacher needs to be in sync though
+			- more motivating than reading a book
+		- <
+			- group teaching - the more students the worst
+				- not self-paced 
+					- can't skip sections or go fast/slow when neede
+					- Speakers go slow for real-time comprehension
+						- tend to give too many examples/stories
+				- more verbose, unorganized, & less clear&precise
+				- Speaker "can't" sound boring
+	- Reading/Writing
+		- -
+			- second only to X, when properly done
+				- "doing" the thing
+				- individual spoken teaching
+				- Watching - very hard that's the case though
+		- >
+			- refining before & after discourse
+			- very accessible
+	- Listening
+		- >
+			- multitasking - when really have to
+	- Watching
+		- hard to be better just w synthetized graphs & drawings
+	- Kinestetic - doing physically
 - Sources to learn sorted by (convenience & quality)
 	- Your mind - never underestimate youself
 		- why? 
@@ -37,7 +81,9 @@
 		- take care of [[Biases and Fallacies]] w [[Reasoning]] and you'll find something really close to the truth
 	- Relationships - People
 		- Reverse engineer
-		- [[debating]] 
+		- [[discussing - debating]] 
+		- [[Teaching]] yourself to some other
+		-
 		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
 			- Any other category might not did/make what you want to make, **mentors did instead**, they have experience
 			- it's a combination of tutoring, coaching, and consulting
@@ -50,7 +96,6 @@
 			- like someone that do your same stuff, but is better than you.
 			- He doesn't teach like a tutor, but he has practical knowledge.
 			- useful when feeling comfortable on the theory but lacking the practical and holistic implementation 
-		- [[Teaching]] yourself to some other
 		- Community&Masterminds - great support for any situation
 			- networking serendipity
 			-
@@ -113,5 +158,6 @@
 		- google
 	- Podcasts
 	- [[Courses]]
+
 ---
 - [[Learning resources Archived]]
