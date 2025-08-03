@@ -2,36 +2,18 @@
 - [[myAIpipelines]]
 - [[askAI]]
 
-- Resources
-	- gpu is enough for this LLM? [-](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
-	- Cloud stuff
-		- LLMs
-			- Grok - good recent online research
-			- Microsoft
-			- Google/Gemini
-			- GPT
-			- llama
-			- deepseek
-			- Claude
-			- mistral
-			- phind.com
-			-
-			- alibaba
-			- amazon
-		- TTS
-			- Credits based
-				- can't clone voice
-					- fast
-						- Luvvoice [w](https://luvvoice.com/en/dashboard/text-to-speech)
-							- clone voice
-								- for some reason always says (not enough credits)
-						- naturalreaders [w](https://www.naturalreaders.com/online/)
-					- Elevenlabs [w](https://elevenlabs.io/app/speech-synthesis/text-to-speech) - slow but great
-	- Leaderboards
-		- TTS [w](https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2)
-		- LLMs
-			- artificialanalysis.ai [-](https://artificialanalysis.ai/)
-			- web.lmarena.ai [w](https://web.lmarena.ai/leaderboard)
+- L
+	- [thereisanaiforthat](https://theresanaiforthat.com/ai/conceptmap-ai/)
+	- libraries
+		- By microsoft
+			- [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+			- [CNTK](https://github.com/microsoft/CNTK)
+			- [LightGBM](https://github.com/microsoft/LightGBM)
+			- [unilm](https://github.com/microsoft/unilm)
+			- [qlib](https://github.com/microsoft/qlib) investimenti :/
+		- ML
+			- [simulator for autonomous vehicles](https://github.com/microsoft/AirSim)
+			- [nni](https://github.com/microsoft/nni)
 - n
 	- MPC - Model Context Protocol
 	https://cursor.directory/
@@ -41,11 +23,28 @@
 		- MCP, the new REST API for AI [-](https://youtu.be/HyzlYwjoXOQ)
 		- comfy UI workflows
 		- flux lora realistic images [-](https://youtu.be/1m7ZVCy3728)
+		- [TL - HT make AI vids](https://www.youtube.com/watch?v=dFJxwl-azEA) [wayback machine link](https://web.archive.org/web/20240124033352/https://www.youtube.com/watch?v=dFJxwl-azEA)
+		- [TL - HT use gpt w ur own data?](https://www.youtube.com/watch?v=9AXP7tCI9PI) LangChain
 	- understand something about all of this mess [-](https://youtu.be/d-VjcaRyo40)
 	- [ai g](https://github.com/topics/ai)
 	- [autoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 	- [open assistant](https://github.com/LAION-AI/Open-Assistant)
 	- [quivr RAG system](https://github.com/QuivrHQ/quivr)
+
+- why, philosophy, etc
+	- Limitations
+		- unless explicitly asked, it's hard for it to go beyond ur own expertise
+			- even if given complex systems like [[Int]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
+	- Freya got depressed also because of it [-](https://youtu.be/-opBifFfsMY?t=3656)
+	- where AI do/doesn't make sense? 80%, not the remaining 20%
+		- generally
+			- The more easy/uncomplicated tasks will be automated the more humans will be able to focus on excellence instead
+		- Humans - [[Excellence]]
+		- AI - Anything replicable without individuality or major depth
+		- perfectionists will be more needed
+			- the more AI gets better & faster to get 80% of the job done, the more pefectionists (the ones that can get that extra 20% which is the hard part) will be needed.
+- [[AI by usecases]]
+
 - Dictionary
 	- 0
 	    - Language models
@@ -85,152 +84,6 @@
 				- generally 8k tokens = 4.5vram
 			    - ![[Pasted image 20240819120459.png]]
 
-- why, philosophy, etc
-	- Limitations
-		- unless explicitly asked, it's hard for it to go beyond ur own expertise
-			- even if given complex systems like [[Int]] or how I take notes, it will heavily struggle to find any meaningful upgrade or alternatives to that system
-	- Freya got depressed also because of it [-](https://youtu.be/-opBifFfsMY?t=3656)
-	- where AI do/doesn't make sense? 80%, not the remaining 20%
-		- generally
-			- The more easy/uncomplicated tasks will be automated the more humans will be able to focus on excellence instead
-		- Humans - [[Excellence]]
-		- AI - Anything replicable without individuality or major depth
-		- perfectionists will be more needed
-			- the more AI gets better & faster to get 80% of the job done, the more pefectionists (the ones that can get that extra 20% which is the hard part) will be needed.
-
-- AI usecases
-	- general
-	    - auto&manual X making
-			- text
-		    - image
-		    - video
-		    - audio
-			    - music
-			    - voice
-		    -
-		    - More complex
-			    - audio to text
-				    - whisper [v](https://youtu.be/GrLpdfhTwLg?t=520)
-			    - code
-	-
-	- AI helping you code [v](https://youtu.be/NDYLKkd0_mc?t=635) see cursor feats [w](https://www.cursor.com/features)
-		- Vibe coded - no-code AI stuff like V0 describing UI etc
-		- AI code reviews
-			- code rabbit [w](https://coderabbit.ai/)
-			- graphite diamond [w](https://diamond.graphite.dev/)
-			- cursor
-				bug bot [v](https://youtu.be/NDYLKkd0_mc?t=685) comments on PRs if finds bug & give link to prompt to fix it
-		- bkg agents+ - ask pull requests from outside editor
-			- devin, codex (web app/slack bot)
-		- bkg agents - usually from code editor
-			- models calling tools in loop
-				- including LSP, typescript, etc
-			- you don't usually wait for em you just do other stuff while it's doing its thing
-			- cloud version
-				- code is run on cloud VMs where AI try to modify stuff & then ask you to confirm changes
-			- Claude code, codex (cli)
-		- agents - tag files & context & prompt for a change or help
-			- command i        500 loc and it works [v](https://youtu.be/uqRF4IszorU?t=888)
-		- Inline prompting
-			- select lines to give as context & prompt
-		- tab complete
-			- not only the normal LSP like-one
-				- also when change 1 word it will tab for another change somewhere else [v](https://youtu.be/uqRF4IszorU?t=2591)
-			- ![[Pasted image 20250609172612.png]]
-	- Manage content/inputs
-		- Summarize stuff 
-			- top 10 ...
-			- click baity but possibly useful
-	    - main inputs
-		    - yt vid
-			- e-books
-		    - articles
-		- [[TTS - Text To Speech]]
-		-
-		- tranform to text
-		- remove
-			- if 
-				- useless
-				- self-promotion
-				- sponsors
-				- greetings
-				- obvious like saying what's the video going to be about
-			-
-			- intro
-			- outro
-		- hide
-			- if
-				- unrelated topic - but put 1 line summary about it
-    - better home/general assistant
-	    - can connect to home assistant
-	-
-	- Connect to 
-		- notes/second brain
-			- who are the most related mentors from my notes to learn from how to X? also give videos/links
-		- databases/tables you own
-	
-	-
-	- asking to put groups of tabs from browser to obsidian/tablesz
-	- chat w people but AI can see it
-	- HLL
-		- create an outline/mindmap of content
-		- am I missing something or is the content I wrote wrong?
-		- practical
-			- common pitfalls
-			- practical applications
-			- case-studies - when was it used by other people?
-		- gen
-			- cheat sheet
-			- flashcards
-		- scenario based learning
-		- deep-dive
-		- get asked questions by AI & answer real-time [-](https://youtu.be/3D6gaawXwfk?t=625)
-- Code w AI
-	- [[MCPs]] docs calls
-	- Rules - Context given AI or things it should know
-		- cursor rules [w](https://cursor.directory/)
-
-
-- Models
-	- types
-		- Transformer-Based Models
-			- preferred over contextual embeddings
-			- designed to understand context and semantics better than traditional models
-			- like BERT, GPT, and T5
-		- Hybrid Retrieval Models
-			- keyword-based search & vector-based retrieval
-	    - meh
-			- Contextual Embeddings
-				- capture contextual information by considering the surrounding text
-				- like ELMo and contextual BERT variants
-	- Most popular
-	    - foss
-			- mistral
-			- LLAMA - text & images
-				- [ollama](https://youtu.be/V_AsEADSf9Y?t=58)
-				- can be run even on a 4gb RAM laptop
-				- binaries are being shared but not the source code, and they still call it open source... liars, but still better than `""Open""Ai`
-	    - non foss
-		- gemini
-		- GPT4 - conversational
-	    - claude 3
-	    - grok-1
-	- naming convention
-	    - math or MoE - Mixture of Experts model
-	    - formats
-			- safetensors - secure file format to avoid malware
-			- GGML - newer GGUF
-		        - binary
-		        - support diff quantization schemes running on CPU in a single file
-	    - Quantization methods
-			- Exl2 - best optimization but only for nvidia
-			- AWQ - round weights
-			- GPTQ - worst one
-	-
-	- HT run smoother
-		- quantarization - less accuracy, but less RAM/VRAM usage
-		- parallelism - share resources between GPUs and CPU
-		- LocalAI
 - Techniques
 	- 0
 	    - training AI - from scratch, you make the model
@@ -275,7 +128,6 @@
 			- notes are highly structured (like in a database) and you want to capture complex relationships between concepts.
 		- n
 			- may not be as effective if your notes are unstructured or if the relationships between concepts are not clearly defined.
-
 
 - Tricks
 	- chatGPT to graphs - [source](https://www.spacekangaroo.ai/post/chatgpt-automatic-graph-generator)

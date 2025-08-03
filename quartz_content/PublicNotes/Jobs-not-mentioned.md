@@ -1,7 +1,7 @@
 - what? 
 	- stuff u won't find in [[Code]] & [[DevOps - Sys admin]]
 		- including nested in some notes
-	- duplicated data from [[Tech Jobs (IT + Art)]]
+	- duplicated data from [[Tech Jobs IT-Art]]
 [[pc build]]
 [[engineer]]
 [[architect]]

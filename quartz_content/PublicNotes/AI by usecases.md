@@ -1,0 +1,124 @@
+- legend
+	- ""+"" commercial use included 
+	- ""@"" google sign up needed
+	- ""ò"" plug and play 
+
+- general - auto&manual X making
+	- text - [[LLMs]]
+	- video
+	- audio
+		- [[TTS - Text To Speech]]
+		- music
+		- voice
+			- [Descript](https://youtu.be/J_wuLcTShQU?t=154) [w](https://www.descript.com/) - voice cloner
+	-
+	- More complex
+		- audio to text
+			- whisper [v](https://youtu.be/GrLpdfhTwLg?t=520)
+		- code
+- Manage content/inputs
+	- Summarize stuff 
+		- top 10 ...
+		- click baity but possibly useful
+	- main inputs
+		- yt vid
+		- e-books
+		- articles
+	-
+	- tranform to text
+	- remove
+		- if 
+			- useless
+			- self-promotion
+			- sponsors
+			- greetings
+			- obvious like saying what's the video going to be about
+		-
+		- intro
+		- outro
+	- hide
+		- if
+			- unrelated topic - but put 1 line summary about it
+- Connect to 
+	- notes/second brain
+		- [Closest to getting commercial use foss personal data based GPT](https://www.youtube.com/watch?v=Coj72EzmX20)
+		- who are the most related mentors from my notes to learn from how to X? also give videos/links
+	- databases/tables you own
+- HLL
+	- create an outline/mindmap of content
+	- am I missing something or is the content I wrote wrong?
+	- practical
+		- common pitfalls
+		- practical applications
+		- case-studies - when was it used by other people?
+	- gen
+		- cheat sheet
+		- flashcards
+	- scenario based learning
+	- deep-dive
+	- get asked questions by AI & answer real-time [-](https://youtu.be/3D6gaawXwfk?t=625)
+- BU
+	- [tome](https://youtu.be/J_wuLcTShQU?t=700) - ai presentation or powerpoint
+-
+- AutoGPTs
+	- [autoGPT](https://github.com/Significant-Gravitas/AutoGPT) [web](https://agentgpt.reworkd.ai/)
+	- [babyagi](https://github.com/yoheinakajima/babyagi)
+	- godmode [web](https://godmode.space/)
+	- [super AGI](https://github.com/TransformerOptimus/SuperAGI) [web](https://models.superagi.com/auth)
+-
+- Code [v](https://youtu.be/NDYLKkd0_mc?t=635) see cursor feats [w](https://www.cursor.com/features)
+	- Ways
+		- Vibe coded - no-code AI stuff like V0 describing UI etc
+		- AI code reviews
+			- code rabbit [w](https://coderabbit.ai/)
+			- graphite diamond [w](https://diamond.graphite.dev/)
+			- cursor
+				bug bot [v](https://youtu.be/NDYLKkd0_mc?t=685) comments on PRs if finds bug & give link to prompt to fix it
+		- bkg agents+ - ask pull requests from outside editor
+			- devin, codex (web app/slack bot)
+		- bkg agents - usually from code editor
+			- models calling tools in loop
+				- including LSP, typescript, etc
+			- you don't usually wait for em you just do other stuff while it's doing its thing
+			- cloud version
+				- code is run on cloud VMs where AI try to modify stuff & then ask you to confirm changes
+			- Claude code, codex (cli)
+		- agents - tag files & context & prompt for a change or help
+			- command i        500 loc and it works [v](https://youtu.be/uqRF4IszorU?t=888)
+		- Inline prompting
+			- select lines to give as context & prompt
+		- tab complete
+		- not only the normal LSP like-one
+			- also when change 1 word it will tab for another change somewhere else [v](https://youtu.be/uqRF4IszorU?t=2591)
+		- ![[Pasted image 20250609172612.png]]
+	- [[MCPs]] docs calls
+	- Rules - Context given AI or things it should know
+		- cursor rules [w](https://cursor.directory/)
+- Art
+	- MU
+		- Suno - lyrics & music
+			- background music doom style AI generated [wow](https://youtu.be/XhbaXx_ao2Y?t=573)
+			- [Great romantic one](https://youtu.be/ZxYAtL0D50A?t=92)
+	- [[AI imgage generation]]
+	- Writing
+		- Dungeon ai
+	- 3d models
+		- luma ai
+	- [runwayml](https://youtu.be/J_wuLcTShQU?t=418) - AI tools for media
+		- including photoshopping out objects from VIDEOS
+- CC
+	- Video editing and more tools
+		- [runway](https://app.runwayml.com/video-tools/teams) freemium
+	-
+	- [d-id](https://youtu.be/J_wuLcTShQU?t=790) - get an AI guy talk for you
+	- [Bhuman](https://youtu.be/J_wuLcTShQU?t=983) - personalized sales video
+- better home/general assistant
+	- can connect to home assistant
+-
+- Specific
+	- [Rewind](https://youtu.be/J_wuLcTShQU?t=537) - records your life (Mac only)
+	- chat w people but AI can see it :|
+	- Browser/webs
+		- [browse ai](https://youtu.be/J_wuLcTShQU?t=1169) - web scraper. 
+		- asking to put groups of tabs from browser to obsidian/tablesz
+		- Notify when something that you select in a website changes

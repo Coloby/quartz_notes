@@ -8,6 +8,7 @@
 	- e.g.
 		- if the costs of the raw material of a rocket is 2% of the finished product, we can optimize greatly on the assembling part and the overall process of taking those materials into the shape of a rocket
 - Why
+	- otherwise u may go for analogy & look at the work of other people
 	- re-thinking about the solution of a problem by almost re-inventing the wheel from it's basic truths, without taking into consideration other solutions will be much harder but even much probable to be innovative if we found new ways to optimize the solution in one or more steps of the process 
 
 

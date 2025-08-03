@@ -1,8 +1,6 @@
-- [[Farming]]
 - [[vivariums]]
-- Ecosystem
-	- [[Plants]] & plants-like
-		- [[Fungi - Mushrooms]]
-	- [[Animals]]
+- [[Plants]] & plants-like
+- [[Animals]]
 
-[[Genes]]
+- Theory
+	[[Genes]]

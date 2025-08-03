@@ -16,7 +16,7 @@
 		- ![[Pasted image 20230615225039.png]]
 - Memory techniques - mostly to use a last resort
 	- Acronyms
-		- each letter rapresent the initial of the ones in a list. 
+		- each letter represent the initial of the ones in a list. 
 			- Like SOC in [[Pragmatism]]
 		- Very similar to Acrostics - An Acronym but more like a phrase
 			- Please Do Not Throw Sausage Pizza Away - in ISO OSI in telecomunication

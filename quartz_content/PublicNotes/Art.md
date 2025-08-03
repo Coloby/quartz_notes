@@ -1,26 +1,23 @@
 - What? communicating ideas/feelings to people through an artwork
-- Resources
-	- [JakeDontDraw](https://www.youtube.com/@JakeDontDraw/videos)
 
 - Medias
 	- Main
 		[[MU]]
-		[[i3D - visual]]
-	- 2
-		[[CC]]
 		[[Sho]]
-		[[digital art]]
 		[[DE]]
-		[[character DE]]
+		[[CC]]
+	- 2
+		[[3D]]	
+		[[drawing - digital art]]
 		[[Writing]]
-		[[Drawing]]
 	- 3
+		[[Voices]]
+		[[comedy]]
+	- Other
 		- [[Contents-input types - medias]]
-		- [[Voices]]
-		- [[comedy]]
-	- non-traditional
-		- [[Code]]
-		- [[Biology]]
+		- non-traditional
+			[[Code]]
+			[[Biology]]
 - Categories
 	- Visual arts
 	- Music

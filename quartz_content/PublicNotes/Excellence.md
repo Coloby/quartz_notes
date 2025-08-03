@@ -22,7 +22,7 @@
 	- Thinking - ideas/intellect
 		- learning/research  - exploring new ideas [[HLL]]
 			- N/I notes
-			- [[mind building]]
+			- [[Mind]]
 			- on top of processed info
 		- experiments - applying theory in my life
 		- processing

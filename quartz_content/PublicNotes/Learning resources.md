@@ -1,7 +1,7 @@
 [[Cone of learning]]
 [[myInputs]]
 
-- Discovery
+- n
 	- Great people that do intresting 
 		- [[Articles]] - accademic resources, mostly for articles
 			- [jstor](https://www.jstor.org/) idk why I can't find the text
@@ -58,17 +58,19 @@
 	- Watching
 		- hard to be better just w synthetized graphs & drawings
 	- Kinestetic - doing physically
-- Sources to learn sorted by (convenience & quality)
+- Sources to learn sorted by *convenience & quality*
 	- Your mind - never underestimate youself
 		- why? 
 			- wrong or right it's going to be your unique conclusion entirely based on the context of yourself
+		- [[curiosity]]
 		- [[HLL]] - [[Prestudy  - Priming]]
 		- [[leverage]]
-		- Past knowledge - process&update to the new one - *regularely*
+		- Past knowledge - process&update to new one *regularely*
 			- like N & L notes or discovery sections
 			- obsidian(your own ideas) > videos - often true
 				- Instead of consuming new content, is it better to go deeper into the one that's already in your notes?
-	- AI - pretend it's your free of charge mentor
+			- connect the dots - holicism
+	- [[AI]] - pretend it's your free of charge mentor
 		- even if quality is aurguable, it's really fast to get answers
 	- Quick search online [[HT research]]
 		- Specific sources based on context
@@ -77,58 +79,12 @@
 			- even in 2x it might be not productive compared to using [[HLL]] on a book/common topic w AI
 		- language/culture of info is relevant
 			- countries/cultures are always specialized in something
-	- facts vs opinions - empirical data (higher/lower level)
-		- take care of [[Biases and Fallacies]] w [[Reasoning]] and you'll find something really close to the truth
-	- Relationships - People
+	-
+	- [[People]] - relationships
 		- Reverse engineer
 		- [[discussing - debating]] 
-		- [[Teaching]] yourself to some other
-		-
-		- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
-			- Any other category might not did/make what you want to make, **mentors did instead**, they have experience
-			- it's a combination of tutoring, coaching, and consulting
-			- holistic specialized supportive role. "Best" one usually
-		- [[Tutoring]] - specific for skill/offer dev + like a teacher
-		- Coaching - holistic & focussed on broad goal obtaining
-			- Only if mentorship is off radar & already know skill/offer
-		- Consulting - practical tutoring but less teaching
-			- oriented on solving the problem for/with the client rather than teaching
-			- like someone that do your same stuff, but is better than you.
-			- He doesn't teach like a tutor, but he has practical knowledge.
-			- useful when feeling comfortable on the theory but lacking the practical and holistic implementation 
-		- Community&Masterminds - great support for any situation
-			- networking serendipity
-			-
-			- your own - start ASAP, make it a mastermind ASAP
-				- then you can make it public/general for traffic
-			- private - 
-				- less quantity but more quality people than public
-					- specific interests
-					- commitment
-					- masterminds
-					- collaboration
-			- public 
-				- to prepare/validate yourself for private ones
-				- Diversity: broad point of views
-				- Wider range of resources
-				- Serendipity, potential collaboration, visibility 
-					- because of more people
-					- it's better here to...
-						- promote
-						- make big events
-						- gather feedback
-						- send free educational content
-						- Recruit asking for specific individuals
-		-
-		- My evaluation 
-			- Mentor - best choice bcs it has the best of everything
-			- Tutoring - problems specifically with the offer or skill
-			- Coaching - only after having the offer or the skill
-			- Consulting - don't need a teacher, but a problem solver
-			- Community -  needed/useful in any scenario
-		- connect the dots - holicism
-		- Great [resource](https://youtu.be/tHTaIDRVI7E)
-			- mentor, peer, mentoree, and why private communities are important
+		- [[People teaching]] - [[Professionals]]
+		- [[Teaching]] to someone else
 	- [[Pragmatism]] testing
 		- Usually it should not be the first method you use
 			- [[Mentor]]s may guide you preventing you to make useles mistakes, but still makes you train on the field after doing so
@@ -140,13 +96,17 @@
 	- Work-related
 		- Apprentership
 		- States wanting you to work there
-	- reading - often useless without [[HLL]] & action
-		- textbooks *might* be better
+	- [[Books]] - reading
+		- [[Books-Reading Overestimated]]
+			- often useless w/o [[HLL]] & action
 		- Old books are most likely free, digital ones are great too
-	- Courses - cost effective non-tailored structured learning
-		- Great quick overview, but do [[overviewing]] first
+		- textbooks *might* be better
+	- [[Data analytics]] - empirical data (higher/lower level)
+		- facts vs opinions
 	-
-	- School based
+	- [[Courses]] - cost effective non-tailored structured learning
+		- Great quick overview, but do [[overviewing]] first
+	- [[school]] based
 		- free lecturers from best universities [-](https://www.reddit.com/r/philosophy/comments/843ggz/oxfords_free_introduction_to_philosophy_stream_41/)
 		- Exchange student
 		- Uni/Master
@@ -157,7 +117,6 @@
 		- yt
 		- google
 	- Podcasts
-	- [[Courses]]
 
 ---
 - [[Learning resources Archived]]

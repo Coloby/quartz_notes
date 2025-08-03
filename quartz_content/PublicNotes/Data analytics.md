@@ -1,5 +1,6 @@
 [[BA - BU analytics]]
 [[BI - BU intelligence]]
+[[Analytics]]
 
 - what? BI, BA, everything related to data - the umbrella term 
 	- Includes all type of biz data

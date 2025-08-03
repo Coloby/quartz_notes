@@ -19,9 +19,6 @@
 		- Do 1 thing and do it well
 		- save stuff in a text file
 	- https://robertdebock.nl/my-manifesto.html
-	- Observe using [[Pragmatism]]
-	- if you want to be innovative: [[First principle thinking]]
-	- otherwise u may go for analogy & look at the work of other people
 - [[fDE]]
 - Recurring - always keep in mind [[Code law-regulations-compliance]]
 - Development

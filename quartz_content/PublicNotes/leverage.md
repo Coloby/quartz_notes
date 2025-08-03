@@ -3,7 +3,7 @@
 - what? parts of a system that gives best outputs if manipulated [-](https://youtu.be/hpP9xibD8Yc) 
 	- Like finding the right "levers" to pull any time you can to gain a great outcome compared to any other "lever"/option
 	- e.g.
-		- [[mind building]]
+		- [[Mind]]
 		- [[Ovens actions]] - grow biz
 		- [grow audience](https://www.youtube.com/watch?v=iD1jJMz9zOs&t=519s) 
 		- [[Prestudy  - Priming]]

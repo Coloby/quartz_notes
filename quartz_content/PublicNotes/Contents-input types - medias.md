@@ -1,21 +1,21 @@
 - Read
-	[[Books]] - [[E-books]]
-	[[Articles]] - [[Blogs]]
-	- Literature
-		fable-fiaba
-		novel
-		poetry
+	- main
+		[[forums]]
+		[[Books]] - [[E-books]]
+		[[Articles]] - [[Blogs]]
+		[[Literature]]
 	[[Manifestos]] 
 	[[zine]]
-	-
 	[[magazine]]
 	booklet - more than a flyer, less than a book
-	comics
+	- smaller
+		- Collages
+		- comics
 - Watch
 	[[Art]]
 	[[Video]]
 	[[Cinema - Movies]]
-	[[Images]]
+	[[Photos-Images]]
 	[[Humor]]
 	[[Anime]]
 	-
@@ -26,7 +26,8 @@
 	-
 	- [[Podcasts]]
 - Interact
-	[[fav websites]]
+	[[People]]
+	[[websites]]
 	[[Socials]]
 	[[Giochi - Video Games]]
 	-
@@ -37,5 +38,5 @@
 	[[Battute stupide]]
 	[[Fantasy concepts]]
 	[[Greatness - You're lucky]]
-	[[RSS feed]]
+	[[RSS feed-reader]]
 

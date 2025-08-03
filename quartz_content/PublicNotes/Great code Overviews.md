@@ -86,10 +86,10 @@
 					- practical benefits [-](https://youtu.be/156FSMbyMPQ?t=1734)
 		- [[DevOps - Sys admin]]
 			- [workflow overview](https://youtu.be/4It0D0Nw00c)
-			- ![[Pasted image 20241215160359.png]]
+				- ![[Pasted image 20241215160359.png]]
 	- Dev cody
 		- next.js fast explanation [-](https://youtu.be/LkDelp5WWYU)
-		- [[Gitflows]]/ship like companies - [long gitflow similar](https://www.youtube.com/watch?v=Dl-BdxNRUqs) [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+		- [[Gitflows]]/ship like companies - [gitflow similar](https://www.youtube.com/watch?v=Dl-BdxNRUqs) [trunk based](https://www.youtube.com/watch?v=oNmcX6Gozg0)
 			- gitflow
 				- ![[Pasted image 20241215161244.png]]
 			- trunk

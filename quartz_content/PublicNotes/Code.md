@@ -9,7 +9,7 @@
 	-
 	- [[Game dev]]
 	- "Smaller"
-		- [[CLI dev]]
+		- [[CLI-TUI-devtool dev]]
 		- [[Extensions dev]]
 		- [[Program-Script dev]]
 	- Kind of
@@ -25,10 +25,11 @@
 		- [[MDX]]
 	- Packages
 		- [[Package managers]]
-		- [[NPM packages]]
+		- [[NPM packages-libraries]]
 	- Other
 		- [[Bun]]
-
+- Langs
+	- [[C lang]]
 
 
 

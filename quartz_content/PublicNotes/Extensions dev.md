@@ -1,3 +1,6 @@
+- Extension framework
+	- Plasmo [g12k](https://github.com/PlasmoHQ/plasmo)
+
 - Manifest 3 vs 2
 	- used to define metadata about the extension, permissions, scripts, css etc
 	- can be in the chrome store but v2 not

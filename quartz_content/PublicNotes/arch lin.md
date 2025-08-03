@@ -1,4 +1,3 @@
-
 [[Lin Distros]]
 
 - minimal
@@ -28,7 +27,8 @@
 			- pros
 				- written in C
 				- mantained
-	- kernel - [src](https://youtu.be/_idZGJ1NgPE)
+	- kernel type - [src](https://youtu.be/_idZGJ1NgPE)
+		- custom - [[gentoo]]
 		- linux stable - 2 months stable
 		- linux lts - 2 years stable
 		- libre kernel - does not allow proprietary stuff
@@ -56,6 +56,8 @@
 		- [grub](https://youtu.be/b_KHtK2b5cA?t=159)
 			- grub-install
 			- grub-mkconfig -o /boot/grub/grub.cfg
+	- [[file systems]]
+	-
 	- Audio
 		- ALSA - driver hard to use
 			- cannot play 2 audio at the same time by default
@@ -66,7 +68,16 @@
 				- everything just works
 				- bad
 			- pipewire - new kid in the block to kill pusleaudio + jack
-	- [[file systems]]
+		-
+		- Specific setup
+			- sudo pacman -S pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber qpwgraph
+			systemctl --user enable --now pipewire.service
+			systemctl --user enable --now pipewire-pulse.service
+			systemctl --user enable --now wireplumber.service
+			sudo usermod -a -G audio $(whoami)
+			
+			- make sure audio and the right device are selected
+			- might not recognize fancy external cards, so try plug it normally to pavucontrol!!!
 - Initial configuration
 	- archinstall 
 		- mirror 
@@ -77,9 +88,33 @@
 			- ![[Pasted image 20240514001051.png]]
 	- exit (chroot) - sometimes you also need to reboot
 		- especially if startx gives you permission denied. Reboot and log-in with default user like e
-	- keyboard layout - [src](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
-		- localectl set-keymap uk
-		- gb is   great britain
+	- [locale](https://wiki.archlinux.org/title/Locale)
+		- LC_ALL overwrites everything else
+		- check
+			- in use
+				- localectl status
+				- locale
+			- available
+				- locale --all-locales
+				- localectl list-locales
+			- save & generate
+				- locale-gen
+		- reload
+			- $ unset LANG
+			$ source /etc/profile.d/locale.sh
+		- set
+			- `sudo localectl set-locale LANG=en_US.UTF-8`
+			- main file where locale will be read from FIRST
+				- `v ~/.config/locale.conf`
+			- secondary looked at files
+				- v /etc/locale.gen
+				- `~/.bashrc`
+				- `~/.profile`
+			- main script from where everything starts:
+				- v /etc/profile.d/locale.sh
+		- keyboard layout - [src](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
+			- localectl set-keymap uk
+			- gb is   great britain
 	- resolution
 		- pacman -S xorg-xrandr
 		- xrandr            - see all devices
@@ -132,7 +167,19 @@
 			- output: brave-browser.desktop
 		- xdg-mime default firefox.desktop x-scheme-handler/http x-scheme-handler/https
 			- to change it
+	- Bluetooth - [arch tutorial](https://wiki.archlinux.org/title/bluetooth)
+		- lsmod | grep btusb          if it doesn't give any output...
+			- sudo modprobe btusb
+		- sp -S bluez bluez-utils
+			- can also install a GUI for this like blueman - [src](https://www.youtube.com/watch?v=b329S-LFV0k)
+		- sudo systemctl start bluetooth.service
+		- sudo systemctl enable bluetooth.service
+		- [continue follow tutorial](https://youtu.be/rOL-T31l0lQ?t=115) or
+			- try         blueman-manager
 	[[lin app dev tools]]
+	[[lin App-Software]]
+	Obsidian/Software offline -> [[Obsidian]]
+- second wave
 
 - Smaller
 	- Customize startup settings
@@ -146,18 +193,6 @@
 		export TERMINAL="st"
 		export BROWSER="firefox"
 	- additional downloads
-		- git 
-		- neofetch 
-		- resource monitor - just use *top*, lol
-			- htop
-			- btop
-			- gtop
-			- mission center [v](https://youtu.be/OLDCgvs76w4?t=351)
-		- vim 
-		- nano
-		- cmatrix
-		- man             (core repo)
-		-
 		- Helpers for AUR - needs base-devel & git
 			- `sudo pacman -S --needed base-devel git`
 			- paru

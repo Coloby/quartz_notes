@@ -1,28 +1,56 @@
 - [[Scelta sistema operativo]]
-- [distrowatch](https://distrowatch.com/)
 
-- essential theory
-	- Other ways
-		- Your own USB bootable OS [v](https://youtu.be/zlInz7c83K8)
-			- when travelling & boot up from devices you don't own
-		- [[Ansible]]
-		- connecting through PC w [[SSH]] or similar
-		- Mini PC
-		- [[Laptop]]
-	- need to disable encryption on the disk in use
-		- doesn't matter if you delete volumes (the encryption will stay, at least for bitlocker)
-	- always check [FSF](https://www.gnu.org/distros/common-distros) (highest standard of free software)
-	- it's a pack of pre-made decisions - [src](https://youtu.be/t9e3NvTnCOA?t=260)
-	- Debian, Fedora, Arch are the main parent distros & really different
-		- other distros are children, for more specific use-cases, or bad
+- Theory
+	- essential theory
+		- to install need to disable encryption on the disk in use
+			- doesn't matter if you delete volumes 
+				- the encryption will stay, at least for **bitlocker**
+		- Distros
+			- it's a pack of pre-made decisions - [src](https://youtu.be/t9e3NvTnCOA?t=260)
+			- Many are just forks of others, derivatives
+			- trees imgs
+				- periodic table
+					- ![[Pasted image 20250727191443.png]]
+				- the tree [w](https://distrowatch.com/dwres.php?resource=family-tree)
+			- main non-forks
+				- Debian
+				- Fedora
+				- Arch
+				- less common
+					- gentoo
+					- android
+					- freebsd
+					- openBSD
+					- opensuse
+			- other distros are children, for more specific use-cases, or bad
+	- Extra
+		- Other ways
+			- Your own USB bootable OS [v](https://youtu.be/zlInz7c83K8)
+				- when travelling & boot up from devices you don't own
+			- [[Ansible]]
+			- connecting through PC w [[SSH]] or similar
+			- Mini PC
+			- [[Laptop]]
+			- run it from RAM only
+		- check [FSF](https://www.gnu.org/distros/common-distros) 
+			- highest standard of free software, to a fault
+		- Atomic VS immutable
+			- 
 - software dev models
 	- rolling release - updates as soon as ready & tested
+		- unstable
+			- it is changing often
+				- if it breaks check arch changelogs
+			- pkgs still get tested
+			- more stable if 
+				- u don't use envs like KDE
+					- if u install piece by piece you have less software & complexity that's also independent between each other
+				- not thinkering - u don't change stuff from defaults
+				- don't use many of AUR pkgs
 		- don't have to re-install system, just update
-		- doesn't mean stuff are not stable, they still get tested
 		- great for hardware compatibility
 		- latest software versions
 		- cons
-			- bad for new users - stuff breaks more often
 			- you need to update stuff at least 1 time a week - [src](https://youtu.be/212yJEH8-iA?t=271)
 			- you can't really specify version number to get help
 		- details - it has no
@@ -39,9 +67,6 @@
 		- if there is problem, need to wait more for fix
 		- eventually you'll version will meet end-of life
 		- some distros need you to re-install, no upgrade
-- resources
-	- linux
-		- repository stats [-](https://repology.org/repositories/statistics/total)
 
 - Options by use case
 	- generally
@@ -50,15 +75,7 @@
 	-
 	- OG - [[Linux]]
 		- [[arch lin]]
-		- Gentoo - harder to install than arch. Source based OS
-			- [why?](https://www.reddit.com/r/linuxquestions/comments/syj5r0/what_is_the_appeal_of_gentoo/)
-			- "[Linux end game](https://youtu.be/8QcI43IwkVc?t=507)" -MentalOutl
-			- great to learn linux
-			- need to compile most stuff from source
-				- you can compile stuff to delete bloat and custom optimize it
-					- need to know use flags, kernel modules to to these stuff
-				- portage pkg manager
-			- meta distro - can support many architectures
+		- [[Gentoo]]
 		-
 		- void linux - no systemd, 2 pkg manager
 			- has void installer
@@ -191,9 +208,9 @@
 			- Ensure compatibility between hardware & software [-](https://youtu.be/am7xT-zU1Q0?t=302)
 				- most stuff work best w intel network controllers
 			-
-			- OPNsense (more updates than pfsense)
+			- OPNsense [g4k](https://github.com/opnsense?q=&type=all&language=&sort=stargazers) (more updates than pfsense)
 			- [[pfsense]]
-			- openWRT - best hardware support
+			- openWRT [g23k](https://github.com/openwrt/openwrt) - best hardware support
 		- switch
 			- can use pfsense to a run a "switch" but ASIC are better
 				Switches used ASIC (application specific integrated circuits) to be really performant at switching packets. A general CPU isn't good at it.
@@ -228,6 +245,9 @@
 			- kali - debian with pen test bloat
 			- parrot - debian with pen test software
 		- gaming
+			- steamOS
+		- apple devices
+			- asahi linux
 	- BSD
 		- FreeBSD - also used on desktops
 			- difference
@@ -245,6 +265,14 @@
 				- UNIX
 				- Most of the software is from linux
 		- OpenBSD - one of the most secure OS for servers mostly
+	- Utility
+		- USB based
+			- [ventoy](https://youtu.be/z1FyoCswwAc) - add multiple ISOs to same USB (bootable!) 
+			- [netboot.xyz](https://youtu.be/4btW5x_clpg?t=2) - boot from network
+			- Medicat - OS w 20GB of tools for USB
+	- Whole custom OS
+		- LARBS luke smith
+		- Arch omakub [w](https://manuals.omamix.org/1/read) [v](https://www.youtube.com/watch?v=T3sax7PB0vw&t=553s)
 	- meh
 		- [[nixOS]] - unnecessary for most people
 		-
@@ -256,6 +284,7 @@
 	- sr
 		- Debian - nooby friendly - yearly release cycle
 		- fedora -  company backed semester release cycle
+			- for debian users who can't stand having pkgs that old
 		- ubuntu
 		- popOS
 		- mintOS
@@ -274,3 +303,4 @@
 		- gentoo
 		- freeBSD
 		- openBSD
+- [[phones-mobile]]

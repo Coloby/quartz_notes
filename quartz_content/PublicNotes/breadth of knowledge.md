@@ -17,9 +17,10 @@
 - personal system
 	- [[Int]]
 		- [[systems I wanna do]]
-		- [[Todé]] & subnotes
 		- [[Lifestyles]]
+		- [[Todé]] & subnotes
 	- Cultures/Places
 - technically
 	- [[do with friends - going out - places]]
 	- [[To buy]]
+

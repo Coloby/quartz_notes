@@ -1,4 +1,4 @@
-[[myInfra]]
+[[myInfra-IT]]
 
 - n - [roadmapWeb](https://roadmap.sh/devops) - [roadmapVid](https://www.youtube.com/watch?v=mQFQevK1J0c)
 	- 1
@@ -65,6 +65,8 @@
 	- [[Data analytics]]
 	- [[Cloud Computing]]
 	- [[IoT]]
+	- [[Servers]]
+	- [[Auth]]
 - Dev - [[Code]]
 	- [[Backend]]
 	- [[Architecture-Infra codes]]

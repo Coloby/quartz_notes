@@ -3,6 +3,7 @@
 
 [[notes map]]
 [[Understand my notes]]
+[[physical note taking]]
 -
 [[Atlas]]
 [[Quartz]]

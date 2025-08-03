@@ -25,6 +25,9 @@
 			- fewer ways for a container to interact with the host
 		- services
 			- [AWS Firecracker](https://firecracker-microvm.github.io/)
+- [[Phones virtualization-emulators]]
+-
+- [[online virtualization-emulators]]
 
 - theory
 	- GPU passthrough

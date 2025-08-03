@@ -4,17 +4,32 @@
 			- understand how wealthy the guy really is. 10k a month might not be much for you or everything that you need
 			- get a global understand of wealth distribution
 - Dorks
-	- discovery
-		- https://github.com/topics/twitter-dorks
 	- [[Google dorks]]
 	- Twitter
+		- discovery
+			- https://github.com/topics/twitter-dorks
 		- until:2020-01-01
 		- since
-- Common great websites
-	-
-	- reddit.com
-	- wikipedia
-
+- Great resources
+	- Specific
+		- [[Books]]
+	- General
+		- Other
+			- Interviews of authors
+			- Obituaries for Biographies
+			- accademic articles
+		- [[forums]]
+		- aggregators
+			- britannica.com
+			- biography.com
+			- history.com
+			-
+			- ~[[wikipedia]]
+		- Awesome
+			- `Awesome {topic}` on github
+			- also [general awesome repo](https://github.com/sindresorhus/awesome) for broader stuff
+			- all awesome lists sorted by stars [g](https://github.com/topics/awesome)
+		- [[myInputs]] - [[Contents-input types - medias]]
 
 - Setup
 	- Browser
@@ -33,8 +48,23 @@
 			- not at least 1h you're probably wasting time
 		- date
 		- source
-- Be aware of gatekeeping in industries
-
+- Gatekeeping - what info is ~hidden?
+	- socially de-valued ones
+		- some humanities
+	- by companies
+		- hardware-based one
+	- innovative one
+		- neural link
+	- language/culture specific
+		- eg latin, chinese
 - vocabs
 	- review papers - papers based on other papers in a certain topic
 	- Peer reviewed - papers reviewed from experts in the same field
+- Karl Popper - knowing what's wrong is more useful
+	- is that person intelligent? deny it until you get proper motives
+		- people put stuff in italic to sound smart...
+	- we now know what's wrong
+	- knowing what's right
+		- makes a difference
+		- might discover that it was bad for all this time and we lost time trying to compare it to other ideas that it now has polluted
+

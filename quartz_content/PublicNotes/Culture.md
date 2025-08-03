@@ -32,8 +32,8 @@
 	-
 	- Belief systems - [[Religion]]
 	- closely related - medicine, psychology, politics ([[Science]]s)
+- Engineering - [[Code]]
 - [[Science]]
-- Engineering
 
  - Mixers
 	- Science +...
@@ -43,13 +43,8 @@
 		- Engineering
 			- [[Biology]] +...
 				- [[biomimicry]]
+				- [[biotech]]
 
-- Other
-	- [[Educazione civica]]
-	- Physical/Health related
-		- martial arts
-			- [[Boxing]]
-		- weapons
 - meh
 	[[Luck]]
 	[[Dictionary - Vocaboli generali]]

@@ -1,5 +1,5 @@
 [[dreaming]]
-[[The law of attraction]]
+[[Law of actraction]]
 limbic system? [-](https://youtu.be/GLtmel8hD1k?t=1937)
 
 - What? like a group of softwares based on our knowledge

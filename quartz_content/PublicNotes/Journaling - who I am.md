@@ -4,6 +4,7 @@
 order is DESCending
 
 - 0
+	[[jail-breaking]]
 	[[personality tests & patterns]]
 	[[myInputs]]
 	[[limiting beliefs]]
@@ -13,12 +14,13 @@ order is DESCending
 	[[Pillar questions]]
 	[[strong opinions]]
 	[[mini diary journaling]]
+	[[Shadow work]]
 	[[Ismi]]
 	- explored specific
 		- [[Code meta]]
 		- [[Specialist VS Generalist]]
 - 2
-	[[My emotions]]
+	[[my Emotions]]
 	[[people lessons]]
 	[[Tra]]
 	[[xp lessons]]

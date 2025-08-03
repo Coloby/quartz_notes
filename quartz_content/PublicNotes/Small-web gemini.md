@@ -1,0 +1,26 @@
+- 0
+	- general
+		- big web = http https
+		- small web = gemini, gopher, ftp, lbry
+		- only text mostly based on standardized markdown
+		- needs both specific clients & servers
+			- output customizable to ur liking like font-size, color, etc
+		- no client JS only server one
+		- geminiprotocol.net
+	- gemini [share introduction](https://youtu.be/PQBWkkXSfSY?t=45)
+		- gemini websites = gemini capsules
+		- gmini://
+		- has its own error codes
+		- links have to be written in their own line
+			- can't be inline
+- clients
+	- Text + colors
+		- amfora [v](https://youtu.be/i-iZ3R9U5ug?list=PL-zyIDVI6Wm8VB184s6YZgqsKqYRHCxy6&t=492)
+	- Graphical
+		- lagrange
+- Differentiators
+	- Functionality - Speed
+	- Design - Substance
+	- Convenience - Privacy 
+
+- the problems [-](https://youtu.be/M5qoatSAsbY?t=132) adoption is too low

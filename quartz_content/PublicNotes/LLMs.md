@@ -1,0 +1,61 @@
+- L
+	- Webs
+		- pu is enough for this LLM? [-](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
+		- leaderboards
+			- artificialanalysis.ai [-](https://artificialanalysis.ai/)
+			- web.lmarena.ai [w](https://web.lmarena.ai/leaderboard)
+
+- Cloud-based services
+	- Grok - good recent online research
+	- Microsoft
+	- Google/Gemini
+	- GPT
+	- llama
+	- deepseek
+	- Claude
+	- mistral
+	- phind.com
+	-
+	- alibaba
+	- amazon
+
+- Models
+	- types
+		- Transformer-Based Models
+			- preferred over contextual embeddings
+			- designed to understand context and semantics better than traditional models
+			- like BERT, GPT, and T5
+		- Hybrid Retrieval Models
+			- keyword-based search & vector-based retrieval
+	    - meh
+			- Contextual Embeddings
+				- capture contextual information by considering the surrounding text
+				- like ELMo and contextual BERT variants
+	- Most popular
+	    - foss
+			- mistral
+			- LLAMA - text & images
+				- [ollama](https://youtu.be/V_AsEADSf9Y?t=58)
+				- can be run even on a 4gb RAM laptop
+				- binaries are being shared but not the source code, and they still call it open source... liars, but still better than `""Open""Ai`
+	    - non foss
+			- gemini
+			- GPT4 - conversational
+		    - claude 3
+		    - grok-1
+	- naming convention
+	    - math or MoE - Mixture of Experts model
+	    - formats
+			- safetensors - secure file format to avoid malware
+			- GGML - newer GGUF
+		        - binary
+		        - support diff quantization schemes running on CPU in a single file
+	    - Quantization methods
+			- Exl2 - best optimization but only for nvidia
+			- AWQ - round weights
+			- GPTQ - worst one
+	-
+	- HT run smoother
+		- quantarization - less accuracy, but less RAM/VRAM usage
+		- parallelism - share resources between GPUs and CPU
+		- LocalAI

@@ -1,6 +1,6 @@
 [[Shortcuts - Hotkeys]]
 [[volume]]
-[[printer]]
+[[printing]]
 [[Pc tips - Configure pc]]
 [[benchmarks passati]]
 

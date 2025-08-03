@@ -1,3 +1,5 @@
+[[NPM packages-libraries]]
+
 - nix - works on any system
 - Pacman - p = pacman        (arch)
 	- /var/log/pacman.log        or         --debug

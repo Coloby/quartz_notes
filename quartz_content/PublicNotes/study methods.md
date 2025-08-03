@@ -1,6 +1,6 @@
-- PERRIO study method [-](https://youtu.be/6GTt10GDWII)
+- PERRIO study method [-](https://youtu.be/6GTt10GDWII) [w 1st test](https://quiz.icanstudy.com/learning-diagnostic?utm_source=youtube&utm_medium=justin&utm_content=buildsystem312weeks)
 	- [[Prestudy  - Priming]] - stuff you do before studying - [[overviewing]]
-	- Encoding - organize & process info effectively
+	- [[Process - encoding]] - organize & process info effectively
 		- [[Bloom's principles]]
 		- how fast info flows to your memory
 		- active learning
@@ -13,8 +13,8 @@
 		- Connections
 		- Intutive
 	- [[Atlas]]/Reference - offload details efficently
-	- Retrieval - retrieve info from memory & helps re-encoding
-		- [[Retrieval - Revision techniques]]
+	- [[Retrieval - Revision techniques]] - retrieve info from memory 
+		- helps re-encoding
 		- +retention
 		- essential for tests
 	- [[Interleaving]] - applying knowledge from multiple angles

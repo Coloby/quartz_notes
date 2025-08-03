@@ -9,15 +9,17 @@
 	- posticipate the processing of ideas when necessary
 		- The note [[Notes]] is to write ideas that I'll check/sort for later
 			- like an inbox but for ideas that I'm too lazy/busy to process/research or put in the right place 
-	- Applying learning principles to process information faste/better
+	- Applying learning principles to process info faster/better
 		- Many of my notes are similar to mindmaps & are not verbose
-	- Structures & connections to make mental order & reminders
-		- like [[Discipline]], [[Int]], [[Revisions]], [[Morning ritual]], [[Todé]] etc
-	- Storing/making documentation about technical stuff
 	- Growing mental models to help my mind be more effective
-		- [[Reasoning]], [[HLL]], [[Wisdom]], [[mind building]], [[Productivity]]
+		- eg [[Reasoning]], [[HLL]], [[Wisdom]], [[Mind]], [[Productivity]] etc
+	- Structures & connections to make mental order & reminders
+		- eg [[Discipline]], [[Int]], [[Revisions]], [[Morning ritual]], [[Todé]] etc
+	- Storing/making documentation about technical stuff
+		- eg [[Auth]], [[Pc tips - Configure pc]], [[Sho settings]] etc
+		- e.g. [How to aurgument](https://edongarden.netlify.app/PublicNotes/HT-Aurgument), [Bloom's principles](https://edongarden.netlify.app/PublicNotes/Bloom's-principles), [Quartz](https://edongarden.netlify.app/PublicNotes/Quartz) etc
 ##### 0
-- More about the graph [[the atlas]]
+- More about the graph [[the-atlas]]
 	- Instead of "Relationships" there should be "External"
 		- Embodies also relationships with non-living entities
 	- Instead of "Mind" there can be "Internal"?
@@ -56,6 +58,14 @@
 #####
 
 - Snapshots
+	- 13/07/2025 - 1530
+		- graph
+			- ![[Pasted image 20250713155830.png]]
+		- the atlas - changed today
+			- now
+				- ![[Pasted image 20250713155639.png]]
+			- before
+				- ![[Pasted image 20250713160021.png]]
 	- 06/06/2025 - 1300 notes
 	- 03/05/2025 - 1260 notes
 		- checked encyclopedia index, I'm 80% there with my notes' categorization 0_

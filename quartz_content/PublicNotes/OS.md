@@ -10,4 +10,4 @@ stll more to port from [[{}]]
 	- Security & Privacy
 		- authorization
 		- [[Networking]] (firewall etc)
-
+[[OS power states-buttons]]

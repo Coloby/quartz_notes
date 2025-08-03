@@ -2,45 +2,37 @@
 	- kind of like magic. 
 		- It impress people in a similar way but when you are the mage everything makes sense and is nothing paranormal or magical
 	- simple but many concenpts - hard mostly when used togheter
-- Base
-	[[OS]]
-	[[Hardware]]
-		[[Mobile-Phones]]
-- Mid
+- main
 	[[Code]]
 	[[DevOps - Sys admin]]
-		[[Cybersecurity]]
-		[[Privacy]]
-	    [[IoT]]
-    [[AI]]
-    [[Automation]]
----
-- [[PC use cases]]
-
-- mentors
-	- [Studying with alex](https://www.youtube.com/@StudyingWithAlex/videos) [thx](https://www.youtube.com/watch?v=qgpsIBLvrGY&pp=ygUdc2NyeXB0IHZzIGJ5Y3J5cHQgdnMgYXJnb24yaWQ%3D)
-	- [sistemi operativi playlist ita](https://www.youtube.com/watch?v=lwnpaavOH4A&list=PL0qAPtx8YtJfTU_apCsQauCK11DbscIgl&index=24)
-	- neso academy?
+	[[Cybersecurity]]
+	[[Privacy]]
 - 1
-	[[Tech Jobs (IT + Art)]]
-	[[Vocabs CS]]
+	[[OS]]
+	[[Hardware]]
+    [[AI]]
+    [[Radio]]
+- 2
+	[[Satellites]]
+---
+
+- 0
+	[[PC use cases]]
+	[[Tech Jobs IT-Art]]
+	[[CS theory]]
 - HTs
 	[[dumb to smart TV]]
-	[[Recupero dati by CMD]]
+	[[win10 recover data by CMD]]
 	[[CS Strange tricks]]
 - Mine
 	[[Backup-reset hub]]
-	[[Type speed test]]
-	[[Shortcuts - Hotkeys]]
+
 - meh
-	- theory
-		[[File Formats-extensions]]
-		[[Digital measures - Dimensioni digitali]]
+	- mine - [[Type speed test]]
 	[[CPU idle mining]]
 	[[CS certifications]] 
-
-- Brands
-	- apple
+	- Brands
+		- apple
 		- make stuff harder to
 			- change & repair (software & hardware)
 				- settings too

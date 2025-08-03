@@ -1,0 +1,45 @@
+- My evaluation 
+	- Mentor - best choice bcs it has the best of everything
+	- Tutoring - problems specifically with the offer or skill
+	- Coaching - only after having the offer or the skill
+	- Consulting - don't need a teacher, but a problem solver
+	- Community -  needed/useful in any scenario
+- Great [resource](https://youtu.be/tHTaIDRVI7E)
+	- mentor, peer, mentoree, and why private communities are important 
+
+- Ways
+	- [[Mentor]] & reverse mentor + [[Relationships]], not advisors 
+		- Any other category might not did/make what you want to make, **mentors did instead**, they have experience
+		- it's a combination of tutoring, coaching, and consulting
+		- holistic specialized supportive role. "Best" one usually
+	- [[Tutoring]] - specific for skill/offer dev + like a teacher
+	- Coaching - holistic & focussed on broad goal obtaining
+		- Only if mentorship is off radar & already know skill/offer
+	- Consulting - practical tutoring but less teaching
+		- oriented on solving the problem for/with the client rather than teaching
+		- like someone that do your same stuff, but is better than you.
+		- He doesn't teach like a tutor, but he has practical knowledge.
+		- useful when feeling comfortable on the theory but lacking the practical and holistic implementation 
+	- Community&Masterminds - great support for any situation
+		- networking serendipity
+		-
+		- your own - start ASAP, make it a mastermind ASAP
+			- then you can make it public/general for traffic
+		- private - 
+			- less quantity but more quality people than public
+				- specific interests
+				- commitment
+				- masterminds
+				- collaboration
+		- public 
+			- to prepare/validate yourself for private ones
+			- Diversity: broad point of views
+			- Wider range of resources
+			- Serendipity, potential collaboration, visibility 
+				- because of more people
+				- it's better here to...
+					- promote
+					- make big events
+					- gather feedback
+					- send free educational content
+					- Recruit asking for specific individuals

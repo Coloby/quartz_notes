@@ -1,4 +1,4 @@
--   1
+- 1
 	-   what
 		- Uses SSR by default throug app folder for Pre-rendering (server gives html & css loaded from JSX and client will only need to hydrate)
 		- API folder
@@ -109,6 +109,9 @@
 		- server
 		- router
 
+- Self-host
+	- [v](https://www.youtube.com/watch?v=E-w0R-leDMc)
+	- opennextjs [g4k](https://github.com/opennextjs/opennextjs-aws) [w](https://opennext.js.org/)
 
 - Server vs client components
 	also client comps are rendered on server first? [-](https://www.reddit.com/r/nextjs/comments/1c80rfp/if_using_use_client_in_all_components_why_use/)

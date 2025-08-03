@@ -1,3 +1,5 @@
+[[publish videogames platforms]]
+
 win > linux for debuggers at least [-](https://youtu.be/M2ZW4uwxU8k?t=1399)
 
 - [SEEMS SO COOL TO MAKE ONE](https://x.com/apcrol/status/1758747623538778428?s=20)
@@ -9,3 +11,6 @@ win > linux for debuggers at least [-](https://youtu.be/M2ZW4uwxU8k?t=1399)
 	- math girl!
 - Resources
 	- Make videogames [v](https://www.youtube.com/watch?v=aMc-GKv5olA) [w](https://develop.games/#nav-launch-jolt)
+
+- Eric Barone AKA concerned ape -> Stardew Valley
+https://www.youtube.com/watch?v=v0OsW8HSqA8

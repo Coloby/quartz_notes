@@ -99,7 +99,7 @@
 	- depends on
 		- Pillars
 			- [[Health]]
-			- [[Wealth]]
+			- [[Skills]]
 			- [[Relationships]]
 		- environment
 	- e.g. being at school for the sake of others opinions

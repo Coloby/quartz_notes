@@ -3,6 +3,7 @@
 [[UPS]]
 [[Projectors]]
 [[MU hardware]]
+[[phones-mobile]]
 
 - Mentors
 	- [Louis Rossmann](https://www.youtube.com/@rossmanngroup/videos)

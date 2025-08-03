@@ -1,4 +1,6 @@
 [[BU models 2]]
+[[Work - job]]
+[[my BU models]]
 
 - Principles
 	- it's very risky to start a startup without cashflow
@@ -71,6 +73,7 @@
 		- generally found when there are many options to choose from
 		- Intermediaries - 
 		- disintermediation - 
+- [[ways to make money]] - [[Cashflow quadrant - ESBI]]
 -
 - Metas - "Fast" ways to make decent money (10k-100k profit month)
 	- 08/03/2025
@@ -88,12 +91,7 @@
 			- This new thing is going wild? make stuff about it
 			- New celebrity killing it? make stuff about it
 			- AI? AI STUFF!
-		- unhetical
-			- MLMs - Multi Level Marketing
-				- [MLM vs Pyramid schemes](https://www.youtube.com/watch?v=vXvXIUvV94M)
-				- [fonte](https://youtu.be/kcPjpG6oglg?t=63)
-			- pushing people to give reviews for discounts etc [-](https://www.youtube.com/watch?v=cLjqrEKX-Rc)
-			- scamming on e-bay [-](https://youtu.be/6NpOw1Onf2I)
+		- [[unhetical bu models]]
 		- Social Media - [[CC]] to sell products/services
 			- Automated/AI brain-rot channels... especially for kids
 		- Automating your job & not telling anyone
@@ -117,6 +115,7 @@
 			- roblox
 			- 
 - Fast low money
+	- [[selling used to shops-people]]
 	- [[Credit card churning]]
 	- food deliery
 		- Doordash
@@ -128,7 +127,6 @@
 		- - fonti
 			- [hamza](https://youtu.be/NaujrrivX9A?t=142)
 			- from homeless to millionaire project
-- [[ways to make money]] - [[Cashflow quadrant - ESBI]]
 - "Hidden" steps
 	- Innovation - Helon Musk style
 		- creating a new market/step or generally doing something never seen. Technically you can do this in every step

@@ -1,4 +1,4 @@
-- what? - social sciences
+- what? - social sciences, [[Relationships]] but more theory
 
 - Main
 	[[Psychology]]
@@ -12,16 +12,13 @@
 - 
 	[[Leadership]]
 	[[Teaching]]
+	[[communities]]
 	-
 	[[Rhetoric]]
 	[[Copywriting]]
 	[[Storytelling]]
 	[[Conversational Intelligence]]
-- Work specific
-	[[Work culture]]
-	[[Collaboration-Training]]
-	[[Hiring-Recruiting-Employing]]
-- 
+- Work specific [[people management]]
 	- stuff go south
 		- [[Conflict resolution]]
 		- [[de-escalation]]

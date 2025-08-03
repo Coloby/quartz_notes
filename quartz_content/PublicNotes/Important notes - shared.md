@@ -1,4 +1,5 @@
-- Important notes from main topics
+- what? Shared most important notes from the main topics of my knowledge base
+
 - [ ] [[Mind]] 
 	- [ ] [[Int]]
 		- [ ] [[PVM]]

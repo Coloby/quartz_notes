@@ -15,9 +15,9 @@
 	- main-stream representation
 		Logic/argumentation/[[Reasoning]]
 		[[Epistemology]]
-		[[Metaphysics]]
-			some say that [[Aesthetics - beauty]] is a sub-category of metaphysics
 		[[Ethics]]
+		[[Metaphysics]]
+			[[Aesthetics - beauty]] some say that it's a sub-category
 
 - [[phil movements]]
 - [[Philosophers]]

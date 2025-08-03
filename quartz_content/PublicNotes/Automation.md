@@ -14,7 +14,7 @@
 			- automatizza attraverso le integrazioni con altre app che offre zapier, tra cui gmail
 		- power automate from microsoft 
 - Inputs
-	- dmenu
+	- [[selectors rofi-dmenu]]
 	- HTTPs
 		- API calls
 		- Webhooks

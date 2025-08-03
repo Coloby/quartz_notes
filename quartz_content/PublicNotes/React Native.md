@@ -1,5 +1,4 @@
 https://youtu.be/sJItBjarnr4
-bluesky
 - Discovery
 	- [flashlist](https://youtu.be/ipYQpxAyunc?t=234)
 [use nativewind](https://youtu.be/5lkMs_WEoto?t=1268)
