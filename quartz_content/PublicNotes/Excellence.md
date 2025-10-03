@@ -1,8 +1,9 @@
-- what? getting closer to perfection, being great at the last 20%
-
+[[Aesthetics - beauty]]
+[[Simple actions]]
 [[Make unique value]]
 [[Quality indicators]]
-[[Simple actions]]
+
+- what? getting closer to perfection, being great at the last 20%
 
 - 3 processors
 	- emotions

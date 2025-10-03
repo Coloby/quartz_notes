@@ -4,9 +4,11 @@
 - why? optimizing survival *to favor/optimize living*
 
 ---
-- [[Note taking]] 
-- [[leverage]] - Prioritize
-- [[Energy-Time]] - Sustain
+- [[PKM - Knowledge Management]]
+- [[CS]] - eg OS & Tools
+- mental
+	- [[leverage]] - Prioritize
+	- [[Energy-Time]] - Sustain
 ---
 
 - [[HT focus]] - Approach

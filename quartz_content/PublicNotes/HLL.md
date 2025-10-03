@@ -22,7 +22,7 @@
 		- Retrieval = find a book in a shelf from specific library
 -
 - 0
-	- [[Note taking]]
+	- [[PKM - Knowledge Management]]
 	- How we store memory 
 		- Basics
 			- Info

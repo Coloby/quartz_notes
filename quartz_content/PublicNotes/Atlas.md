@@ -1,5 +1,5 @@
-[[Obsidian]]
 [[atlas2]]
+[[Obsidian]]
 [[notes map]]
 
 - what? How I think & take notes
@@ -19,10 +19,7 @@
 		- eg [[Auth]], [[Pc tips - Configure pc]], [[Sho settings]] etc
 		- e.g. [How to aurgument](https://edongarden.netlify.app/PublicNotes/HT-Aurgument), [Bloom's principles](https://edongarden.netlify.app/PublicNotes/Bloom's-principles), [Quartz](https://edongarden.netlify.app/PublicNotes/Quartz) etc
 ##### 0
-- More about the graph [[the-atlas]]
-	- Instead of "Relationships" there should be "External"
-		- Embodies also relationships with non-living entities
-	- Instead of "Mind" there can be "Internal"?
+- More about the graph [[the atlas]]
 - Main principles - trying to mimic how the mind works
 	- heavily using implied meaning to condense info
 		- 10/02/2025 - e.g. introspection note
@@ -57,46 +54,7 @@
 	- mostly used into specific notes to not overlook context-based categorization
 #####
 
-- Snapshots
-	- 13/07/2025 - 1530
-		- graph
-			- ![[Pasted image 20250713155830.png]]
-		- the atlas - changed today
-			- now
-				- ![[Pasted image 20250713155639.png]]
-			- before
-				- ![[Pasted image 20250713160021.png]]
-	- 06/06/2025 - 1300 notes
-	- 03/05/2025 - 1260 notes
-		- checked encyclopedia index, I'm 80% there with my notes' categorization 0_
-		- i
-			- ![[Pasted image 20250508183239.png]]
-			- ![[Pasted image 20250508183218.png]]
-	- 22/02/2025 - 1141 notes
-	- 03/12/2024 - 975 notes
-	- 13/11/2024 - idk
-		- the atlas
-			- ![[Pasted image 20241114014322.png]]
-		- graph
-			- end session w filters
-				- ![[Pasted image 20241114014827.png]]
-			- mid session
-				- ![[Pasted image 20241113190321.png]]
-	- 09/11/2024 - 821 notes
-		- 47
-		- 60
-		- 156
-		- 558
-		- outstanding = 821
-		- tha atlas
-			- ![[Pasted image 20241114014712.png]]
-		- graph is using filters
-			- filters
-				- path:-"📕Diary"  path:-"ar📂/media/🧠Second brain/Study" path:-"no graph" path:-"ar📂/Books" -tag:#person  -tag:#code-project -file:Notes
-			- ![[Pasted image 20241109110336.png]]
-	- 13/2/24 - idk
-		- the atlas
-			- ![[Pasted image 20241123163231.png]]
+- [[atlas Snapshots]]
 
 - Archive
 	- old why

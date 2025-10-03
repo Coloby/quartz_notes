@@ -17,7 +17,7 @@
 - Why? - validate/confirm causes & effects
 	- to grow in any field or upgrade a system
 
-1. Problem - Which is most important to solve? [[leverage]]/[[Root problem]]
+1. Problem - Which is most important to solve? [[leverage]]/[[Root problem - cause n effect]]
 2. Solution - Experimenting using [[Reasoning]] to get feedback/solution
 3. Feedback - Refine next educated guess until a solution is found
 	- Bad/Good feedback? [[Analytics]]

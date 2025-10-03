@@ -1,5 +1,5 @@
 - what? 
-	- stuff u won't find in [[Code]] & [[DevOps - Sys admin]]
+	- stuff u won't find in [[Code]] & [[myIT-Infra]]
 		- including nested in some notes
 	- duplicated data from [[Tech Jobs IT-Art]]
 [[pc build]]

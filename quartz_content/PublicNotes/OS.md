@@ -1,13 +1,11 @@
 stll more to port from [[{}]]
 
-[[PC logs-diary]]
-[[Mantainance]]
-[[OS - Options]]
-[[OS install]]
-- Configuration
-	- Performance - [[Pc tips - Configure pc]]
-	- Monitoring
-	- Security & Privacy
-		- authorization
-		- [[Networking]] (firewall etc)
-[[OS power states-buttons]]
+- 1
+	[[Linux]]
+	[[OS - Options-Distros]]
+	[[App - software - tools]]
+- very specific
+	[[OS install]]
+	[[OS power states-buttons]]
+- my
+	[[PC logs-diary]]

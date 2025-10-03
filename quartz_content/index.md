@@ -6,11 +6,11 @@ description: There you can find my .md notes :)
 ## Overview
 ### What is this? [Digital gardening](https://www.youtube.com/watch?v=TDqsr3MNTTc)
 - Sharing some of my digital notes to the internet
-  - Only a small portion of my 1600+ notes is shared here (just about 180 notes)
+  - Only a small portion of my 1800+ notes is shared here (just about 180 notes)
 - Similar to how wikipedia works
   - notes are connected through links or references to other notes
-- I'll update this website's notes 1 time a month
-  - `Last update: 03/08/2025 (day/month/year)`
+- I'll update this website's notes 1 time every 2 months
+  - `Last update: 03/10/2025 (day/month/year)`
 ### Why sharing? To help & attract people with similar interests as me
   - So I can reference my notes anywhere, even for my non-techy friends
   - [Serendipity](https://en.wikipedia.org/wiki/Serendipity), or exposing myself to opportunities & more luck

@@ -49,14 +49,17 @@
 		- date
 		- source
 - Gatekeeping - what info is ~hidden?
-	- socially de-valued ones
-		- some humanities
-	- by companies
+	- society - de-valued ones - some humanities
+	- companies
 		- hardware-based one
-	- innovative one
+	- gov - heavily regulated ones
+		- restricted ones - medicine but the sciency way
+	- innovative ones
 		- neural link
 	- language/culture specific
 		- eg latin, chinese
+		- linguistic determinism vs reletivism
+	- inherently hard to gain - [[Culture meta theory]]
 - vocabs
 	- review papers - papers based on other papers in a certain topic
 	- Peer reviewed - papers reviewed from experts in the same field

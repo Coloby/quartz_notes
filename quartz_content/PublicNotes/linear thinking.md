@@ -1,0 +1,38 @@
+- what? - maximally optimized solution to stable/simple problems  
+	- unflexible step-by-step solving
+	- Logical, methodical, organized - stable
+		- Easier to communicate, justify, & sell
+			- many clients wants predictability not possibilities/bets
+	- "eliminates" "simple" problems efficently systemizing
+		- simplifies complexity/uncertainty to a list
+			- Solution -> Problem = Structured
+			- predictable outcomes
+			- Breaking down problems
+				- often into smaller self-contained groups
+		- to-do lists w predictable cause-effect
+	- favors & based of [[Convergent Thinking]]
+- when? - Like a loop
+	- problems eg
+		- following instructions
+		- Cooking w receipts
+		- Math equations
+	- solutions eg
+		- Sales script
+		- SOPs (Standard Operating Procedures)
+		- decision trees
+		- Most smaller scripts
+			- Anything that can adapt but not much especially compared to [[non-linear thinking]] solutions
+			- [[my Data-storage Mantainance routines]]
+				- the process is usually not that different even if you change the context and some parameters in fact I scripted most of it
+- n
+	- tunnel vision
+	- over-optimization
+	- over-simplification
+	- Struggle w emergent, emotional, or nonlinear systems
+	- Poor at handling ambiguity
+	- less innovation
+-
+- Archived
+	- AKA [[Analytical Thinking]]...
+		- one sound mechanical, the other intelligent...
+		- it's the same thing w better marketing

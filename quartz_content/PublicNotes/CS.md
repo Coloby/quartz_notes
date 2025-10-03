@@ -2,36 +2,29 @@
 	- kind of like magic. 
 		- It impress people in a similar way but when you are the mage everything makes sense and is nothing paranormal or magical
 	- simple but many concenpts - hard mostly when used togheter
-- main
-	[[Code]]
-	[[DevOps - Sys admin]]
-	[[Cybersecurity]]
-	[[Privacy]]
-- 1
-	[[OS]]
-	[[Hardware]]
-    [[AI]]
-    [[Radio]]
-- 2
-	[[Satellites]]
 ---
-
 - 0
-	[[PC use cases]]
+	[[myIT-Infra]]
+	[[Code]] - Dev
+	-
 	[[Tech Jobs IT-Art]]
 	[[CS theory]]
-- HTs
-	[[dumb to smart TV]]
-	[[win10 recover data by CMD]]
-	[[CS Strange tricks]]
-- Mine
-	[[Backup-reset hub]]
-
-- meh
-	- mine - [[Type speed test]]
-	[[CPU idle mining]]
-	[[CS certifications]] 
-	- Brands
+- Specific
+	- Mine
+		[[PC use cases]]
+		[[validation of IT skill]]
+		[[tech setups]]
+		-
+		[[Type speed test]]
+	- HTs
+		[[dumb to smart TV]]
+		[[win10 recover data by CMD]]
+		[[CS Strange tricks]]
+		[[HT put PC outside of your room]]
+	- meh
+		[[CPU idle mining]]
+		[[CS certifications]] 
+		- Brands
 		- apple
 		- make stuff harder to
 			- change & repair (software & hardware)

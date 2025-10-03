@@ -54,15 +54,3 @@
 	/lib - shared library files
 	/dev - devices
 -
-- useful Folders
-	- ~/.
-		- profile      these run after log-in
-		- config/fontconfig/fonts.conf
-		- xinitrc       x11 starts stuff at the start
-	- ~/etc/
-		- sudoers
-		- pacman.conf
-		- pacman.d/mirrorlist
-			- servers pacman hits when downloading pkgs. Hits ones on the top first
-	- Extra software -    ~/
-		- .zshrc

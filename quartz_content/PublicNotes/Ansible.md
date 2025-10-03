@@ -71,7 +71,6 @@
 	- Ansible pull - doesn't need SSH, pulls a git repo to do its magic
 		- sudo ansible-pull -U urlRepoNotSHHbutHTTPS
 			- this searches for a local.yml - pass the yml file if it's with a different name
-
 	- USB copy-paste
 - To make script work
 	- install paru

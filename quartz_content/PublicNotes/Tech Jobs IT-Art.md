@@ -7,7 +7,7 @@
 	- Hubs in bookmarks
 
 - Lots of fields organized decently
-	- [[DevOps - Sys admin]] 
+	- [[myIT-Infra]] 
 	- [[Code]]
 	- [[Jobs-not-mentioned]]
 

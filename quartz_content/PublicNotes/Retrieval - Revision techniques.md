@@ -1,3 +1,7 @@
+- why?
+	- helps re-encoding
+	- +retention
+	- essential for tests
 - Sorted by quality
 
 - Strategy - Use all of them togheter apart from active recall 

@@ -1,5 +1,5 @@
 - Related
-	- [[my cognitive style self analysis]]
+	- [[meta-cognition]]
 	- Useful - [[Mind]]
 		- [[Psychology]]
 		- [[Philosophy]]
@@ -14,10 +14,13 @@
 			- adapt to new problems proactively w prediction
 			- create & filter options/solutions/problems
 		- modern [v](https://youtu.be/ikjNj7CfeUI?t=194) 
+	- helps on optimizing [[meta-cognition]]
+		- like learning multiplication tables to be faster&better at math
+			- mental models that help you optimize the way you think to solve problems (globally applicable mostly) faster & better
 
 - [[Thinking styles]]
 - Strats
-	- [[Note taking]]
+	- [[PKM - Knowledge Management]]
 	- [[Productivity]]
 - 0
 	- [[HT Aurgument]]

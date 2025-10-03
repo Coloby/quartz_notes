@@ -2,6 +2,7 @@
 
 [[mental disorders-problems]]
 [[Communication]]
+[[psychologist]]
 [[Black sworn]]
 
 - +theoretical

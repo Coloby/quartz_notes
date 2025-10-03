@@ -1,13 +1,14 @@
 [[NPM packages-libraries]]
+[[Dependency management - package.json]]
 
 - nix - works on any system
 - Pacman - p = pacman        (arch)
 	- /var/log/pacman.log        or         --debug
 	- basic
-		- p -Qi     show detailed info
+		- p -Qi         show detailed info
 		- p -Ss         search any package with X in title/descr
-		- p -Syu         - update all pkgs
-		- p -S          - install 
+		- p -Syu       update all pkgs
+		- p -S            install 
 		- Remove
 			- p -Rs         remove X package & its dependencies
 				- p -Rns      also removes configs??
@@ -16,6 +17,7 @@
 			- p -Q           lists every pkg
 			- p -Qe        lists every actively installed pkg
 				- p -Qeq        same but deletes details like version
+					- pacman -Qeq | wc -l        give num
 			- p -Qn          installed from official arch repo
 			- p -Qm        installed from AUR
 			- p -Qdt        see useless pkgs
@@ -41,6 +43,8 @@
 - Paru
 	- package got corrupted? remove cache
 		- paru -Scc
+		- paru -Qemq         same as pacman
+			- | wc -l
 - apt          (debian)
 	- Upgrading
 		- upgrade kernel

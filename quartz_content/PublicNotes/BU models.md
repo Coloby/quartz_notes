@@ -1,5 +1,6 @@
+[[myBU models]]
 [[BU models 2]]
-[[Work - job]]
+[[Work - job - employment]]
 [[my BU models]]
 
 - Principles
@@ -75,7 +76,7 @@
 		- disintermediation - 
 - [[ways to make money]] - [[Cashflow quadrant - ESBI]]
 -
-- Metas - "Fast" ways to make decent money (10k-100k profit month)
+- Metas - "Fast" ways to make decent money (10-100k profit month)
 	- 08/03/2025
 		- Generally
 			- All of this can make you from 10 to 100k a month with relatively low effort (~2y) 
@@ -86,7 +87,7 @@
 				- being unhetical
 			- So probably not for hardcore nerds
 		-
-		- Following trends & capitalizing on them
+		- Following trends & capitalizing on them AKA *having timing*
 			- Crypto boom? make crypto stuff
 			- This new thing is going wild? make stuff about it
 			- New celebrity killing it? make stuff about it

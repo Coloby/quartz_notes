@@ -1,5 +1,5 @@
 - [[Kid reasoning - Lateral thinking]]
-- [[Career choice]]
+- [[find-choose job u like]]
 - [[self-worth mechanisms]]
 ---
 - discovery

@@ -84,7 +84,7 @@
 						- most of time is spent waiting to then stream a word/token and time of compute gets very big
 					- works like cloudflare workers
 					- practical benefits [-](https://youtu.be/156FSMbyMPQ?t=1734)
-		- [[DevOps - Sys admin]]
+		- [[myIT-Infra]]
 			- [workflow overview](https://youtu.be/4It0D0Nw00c)
 				- ![[Pasted image 20241215160359.png]]
 	- Dev cody

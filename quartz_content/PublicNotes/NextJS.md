@@ -83,6 +83,11 @@
 			-   [getStaticProps](https://youtu.be/QcUU89xKu70?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&t=561)
 			- works on build time
 - v15
+	- 15.3 [w](https://nextjs.org/blog/next-15-3)
+		- turbopack almost ready for prod
+		- Next is more open - the `infra X feat` problem is getting fixed
+			- rspack supports building next.js stuff (experimental)
+			- RFC: Deployment Adapters API
 	- ez transition to upgrade 
 		- npx @next/codemod@canary upgrade latest
 		- npx @next/codemod@canary next-async-request-api .

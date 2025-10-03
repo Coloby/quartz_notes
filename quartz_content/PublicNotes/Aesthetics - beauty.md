@@ -1,15 +1,27 @@
 - Related
-	[[Creativity]]
-	[[Art]]
-	[[DE]]
-	
-	[[Architecture]]
-	[[Sho]]
-	[[MU]]
-	[[CC]]
-	[[3D]]
+	- [[Excellence]]
+	-
+	- [[Art]]
+		[[Creativity]]
+		[[DE]]
+		-
+		[[Architecture]]
+		[[Sho]]
+		[[MU]]
+		[[CC]]
+		[[3D]]
 
-- Discovery
+- N
+	- small
+		- fractal
+		symmetry
+		ornaments
+		nature
+		ordered complexity
+		curves/arches
+		shows skill
+		meets its function
+		lighting
 	- beautiful vs sublime?
 		- sublime [-](https://www.youtube.com/results?search_query=what%27s+the+sublime) 
 			- usually it's about something negative & beauty is for positive stuff
@@ -33,17 +45,6 @@
 
 - The function follows the form, not the other way around [-](https://youtu.be/FJrCn-y16Vs?t=4086)
 	- If the singular parts are meaningful and goes well to the whole, it's great [-](https://youtu.be/FJrCn-y16Vs?t=4191)
-- Bad creativity is when you make something that's new but out of touch
-	- With existing principles that makes art work
 - Parts need to be in sync w the whole & vice-versa [-](https://youtu.be/FJrCn-y16Vs?t=2310)
 
 
-fractal
-symmetry
-ornaments
-nature
-ordered complexity
-curves/arches
-shows skill
-meets its function
-lighting

@@ -13,7 +13,7 @@
 	- reframing problems
 		- Swapping [-](https://youtu.be/KPlJcD-o-4Q?t=7546) cats are owners, books read us
 		- Reversal - what if we did the opposite?
-		- [[Root problem]]
+		- [[Root problem - cause n effect]]
 		- mixing - re-mixing 
 			- ideas
 			- fields

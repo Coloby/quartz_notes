@@ -2,6 +2,10 @@
 	- cognitive load
 	- [[Predicting]]
 	- avoids boredom and tireness thanks to different/similar topics 
+	- smaller
+		- - improves complex problem solving
+		- +mastery
+		- great for curveball questions
 - how?
 	- Choose order & quantity of topics if you need:
 		- [[Creativity]]

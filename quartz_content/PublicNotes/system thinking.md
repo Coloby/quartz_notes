@@ -1,14 +1,15 @@
 - [[bu_System]]
 - [[overviewing]]/[[Prestudy  - Priming]]
 - [[Pragmatism]]
+- [[Predicting]] in the chess sense
 -
-- Narrower related point of views
-	- emergence - examining only high level parts
-		- doesn't focus on other parts of system
-		- Kind of like holism & [[Holistic thiking]]
-	- reductionism - examining only lower level parts
-
-- Discovery
+- N
+	- antifragile
+	- Narrower related point of views
+		- emergence - examining only high level parts
+			- doesn't focus on other parts of system
+			- Kind of like holism & [[Holistic thiking]]
+		- reductionism - examining only lower level parts
 	- [Holism](https://www.google.com/search?q=holism&oq=holism&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEHOTEwajBqMagCALACAA&sourceid=chrome&ie=UTF-8)
 	- [tools](https://youtu.be/rcxiCDNHJpM?t=2203)
 	- simple rules can create complex outputs
@@ -41,6 +42,9 @@
 			- SOPs (fNotes)
 		- Feedback - understand & iterate ([[Pragmatism]])
 		-
+		- ?
+			- resources - other units/wholes's that impacts the sys
+			- criterias - what define sys/output effectiveness
 		- i - can replicate this system even for singular components
 			- ![[Pasted image 20241118152513.png]]
 	-
@@ -53,9 +57,11 @@
 		- History changes a systems's current/future state
 		- makes mantainance essential
 	- Less
+		- i
+			- ![[Pasted image 20241120104309.png]]
 		- a system can be choise based
 			- this scenario can be a system by itself and the leverage is anything that would high up the chances of success & returns
-- Considerations
+- Interaction between units & wholes
 	- Every unit interact & depend w its siblings & other unit types
 		- Lower & Higher level parts
 			- have their own purpose that might not derive from the other
@@ -78,7 +84,8 @@
 			- if you solve a big problem with other systems, you made even more moving parts that can fail
 - Manipulations - others in [[Reasoning]]
 	- Enchance
-		- *[[leverage]]* - best variables/[[Criterias]]
+		- By priority - *[[leverage]]* - best variables/[[Criterias]]
+			- see how much focus to give to X parts
 		- Ways to scale
 			- Vertically - enhance system efficency
 				- Soft - provide/builds upon existing patterns
@@ -97,10 +104,10 @@
 			- e.g.
 				- network effect in social media & viral content
 				- marketing in product-based biz
-	- Support - [[Multipliers]]
+	- Supporters - [[Multipliers]]
 	- Limiters
 		- [[Bottlenecks framework]] 
-		- [[Root problem]]
+		- [[Root problem - cause n effect]]
 		- Dependencies
 			- Problem
 				- the more dependant a system is to one other the more you risk to alt it because of cascading problems

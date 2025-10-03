@@ -8,17 +8,10 @@
 			- use modern slow hashing algos + salt
 			- in addition, use pepper
 - Theory
-	- HASH - input to fix length value of garbage though specific algo, *1 way function*
+	- HASH - input to fix length value of garbage through specific algo, *1 way function*
 		- what?
 			- always gives same output from input
 			- hard to reverse engineer original value from hash
-		- algos
-			- Normal
-				- sha256
-			- Slow - needs power & memory (can choose [work factor](https://youtu.be/qgpsIBLvrGY?t=443))
-				- argon2
-				- scrypt 
-				- bycrypt 
 	- Salting - used to empower hash w random trash
 		- to fix HASH that gives same output from same input
 			- prevent dictionary attacks (called rainbow tables in this context) [like this](https://youtu.be/NuyzuNBFWxQ?t=269) where hackers pre-compute the password using the same hashing algo
@@ -28,3 +21,6 @@
 	- [[Encryption]]
 	- SIGNING - to know who's actual sender
 	- asymmetric vs symmetric encryption
+
+- [[Open-libreSSL]]
+- [[Algos - Cryptography]]

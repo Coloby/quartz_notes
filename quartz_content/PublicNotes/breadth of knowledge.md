@@ -8,6 +8,7 @@
 		- [[self-worth mechanisms]]
 		- [[Political science]]
 	- Generally Related
+		- [[Epistemology]]
 		- [[Prestudy  - Priming]]
 		- [[myInputs]] - ways/medias I get info from
 		- [[encyclopedia]] - especially the index
@@ -17,7 +18,7 @@
 - personal system
 	- [[Int]]
 		- [[systems I wanna do]]
-		- [[Lifestyles]]
+		- [[Survival]]
 		- [[Todé]] & subnotes
 	- Cultures/Places
 - technically

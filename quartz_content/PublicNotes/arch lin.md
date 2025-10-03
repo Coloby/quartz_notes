@@ -1,22 +1,42 @@
-[[Lin Distros]]
+- y/n
+	- -
+		- rolling release
+		- minimal from the start
+		- arch wiki
+		- unique
+			- pacman + AUR
+			- independent fork
+			- not really pushed by any corps
+			- culture/community
+	- n
+		- less transferable professional/enterprise skills compared to debian/fedora based distros
 
-- minimal
+- low level comps
 	- [[Package managers]]
 	- [[Firmware-Hardware]]
-	- [[Partitioning]]
+	- [[Partitioning nd FS creation]]
 	-
 	- display server
 		- x11
 		- wayland - new, more secure, slim, still not much used
 	- init systems
-		- system D - usually "bloated" init system - [LS](https://youtu.be/_ljfOCiP0XM)
+		- runit - Minimalist, service supervision, potentially fastest
+			- can easily run on non‑Linux kernels eg BSD
+			- fairly popular, like 3rd place
+			- Extremely fast boot, simple 3‑stage init, per‑service directories
+		- BusyBox - minimalist, Tiny footprint, basic runlevels
+			- very popular for embedded
+		- OpenRC - Dependency‑based, lightweight
+			- probably second-best by popularity
+			- can easily run on non‑Linux kernels eg BSD
+			- Parallel startup, service supervision, no hard ties to Linux‑only features
+		- s6
+		- *system D* - """bloated""" init system - [LS](https://youtu.be/_ljfOCiP0XM)
 			- what? init system
 				- first process that starts after booting, runs on bkg to manage services etc
 				- launch what you need, in specific order
-			- sysV
 			- cons
 				- one point of failure sunce it's monolythic
-				- mainly red-hat project
 				- kind of bloated
 					- it is modular but most people implement this all togheter
 					- at the same time, it's fast
@@ -24,10 +44,26 @@
 					- creates problems to distros not willing to use systemD
 				- hides certain configs behind its own tools
 					- especially bad if you want to change text files
+			- -
+				- mainly red-hat project
 			- pros
+				- still 1st place for enterprise level servers...?
+				- popular if not most popular, used in
+					- RHEL, SUSE, Debian, arch, etc...
 				- written in C
 				- mantained
+		-
+		- kinda legacy - slower even than sys D
+			- sysV - slower & older
+			- Upstart - event driven
+				- Starts/stops services based on events
 	- kernel type - [src](https://youtu.be/_idZGJ1NgPE)
+		- downlaod kernel linux-lts 
+			- 6.12.5-arch1-1 → you’re on the mainline linux package.
+			- 6.6.54-lts → you’re on the linux-lts package.
+			- `uname -r` - check which one u're using currently
+			- u pick which u want from GRUB menu
+			- how to pin a kernel version - [src](https://youtu.be/xhVS1HKwGWw?t=323)
 		- custom - [[gentoo]]
 		- linux stable - 2 months stable
 		- linux lts - 2 years stable
@@ -57,27 +93,7 @@
 			- grub-install
 			- grub-mkconfig -o /boot/grub/grub.cfg
 	- [[file systems]]
-	-
-	- Audio
-		- ALSA - driver hard to use
-			- cannot play 2 audio at the same time by default
-			- complex config 
-			- no docs
-		- options
-			- pulseaudio
-				- everything just works
-				- bad
-			- pipewire - new kid in the block to kill pusleaudio + jack
-		-
-		- Specific setup
-			- sudo pacman -S pipewire pipewire-alsa pipewire-pulse pipewire-jack wireplumber qpwgraph
-			systemctl --user enable --now pipewire.service
-			systemctl --user enable --now pipewire-pulse.service
-			systemctl --user enable --now wireplumber.service
-			sudo usermod -a -G audio $(whoami)
-			
-			- make sure audio and the right device are selected
-			- might not recognize fancy external cards, so try plug it normally to pavucontrol!!!
+	- [[audio setup lin]]
 - Initial configuration
 	- archinstall 
 		- mirror 
@@ -176,11 +192,9 @@
 		- sudo systemctl enable bluetooth.service
 		- [continue follow tutorial](https://youtu.be/rOL-T31l0lQ?t=115) or
 			- try         blueman-manager
-	[[lin app dev tools]]
-	[[lin App-Software]]
-	Obsidian/Software offline -> [[Obsidian]]
-- second wave
-
+	- [[lin app dev tools]]
+	- [[lin App-Software]]
+	- Obsidian/Software offline -> [[Obsidian]]
 - Smaller
 	- Customize startup settings
 		- nano ~/.profile - these run after log-in
@@ -206,6 +220,24 @@
 	- export LC_TIME='en_US.UTF-8'
 		 - if not, AM/PM won't show!?
 
+- my experience
+	- 14/09/2025 - much more stable than I thought it would be
+		- It almost broke but it was my fault every time
+			- dependency hell
+				- a package's specific version was required by electron as a dependency and it prevented me to update
+				- so I signed it to be skipped from the update
+				- turns out it was essential for the system :)
+					- I couldn't open apps because they were expecting a certain version of that package
+					- strangely enough the ones that were already open didn't care at all
+				- uninstalled electron since it was an orphan package, re-updated the system and it was fixed
+			- chose too little space for the root partition 
+				- because of that the startup time was slower and it would become unusable out of nowhere 1 time every other day until I'd restart it
+				- annoying, maybe it highs up the risk of loosing data (not that I lost anything) but nothing special
+				- I know it was my bad because I had always less than 2gb of free space on the root partition...
+		- every other time it was very minor 
+			- like not being able to install software until I update the system 
+		- maybe it's because I never had a desktop environment here?
+		- It's been more than 1 year since I have arch and I update it 1 time a week or every two weeks depending on vibes, maybe I should automate it
 
 
 

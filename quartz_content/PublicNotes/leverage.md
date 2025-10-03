@@ -23,7 +23,7 @@
 	- fundamental priciples 
 	- ignore everything else, let go
 
-- Prioritize - It isn't about doing more but doing less, is that the less?
+- Do less - It isn't about doing more but doing less, is that the less?
 	- [[Int]]
 	- [[80-20 pareto principle]] - tips to find/confirm it
 	- [[Kid reasoning - Lateral thinking]] - Outside the box

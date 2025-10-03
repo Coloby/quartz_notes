@@ -1,0 +1,69 @@
+- Maximalism
+	- FOMO level 1000 - more features = better AND needed
+	- decorations
+	- cloud is my friend, I don't need control
+	- you pay with your time, just give the money & u'll save time
+- Minimalism
+	- Work > Tools - just get stuff done
+	- bloated is bad all the time
+	- use defaults + some minor modifications
+	- do what's *it's good enough*
+- Optimizing value
+	- what minimalists should mean is priorities NOT what you do
+		- if your deadline is tomorrow stop fumbling with the neovim config, just do it another time
+	-
+	- core belief
+		- understanding & enhancing value
+			- study the lower level ideas or patterns that makes a good workflow/tool for you
+			- double down whenever you *decide* it's worth it
+			- "good enough" is the enemy of perfect & friend of mediocrity
+		- not following general guidelines that just sounds wise
+	-
+	- saves you 
+		- time
+			- minute based
+				- not very precise
+					- is not that you save 5s every minute since much of the time could be spent using software you can't optimize much like watching yt videos
+					- just half the results and it should be very conservative & realistic
+			- 5 seconds saved a minute * 1h * 9h(computer hours) =
+				- 10m per-hour
+				- `=(5*60*9)/60` minutes in a day
+				- `=(5*60*9)/60*7` minutes in a week
+				- `=(5*60*9)/60*30` minutes in 30days
+				- `=(5*60*9)/60*360` minutes in 1 year = `=16200/60` hours = `=270/24` days
+			- 5 seconds it's easily reachable for anyone putting even just a little bit of effort into it so it's a conservative value
+		- focus time
+			- the one u should be using for high leverage tasks
+	- it's scalable
+		- for yourself
+			- it's not about 1 tiny optimization 
+				- It's about 20 or more tiny optimizations that saves you time in the long run
+			- you'll think better
+				- your tools DO matter in how you think
+					- eg 
+						- Nooby mindset
+							- God I filled my google storage limit, need to pay more a month now...
+							- new problem new "best app" rabbit hole
+							- loosing time on searching known features
+						- Expert mindest
+							- We can automatize this workflow and give it to my employees so it's going to save us money and time
+							- let's re-use 60% of what we're already using to solve this problem
+							- saving time on re-using features among software
+			- the deeper u go the more ways u discover to 
+				- get better 
+				- to solve problems
+		- and others
+			- what you learn u can teach to your agency / family to get direct value that scales
+	- more 
+		- fun
+		- resilience
+		- control
+		- customization
+		- potential
+	- less 
+		- distractions/admin tasks/annoyances
+		- dependencies
+	- eg of choices
+		- inoreader > newsboat - for the time being
+			- if you optimize when the outcomes won't really make the difference you lost the opportunity to optimize something else with higher value for the current time, which is my case
+- Time spent toward a goal/direction u want to follow is time good spent regardless

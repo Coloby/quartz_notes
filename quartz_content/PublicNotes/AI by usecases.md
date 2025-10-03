@@ -122,3 +122,4 @@
 		- [browse ai](https://youtu.be/J_wuLcTShQU?t=1169) - web scraper. 
 		- asking to put groups of tabs from browser to obsidian/tablesz
 		- Notify when something that you select in a website changes
+	- text based adventures [v](https://www.youtube.com/watch?v=_-MASnMsiTg&pp=ygUSQUkgc3RvcnkgYWR2ZW50dXJl)

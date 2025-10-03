@@ -5,6 +5,7 @@ order is DESCending
 
 - 0
 	[[jail-breaking]]
+	[[self-worth mechanisms]]
 	[[personality tests & patterns]]
 	[[myInputs]]
 	[[limiting beliefs]]
@@ -13,7 +14,7 @@ order is DESCending
 - 1
 	[[Pillar questions]]
 	[[strong opinions]]
-	[[mini diary journaling]]
+	[[logs]]
 	[[Shadow work]]
 	[[Ismi]]
 	- explored specific

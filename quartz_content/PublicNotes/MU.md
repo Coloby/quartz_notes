@@ -14,7 +14,6 @@
 	- [[Piano]]
 - Related
 	[[singing]] & [[voice synths]]
-	[[synthesizer]]
 	[[Composing music]]
 	[[DJ]]
 ###### Theory 

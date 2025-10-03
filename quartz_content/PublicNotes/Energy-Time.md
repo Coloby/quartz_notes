@@ -7,7 +7,7 @@
 - [[Energy-focus&time savers]]
 - [[Subconscious]]
 
-- [[Health]]
+- [[Health]] - [[physical energy optimization]]
 
 - Small
 	- [[Everyone have the same 24h BS]]

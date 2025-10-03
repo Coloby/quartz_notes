@@ -1,0 +1,61 @@
+- Why?
+	- knowing how ideas evolve into systems and [[system thinking]]
+	- recognizing when it's best to use a mental model over the other
+	- Consciously getting better at X mental model
+		- knowing that they exist in the first place gives you the possibility to actively get better at them depending on the *type of problems* not a single skill
+	- transfer skill from one field to another
+		- eg exploring non-linear ways to play guitar kind of like you'd be making a website
+
+- Dots - smaller solutions to specific/general problems
+	- [[Divergent Thinking]] solve by *generating many ideas/possible solutions*
+	- [[Convergent Thinking]] solve by evaluate & *narrowing options/solutions* 
+- Network - dots structured together - the hard part
+	- [[linear thinking]] maximally optimized solution to stable problems 
+	- [[non-linear thinking]] solution*s* adapts to changing problems
+-
+- All together
+	- eg designing a new learning app
+		- Divergent + Nonlinear: Explore user needs, sketch wild ideas, map emotional journeys
+		- Convergent + Nonlinear: Identify recurring pain points, synthesize patterns, prioritize features
+		- Convergent + Linear: Build roadmap, define milestones, write specs
+		- Divergent + Linear: Brainstorm UI variations within constraints
+	-
+	- Divergent/Convergent
+		- [simple explenation](https://www.youtube.com/watch?v=cmBf1fBRXms)
+		- Decision-Making Styles 
+		- Very similar Cognitive Approaches
+			- Top-Down - break down bigger picture into many pieces
+				- deduction and organizing information hierarchically
+			- Bottom-Up - bring togheter pieces to get bigger picture
+				- induction & building understanding from the ground up
+	- linear/non-linear
+		- Great ideas: born (non-linear) then used (linear)
+		- non-linear - in a way it's "more" valuable
+			- going against unknown & complex problems
+				- more mental taxing
+				- makes us do the next step
+			- translates into linear when on high-level
+			- favors humanistic
+		- linear
+			- often distilled from non-linear
+				- maximizes & make it more efficient
+			- replicable & scalable solutions
+			- favors engineering/science
+- Generally
+	- prio raw knowledge is the fuel, all of the above the engine
+		- all this is about managing and making info *from* info
+		- w/o prio raw info you can't just make things up
+			- unless u have high amount of knowledge on other related fields & you're trying to blend them w analogy & abstraction
+		- eg people in design knows that
+			- remixing content it's very important
+				- looking at great examples of existing designs, references, curated inspiration & making moodboards 
+	- people get inspired by seemingly useless things
+		- because they remix the raw info into something better
+		- "Genius isn’t in the source-it’s in the synthesis"
+		- e.g. 
+			- [[Leonardo da Vinci]] birds & flying machine
+			- you talking to a LLM
+
+- archived
+	- "Connect the dots" was a Steve Jobs thing? Not really
+		- “You can't connect the dots looking forward; you can only connect them looking backwards.”

@@ -1,5 +1,5 @@
 [[Pyramid of needs - Maslow]]
-[[my self-worth]]
+[[my self-worth - value]]
 
 - n
 	Reiss’s 16 Core Desires

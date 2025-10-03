@@ -6,18 +6,7 @@
 	- [[Specific code project template]]
 	- [[code Planning - validation template]]
 	-
-	- Unix phylosophy
-		- a filter (input, gives output to other softw)
-			- expect it to collaborate with other software
-		- simple
-			- few lines of code
-			- not? mantainability goes down
-				- security
-				- bugs
-			- modular
-		- extensible
-		- Do 1 thing and do it well
-		- save stuff in a text file
+	- [[Unix philosophy]]
 	- https://robertdebock.nl/my-manifesto.html
 - [[fDE]]
 - Recurring - always keep in mind [[Code law-regulations-compliance]]
@@ -34,7 +23,7 @@
 	- Testing
 		- [[Testing code]]
 		- [[BU testing - pragmatism]]
-	- [[DevOps - Sys admin]]/infra
+	- [[myIT-Infra]]/infra
 		- [[Architecture-Infra codes]]
 		- [[Domains]]
 		- [[Hosting]]
@@ -56,7 +45,7 @@
 	- setup systems for when things go wrong
 	- Updates & patches
 	- Incidents managing
-	- [[sec-monitoring - logs-metrics-traces]]
+	- [[sec-monitoring-track - logs-metrics-traces]]
 
 
 

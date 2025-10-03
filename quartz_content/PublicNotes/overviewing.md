@@ -89,8 +89,8 @@
 		- basic principles of X
 		- essential elements of X
 		-
-		- hierarchy in X
 		- framework of X
 		- architecture of X
+		- hierarchy in X
 - other useful
 	- Reddit groups

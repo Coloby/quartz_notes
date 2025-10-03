@@ -2,7 +2,7 @@
 [[volume]]
 [[printing]]
 [[Pc tips - Configure pc]]
-[[benchmarks passati]]
+[[benchmarks]]
 
 - Programmi
 	- Generally

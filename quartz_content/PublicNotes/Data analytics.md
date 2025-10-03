@@ -1,6 +1,9 @@
-[[BA - BU analytics]]
 [[BI - BU intelligence]]
-[[Analytics]]
+[[BA - BU analytics]]
+	both
+		[[Analytics]]
+		[[sec-monitoring-track - logs-metrics-traces]]
+[[nData]]
 
 - what? BI, BA, everything related to data - the umbrella term 
 	- Includes all type of biz data

@@ -1,6 +1,6 @@
-- what? - evaluating & *narrowing options* w logic, criteria, and analysis
-- why?
-	- Other contexts where it's heavily used
+- what? solve by evaluating & *narrowing options* w logic, criteria, & analysis
+- when? decision-making & refinement
+	- contexts where it's heavily used
 		- teaching - Feyman method in [[Retrieval - Revision techniques]]
 		- communicating - [[CC]]
 
@@ -8,13 +8,14 @@
 - proven frameworks
 	- [[Scientific method]]
 	-
-	- [[Root problem]]
+	- [[Root problem - cause n effect]]
 	- [[SWOT analysis]] 
 	- decision trees
 -
 - [[First principle thinking]]
 
 - 0
+	- criterias based on needs/success metrics
 	- if it is, why's +important & how compared to other info?
 	- WWHwhen    ~y/n   - foundations of solving a problem
 		- what?

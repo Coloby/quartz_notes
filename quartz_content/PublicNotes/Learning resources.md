@@ -93,7 +93,8 @@
 				- there might be mistakes that are destructive and should be prevented
 				- if the topic it's somethink like cooking there's not much preparation needed because mistakes might not be as crucial 
 			- if you fail, the lesson you'll learn will be *really* valuable
-	- Work-related
+	- [[Work - job - employment]]
+		- take the job to learn
 		- Apprentership
 		- States wanting you to work there
 	- [[Books]] - reading
@@ -101,9 +102,9 @@
 			- often useless w/o [[HLL]] & action
 		- Old books are most likely free, digital ones are great too
 		- textbooks *might* be better
+	-
 	- [[Data analytics]] - empirical data (higher/lower level)
 		- facts vs opinions
-	-
 	- [[Courses]] - cost effective non-tailored structured learning
 		- Great quick overview, but do [[overviewing]] first
 	- [[school]] based

@@ -1,5 +1,7 @@
 - [[kubernetes]]
-- [[WSL (Windows Subsystem for Linux)]]
+- Lin & Win
+	- [[WSL (Windows Subsystem for Linux)]]
+	- winapps [v](https://youtu.be/mdnbIXArwVk) [g4k](https://github.com/winapps-org/winapps)
 - [[Distrobox]]
 - [[Containerization]]
 	- Sandboxed containers [-](https://snyk.io/blog/best-practices-for-container-isolation/)
@@ -28,6 +30,10 @@
 - [[Phones virtualization-emulators]]
 -
 - [[online virtualization-emulators]]
+
+- my
+	- [[myVMs]]
+	- [[myContainers]]
 
 - theory
 	- GPU passthrough

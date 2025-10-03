@@ -4,6 +4,9 @@
 		- leaderboards
 			- artificialanalysis.ai [-](https://artificialanalysis.ai/)
 			- web.lmarena.ai [w](https://web.lmarena.ai/leaderboard)
+	- summarizer
+		- talk to transcript [w](https://www.youtube-transcript.io/videos)
+		- https://notegpt.io/youtube-transcript-generator
 
 - Cloud-based services
 	- Grok - good recent online research

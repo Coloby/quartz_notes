@@ -1,9 +1,12 @@
-[[IoT]]
-[[CI-CD]]
-[[IaC - Infrastructure as Code]]
-[[AI]]
+[[IaC - Infrastructure as Code]] - [[myPlaybooks]]
+[[CLI-TUI-Script-devtool dev]]
+[[CI-CD]] - [[myCI-CD]]
+-
+[[IoT]] - [[myIoT]]
+[[AI]] - [[myAIpipelines]]
 
 - software
+	- [[BPM - Business Process Management]]
 	- foss 
 		- n8n - foss self-hostable zapier altern [g113k](https://github.com/n8n-io/n8n) [w](https://n8n.io/)
 		- kestra - foss but enterprise version [g20k](https://github.com/kestra-io/kestra) [w](https://kestra.io/)

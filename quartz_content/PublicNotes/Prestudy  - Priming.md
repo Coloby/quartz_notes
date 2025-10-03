@@ -22,7 +22,7 @@
 
 - [[Inquiry learning]]
 
-- More tips on establishing importancy
+- tips on establishing importancy
 	- Base everything you'll learn to a project/objective
 	-
 	- If you don't have a problem, don't search solutions

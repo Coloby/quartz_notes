@@ -77,7 +77,7 @@
 				- xinput set-prop deviceid "libinput Accel Profile Enabled" 0 1 0
 					- The first number indicates the default acceleration profile, the second number indicates the flat profile (No Acceleration), and the third number indicates a custom profile
 	- [ ] audio - [[audio setup lin]]
-	- [ ] check storage - [[Storage-File-Data management]]
+	- [ ] check storage - [[Storage-Data management]]
 		- [ ] has encryption enabled, like bitlocker...
 		- [ ] [paging file](https://youtu.be/v6A2clXcC9Y?t=9)
 			se hai 4 desktop virtuali, almeno 6 finestre aperte in ogni momento e 9000 tab sul browser con solo 8gb di memoria... non mi darei limiti nel paging anche se perderei prestazioni. 20 GB di paging potrebbero non bastare 

@@ -1,4 +1,3 @@
-https://www.skool.com/adonis-gang/full-guide-to-getting-smarter
 - Bias - tendency to prefer a specific idea even if not logical
 	- [[Dunning-Kruger effect-bias]]
 	- [[Any benefit bias]]

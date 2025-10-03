@@ -1,4 +1,4 @@
-[[Storage-File-Data management]]
+[[Storage-Data management]]
 
 - snapshots - fastest, not really a "backup"
 	- copies settings and metadata necessary to restore your data in case of a disruption. 

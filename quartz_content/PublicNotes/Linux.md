@@ -1,33 +1,32 @@
+- to sort
+			- set default file browser
+				xdg-mime query default inode/directory
+				xdg-mime default thunar.desktop inode/directory
+				jxdg-mime query default inode/directory
+			- understand which key you're pressing
+				- sudo showkey
+			- terminal tricks
+			- make folders
+				![[Pasted image 20240922151845.png]]
+			cd -
+			tail -f logfile.log
 - L
 	- [distrowatch](https://distrowatch.com/)
 	- repository stats [-](https://repology.org/repositories/statistics/total)
 	- bashacademy [w](https://guide.bash.academy/)
 	- linuxjourney [w](https://linuxjourney.com/)
 
-- [[lin App-Software]]
-- [[Lin Distros]]
-- [[Lin troubleshooting-debug]]
--
-- [[From Windows to Linux]]
-- [[arch lin]]
-- Other
-	- [[Linux software compatibility]]
+- [[why linux]]
+
+- 1
+	- [[arch lin]]
+	- [[OS - Options-Distros]]
+	- [[Lin troubleshooting-debug]]
+	- [[linux levels-iceberg]]
+- specific
+	- [[From Windows to Linux]]
 	- [[WSL (Windows Subsystem for Linux)]]
-	- [[Distrobox]]
-	-
-	- 2
-		- [[Lin audio shorcuts]]
-		- set default file browser
-			xdg-mime query default inode/directory
-			xdg-mime default thunar.desktop inode/directory
-			jxdg-mime query default inode/directory
-		- understand which key you're pressing
-			- sudo showkey
-		- terminal tricks
-		- make folders
-			![[Pasted image 20240922151845.png]]
-		cd -
-		tail -f logfile.log
+
 ---
 - Theory
 	- [[Lin Booting process]]
@@ -76,13 +75,13 @@
 					- snap store
 			- downloading binaries - discouraged for security
 		- [[Lin folders-file structure]]
-		- [[Partitioning]]
+		- [[Partitioning nd FS creation]]
 		- [[Package managers]]
 		- [[Lin troubleshooting-debug]]
 		- [[lin security]]
 		- [[systemctl]]
 	- Scripting
-		- [[Cron jobs]]
+		- [[Cron - systemd timers]]
 		- [[Bash - lin commands]]
 	- Other
 		- HT learn best

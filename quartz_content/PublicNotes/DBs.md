@@ -1,7 +1,7 @@
  more on notion
 - [[mySQL workbench]]
-- [[Storage-File-Data management]]
-- [[DB backups]]
+- [[Storage-Data management]]
+- [[DB health check]]
 - Discovery
 	- [singlestore](https://youtu.be/c-hKSbzooAg?t=1389) form theo
 	- upstash KV, redis(no), couldflare kv?
@@ -79,16 +79,8 @@
 		- ACID properties for transactions
 		- bad
 			- more complexity to scale horizontally
-	- Document
-		- flexible - no schemas, simple by design
-			- different types of indexes
-			- supports 2 indexes
-		- great for OOP programming
-		- denormalized data
-		- suffer from - 
-			- duplication issues  
-			- stale data (non relational) - [src](https://youtu.be/9mdadNspP_M?t=776)
-			- concistency through documents - [src](https://youtu.be/9mdadNspP_M?t=831)
+	- [[Document DBs]]
+		
 	- Key value
 
 - DB techs

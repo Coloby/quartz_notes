@@ -2,21 +2,23 @@
 	- [perchè bloom's taxonomy è importante?](https://www.youtube.com/watch?v=q7lY-FytO3U) [spiega il perchè in sintesi](https://youtu.be/tkkey3ADfCI?t=487)
 	[fonte](https://youtu.be/VcT8puLpNKA?t=243) [newSrc](https://youtu.be/1xqerXscTsE)
 
-- Bloom's taxonomy - all is sorted by importance - 
-	- legend
-		- With "info" most of the time I'm referring to past knowledge and THEN about the topic itself
-		- if you start from high level (always try to do this), the outcomes from lower levels will be included (that's why it's a pyramid) + the ones unique for that level
+- Bloom's taxonomy
+	- Always try to start from the highest level
+		- outcomes from lower levels will be included
 	-
-	1. Create - innovating trough [[Reasoning]] & steps below
-		- creating new info from what you know
-			- Past knowledge - N, L, Discovery & Existing notes
+	1. Create - creating new info, innovating on small/large scale
+		- make ur own frameworks/solutions against a problem
 	2. [[Predicting]]
-	3. Analyze "CRED" - understanding on a-steroids
+		- Predict/Evaluate - scenarios - past/present/future
+		- criterias - prioritize/assign value, pro/cons
+		- conclusions - defend your choices [[HT Aurgument]]
+		- context - take into account ur/others' existing knowledge
+	3. Analyze "CRED"
 		- [[Chunking]]
 		- Relate
 		- Extract - succint keypoints & abstraction (patterns) to discover new info
 		- Differentiate - similarities & differences
-	 - i
+	- i
 		- ![[Pasted image 20230613225106.png]]
 - Solo taxonomy - [fonte](https://youtu.be/VcT8puLpNKA?t=494) - *[kill linearility](https://youtu.be/NF9rwQxsD1w?t=2170)*
 	- Extended abstract - relations to the *big picture*

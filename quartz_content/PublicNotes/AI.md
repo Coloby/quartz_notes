@@ -15,6 +15,8 @@
 			- [simulator for autonomous vehicles](https://github.com/microsoft/AirSim)
 			- [nni](https://github.com/microsoft/nni)
 - n
+	- revisit old messages sent for great insights & why AI gets bad rep for beginners w/o proper reasoning
+		- [[Connect the dots]]
 	- MPC - Model Context Protocol
 	https://cursor.directory/
 	https://www.youtube.com/watch?v=qJeAkPvKA_0

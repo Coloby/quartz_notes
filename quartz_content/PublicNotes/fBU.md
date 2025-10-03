@@ -10,7 +10,7 @@
 			- [[Offer-Product dev]] - [[Service dev]]
 			- [[Offer delivery - onboarding]]
 		- [[Finance]]
-	- Others
+	- Others -> [[Team-Staff]] 
 		- [[IT dep]]
 		- [[Law]]
 		- [[Communication]]

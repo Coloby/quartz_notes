@@ -1,5 +1,6 @@
-- more on [[Great code Overviews]]
 # plz watch this https://youtu.be/gNta-P4Vf7Q
+- more on [[Great code Overviews]]
+- L - websites - [component-party](https://component-party.dev/#templating.conditional)
 
 - Defaults
 	- [[React]]

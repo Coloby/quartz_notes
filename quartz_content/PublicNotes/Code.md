@@ -1,36 +1,31 @@
 - why? [[why Coding job evaluation]]
-- [[Open source]]
 
-- Types
-	- Websites - [[fCode]]
+- 1
+	- [[fweb]] - web dev
+	- [[CLI-TUI-Script-devtool dev]]
+- 2
+	- [[Extensions dev]]
+- 3
 	- [[Web3]]
-	- [[AI]]
-	- [[XR]] - [[VR]]/[[AR]]
-	-
 	- [[Game dev]]
-	- "Smaller"
-		- [[CLI-TUI-devtool dev]]
-		- [[Extensions dev]]
-		- [[Program-Script dev]]
-	- Kind of
-		- [[DevOps - Sys admin]]
-- Personal
-	- [[Code meta]]
-	- [[Code Thoughts]]
-	- [[gCode]]
-	- [[pCode]]
-- Tech
+	- [[XR]] - [[VR]]/[[AR]]
+	- [[AI]]
+- Very specific
+	- [[Git]]/[[Git-hub - git manager]]
+	- [[env-secrets management]]
 	- Languages
+		- [[Coding Languages]]
 		- [[Latex]]
 		- [[MDX]]
 	- Packages
 		- [[Package managers]]
 		- [[NPM packages-libraries]]
-	- Other
-		- [[Bun]]
-- Langs
-	- [[C lang]]
-
+	- my
+		- [[Code meta]]
+		- [[gCode]]
+		- [[pCode]]
+- To-do
+	- [[micro services]]
 
 
 
